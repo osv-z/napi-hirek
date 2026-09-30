@@ -1,206 +1,72 @@
 {
   "datum": "2026-09-30",
-  "generalva": "2026-09-30T08:48+02:00",
+  "generalva": "2026-09-30T12:20+02:00",
   "hazai": [
     {
-      "cim": "Tisza-kormány: nyilvánossá teszik az Orbán-kormányok üléseinek összefoglalóit, elindultak a volt miniszterek őrizetbe vételei",
-      "lead": "Komoly büntetőeljárások elindításával indult a hét: őrizetbe vették Seszták Miklós korábbi fejlesztési minisztert és Hankó Balázs volt kulturális minisztert, utóbbit a Nemzeti Kulturális Alap működésével összefüggő, 17,3 milliárd forintos hűtlen kezelés gyanújával hallgatták ki. Új fejleményként a Központi Nyomozó…",
+      "cim": "Hankó Balázs letartóztatását indítványozta az ügyészség, Seszták Miklósról már a bíróság döntött",
+      "lead": "Két korábbi magyar miniszterrel szemben is kényszerintézkedésről döntöttek korrupciós ügyekben: Hankó Balázs volt kulturális és innovációs miniszter letartóztatását az ügyészség indítványozta a Nemzeti Kulturális Alap támogatásainak jogellenes szétosztása miatt, míg Seszták Miklós korábbi nemzeti fejlesztési miniszter…",
       "forrasok": [
         {
           "nev": "Portfolio",
-          "cim": "Tisza-kormány: nyilvánossá teszik az Orbán-kormányok üléseinek összefoglalóit, elindultak a volt miniszterek őrizetbe vételei",
-          "url": "https://www.portfolio.hu/gazdasag/20260930/tisza-kormany-nyilvanossa-teszik-az-orban-kormanyok-uleseinek-osszefoglaloit-elindultak-a-volt-miniszterek-orizetbe-vetelei-866168"
-        },
-        {
-          "nev": "444",
-          "cim": "Nyilvánosságra hozzák Orbánék kormányüléseinek összefoglalóit",
-          "url": "https://444.hu/2026/09/30/nyilvanossagra-hozzak-orbanek-kormanyuleseinek-osszefoglaloit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "Index",
-          "cim": "Orbán Viktor 2010-ben: A köztársasági elnök nem ellensúly – nyilvánosak a kormányülések összefoglalói",
-          "url": "https://index.hu/belfold/2026/09/30/orban-viktor-kormanyules-fidesz-koztarsasagi-elnok-ellensuly-nyilvanos/"
-        }
-      ]
-    },
-    {
-      "cim": "Megszüntetik a Magyar Nemzeti Múzeum Közgyűjteményi Központot",
-      "lead": "Tarr Zoltán szerint „a múzeumokról ott kell dönteni, ahol a gyűjtemény, a tudás és a felelősség van: magukban az intézményekben”.",
-      "forrasok": [
-        {
-          "nev": "444",
-          "cim": "Megszüntetik a Magyar Nemzeti Múzeum Közgyűjteményi Központot",
-          "url": "https://444.hu/2026/09/30/megszuntetik-a-magyar-nemzeti-muzeum-kozgyujtemenyi-kozpontot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "cim": "Hankó Balázs letartóztatását indítványozta az ügyészség, Seszták Miklósról már a bíróság döntött",
+          "url": "https://www.portfolio.hu/gazdasag/20260930/hanko-balazs-letartoztatasat-inditvanyozta-az-ugyeszseg-sesztak-miklosrol-mar-a-birosag-dontott-866310"
         },
         {
           "nev": "HVG",
-          "cim": "Megszüntetik a Magyar Nemzeti Múzeum Közgyűjteményi Központot",
-          "url": "https://hvg.hu/itthon/20260929_megszuntetes-magyar-nemzeti-muzeum-kozgyujtemenyi-kozpont"
+          "cim": "Elrendelték Seszták Miklós letartóztatását",
+          "url": "https://hvg.hu/itthon/20260930_sesztak-miklos-letartoztatas-budai-kozponti-keruleti-birosag-volanbusz-ugy"
+        },
+        {
+          "nev": "Telex",
+          "cim": "Elrendelte a bíróság Seszták Miklós letartóztatását",
+          "url": "https://telex.hu/belfold/2026/09/30/sesztak-miklo-letartoztatas-volanbusz-ugy-nvvh-torvenyszek"
         },
         {
           "nev": "Index",
-          "cim": "Tarr Zoltán: Megszüntetjük a Magyar Nemzeti Múzeum Közgyűjteményi Központot",
-          "url": "https://index.hu/kultur/2026/09/30/tarr-zoltan-magyar-nemzeti-muzeum-kozgyujtemenyi-kozpont-megszuntetes/"
-        }
-      ]
-    },
-    {
-      "cim": "Szigorította a kék villogó használatát a kormány",
-      "lead": "A korábban kiadott engedélyeket felülvizsgálják, adott esetben pedig vissza is vonhatják.",
-      "forrasok": [
-        {
-          "nev": "HVG",
-          "cim": "Szigorította a kék villogó használatát a kormány",
-          "url": "https://hvg.hu/itthon/20260930_magyar-kozlony-belugyminiszterium-kormanyrendelet-kek-villogo-szigoritas"
-        },
-        {
-          "nev": "444",
-          "cim": "Szigorították a kék villogó használatát",
-          "url": "https://444.hu/2026/09/30/szigoritottak-a-kek-villogo-hasznalatat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "Index",
-          "cim": "Szigorítják a megkülönböztető jelzések használatát, új szabályok jönnek",
-          "url": "https://index.hu/belfold/2026/09/30/magyar-kozlony-megkulonbozteto-jelzes-szigoritas-szabalyok/"
-        }
-      ]
-    },
-    {
-      "cim": "Ruszin-Szendi Romulusz: A katonák előre jelezték, hogy ne legyen éles kézigránátos kiképzés Újdörögdnél",
-      "lead": "A honvédelmi miniszter szerint az elévülés miatt a felelősökkel szemben újabb büntetőeljárásra sincs lehetőség.",
-      "forrasok": [
-        {
-          "nev": "HVG",
-          "cim": "Ruszin-Szendi Romulusz: A katonák előre jelezték, hogy ne legyen éles kézigránátos kiképzés Újdörögdnél",
-          "url": "https://hvg.hu/itthon/20260930_ruszin-szendi-romulusz-a-katonak-elore-jeleztek-hogy-ne-legyen-eles-kezigranatos-kikepzes-ujdorogdnel"
-        },
-        {
-          "nev": "Index",
-          "cim": "Ruszin-Szendi Romulusz: A katonák nem javasolták az éles kézigránátot Újdörögdön, a gyakorlatot mégis megtartották",
-          "url": "https://index.hu/belfold/2026/09/30/ruszin-szendi-romulusz-katona-kezigranat-gyakorlat-ujdorogd-csad-orban-gaspar/"
-        }
-      ]
-    },
-    {
-      "cim": "Hankó Balázs: 500 métert mentem az utcán, 500 méter alatt öten akartak börtönbe rakni",
-      "lead": "Még őrizetbe vétele előtt készített vele a HírTV interjút, ebben elmondta, hogy „itt egy politikai koncepciós eljárásról van szó”, aminek egyik „gyújtópontja” egy „kultúrpolitikai harc”, a másik pedig „egy nagy politikai leszámolás”.",
-      "forrasok": [
-        {
-          "nev": "444",
-          "cim": "Hankó Balázs: 500 métert mentem az utcán, 500 méter alatt öten akartak börtönbe rakni",
-          "url": "https://444.hu/2026/09/30/hanko-balazs-500-metert-mentem-az-utcan-500-meter-alatt-oten-akartak-bortonbe-rakni?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "cim": "Indítványozzák Hankó Balázs letartóztatását",
+          "url": "https://index.hu/belfold/2026/09/30/hanko-balazs-letartoztatas-inditvanyozas/"
         },
         {
           "nev": "Magyar Nemzet",
-          "cim": "Öt órán át hallgatták ki Hankó Balázst",
-          "url": "https://magyarnemzet.hu/belfold/2026/09/ot-oran-at-hallgattak-ki-hanko-balazst?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+          "cim": "Indítványozta az ügyészség Hankó Balázs letartóztatását",
+          "url": "https://magyarnemzet.hu/belfold/2026/09/inditvanyozta-az-ugyeszseg-hanko-balazs-letartoztatasat?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
         }
       ]
     },
     {
-      "cim": "Azonnali áfacsökkentést ígért Magyar Péter – most időpontot sem mond a kormány",
-      "lead": "Az egészséges élelmiszerek áfacsökkentéséről megszólalt ugyan a Pénzügyminisztérium, de lényegében nem derült ki semmi.",
-      "forrasok": [
-        {
-          "nev": "Magyar Nemzet",
-          "cim": "Azonnali áfacsökkentést ígért Magyar Péter – most időpontot sem mond a kormány",
-          "url": "https://magyarnemzet.hu/gazdasag/2026/09/azonnali-afacsokkentest-igert-magyar-peter-most-idopontot-sem-mond-a-kormany?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-        },
-        {
-          "nev": "Index",
-          "cim": "Magyar Péter szerint most már hivatalos, hogy az Orbán-kormány egy bűnszervezet volt",
-          "url": "https://index.hu/belfold/2026/09/30/magyar-peter-miniszterelnok-orban-kormany-iratok-kormanyulesek/"
-        }
-      ]
-    },
-    {
-      "cim": "Orbán Viktor megszólalt Hankó Balázs interjújáról",
-      "lead": "A volt miniszterelnök megosztott egy videórészletet az exkluzív interjúból.",
-      "forrasok": [
-        {
-          "nev": "Index",
-          "cim": "Orbán Viktor megszólalt Hankó Balázs interjújáról",
-          "url": "https://index.hu/belfold/2026/09/30/orban-viktor-volt-miniszterelnok-hanko-balazs-interju-reakcio/"
-        },
-        {
-          "nev": "Magyar Nemzet",
-          "cim": "Orbán Viktor reagált Hankó Balázs elvitetésére",
-          "url": "https://magyarnemzet.hu/belfold/2026/09/orban-viktor-reagalt-hanko-balazs-elvitetesere?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-        }
-      ]
-    },
-    {
-      "cim": "Lemond az Eiffel-tornyot üzemeltető vállalat vezetője, miután egy hindu csoport látogatásának idejére kiparancsolták a női dolgozókat a toronyból",
-      "lead": "A csoport sajnálja, ha a kérés „bárkit megsértett volna”.",
-      "forrasok": [
-        {
-          "nev": "444",
-          "cim": "Lemond az Eiffel-tornyot üzemeltető vállalat vezetője, miután egy hindu csoport látogatásának idejére kiparancsolták a női dolgozókat a toronyból",
-          "url": "https://444.hu/2026/09/29/lemond-az-eiffel-tornyot-uzemelteto-vallalat-vezetoje-miutan-egy-hindu-csoport-latogatasanak-idejere-kiparancsoltak-a-noi-dolgozokat-a-toronybol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "Index",
-          "cim": "Áll a bál az Eiffel-torony körül, lemondott a vezérigazgató, miután női alkalmazottak kitiltását engedélyezték",
-          "url": "https://index.hu/kulfold/2026/09/30/eiffel-torony-hindu-csoport-botrany-nok-diszkriminacio/"
-        }
-      ]
-    },
-    {
-      "cim": "Orosz támadás veszélye miatt leállítottak két NATO-repteret",
-      "lead": "Átmenetileg leállították a forgalmat szerda reggel a lengyelországi Lublin és Rzeszów repülőterén a lengyel légierő műveletei miatt - közölte az X-en a lengyel légi közlekedési hatóság (PANSA).",
-      "forrasok": [
-        {
-          "nev": "Portfolio",
-          "cim": "Orosz támadás veszélye miatt leállítottak két NATO-repteret",
-          "url": "https://www.portfolio.hu/global/20260930/orosz-tamadas-veszelye-miatt-leallitottak-ket-nato-repteret-866146"
-        },
-        {
-          "nev": "Magyar Nemzet",
-          "cim": "Veszélyes kijelentés Ruttétól: Szemet szemért elven alapulnak a NATO válaszai az orosz hibrid támadásokra",
-          "url": "https://magyarnemzet.hu/kulfold/2026/09/rutte-veszelyes-kijelentes-orosz-tamadas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-        }
-      ]
-    },
-    {
-      "cim": "Orbánék több mint 3500 titkolt döntéséről tudunk már többet, de távolról sem mindent",
-      "lead": "Nyilvánosságra hozta a Tisza-kormány az Orbán-kabinetek elmúlt 16 évnyi, több mint 3500 olyan határozatának címét, amelyek nem jelentek meg a Magyar Közlönyben, mert el akarták azokat titkolni a nyilvánosság elől. Számos ilyen döntés kiderült már, de a többinek a tartalmát még így sem látjuk. Igaz, sokszor a címek is…",
+      "cim": "Lemondott Garancsi István a Magyar Természetjáró Szövetség éléről",
+      "lead": "A szervezet teljes elnöksége visszaadta a mandátumát a szeptember 21-i ülésén.",
       "forrasok": [
         {
           "nev": "HVG",
-          "cim": "Orbánék több mint 3500 titkolt döntéséről tudunk már többet, de távolról sem mindent",
-          "url": "https://hvg.hu/itthon/20260930_orbanek-tobb-mint-3500-titkolt-donteserol-tudunk-mar-tobbet-de-tavolrol-sem-mindent"
+          "cim": "Lemondott Garancsi István a Magyar Természetjáró Szövetség éléről",
+          "url": "https://hvg.hu/itthon/20260930_garancsi-istvan-lemondas-magyar-termeszetjaro-szovetseg-elnok"
         },
         {
-          "nev": "444",
-          "cim": "Úgy hápog, mint egy titkos kampányfinanszírozás",
-          "url": "https://444.hu/2026/09/30/ugy-hapog-mint-egy-titkos-kampanyfinanszirozas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "nev": "Telex",
+          "cim": "Garancsi István lemondott a Magyar Természetjáró Szövetség éléről",
+          "url": "https://telex.hu/belfold/2026/09/30/garancsi-istvan-magyar-termeszetjaro-szovetseg-elnokseg-lemondas"
+        },
+        {
+          "nev": "Index",
+          "cim": "Lemondott Garancsi István a Magyar Természetjáró Szövetség éléről",
+          "url": "https://index.hu/belfold/2026/09/30/garancsi-istvan-magyar-termeszetjaro-szovetseg-vezetes-lemondas/"
         }
       ]
     },
     {
-      "cim": "Először lett női miniszterelnöke Marokkónak",
-      "lead": "Fatima ez-Zahra el-Manszúri korábban lakásépítési miniszter volt.",
+      "cim": "Európai főügyész: Ha magyar politikusok belső köreit akartuk vizsgálni, hirtelen már nem voltunk illetékesek",
+      "lead": "Gyorsak és hatékonyak lesznek a szabálytalanul szerzett vagyonok lefoglalásában, jövőre elindítják az első nyomozásukat Magyarországon. Lépni fognak, ha egy magyar oligarcháról kiderül, hogy a meggazdagodásában szabálytalanul felhasznált uniós pénzeknek is szerepe volt. Interjú Laura Codruța Kövesivel, az Európai…",
       "forrasok": [
         {
-          "nev": "HVG",
-          "cim": "Először lett női miniszterelnöke Marokkónak",
-          "url": "https://hvg.hu/vilag/20260930_marokko-miniszterelnok-kinevezes"
+          "nev": "Telex",
+          "cim": "Európai főügyész: Ha magyar politikusok belső köreit akartuk vizsgálni, hirtelen már nem voltunk illetékesek",
+          "url": "https://telex.hu/video/2026/09/30/laura-kovesi-interju-europai-ugyeszseg-korrupcio-vagyonvisszaszerzes"
         },
         {
-          "nev": "444",
-          "cim": "Nőt nevezett ki miniszterelnöknek a marokkói király",
-          "url": "https://444.hu/2026/09/30/not-nevezett-ki-miniszterelnoknek-a-marokkoi-kiraly?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        }
-      ]
-    },
-    {
-      "cim": "A jövő nyárig megnyílik az Európai Ügyészség magyar irodája",
-      "lead": "Tíz ügyész fogja vizsgálni az uniós pénzekkel kapcsolatos ügyeket, a hatáskörük pedig a 2021. júniusa óta elkövetett bűncselekményekre is kiterjed.",
-      "forrasok": [
-        {
           "nev": "HVG",
-          "cim": "A jövő nyárig megnyílik az Európai Ügyészség magyar irodája",
-          "url": "https://hvg.hu/itthon/20260929_europai-ugyeszseg-magyar-iroda-kovesi"
+          "cim": "Európai főügyész: Jövőre Magyarországon is elindulhat az Európai Ügyészség",
+          "url": "https://hvg.hu/itthon/20260930_europai-fougyesz-jovore-magyarorszagon-is-elindulhat-az-europai-ugyeszseg"
         },
         {
           "nev": "444",
@@ -208,9 +74,184 @@
           "url": "https://444.hu/2026/09/29/jovo-nyarig-megnyilik-az-europai-ugyeszseg-magyar-irodaja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ]
+    },
+    {
+      "cim": "Trump megállapodott a nagy AI-cégekkel a mesterséges intelligencia önkéntes ellenőrzéséről",
+      "lead": "Önkéntes megállapodást írt alá kedden Donald Trump amerikai elnök a legnagyobb amerikai techvállalatok vezetőivel a mesterséges intelligenciával kapcsolatos fejlesztések belső felülvizsgálatáról és független külső ellenőrzéséről.",
+      "forrasok": [
+        {
+          "nev": "HVG",
+          "cim": "Trump megállapodott a nagy AI-cégekkel a mesterséges intelligencia önkéntes ellenőrzéséről",
+          "url": "https://hvg.hu/tudomany/20260930_donald-trump-megallapodas-ai-cegek-mesterseges-intelligencia-belso-ellenorzese"
+        },
+        {
+          "nev": "444",
+          "cim": "Trump átnevezte a mesterséges intelligenciát, de továbbra sem szabályozza rendesen",
+          "url": "https://444.hu/2026/09/30/trump-atnevezte-a-mesterseges-intelligenciat-de-tovabbra-sem-szabalyozza-rendesen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "Magyar Nemzet",
+          "cim": "Mennyi vizet iszik a mesterséges intelligencia?",
+          "url": "https://magyarnemzet.hu/gazdasag/2026/09/mennyi-vizet-iszik-a-mesterseges-intelligencia?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        }
+      ]
+    },
+    {
+      "cim": "Összeverekedtek a pilóták, útvonalat változtatott egy Dubajból Tel-Avivba tartó utasszállító repülőgép",
+      "lead": "Percekig nem válaszoltak a földi irányítás jelzéseire, és véletlenül vészjelzést is leadtak, emiatt Izraelben géprablástól tartottak.",
+      "forrasok": [
+        {
+          "nev": "444",
+          "cim": "Összeverekedtek a pilóták, útvonalat változtatott egy Dubajból Tel-Avivba tartó utasszállító repülőgép",
+          "url": "https://444.hu/2026/09/30/osszeverekedtek-a-pilotak-utvonalat-valtoztatott-egy-dubajbol-tel-avivba-tarto-utasszallito-repulogep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "Telex",
+          "cim": "Vészjelzést adott ki egy Dubajból Tel-Avivba tartó repülőgép, kiderült, hogy a pilóták verekedtek össze",
+          "url": "https://telex.hu/kulfold/2026/09/30/veszjelzes-dubaj-tel-aviv-repulogep-kenyszerleszallas-pilotak-verekedes"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Összeverekedtek a pilóták, kényszerleszállást hajtott végre egy Dubajból Tel-Avivba tartó repülőjárat",
+          "url": "https://hvg.hu/vilag/20260930_osszeverekedett-ket-pilota-egy-dubajbol-tel-avivba-tarto-jaraton"
+        }
+      ]
+    },
+    {
+      "cim": "Tisza-kormány: Magyar Péter újabb vádat fogalmazott meg, nyilvánossá teszik az Orbán-kormányok üléseinek összefoglalóit",
+      "lead": "Komoly büntetőeljárások elindításával indult a hét: őrizetbe vették Seszták Miklós korábbi fejlesztési minisztert és Hankó Balázs volt kulturális minisztert, utóbbit a Nemzeti Kulturális Alap működésével összefüggő, 17,3 milliárd forintos hűtlen kezelés gyanújával hallgatták ki. Új fejleményként a Központi Nyomozó…",
+      "forrasok": [
+        {
+          "nev": "Portfolio",
+          "cim": "Tisza-kormány: Magyar Péter újabb vádat fogalmazott meg, nyilvánossá teszik az Orbán-kormányok üléseinek összefoglalóit",
+          "url": "https://www.portfolio.hu/gazdasag/20260930/tisza-kormany-magyar-peter-ujabb-vadat-fogalmazott-meg-nyilvanossa-teszik-az-orban-kormanyok-uleseinek-osszefoglaloit-866168"
+        },
+        {
+          "nev": "444",
+          "cim": "Nyilvánosságra hozzák Orbánék kormányüléseinek összefoglalóit",
+          "url": "https://444.hu/2026/09/30/nyilvanossagra-hozzak-orbanek-kormanyuleseinek-osszefoglaloit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        }
+      ]
+    },
+    {
+      "cim": "Ingyenes Mol Bubi-használatot kapnak a budapesti tömegközlekedők",
+      "lead": "Havi tíz alkalommal fél óráig díjmentesen használhatják a Mol Bubit azok, akiknek a BudapestGO alkalmazásban vásárolt, legalább harmincnapos bérletük van - közölte a Budapesti Közlekedési Központ (BKK) szerdán az MTI-vel.",
+      "forrasok": [
+        {
+          "nev": "Portfolio",
+          "cim": "Ingyenes Mol Bubi-használatot kapnak a budapesti tömegközlekedők",
+          "url": "https://www.portfolio.hu/uzlet/20260930/ingyenes-mol-bubi-hasznalatot-kapnak-a-budapesti-tomegkozlekedok-866296"
+        },
+        {
+          "nev": "Index",
+          "cim": "Jó hír a budapesti tömegközlekedőknek, ezzel az ingyenes lehetőséggel élhetnek",
+          "url": "https://index.hu/belfold/2026/09/30/budapest-go-alkalmazas-berlet-mol-bubi-kerekpar-ingyenes-hasznalat/"
+        }
+      ]
+    },
+    {
+      "cim": "Bárki átverhető a neten: rémtörténetek a 2 millió forintos kártól a 24 milliósig",
+      "lead": "Nem csupán a mesterséges, hanem jórészt a természetes intelligencián múlik az internetes és telefonos pénzlenyúlások eredménye. A védekezés időnként egyszerűbb, mint az átlagos felhasználó gondolná, de vannak helyzetek, amikor bezárul a csapda.",
+      "forrasok": [
+        {
+          "nev": "HVG",
+          "cim": "Bárki átverhető a neten: rémtörténetek a 2 millió forintos kártól a 24 milliósig",
+          "url": "https://hvg.hu/tudomany/20260930_online-atveresek-modszerek-vedekezesi-taktikak-ai-g-data-antivirus"
+        },
+        {
+          "nev": "Index",
+          "cim": "Ez a játék tarol a neten: Hankó Balázs fut a Mercedese és 17 milliárd forint után",
+          "url": "https://index.hu/belfold/2026/09/30/hanko-balazs-volt-miniszter-orizet-nka-botrany-jatek-mercedes/"
+        }
+      ]
+    },
+    {
+      "cim": "Harmincöt éve ölték meg a paloznaki plébánost, most emeltek vádat az ügyben",
+      "lead": "Az elkövetők sokáig azt hitték, hogy megúszták, de a korábban rögzített ujjnyomat ismételt vizsgálata és egy európai szintű nyomozás eredménye lebuktatta a jelenleg 55 és 57 éves külföldi testvérpárt.",
+      "forrasok": [
+        {
+          "nev": "HVG",
+          "cim": "Harmincöt éve ölték meg a paloznaki plébánost, most emeltek vádat az ügyben",
+          "url": "https://hvg.hu/itthon/20260930_paloznaki-plebanos-gyilkossag-emberoles-vademeles-ugyeszseg"
+        },
+        {
+          "nev": "Telex",
+          "cim": "1991-ben gyilkolták meg az idős paloznaki plébánost, az ügyben most 35 év után emelt vádat a főügyészség",
+          "url": "https://telex.hu/belfold/2026/09/30/35-evvel-ezelotti-emberoles-vademeles-paloznaki-plebanos-fougyeszseg"
+        }
+      ]
+    },
+    {
+      "cim": "Meglepően gyenge lett a magyar turisztikai főszezon vége",
+      "lead": "2026 augusztusában a turisztikai (kereskedelmi, magán- és egyéb) szálláshelyeken közel 6,9 millió vendégéjszakát töltöttek el, ez 5,8%-kal elmaradt az egy évvel korábbitól. A minimális növekedést hozó július után a nyár vége (ami hagyományosan a legerősebb hónapja az évnek) csúnyán átírja az idei idegenforgalmi képet.",
+      "forrasok": [
+        {
+          "nev": "Portfolio",
+          "cim": "Meglepően gyenge lett a magyar turisztikai főszezon vége",
+          "url": "https://www.portfolio.hu/gazdasag/20260930/meglepoen-gyenge-lett-a-magyar-turisztikai-foszezon-vege-866280"
+        },
+        {
+          "nev": "Telex",
+          "cim": "Meglepően gyenge lett az augusztusi külkereskedelmi egyenleg: Paks a hibás?",
+          "url": "https://telex.hu/gazdasag/2026/09/30/export-import-aram-paks-kulkereskedelem"
+        }
+      ]
+    },
+    {
+      "cim": "Antifa-ügy: jogerősen hét évet kapott Maja T.",
+      "lead": "Nyolcról hét évre enyhítette Maja T. szabadságvesztését a Fővárosi Ítélőtábla a budapesti antifa-támadások ügyében.",
+      "forrasok": [
+        {
+          "nev": "Magyar Nemzet",
+          "cim": "Antifa-ügy: jogerősen hét évet kapott Maja T.",
+          "url": "https://magyarnemzet.hu/belfold/2026/09/maja-t-jogerosen-het-evet-kapott-antifa-ugy?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Egy évvel csökkentették az antifa támadásokkal vádolt Maja T. börtönbüntetését",
+          "url": "https://hvg.hu/itthon/20260930_maja-t-bortonbuntetes-masodfok-budapest-antifa"
+        }
+      ]
+    },
+    {
+      "cim": "Enyhítették az antifa-ügy vádlottjainak elsőfokú ítéletét",
+      "lead": "A német Maja T.-t bűnösnek találták, de az elsőfokú ítéletet enyhítve hét év szabadságvesztést kapott.",
+      "forrasok": [
+        {
+          "nev": "444",
+          "cim": "Enyhítették az antifa-ügy vádlottjainak elsőfokú ítéletét",
+          "url": "https://444.hu/2026/09/30/enyhitettek-az-antifa-ugy-vadlottjainak-elsofoku-iteletet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "Index",
+          "cim": "Ítélet született az antifa támadások ügyében, enyhített a bíróság Maja Trux büntetésén",
+          "url": "https://index.hu/belfold/2026/09/30/antifa-tamadas-itelet-fovarosi-itelotabla-maja-trux/"
+        }
+      ]
     }
   ],
   "nemzetkozi": [
+    {
+      "cim": "Why the U.S. Is Imposing New Visa Restrictions on South Africa",
+      "lead": "The Trump administration announced new visa restrictions on the country days after receiving a letter that South African officials had hoped would bring down the temperature.",
+      "forrasok": [
+        {
+          "nev": "New York Times",
+          "cim": "Why the U.S. Is Imposing New Visa Restrictions on South Africa",
+          "url": "https://www.nytimes.com/2026/09/29/world/africa/south-africa-trump-letter-visas-racism.html"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "South African president orders action on femicide after killings",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/south-african-president-orders-action-on-femicide-after-killings?traffic_source=rss"
+        },
+        {
+          "nev": "BBC",
+          "cim": "Crackdown on South Africa's unsafe streets ordered by president to keep women safe",
+          "url": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
     {
       "cim": "Malaysia begins Myanmar repatriations despite warnings from UN and rights groups",
       "lead": "Kuala Lumpur plans to send a total of 5,000 Myanmar nationals back to the war-torn country despite persecution concerns Malaysia began sending back about 1,500 Myanmar nationals on Tuesday, the government confirmed, as it launched a scheme that rights groups say may endanger migrants and asylum seekers by returning…",
@@ -229,48 +270,6 @@
           "nev": "New York Times",
           "cim": "Malaysia Begins Repatriation of Migrants to War-Torn Myanmar Despite Critics’ Warnings",
           "url": "https://www.nytimes.com/2026/09/29/world/asia/malaysia-repatriation-myanmar-migrants-asylum.html"
-        }
-      ]
-    },
-    {
-      "cim": "Double beds, aircon and big-screen TVs: Indonesia suspends officials over luxury prison cells",
-      "lead": "Indonesia’s prisons have long faced allegations that well-connected inmates can obtain preferential treatment through bribery Five Indonesian prison officials have been suspended after investigators found an apartment-style compound complete with airconditioners, big-screen televisions and expensive cars allegedly…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Double beds, aircon and big-screen TVs: Indonesia suspends officials over luxury prison cells",
-          "url": "https://www.theguardian.com/world/2026/sep/30/indonesia-prison-officials-suspended-luxury-apartments-prisoners"
-        },
-        {
-          "nev": "New York Times",
-          "cim": "Prison Officials Suspended After Inmates Are Found Living in Luxury",
-          "url": "https://www.nytimes.com/2026/09/29/world/asia/indonesia-prison-luxury.html"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "Indonesia suspends five officials over luxury apartments for inmates",
-          "url": "https://www.aljazeera.com/news/2026/9/30/indonesia-suspends-five-officials-over-luxury-apartments-for-inmates?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Hundreds detained as student protests across France turn violent",
-      "lead": "More than 400 detained as police and students clash over class sizes, exhausting timetables and staff shortages More than 400 people, most of them children, have been detained in France on Tuesday after teenagers across the country blockaded their schools in protest at class sizes, teacher shortages and long…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Hundreds detained as student protests across France turn violent",
-          "url": "https://www.theguardian.com/world/2026/sep/29/french-students-police-clash-school-blockades-violent"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "Public workers in France strike over pay as student protests turn violent",
-          "url": "https://www.aljazeera.com/news/2026/9/30/french-public-workers-strike-over-pay-as-student-protests-turn-violent?traffic_source=rss"
-        },
-        {
-          "nev": "BBC",
-          "cim": "More than 400 detained as France student protests escalate",
-          "url": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -296,120 +295,146 @@
       ]
     },
     {
-      "cim": "Why the U.S. Is Imposing New Visa Restrictions on South Africa",
-      "lead": "The Trump administration announced new visa restrictions on the country days after receiving a letter that South African officials had hoped would bring down the temperature.",
-      "forrasok": [
-        {
-          "nev": "New York Times",
-          "cim": "Why the U.S. Is Imposing New Visa Restrictions on South Africa",
-          "url": "https://www.nytimes.com/2026/09/29/world/africa/south-africa-trump-letter-visas-racism.html"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "South African president orders action on femicide after killings",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/south-african-president-orders-action-on-femicide-after-killings?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "cim": "US Senate blocks resolution demanding accountability over Israeli violence in West Bank",
-      "lead": "Nine American citizens have been killed by Israeli settlers or security forces in occupied West Bank since 2022 The US Senate on Tuesday evening rejected along mostly party lines a Democratic resolution that would have forced the state department to report to Congress on violence in the occupied West Bank, including…",
+      "cim": "Israel-bound passenger plane makes emergency landing in Saudi Arabia after reported fight between pilots",
+      "lead": "Israeli media say incident, which raised fears of possible hijacking, stemmed from feud between plane’s two pilots A commercial plane travelling from Dubai in the United Arab Emirates to Israel has been forced to make an emergency landing in Saudi Arabia, after an apparent brawl between its pilots prompted distress…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "US Senate blocks resolution demanding accountability over Israeli violence in West Bank",
-          "url": "https://www.theguardian.com/us-news/2026/sep/29/senate-resolution-west-bank-israel-violence"
+          "cim": "Israel-bound passenger plane makes emergency landing in Saudi Arabia after reported fight between pilots",
+          "url": "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud"
         },
         {
           "nev": "Al Jazeera",
-          "cim": "US Senate blocks resolution seeking report on Americans killed in West Bank",
-          "url": "https://www.aljazeera.com/news/2026/9/30/us-senate-blocks-resolution-seeking-report-on-americans-killed-in-west-bank?traffic_source=rss"
+          "cim": "Flydubai flight to Israel diverted to Saudi Arabia after emergency alert",
+          "url": "https://www.aljazeera.com/news/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "Israeli Settlers Stop Soldiers From Returning Palestinians to Their Home",
-      "lead": "The Supreme Court had ordered the military to ensure a West Bank family that fled violence could go back. But settlers blocked the effort, with the authorities accused of not doing enough to confront them.",
+      "cim": "Photos: A journalist is crowned king in Uganda",
+      "lead": "The death of King Oyo Nyimba in August triggered widespread grief and a succession dispute in Uganda’s Tooro Kingdom.",
       "forrasok": [
         {
-          "nev": "New York Times",
-          "cim": "Israeli Settlers Stop Soldiers From Returning Palestinians to Their Home",
-          "url": "https://www.nytimes.com/2026/09/29/world/middleeast/west-bank-israel-settlers-attack-soldiers-palestinians.html"
+          "nev": "Al Jazeera",
+          "cim": "Photos: A journalist is crowned king in Uganda",
+          "url": "https://www.aljazeera.com/gallery/2026/9/30/photos-a-journalist-is-crowned-king-in-uganda?traffic_source=rss"
         },
         {
           "nev": "BBC",
-          "cim": "Israeli settlers attack West Bank village and block Palestinian family's return home",
-          "url": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss"
+          "cim": "The journalist who became king in Uganda",
+          "url": "https://www.bbc.co.uk/news/videos/cry4z9jw3wvlo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "cim": "Estonia blames Russia for arson at defence company supplying Ukraine",
-      "lead": "Russia has been accused of launching sabotage attacks across a number of European Nato countries which have been helping Ukraine.",
-      "forrasok": [
-        {
-          "nev": "BBC",
-          "cim": "Estonia blames Russia for arson at defence company supplying Ukraine",
-          "url": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "nev": "New York Times",
-          "cim": "Estonia Says Arson at Defense Company Was ‘Deliberate’ Attack by Russia",
-          "url": "https://www.nytimes.com/2026/09/29/world/europe/estonia-russia-ukraine-milrem-fire.html"
-        }
-      ]
-    },
-    {
-      "cim": "Evicted Woman Set to Return Home as Spain Announces Plans to Fix Housing Crisis",
-      "lead": "The eviction of an 87-year-old set off protests in the country, which has an acute housing shortage. The government presented legislation to protect renters.",
-      "forrasok": [
-        {
-          "nev": "New York Times",
-          "cim": "Evicted Woman Set to Return Home as Spain Announces Plans to Fix Housing Crisis",
-          "url": "https://www.nytimes.com/2026/09/29/world/europe/spain-housing-eviction-maricarmen-abascal-madrid-protests.html"
-        },
-        {
-          "nev": "BBC",
-          "cim": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
-          "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "cim": "UK PM Burnham seeks 'hope again' at Labour Party conference",
-      "lead": "Andy Burnham is seeking a delicate balance between optimism and realism at Labour's annual party conference. He promised hope and an end to \"politics as usual\" but also an \"honest conversation\" about difficult dilemmas.",
+      "cim": "Iraq: US troops withdraw from their Iraqi US-led Operation Inherent Resolve mission against ISIS after 12 years",
+      "lead": "As the US completes its military withdrawal from Iraq, Baghdad declares a new era of sovereignty. But as US troops leave, questions remain over militias, foreign forces and the country's future security.",
       "forrasok": [
         {
           "nev": "Deutsche Welle",
-          "cim": "UK PM Burnham seeks 'hope again' at Labour Party conference",
-          "url": "https://www.dw.com/en/uk-pm-burnham-seeks-hope-again-at-labour-party-conference/a-79473376?maca=en-rss-en-world-4025-rdf"
+          "cim": "Iraq: US troops withdraw from their Iraqi US-led Operation Inherent Resolve mission against ISIS after 12 years",
+          "url": "https://www.dw.com/en/iraq-us-troops-withdraw-from-their-iraqi-us-led-operation-inherent-resolve-mission-against-isis-after-12-years/a-79462926?maca=en-rss-en-world-4025-rdf"
         },
         {
           "nev": "New York Times",
-          "cim": "Prime Minister Andy Burnham Lays Out Plan to Change UK in Emotional Speech at Labour Conference",
-          "url": "https://www.nytimes.com/2026/09/29/world/europe/andy-burnham-labour-conference-uk.html"
+          "cim": "After Two Decades, U.S. Forces Leave Iraq to an Uncertain Future",
+          "url": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html"
         }
       ]
     },
     {
-      "cim": "Australia news live: Peugeot recalls hundreds of cars in Australia over issue that could increase ‘risk of serious injury or death’",
-      "lead": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Who is potential Greens deputy leader candidate Steph Hodgins-May? So who is the first-term senator expected to announce a leadership ticket tilt with David Shoebridge ? Get your dirty hands off our kids, that is our message to the…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Australia news live: Peugeot recalls hundreds of cars in Australia over issue that could increase ‘risk of serious injury or death’",
-          "url": "https://www.theguardian.com/australia-news/live/2026/sep/30/labor-anthony-albanese-coalition-polling-new-greens-leader-openai-hack-ntwnfb"
-        }
-      ]
-    },
-    {
-      "cim": "OpenAI launches ‘dots,’ personal AI assistant ‘built to handle everything’",
-      "lead": "AI giant launches 'dots' to rival Meta's Muse and Google's Gemini Spark.",
+      "cim": "S Korea demands apology over DMZ blasts as N Korea denies planting mines",
+      "lead": "South Korea calls for a formal apology from North Korea over the DMZ explosion that injured three soldiers.",
       "forrasok": [
         {
           "nev": "Al Jazeera",
-          "cim": "OpenAI launches ‘dots,’ personal AI assistant ‘built to handle everything’",
-          "url": "https://www.aljazeera.com/economy/2026/9/30/openai-launches-dots-personal-ai-assistant-built-to-handle-everything?traffic_source=rss"
+          "cim": "S Korea demands apology over DMZ blasts as N Korea denies planting mines",
+          "url": "https://www.aljazeera.com/news/2026/9/30/south-korea-demands-apology-over-dmz-blasts-as-north-denies-planting-mines?traffic_source=rss"
+        },
+        {
+          "nev": "BBC",
+          "cim": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
+          "url": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Saudi Arabia urged to reconcile with UAE to drive back Houthi separatists in Yemen",
+      "lead": "Relations between two countries soured in January when a UAE-backed force was defeated by Saudis Saudi Arabia is being urged to reconcile with the United Arab Emirates over Yemen as the price Riyadh must pay to form a military alliance capable of driving the Houthis back. Relations between the UAE and Saudi Arabia in…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Saudi Arabia urged to reconcile with UAE to drive back Houthi separatists in Yemen",
+          "url": "https://www.theguardian.com/world/2026/sep/29/saudi-arabia-urged-to-reconcile-with-uae-to-drive-back-houthi-separatists-in-yemen"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "Pakistan vows to defend Saudi Arabia against Houthis",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/pakistan-vows-to-defend-saudi-arabia-against-houthis?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Gentle giant Backpack wins Alaska’s Fat Bear Week",
+      "lead": "The contest celebrates the resilience of the 2,200 brown bears that live in the preserve on the Alaska Peninsula.",
+      "forrasok": [
+        {
+          "nev": "Al Jazeera",
+          "cim": "Gentle giant Backpack wins Alaska’s Fat Bear Week",
+          "url": "https://www.aljazeera.com/news/2026/9/30/gentle-giant-backpack-declared-the-winner-of-alaskas-fat-bear-week?traffic_source=rss"
+        },
+        {
+          "nev": "BBC",
+          "cim": "'Backpack' declared Alaska's Fat Bear Week winner",
+          "url": "https://www.bbc.co.uk/news/articles/ck8d3vl9mj13o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Somali pirates killed oil tanker crew before rescue, official tells BBC",
+      "lead": "Piracy off the Somali coast has increased in recent years after dropping when international naval operations began in 2011.",
+      "forrasok": [
+        {
+          "nev": "BBC",
+          "cim": "Somali pirates killed oil tanker crew before rescue, official tells BBC",
+          "url": "https://www.bbc.co.uk/news/articles/crjw5jp2de7go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "Somali pirates killed five crew members on hijacked tanker, officials say",
+          "url": "https://www.aljazeera.com/news/2026/9/30/somali-pirates-killed-five-crew-members-on-hijacked-tanker-officials-say?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Double beds, aircon and big-screen TVs: Indonesia suspends officials over luxury prison cells",
+      "lead": "Indonesia’s prisons have long faced allegations that well-connected inmates can obtain preferential treatment through bribery Five Indonesian prison officials have been suspended after investigators found an apartment-style compound complete with airconditioners, big-screen televisions and expensive cars allegedly…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Double beds, aircon and big-screen TVs: Indonesia suspends officials over luxury prison cells",
+          "url": "https://www.theguardian.com/world/2026/sep/30/indonesia-prison-officials-suspended-luxury-apartments-prisoners"
+        },
+        {
+          "nev": "New York Times",
+          "cim": "Prison Officials Suspended After Inmates Are Found Living in Luxury",
+          "url": "https://www.nytimes.com/2026/09/29/world/asia/indonesia-prison-luxury.html"
+        }
+      ]
+    },
+    {
+      "cim": "Public workers in France strike over pay as student protests turn violent",
+      "lead": "Tens of thousands of workers march nationwide, as police arrest 440 students in clashes at schools.",
+      "forrasok": [
+        {
+          "nev": "Al Jazeera",
+          "cim": "Public workers in France strike over pay as student protests turn violent",
+          "url": "https://www.aljazeera.com/news/2026/9/30/french-public-workers-strike-over-pay-as-student-protests-turn-violent?traffic_source=rss"
+        },
+        {
+          "nev": "BBC",
+          "cim": "More than 400 detained as France student protests escalate",
+          "url": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
