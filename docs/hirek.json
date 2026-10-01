@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-01",
-  "generalva": "2026-10-01T18:20+02:00",
+  "generalva": "2026-10-01T18:40+02:00",
   "hazai": [
     {
       "cim": "Házkutatást tartottak Hankó Balázsnál",
@@ -12,24 +12,45 @@
           "url": "https://www.portfolio.hu/gazdasag/20261001/hazkutatast-tartottak-hanko-balazsnal-866746"
         },
         {
+          "nev": "Magyar Nemzet",
+          "cim": "Megállapodott Magyar Péter és Karácsony Gergely: 120 milliárdos gyorssegélyt kap a főváros",
+          "url": "https://magyarnemzet.hu/belfold/2026/10/megallapodott-magyar-peter-es-karacsony-gergely?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        },
+        {
           "nev": "Index",
           "cim": "Letartóztatása közben házkutatást tartottak Hankó Balázs otthonában",
           "url": "https://index.hu/belfold/2026/10/01/hanko-balazs-volt-miniszter-letartoztatas-birosag-hazkutatas/"
         },
         {
           "nev": "HVG",
-          "cim": "Hankó volt államtitkárának letartóztatását is elrendelte a bíróság",
-          "url": "https://hvg.hu/itthon/20261001_varga-bajusz-veronika-letartoztatas-ugyeszseg-nka-hanko-balazs"
-        },
-        {
-          "nev": "Magyar Nemzet",
-          "cim": "Letartóztatták Hankó Balázs volt államtitkárát is",
-          "url": "https://magyarnemzet.hu/belfold/2026/10/letartoztattak-hanko-balazs-volt-allamtitkarat-is?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+          "cim": "Házkutatást tartottak Hankó Balázs otthonában",
+          "url": "https://hvg.hu/itthon/20261001_hazkutatast-tartottak-hanko-balazs-otthonaban-ebx"
         },
         {
           "nev": "444",
           "cim": "Miközben Hankó Balázs Kecskeméten volt a bíróságon, házkutatást tartottak az otthonában",
           "url": "https://444.hu/2026/10/01/mikozben-hanko-balazs-kecskemeten-volt-a-birosagon-hazkutatast-tartottak-az-otthonaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        }
+      ]
+    },
+    {
+      "cim": "Matolcsy Györgyöt és Varga Mihályt is beidézte az MNB-vizsgálóbizottság",
+      "lead": "Matolcsy György volt jegybankelnököt és Varga Mihály volt nemzetgazdasági minisztert, a Magyar Nemzeti Bank (MNB) jelenlegi elnökét hallgatja meg következő ülésén az MNB működésével kapcsolatos visszaéléseket feltáró parlamenti vizsgálóbizottság.",
+      "forrasok": [
+        {
+          "nev": "Portfolio",
+          "cim": "Matolcsy Györgyöt és Varga Mihályt is beidézte az MNB-vizsgálóbizottság",
+          "url": "https://www.portfolio.hu/gazdasag/20261001/matolcsy-gyorgyot-es-varga-mihalyt-is-beidezte-az-mnb-vizsgalobizottsag-866748"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Matolcsy Györgyöt és Varga Mihályt hallgatja meg következő ülésén a parlamenti bizottság",
+          "url": "https://hvg.hu/gazdasag/20261001_parlamenti-vizsgalobizottsag-mnb-ugy-matolcsy-gyorgy-varga-mihaly"
+        },
+        {
+          "nev": "444",
+          "cim": "Matolcsy Györgyöt és Varga Mihályt hallgatja meg legközelebb az MNB-botrány vizsgálóbizottsága",
+          "url": "https://444.hu/2026/10/01/matolcsy-gyorgyot-es-varga-mihalyt-hallgatja-meg-legkozelebb-az-mnb-botrany-vizsgalobizottsaga?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ]
     },
@@ -50,18 +71,18 @@
       ]
     },
     {
-      "cim": "Matolcsy Györgyöt és Varga Mihályt is beidézte az MNB-vizsgálóbizottság",
-      "lead": "Matolcsy György volt jegybankelnököt és Varga Mihály volt nemzetgazdasági minisztert, a Magyar Nemzeti Bank (MNB) jelenlegi elnökét hallgatja meg következő ülésén az MNB működésével kapcsolatos visszaéléseket feltáró parlamenti vizsgálóbizottság.",
+      "cim": "Megszólalt Peszkov a Magyarországgal kapcsolatos gazdasági együttműködésről - Figyelmeztetést küldött Budapestnek",
+      "lead": "A Kreml abban bízik, hogy a jelenlegi magyar vezetés a hűvösebb politikai viszony ellenére is fenntartja a gazdasági együttműködést Oroszországgal. Dmitrij Peszkov elnöki szóvivő ugyanakkor figyelmeztetett, hogy Budapest barátságtalan lépései idővel veszélyeztethetik a két ország üzleti kapcsolatait.",
       "forrasok": [
         {
           "nev": "Portfolio",
-          "cim": "Matolcsy Györgyöt és Varga Mihályt is beidézte az MNB-vizsgálóbizottság",
-          "url": "https://www.portfolio.hu/gazdasag/20261001/matolcsy-gyorgyot-es-varga-mihalyt-is-beidezte-az-mnb-vizsgalobizottsag-866748"
+          "cim": "Megszólalt Peszkov a Magyarországgal kapcsolatos gazdasági együttműködésről - Figyelmeztetést küldött Budapestnek",
+          "url": "https://www.portfolio.hu/global/20261001/megszolalt-peszkov-a-magyarorszaggal-kapcsolatos-gazdasagi-egyuttmukodesrol-figyelmeztetest-kuldott-budapestnek-866744"
         },
         {
           "nev": "444",
-          "cim": "Matolcsy Györgyöt és Varga Mihályt hallgatja meg legközelebb az MNB-botrány vizsgálóbizottsága",
-          "url": "https://444.hu/2026/10/01/matolcsy-gyorgyot-es-varga-mihalyt-hallgatja-meg-legkozelebb-az-mnb-botrany-vizsgalobizottsaga?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "cim": "Peszkov: A Kreml reméli, hogy Magyarország folytatni akarja a gazdasági együttműködést",
+          "url": "https://444.hu/2026/10/01/peszkov-a-kreml-remeli-hogy-magyarorszag-folytatni-akarja-a-gazdasagi-egyuttmukodest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ]
     },
@@ -110,22 +131,6 @@
           "nev": "HVG",
           "cim": "Kósa Lajos és Bánki Erik is végigértetlenkedte az MNB-üggyel kapcsolatos meghallgatását",
           "url": "https://hvg.hu/itthon/20261001_mnb-ugy-parlamenti-vizsgalobizottsag-kosa-lajos-banki-erik-meghallgatas"
-        }
-      ]
-    },
-    {
-      "cim": "Tisza-kormány: újra egy asztalhoz ült Magyar Péter és Karácsony Gergely - Hankó Balázst letartóztatták, Kósa Lajost beidézték",
-      "lead": "Fontos megállapodások születtek Magyar Péter a kormány és Budapest vezetésének mai egyeztetésén, amelyet külön hírfolyamban is követünk a Portfolio-n. A hosszú szünet után újrainduló Fővárosi Közfejlesztések Tanácsa kibővített jogkörökkel próbál keretet adni az együttműködésnek, de csütörtökön több korábban…",
-      "forrasok": [
-        {
-          "nev": "Portfolio",
-          "cim": "Tisza-kormány: újra egy asztalhoz ült Magyar Péter és Karácsony Gergely - Hankó Balázst letartóztatták, Kósa Lajost beidézték",
-          "url": "https://www.portfolio.hu/gazdasag/20261001/tisza-kormany-ujra-egy-asztalhoz-ult-magyar-peter-es-karacsony-gergely-hanko-balazst-letartoztattak-kosa-lajost-beideztek-866504"
-        },
-        {
-          "nev": "Magyar Nemzet",
-          "cim": "Megállapodott Magyar Péter és Karácsony Gergely: 120 milliárdos gyorssegélyt kap a főváros",
-          "url": "https://magyarnemzet.hu/belfold/2026/10/megallapodott-magyar-peter-es-karacsony-gergely?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
         }
       ]
     },
@@ -238,32 +243,6 @@
       ]
     },
     {
-      "cim": "Zimbabwe tycoon Wicknell Chivayo dies in helicopter crash",
-      "lead": "Zimbabwe's President Emmerson Mnangagwa has confirmed the death of businessman Wicknell Chivayo and his wife in a helicopter crash, calling the high-rollers with a lavish lifestyle \"consummately philanthropic.\"",
-      "forrasok": [
-        {
-          "nev": "Deutsche Welle",
-          "cim": "Zimbabwe tycoon Wicknell Chivayo dies in helicopter crash",
-          "url": "https://www.dw.com/en/zimbabwe-tycoon-wicknell-chivayo-dies-in-helicopter-crash/a-79501691?maca=en-rss-en-world-4025-rdf"
-        },
-        {
-          "nev": "New York Times",
-          "cim": "A Flashy Zimbabwean Tycoon Who Befriended Presidents Dies in Crash",
-          "url": "https://www.nytimes.com/2026/10/01/world/africa/zimbabwe-wicknell-chivayo-helicopter-crash.html"
-        },
-        {
-          "nev": "BBC",
-          "cim": "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash",
-          "url": "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "Zimbabwe businessman Wicknell Chivayo killed in helicopter crash",
-          "url": "https://www.aljazeera.com/news/2026/10/1/zimbabwe-businessman-wicknell-chivayo-killed-in-helicopter-crash?traffic_source=rss"
-        }
-      ]
-    },
-    {
       "cim": "French high school protests escalate with violence reported – Europe live",
       "lead": "Authorities have reported dozens of injuries, including from hurled objects but also, in some suspected cases, from police riot-control projectiles The ⁠EU Commission, France, Italy, Ireland ⁠and ⁠Britain are ​holding a call on ⁠the possible need to release diesel ⁠stocks, an ​EU ‌official ‌said, as reported by…",
       "forrasok": [
@@ -281,6 +260,27 @@
           "nev": "BBC",
           "cim": "Watch: Why are students protesting at schools in France?",
           "url": "https://www.bbc.co.uk/news/videos/cwy8z8rney97o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Zimbabwe tycoon Wicknell Chivayo dies in helicopter crash",
+      "lead": "Zimbabwe's President Emmerson Mnangagwa has confirmed the death of businessman Wicknell Chivayo and his wife in a helicopter crash, calling the high-rollers with a lavish lifestyle \"consummately philanthropic.\"",
+      "forrasok": [
+        {
+          "nev": "Deutsche Welle",
+          "cim": "Zimbabwe tycoon Wicknell Chivayo dies in helicopter crash",
+          "url": "https://www.dw.com/en/zimbabwe-tycoon-wicknell-chivayo-dies-in-helicopter-crash/a-79501691?maca=en-rss-en-world-4025-rdf"
+        },
+        {
+          "nev": "New York Times",
+          "cim": "A Flashy Zimbabwean Tycoon Who Befriended Presidents Dies in Crash",
+          "url": "https://www.nytimes.com/2026/10/01/world/africa/zimbabwe-wicknell-chivayo-helicopter-crash.html"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "Zimbabwe businessman Wicknell Chivayo killed in helicopter crash",
+          "url": "https://www.aljazeera.com/news/2026/10/1/zimbabwe-businessman-wicknell-chivayo-killed-in-helicopter-crash?traffic_source=rss"
         }
       ]
     },
@@ -386,40 +386,35 @@
       ]
     },
     {
-      "cim": "After Two Decades, U.S. Forces Leave Iraq to an Uncertain Future",
-      "lead": "Some Iraqis are celebrating the end of an American military presence that unleashed waves of bloodshed. Others fear what happens next for their country, trapped between Washington and Tehran.",
+      "cim": "American University of Afghanistan at Risk of Closure Amid Funding Cuts",
+      "lead": "The State Department has denied its funding for the next two years, jeopardizing the education of hundreds of female Afghan students.",
       "forrasok": [
         {
           "nev": "New York Times",
-          "cim": "After Two Decades, U.S. Forces Leave Iraq to an Uncertain Future",
-          "url": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "Iraq’s Kurdish forces look to a new era after US withdrawal",
-          "url": "https://www.aljazeera.com/news/2026/10/1/iraqs-kurdish-forces-look-to-a-new-era-after-us-withdrawal?traffic_source=rss"
+          "cim": "American University of Afghanistan at Risk of Closure Amid Funding Cuts",
+          "url": "https://www.nytimes.com/2026/10/01/world/asia/american-university-kabul-usaid.html"
         }
       ]
     },
     {
-      "cim": "Here’s the latest.",
-      "lead": "",
+      "cim": "Algeria introduces death penalty for arsonists after deadly wildfires",
+      "lead": "It is estimated more than 200 people have died in blazes in the north-east of the country over the summer.",
       "forrasok": [
         {
-          "nev": "New York Times",
-          "cim": "Here’s the latest.",
-          "url": "https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots/heres-the-latest"
+          "nev": "BBC",
+          "cim": "Algeria introduces death penalty for arsonists after deadly wildfires",
+          "url": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "cim": "Swedish Company Uses A.I. Likeness of Greta Garbo in Ad",
-      "lead": "An ad produced by the manufacturing company SKF Group featured a digital version of the Swedish American actress, who died in 1990. Not all viewers found the replica convincing.",
+      "cim": "SpaceX launches crew to ISS successfully: ‘Thanks for an amazing ride’",
+      "lead": "Jessica Watkins, the first Black woman to lead a crew to orbit, is making her second trip to the space station Four astronauts rocketed into orbit on Thursday on a space station mission that will stretch until spring, among them a Canadian whose wife will give birth while he’s away. SpaceX launched commander Jessica…",
       "forrasok": [
         {
-          "nev": "New York Times",
-          "cim": "Swedish Company Uses A.I. Likeness of Greta Garbo in Ad",
-          "url": "https://www.nytimes.com/2026/10/01/world/europe/ai-garbo-ad-sweden-skf.html"
+          "nev": "The Guardian",
+          "cim": "SpaceX launches crew to ISS successfully: ‘Thanks for an amazing ride’",
+          "url": "https://www.theguardian.com/us-news/2026/oct/01/spacex-nasa-watkins-launch"
         }
       ]
     }
