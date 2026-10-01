@@ -46,14 +46,14 @@
     --vonal: #27333B; --hazai: #7FC39E; --nk: #A3B3F2;
   }
   *, *::before, *::after { box-sizing: inherit; }
-  html { scroll-padding-top: calc(env(safe-area-inset-top, 0px) + 4rem); -webkit-text-size-adjust: 100%; }
+  html { font-size: 118%; scroll-padding-top: calc(env(safe-area-inset-top, 0px) + 4rem); -webkit-text-size-adjust: 100%; }
   body {
     margin: 0;
     background: var(--papir);
     color: var(--tinta);
     font-family: var(--szovegbetu);
-    font-size: 1.0625rem;
-    line-height: 1.65;
+    font-size: 1.1rem;
+    line-height: 1.6;
     padding-left: env(safe-area-inset-left, 0px);
     padding-right: env(safe-area-inset-right, 0px);
   }
@@ -70,7 +70,7 @@
   .gombok { display: flex; gap: 0.5rem; }
   .kis-gomb {
     background: none; border: 1px solid var(--vonal); border-radius: 999px;
-    padding: 0.35rem 0.9rem; cursor: pointer; font-family: var(--cimbetu); font-size: 0.9rem;
+    padding: 0.4rem 0.95rem; cursor: pointer; font-family: var(--cimbetu); font-size: 0.95rem;
   }
   .kis-gomb:hover { border-color: var(--halvany); }
 
@@ -101,7 +101,7 @@
   .fulek .keret { display: flex; gap: 1.75rem; }
   .ful {
     background: none; border: 0; cursor: pointer;
-    font-family: var(--cimbetu); font-size: 1.05rem; font-weight: 600;
+    font-family: var(--cimbetu); font-size: 1.15rem; font-weight: 600;
     padding: 0.85rem 0 0.7rem; color: var(--halvany);
     border-bottom: 3px solid transparent; margin-bottom: -1px;
   }
@@ -115,8 +115,8 @@
   main[data-tab="nemzetkozi"] { --szin: var(--nk); }
   .hir { padding: 1.6rem 0 1.4rem; border-bottom: 1px solid var(--vonal); }
   .hir h2 {
-    font-family: var(--cimbetu); font-weight: 650; font-size: 1.32rem;
-    line-height: 1.22; letter-spacing: -0.015em; margin: 0 0 0.55rem;
+    font-family: var(--cimbetu); font-weight: 650; font-size: 1.5rem;
+    line-height: 1.2; letter-spacing: -0.015em; margin: 0 0 0.55rem;
     text-wrap: balance;
   }
   .hir h2 a { color: inherit; text-decoration: none; }
@@ -126,7 +126,7 @@
   details { flex: 1; }
   summary {
     cursor: pointer; list-style: none; display: inline-flex; align-items: center; gap: 0.4rem;
-    font-family: var(--cimbetu); font-size: 0.92rem; font-weight: 600; color: var(--szin);
+    font-family: var(--cimbetu); font-size: 1rem; font-weight: 600; color: var(--szin);
   }
   summary::-webkit-details-marker { display: none; }
   summary::after {
@@ -136,13 +136,13 @@
   }
   details[open] summary::after { transform: rotate(225deg); margin-top: 0.2em; }
   .forrasok { list-style: none; margin: 0.7rem 0 0; padding: 0 0 0 0.9rem; border-left: 2px solid var(--szin); }
-  .forrasok li { margin: 0.45rem 0; font-size: 0.95rem; line-height: 1.45; }
+  .forrasok li { margin: 0.6rem 0; font-size: 1rem; line-height: 1.45; }
   .forrasok a { color: var(--tinta); text-decoration-color: var(--vonal); text-underline-offset: 3px; }
   .forrasok a:hover { text-decoration-color: currentColor; }
   .forras-nev { font-family: var(--cimbetu); font-weight: 600; margin-right: 0.35rem; }
   .megoszt {
     align-self: flex-start; background: none; border: 0; cursor: pointer;
-    font-family: var(--cimbetu); font-size: 0.92rem; color: var(--halvany); padding: 0;
+    font-family: var(--cimbetu); font-size: 1rem; color: var(--halvany); padding: 0;
   }
   .megoszt:hover { color: var(--tinta); }
 
@@ -150,7 +150,7 @@
   .uzenet strong { display: block; color: var(--tinta); font-family: var(--cimbetu); font-size: 1.15rem; margin-bottom: 0.4rem; }
   .uzenet .kis-gomb { margin-top: 1rem; color: var(--tinta); }
 
-  footer { padding-block: 2rem 3rem; font-size: 0.85rem; line-height: 1.55; color: var(--halvany); }
+  footer { padding-block: 2rem 3rem; font-size: 0.92rem; line-height: 1.55; color: var(--halvany); }
   footer p { margin: 0 0 0.6rem; }
 
   /* Archívum lap */
@@ -208,6 +208,7 @@
 
 <footer class="keret">
   <p>A hírek a megjelölt hírportálok nyilvános RSS-csatornáiból származnak. Az azonos eseményről szóló cikkeket egy hírbe vonjuk össze, a több forrásban szereplők kerülnek előre. A teljes szöveget az eredeti oldalon olvashatod.</p>
+  <p id="fordites-megj" hidden>A nemzetközi hírek címét és rövid leírását gépi fordítás adja, ezért pontatlan lehet. Az eredeti angol címek a források között olvashatók.</p>
   <p id="meta"></p>
 </footer>
 
@@ -226,6 +227,174 @@
   const NAPOK = ["vasárnap","hétfő","kedd","szerda","csütörtök","péntek","szombat"];
   const $ = (id) => document.getElementById(id);
   const allapot = { adat: null, tab: "hazai", archivDatum: null };
+
+  const ketjegy = (n) => String(n).padStart(2, "0");
+  const ma = () => { const d = new Date(); return `${d.getFullYear()}-${ketjegy(d.getMonth() + 1)}-${ketjegy(d.getDate())}`; };
+  const datumbol = (s) => { const [e, h, n] = s.split("-").map(Number); return new Date(e, h - 1, n); };
+  const napNeve = (s) => NAPOK[datumbol(s).getDay()];
+  const honapNap = (s) => { const d = datumbol(s); return `${HONAPOK[d.getMonth()]} ${d.getDate()}.`; };
+  const ido = (iso) => { const d = new Date(iso); return isNaN(d) ? "" : `${ketjegy(d.getHours())}:${ketjegy(d.getMinutes())}`; };
+
+  function elem(tag, tul = {}, ...gyerekek) {
+    const e = document.createElement(tag);
+    for (const [k, v] of Object.entries(tul)) {
+      if (k === "text") e.textContent = v;
+      else if (k.startsWith("on")) e.addEventListener(k.slice(2), v);
+      else e.setAttribute(k, v);
+    }
+    for (const g of gyerekek) if (g) e.append(g);
+    return e;
+  }
+
+  async function jsonLetoltes(ut) {
+    const v = await fetch(ut, { cache: "no-cache" });
+    if (!v.ok) throw new Error(`HTTP ${v.status}`);
+    return v.json();
+  }
+
+  async function betolt(datum = null) {
+    $("datum").textContent = "Betöltés…";
+    try {
+      const adat = await jsonLetoltes(datum ? `archiv/${datum}.json` : "hirek.json");
+      allapot.adat = adat;
+      allapot.archivDatum = datum;
+      megjelenit();
+    } catch (e) {
+      hibaUzenet();
+    }
+  }
+
+  function megjelenit() {
+    const a = allapot.adat;
+    $("nap").textContent = napNeve(a.datum);
+    $("datum").textContent = honapNap(a.datum);
+
+    const al = $("allapot");
+    al.replaceChildren();
+    if (allapot.archivDatum) {
+      al.append(elem("span", { text: "Archív lista." }),
+        elem("button", { class: "szoveg-gomb", text: "Vissza a legfrissebbhez", onclick: () => betolt() }));
+    } else if (a.datum !== ma()) {
+      al.append(elem("span", { text: "A mai hírek még nem készültek el, ez a legutóbbi lista." }));
+    }
+    if (!navigator.onLine) al.append(elem("span", { text: "Nincs internetkapcsolat, a korábban letöltött változatot látod." }));
+
+    $("db-hazai").textContent = (a.hazai || []).length || "";
+    $("db-nemzetkozi").textContent = (a.nemzetkozi || []).length || "";
+    $("fordites-megj").hidden = !a.fordites;
+    const t = ido(a.generalva);
+    $("meta").textContent = t ? `Összeállítva ${honapNap(a.datum)} ${t}-kor.` : "";
+    lista();
+  }
+
+  function lista() {
+    const main = $("lista");
+    main.dataset.tab = allapot.tab;
+    document.querySelectorAll(".ful").forEach((f) => f.setAttribute("aria-selected", f.dataset.tab === allapot.tab));
+    const hirek = (allapot.adat && allapot.adat[allapot.tab]) || [];
+    main.replaceChildren();
+
+    if (!hirek.length) {
+      main.append(elem("div", { class: "uzenet" },
+        elem("strong", { text: "Ebben a kategóriában ma nincs hír." }),
+        elem("span", { text: "Nézd meg a másik fület, vagy válassz egy korábbi napot az archívumból." })));
+      return;
+    }
+
+    for (const h of hirek) {
+      const forrasok = h.forrasok || [];
+      let reszletek = null;
+      if (forrasok.length) {
+        reszletek = elem("details", {},
+          elem("summary", { text: forrasok.length === 1 ? "1 forrás" : `${forrasok.length} forrás` }),
+          elem("ul", { class: "forrasok" }, ...forrasok.map((f) =>
+            elem("li", {}, elem("a", { href: f.url, target: "_blank", rel: "noopener" },
+              elem("span", { class: "forras-nev", text: f.nev }), document.createTextNode(f.cim))))));
+      }
+      const megoszt = navigator.share ? elem("button", {
+        class: "megoszt", text: "Megosztás",
+        onclick: () => navigator.share({ title: h.cim, text: h.cim, url: forrasok[0]?.url }).catch(() => {}),
+      }) : null;
+
+      main.append(elem("article", { class: "hir" },
+        elem("h2", {}, forrasok.length
+          ? elem("a", { href: forrasok[0].url, target: "_blank", rel: "noopener", text: h.cim })
+          : document.createTextNode(h.cim)),
+        (h.lead || h.osszefoglalo) ? elem("p", { text: h.lead || h.osszefoglalo }) : null,
+        (reszletek || megoszt) ? elem("div", { class: "hir-also" }, reszletek || elem("span"), megoszt) : null));
+    }
+  }
+
+  function hibaUzenet() {
+    $("nap").textContent = "\u00a0";
+    $("datum").textContent = "";
+    $("allapot").replaceChildren();
+    $("lista").replaceChildren(elem("div", { class: "uzenet" },
+      elem("strong", { text: "Nem sikerült betölteni a híreket." }),
+      elem("span", { text: navigator.onLine
+        ? "Ha most állítottad be az oldalt, futtasd le a GitHub Actions munkafolyamatot, hogy elkészüljön az első hírlista."
+        : "Nincs internetkapcsolat, és még nincsenek elmentett hírek a készüléken." }),
+      elem("br"),
+      elem("button", { class: "kis-gomb", text: "Újrapróbálás", onclick: () => betolt(allapot.archivDatum) })));
+  }
+
+  // Fülek
+  document.querySelectorAll(".ful").forEach((f) => f.addEventListener("click", () => {
+    allapot.tab = f.dataset.tab;
+    lista();
+    const fulek = document.querySelector(".fulek");
+    if (fulek.getBoundingClientRect().top <= 1) fulek.scrollIntoView();
+  }));
+
+  // Archívum
+  const lap = $("archiv");
+  $("archiv-gomb").addEventListener("click", async () => {
+    const ul = $("datumlista");
+    ul.replaceChildren(elem("li", { class: "uzenet", text: "Betöltés…" }));
+    lap.showModal();
+    try {
+      const datumok = await jsonLetoltes("archiv/index.json");
+      const aktualis = allapot.adat?.datum;
+      ul.replaceChildren(...datumok.map((d) => elem("li", {},
+        elem("button", { "aria-current": d === aktualis, onclick: () => { lap.close(); betolt(d === datumok[0] ? null : d); } },
+          elem("span", { text: honapNap(d) }), elem("span", { class: "het", text: napNeve(d) })))));
+    } catch {
+      ul.replaceChildren(elem("li", { class: "uzenet", text: "Az archívum még üres, vagy most nem érhető el." }));
+    }
+  });
+  $("archiv-bezar").addEventListener("click", () => lap.close());
+  lap.addEventListener("click", (e) => { if (e.target === lap) lap.close(); });
+
+  // Telepítés
+  let telepitoEsemeny = null;
+  window.addEventListener("beforeinstallprompt", (e) => {
+    e.preventDefault();
+    telepitoEsemeny = e;
+    $("telepites").hidden = false;
+  });
+  $("telepites").addEventListener("click", async () => {
+    if (!telepitoEsemeny) return;
+    telepitoEsemeny.prompt();
+    await telepitoEsemeny.userChoice;
+    telepitoEsemeny = null;
+    $("telepites").hidden = true;
+  });
+  const ios = /iphone|ipad|ipod/i.test(navigator.userAgent);
+  const onalloan = window.matchMedia("(display-mode: standalone)").matches || navigator.standalone;
+  if (ios && !onalloan) $("ios-tipp").hidden = false;
+
+  // Frissítés, amikor visszatérsz az appba
+  document.addEventListener("visibilitychange", () => {
+    if (document.visibilityState === "visible" && !allapot.archivDatum && allapot.adat?.datum !== ma()) betolt();
+  });
+
+  if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
+  betolt();
+})();
+</script>
+</body>
+</html>
+l };
 
   const ketjegy = (n) => String(n).padStart(2, "0");
   const ma = () => { const d = new Date(); return `${d.getFullYear()}-${ketjegy(d.getMonth() + 1)}-${ketjegy(d.getDate())}`; };
