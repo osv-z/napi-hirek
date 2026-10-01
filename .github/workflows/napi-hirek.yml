@@ -3,7 +3,7 @@ name: Napi hírek
 on:
   schedule:
     # UTC-ben megadva: 04:00 UTC = 06:00 nyári / 05:00 téli magyar idő
-    - cron: "0 4 * * *"
+    - cron: "23 4 * * *"
   workflow_dispatch: # kézi indítás az Actions fülről
 
 permissions:
