@@ -1,19 +1,24 @@
 #!/usr/bin/env python3
 """
-Napi hírek – AI nélkül
-RSS-csatornák -> csoportosítás és rangsorolás -> docs/hirek.json (+ napi archívum)
+Napi hírek
+RSS-csatornák -> csoportosítás és rangsorolás -> (nemzetközi hírek fordítása) -> docs/hirek.json
 
 Az azonos eseményről szóló cikkeket egy hírré vonja össze, és azokat sorolja előre,
 amelyekről a legtöbb különböző forrás ír. A szöveg az RSS-ben megadott eredeti cím és lead.
+A nemzetközi hírek címét és leadjét a Gemini API fordítja magyarra (csak fordít, nem ír újat).
+Ha nincs GEMINI_API_KEY, vagy a fordítás nem sikerül, a hírek angolul maradnak.
 
 Használat:
     python hirosszefoglalo.py
+    GEMINI_API_KEY=... python hirosszefoglalo.py     # fordítással
 """
 
 import html
 import json
+import os
 import re
 import sys
+import time
 import unicodedata
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -51,6 +56,23 @@ MAX_CIKK_FORRASONKENT = 25
 MAX_ORA = 24             # csak az elmúlt ennyi óra cikkei
 MAX_EGYFORRASOS_FORRASONKENT = 3   # egyetlen forrás ennyi "csak nála szereplő" hírt adhat
 HASONLOSAG = 0.4         # ennél nagyobb címhasonlóságnál egy eseménynek számít
+
+MODELL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+API_KULCS = os.environ.get("GEMINI_API_KEY")
+
+FORDITAS_PROMPT = """Fordítsd le magyarra az alábbi angol nyelvű hírcímeket és rövid leadeket.
+Szabályok:
+- Csak fordíts, ne adj hozzá, ne hagyj el és ne értelmezz semmit.
+- A tulajdonneveket és intézménynevek megszokott magyar alakját használd (pl. Európai Unió),
+  a személyneveket hagyd az eredeti írásmódban.
+- A cím maradjon hírcím-stílusú, tömör.
+- Az üres leadet hagyd üresen.
+A válaszod kizárólag érvényes JSON tömb legyen, pontosan annyi elemmel és ugyanabban a
+sorrendben, ahogy a bemenetben szerepelnek: [{"cim": "...", "lead": "..."}]
+
+BEMENET:
+__BEMENET__
+"""
 
 KIMENET = Path(__file__).resolve().parent / "docs"
 IDOZONA = ZoneInfo("Europe/Budapest")
@@ -191,6 +213,62 @@ def hirek_osszeallitasa(forrasok, darab):
 
 
 # ---------------------------------------------------------------------------
+# Fordítás (csak a nemzetközi hírekhez)
+# ---------------------------------------------------------------------------
+
+def fordit(hirek):
+    """A hírek címét és leadjét magyarra fordítja (helyben módosít).
+    A források listája (eredeti angol címek) érintetlen marad.
+    Visszatérési érték: sikerült-e a fordítás."""
+    if not hirek:
+        return False
+    if not API_KULCS:
+        print("Nincs GEMINI_API_KEY: a nemzetközi hírek fordítás nélkül, angolul maradnak.")
+        return False
+
+    bemenet = [{"cim": h["cim"], "lead": h["lead"]} for h in hirek]
+    prompt = FORDITAS_PROMPT.replace("__BEMENET__", json.dumps(bemenet, ensure_ascii=False))
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{MODELL}:generateContent"
+    torzs = {
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {"responseMimeType": "application/json", "temperature": 0.1},
+    }
+
+    for kiserlet in range(1, 4):
+        try:
+            v = requests.post(
+                url,
+                headers={"x-goog-api-key": API_KULCS, "Content-Type": "application/json"},
+                json=torzs,
+                timeout=120,
+            )
+            if v.status_code != 200:
+                raise RuntimeError(f"HTTP {v.status_code}: {v.text[:300]}")
+            szoveg = v.json()["candidates"][0]["content"]["parts"][0]["text"]
+            szoveg = re.sub(r"^```(?:json)?|```$", "", szoveg.strip()).strip()
+            adat = json.loads(szoveg)
+            if not isinstance(adat, list) or len(adat) != len(hirek):
+                raise ValueError("a fordítás elemszáma nem egyezik a bemenetével")
+            if not all(isinstance(f, dict) for f in adat):
+                raise ValueError("a fordítás formátuma hibás")
+            for h, f in zip(hirek, adat):
+                cim = str(f.get("cim") or "").strip()
+                lead = str(f.get("lead") or "").strip()
+                if cim:
+                    h["cim"] = cim
+                if lead:
+                    h["lead"] = lead
+            print(f"Nemzetközi hírek lefordítva ({MODELL}).")
+            return True
+        except Exception as e:
+            print(f"  ! Fordítási hiba ({kiserlet}. próba): {e}", file=sys.stderr)
+            if kiserlet < 3:
+                time.sleep(15 * kiserlet)
+    print("A fordítás nem sikerült, a nemzetközi hírek angolul maradnak.", file=sys.stderr)
+    return False
+
+
+# ---------------------------------------------------------------------------
 # Mentés
 # ---------------------------------------------------------------------------
 
@@ -220,13 +298,18 @@ def main():
     if not hazai and not nemzetkozi:
         raise SystemExit("Egyetlen hírt sem sikerült letölteni, nem írom felül a korábbi listát.")
 
+    forditva = fordit(nemzetkozi)
+
     most = datetime.now(IDOZONA)
-    mentes({
+    adat = {
         "datum": most.strftime("%Y-%m-%d"),
         "generalva": most.isoformat(timespec="minutes"),
         "hazai": hazai,
         "nemzetkozi": nemzetkozi,
-    })
+    }
+    if forditva:
+        adat["fordites"] = MODELL
+    mentes(adat)
 
 
 if __name__ == "__main__":
