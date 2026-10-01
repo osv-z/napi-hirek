@@ -1,6 +1,6 @@
 // Offline működés: az app váza a gyorsítótárból jön, a hírek (JSON) mindig
 // először a hálózatról, és csak ha az nem elérhető, a legutóbb mentett változatból.
-const VERZIO = "napi-hirek-v2";
+const VERZIO = "napi-hirek-v3";
 const VAZ = ["./", "./index.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png", "./apple-touch-icon.png"];
 
 self.addEventListener("install", (e) => {
