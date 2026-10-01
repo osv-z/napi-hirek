@@ -1,241 +1,289 @@
 {
   "datum": "2026-10-01",
-  "generalva": "2026-10-01T12:46+02:00",
+  "generalva": "2026-10-01T18:20+02:00",
   "hazai": [
     {
-      "cim": "Magyar diplomaták kiutasítását jelentette be az orosz külügyminisztérium",
-      "lead": "Magyarország ideiglenes ügyvivőjét csütörtök délelőtt hívták be az orosz külügyminisztériumba, hogy közöljék vele a kémkedés miatt kiutasított orosz diplomaták miatti válaszlépéseket.",
+      "cim": "Házkutatást tartottak Hankó Balázsnál",
+      "lead": "Elrendelte a bíróság Hankó Balázs kulturális és innovációs miniszter letartóztatását, akit azzal gyanúsítanak, hogy több száz állami támogatást irányított át politikai kampánycélokra és magánszemélyek finanszírozására. Miközben a politikus a bíróságon védekezett, a hatóságok házkutatást tartottak az otthonában. A…",
       "forrasok": [
         {
-          "nev": "Telex",
-          "cim": "Magyar diplomaták kiutasítását jelentette be az orosz külügyminisztérium",
-          "url": "https://telex.hu/belfold/2026/10/01/magyarorszag-oroszorszag-magyar-orosz-kapcsolatok-kiutasitasok-orosz-valasz-orban-anita"
+          "nev": "Portfolio",
+          "cim": "Házkutatást tartottak Hankó Balázsnál",
+          "url": "https://www.portfolio.hu/gazdasag/20261001/hazkutatast-tartottak-hanko-balazsnal-866746"
         },
         {
-          "nev": "Portfolio",
-          "cim": "Megjött Moszkva válasza a Magyarországról kiutasított diplomatákra",
-          "url": "https://www.portfolio.hu/global/20261001/megjott-moszkva-valasza-a-magyarorszagrol-kiutasitott-diplomatakra-866626"
+          "nev": "Index",
+          "cim": "Letartóztatása közben házkutatást tartottak Hankó Balázs otthonában",
+          "url": "https://index.hu/belfold/2026/10/01/hanko-balazs-volt-miniszter-letartoztatas-birosag-hazkutatas/"
         },
         {
           "nev": "HVG",
-          "cim": "Magyar diplomatákat utasít ki az orosz külügyminisztérium",
-          "url": "https://hvg.hu/itthon/20261001_orosz-kulugyminiszterium-magyar-diplomatak-kiutasitas-ebx"
+          "cim": "Hankó volt államtitkárának letartóztatását is elrendelte a bíróság",
+          "url": "https://hvg.hu/itthon/20261001_varga-bajusz-veronika-letartoztatas-ugyeszseg-nka-hanko-balazs"
         },
         {
           "nev": "Magyar Nemzet",
-          "cim": "Itt az orosz válasz: magyar diplomatákat utasít ki Moszkva",
-          "url": "https://magyarnemzet.hu/kulfold/2026/10/itt-az-orosz-valasz-magyar-diplomatakat-utasit-ki-moszkva?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+          "cim": "Letartóztatták Hankó Balázs volt államtitkárát is",
+          "url": "https://magyarnemzet.hu/belfold/2026/10/letartoztattak-hanko-balazs-volt-allamtitkarat-is?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        },
+        {
+          "nev": "444",
+          "cim": "Miközben Hankó Balázs Kecskeméten volt a bíróságon, házkutatást tartottak az otthonában",
+          "url": "https://444.hu/2026/10/01/mikozben-hanko-balazs-kecskemeten-volt-a-birosagon-hazkutatast-tartottak-az-otthonaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        }
+      ]
+    },
+    {
+      "cim": "Hatalmas a nyomás a forinton, a kormányváltás óta nem volt ilyen",
+      "lead": "Újabb gyengülési hullám érte a forintot csütörtök délután, a napközbeni erősödés után az euró jegyzése 369 fölé emelkedett, a dolláré pedig megközelítette a 328-at, amire a kormányváltás óta nem volt példa. A magyar devizának az erősödő dollár és az emelkedő nemzetközi kötvényhozamok sem kedveznek, miközben a friss…",
+      "forrasok": [
+        {
+          "nev": "Portfolio",
+          "cim": "Hatalmas a nyomás a forinton, a kormányváltás óta nem volt ilyen",
+          "url": "https://www.portfolio.hu/deviza/20261001/hatalmas-a-nyomas-a-forinton-a-kormanyvaltas-ota-nem-volt-ilyen-866518"
+        },
+        {
+          "nev": "Index",
+          "cim": "A rendszerváltás óta nem volt ilyen nehéz a helyzet, a Tisza-kormány vázolta a stratégiáját",
+          "url": "https://index.hu/gazdasag/2026/10/01/epitoipar-evosz-szemerey-samu-naderi-zsuzsanna-lakhatasi-valsag-allami-beruhazas-munkaeropiac-szakemberhiany-felujitas/"
+        }
+      ]
+    },
+    {
+      "cim": "Matolcsy Györgyöt és Varga Mihályt is beidézte az MNB-vizsgálóbizottság",
+      "lead": "Matolcsy György volt jegybankelnököt és Varga Mihály volt nemzetgazdasági minisztert, a Magyar Nemzeti Bank (MNB) jelenlegi elnökét hallgatja meg következő ülésén az MNB működésével kapcsolatos visszaéléseket feltáró parlamenti vizsgálóbizottság.",
+      "forrasok": [
+        {
+          "nev": "Portfolio",
+          "cim": "Matolcsy Györgyöt és Varga Mihályt is beidézte az MNB-vizsgálóbizottság",
+          "url": "https://www.portfolio.hu/gazdasag/20261001/matolcsy-gyorgyot-es-varga-mihalyt-is-beidezte-az-mnb-vizsgalobizottsag-866748"
+        },
+        {
+          "nev": "444",
+          "cim": "Matolcsy Györgyöt és Varga Mihályt hallgatja meg legközelebb az MNB-botrány vizsgálóbizottsága",
+          "url": "https://444.hu/2026/10/01/matolcsy-gyorgyot-es-varga-mihalyt-hallgatja-meg-legkozelebb-az-mnb-botrany-vizsgalobizottsaga?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        }
+      ]
+    },
+    {
+      "cim": "Putyin embere üzent Magyarországnak, egyre nagyobb veszély leselkedik Európára - Híreink az orosz-ukrán háborúról csütörtökön",
+      "lead": "Szerdán Moszkva atomcsapásokkal, illetve konvencionális támadásokkal fenyegette meg az Ukrajnát támogató európai országokat, ezzel párhuzamosan pedig egyre több NATO-vezető fejezi ki aggodamát az orosz hibrid hadviselés jelentette veszélyek miatt. Az ukrán légtérben egyre nagyobb számban jelennek meg a Gerány-4-es…",
+      "forrasok": [
+        {
+          "nev": "Portfolio",
+          "cim": "Putyin embere üzent Magyarországnak, egyre nagyobb veszély leselkedik Európára - Híreink az orosz-ukrán háborúról csütörtökön",
+          "url": "https://www.portfolio.hu/global/20261001/putyin-embere-uzent-magyarorszagnak-egyre-nagyobb-veszely-leselkedik-europara-hireink-az-orosz-ukran-haborurol-csutortokon-866494"
         },
         {
           "nev": "444",
           "cim": "Oroszország magyar diplomatákat utasít ki",
           "url": "https://444.hu/2026/10/01/oroszorszag-magyar-diplomatakat-utasit-ki?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "Index",
-          "cim": "Megérkezett Oroszország válasza Magyarországnak, kiutasítanak több magyar diplomatát",
-          "url": "https://index.hu/kulfold/2026/10/01/oroszorszag-kiutasitas-kulugyminiszterium-diplomacia/"
         }
       ]
     },
     {
-      "cim": "Új vezérigazgató került az Uniqa Biztosító élére",
-      "lead": "Október 1-jétől az Uniqa Biztosító Zrt. vállalati és bankbiztosítási üzletágának vezetője, Zubor Tibor (címlapképünkön) váltja Kurtisz Krisztiánt a vezérigazgatói poszton. Zubor Tibor 2021 augusztusában csatlakozott a társasághoz, és mintegy 22 éves biztosítói üzletági tapasztalatot tudhat magáénak. Kurtisz Krisztián…",
+      "cim": "Magyar Péter „Lenin-díjas Orbán hívőnek” nevezte Schiffer Andrást",
+      "lead": "A Parlament köré felhúzott kordon nagy visszhangot váltott ki.",
       "forrasok": [
-        {
-          "nev": "Portfolio",
-          "cim": "Új vezérigazgató került az Uniqa Biztosító élére",
-          "url": "https://www.portfolio.hu/uzlet/20261001/uj-vezerigazgato-kerult-az-uniqa-biztosito-elere-866606"
-        },
-        {
-          "nev": "444",
-          "cim": "Hajdu János korábbi helyettese lett a rendőrségbe beolvadt Terrorelhárítási Központ parancsnoka",
-          "url": "https://444.hu/2026/10/01/hajdu-janos-korabbi-helyettese-lett-a-rendorsegbe-beolvadt-terrorelharitasi-kozpont-parancsnoka?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "Telex",
-          "cim": "Hajdu János helyettese lett a rendőrségbe beolvadó TEK vezetője",
-          "url": "https://telex.hu/belfold/2026/10/01/hajdu-janos-helyettese-lett-a-rendorsegbe-beolvado-tek-vezetoje-kovacs-andras"
-        },
-        {
-          "nev": "Index",
-          "cim": "Hajdu János korábbi helyettese került a TEK élére",
-          "url": "https://index.hu/belfold/2026/10/01/tek-hajdu-janos-vezeto-atalakitas-kovacs-andras/"
-        }
-      ]
-    },
-    {
-      "cim": "Tisza-kormány: újra egy asztalhoz ül Magyar Péter és Karácsony Gergely",
-      "lead": "Fontos megállapodásokat ígér Magyar Péter a kormány és Budapest vezetésének mai egyeztetésén, amely a főváros pénzügyi helyzetében és fejlesztéseiben is előrelépést hozhat. A hosszú szünet után újrainduló Fővárosi Közfejlesztések Tanácsa kibővített jogkörökkel próbál keretet adni az együttműködésnek, de csütörtökön…",
-      "forrasok": [
-        {
-          "nev": "Portfolio",
-          "cim": "Tisza-kormány: újra egy asztalhoz ül Magyar Péter és Karácsony Gergely",
-          "url": "https://www.portfolio.hu/gazdasag/20261001/tisza-kormany-ujra-egy-asztalhoz-ul-magyar-peter-es-karacsony-gergely-866504"
-        },
         {
           "nev": "HVG",
-          "cim": "Magyar Péterék Erdőbényén tartanak kihelyezett kormányülést hétvégén",
-          "url": "https://hvg.hu/itthon/20261001_magyar-peter-tisza-kormany-kihelyezett-kormanyules-erdobenye"
-        },
-        {
-          "nev": "Telex",
-          "cim": "Kihelyezett ülést tart a kormány hétvégén Erdőbényén",
-          "url": "https://telex.hu/belfold/2026/10/01/kormanyules-tisza-erdobenye-magyar-peter"
-        }
-      ]
-    },
-    {
-      "cim": "Hankó Balázs bilincsben érkezett a bírósági tárgyalására",
-      "lead": "A korábbi kulturális és innovációs miniszter nagyjából negyedórát töltött a Kecskeméti Járásbíróság tárgyalótermében.",
-      "forrasok": [
-        {
-          "nev": "Telex",
-          "cim": "Hankó Balázs bilincsben érkezett a bírósági tárgyalására",
-          "url": "https://telex.hu/belfold/2026/10/01/bilincsben-vittek-hanko-balazst-a-birosagi-targyalasra"
+          "cim": "Magyar Péter „Lenin-díjas Orbán hívőnek” nevezte Schiffer Andrást",
+          "url": "https://hvg.hu/itthon/20261001_schiffer-andras-lenin-dij-magyar-peter-kordon-parlament"
         },
         {
           "nev": "Magyar Nemzet",
-          "cim": "Csúszik a bíróság döntése Hankó Balázs ügyében",
-          "url": "https://magyarnemzet.hu/belfold/2026/10/ma-dont-a-birosag-arrol-hogy-letartoztatjak-e-hanko-balazst?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-        },
-        {
-          "nev": "444",
-          "cim": "Hankó Balázs bilincsben",
-          "url": "https://444.hu/2026/10/01/hanko-balazs-bilincsben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "cim": "Schiffer András is kommentálta a Kossuth tér lezárását",
+          "url": "https://magyarnemzet.hu/belfold/2026/10/schiffer-andras-is-kommentalta-a-kossuth-ter-lezarasat?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
         }
       ]
     },
     {
-      "cim": "Hitelminősítést adott ki a Moody's a 4iG távközlési leányvállalatára",
-      "lead": "A Moody’s Ratings értékelte a 4iG Csoport magyarországi és nyugat-balkáni távközlési portfólióját összefogó 4iG Távközlési Holding Zrt.-t, amelyre Ba1 adósbesorolást állapított meg, pozitív kilátás mellett – áll a 4iG közleményében.",
+      "cim": "Bánki Erik: Fogalmam sincs. Kósa Lajos: Nem teljesen világos",
+      "lead": "Ülésezett az MNB-botránnyal foglalkozó vizsgálóbizottság. Bánki Erik nem tudja, hogyan került a kezébe az ő nevét viselő „elvesztette közpénzjellegét” törvényjavaslat, amit a Matolcsy György vezette MNB készített. Kósa Lajos szerint egy vizsgálóbizottság nem jó másra, mint vízgereblyézésre.",
+      "forrasok": [
+        {
+          "nev": "444",
+          "cim": "Bánki Erik: Fogalmam sincs. Kósa Lajos: Nem teljesen világos",
+          "url": "https://444.hu/2026/10/01/mnb-botrany-matolcsy-gyorgy-vizsgalobizottsag-kozpenz-elvesztette-kozvagyon-jelleget-banki-erik-kosa-lajos-csoszi-attila-parlament?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Kósa Lajos és Bánki Erik is végigértetlenkedte az MNB-üggyel kapcsolatos meghallgatását",
+          "url": "https://hvg.hu/itthon/20261001_mnb-ugy-parlamenti-vizsgalobizottsag-kosa-lajos-banki-erik-meghallgatas"
+        }
+      ]
+    },
+    {
+      "cim": "Tisza-kormány: újra egy asztalhoz ült Magyar Péter és Karácsony Gergely - Hankó Balázst letartóztatták, Kósa Lajost beidézték",
+      "lead": "Fontos megállapodások születtek Magyar Péter a kormány és Budapest vezetésének mai egyeztetésén, amelyet külön hírfolyamban is követünk a Portfolio-n. A hosszú szünet után újrainduló Fővárosi Közfejlesztések Tanácsa kibővített jogkörökkel próbál keretet adni az együttműködésnek, de csütörtökön több korábban…",
       "forrasok": [
         {
           "nev": "Portfolio",
-          "cim": "Hitelminősítést adott ki a Moody's a 4iG távközlési leányvállalatára",
-          "url": "https://www.portfolio.hu/uzlet/20261001/hitelminositest-adott-ki-a-moodys-a-4ig-tavkozlesi-leanyvallalatara-866610"
+          "cim": "Tisza-kormány: újra egy asztalhoz ült Magyar Péter és Karácsony Gergely - Hankó Balázst letartóztatták, Kósa Lajost beidézték",
+          "url": "https://www.portfolio.hu/gazdasag/20261001/tisza-kormany-ujra-egy-asztalhoz-ult-magyar-peter-es-karacsony-gergely-hanko-balazst-letartoztattak-kosa-lajost-beideztek-866504"
         },
         {
           "nev": "Magyar Nemzet",
-          "cim": "Moody's: A befektetése ajánlott sáv küszöbén a 4iG Távközlési Holding",
-          "url": "https://magyarnemzet.hu/gazdasag/2026/10/moodys-4ig?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+          "cim": "Megállapodott Magyar Péter és Karácsony Gergely: 120 milliárdos gyorssegélyt kap a főváros",
+          "url": "https://magyarnemzet.hu/belfold/2026/10/megallapodott-magyar-peter-es-karacsony-gergely?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
         }
       ]
     },
     {
-      "cim": "Magyar-Karácsony-egyeztetés: polgármesterek követelik a parkolási terv törlését",
-      "lead": "Hat budapesti polgármester tiltakozik a parkolási bevételek fővároshoz irányításának terve ellen, amely szerintük összesen 9 milliárd forintos kiesést okozna kerületeiknek. A kormány és a főváros mai egyeztetése előtt a rendelkezés törlését követelik, és jogi fellépést helyeznek kilátásba, ha az érintettek bevonása…",
+      "cim": "Itt az interaktív oldal, amin az elmúlt öt évben megítélt NKA-támogatásokat lehet nyomonkövetni",
+      "lead": "Térképpel és grafikonokkal ellátott interaktív oldalt hozott létre a Miniszterelnökség, amelyen a Nemzeti Kulturális Alap (NKA) által az elmúlt öt évben megítélt támogatások útját lehet nyomon követni.",
       "forrasok": [
         {
           "nev": "Portfolio",
-          "cim": "Magyar-Karácsony-egyeztetés: polgármesterek követelik a parkolási terv törlését",
-          "url": "https://www.portfolio.hu/gazdasag/20261001/magyar-karacsony-egyeztetes-polgarmesterek-kovetelik-a-parkolasi-terv-torleset-866608"
+          "cim": "Itt az interaktív oldal, amin az elmúlt öt évben megítélt NKA-támogatásokat lehet nyomonkövetni",
+          "url": "https://www.portfolio.hu/gazdasag/20261001/itt-az-interaktiv-oldal-amin-az-elmult-ot-evben-megitelt-nka-tamogatasokat-lehet-nyomonkovetni-866740"
         },
         {
-          "nev": "HVG",
-          "cim": "A fővárosi polgármesterek úgy tudják, Magyar és Karácsony elvenné a parkolási pénzt a kerületektől",
-          "url": "https://hvg.hu/gazdasag/20261001_parkolas-bevetel-budapest-keruletek-polgarmesterek"
+          "nev": "Index",
+          "cim": "Interaktív oldalon lehet böngészni, kik kaptak NKA-támogatást az elmúlt években",
+          "url": "https://index.hu/kultur/2026/10/01/nemzeti-kulturalis-alap-nka-tamogatas-adatbazis-magyarorszag-kormanya-atlathatosag/"
         }
       ]
     },
     {
-      "cim": "Izrael leállította a Flydubai járatait, Szaúd-Arábia sem engedi az izraeli gépek leszállását",
-      "lead": "Az izraeli gépek a Szaúd-Arábiában leszálló Flydubai-járat utasait szállítanák haza.",
+      "cim": "Interaktív térképre rakta a Miniszterelnökség az összes NKA-támogatást az elmúlt öt évből",
+      "lead": "Azt írták, a közzététel célja nem a támogatásban részesített egyesületek, vállalkozások vagy magánszemélyek megbélyegzése, a cél az, hogy „a közpénzek felhasználása mindenki számára követhető és ellenőrizhető legyen”.",
       "forrasok": [
         {
-          "nev": "Telex",
-          "cim": "Izrael leállította a Flydubai járatait, Szaúd-Arábia sem engedi az izraeli gépek leszállását",
-          "url": "https://telex.hu/kulfold/2026/10/01/flydubai-izrael-merenyletkiserlet-repulesi-engedely"
+          "nev": "444",
+          "cim": "Interaktív térképre rakta a Miniszterelnökség az összes NKA-támogatást az elmúlt öt évből",
+          "url": "https://444.hu/2026/10/01/interaktiv-terkepre-rakta-a-miniszterelnokseg-az-osszes-nka-tamogatast-az-elmult-ot-evbol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         },
         {
           "nev": "HVG",
-          "cim": "Nem kaptak leszállási engedélyt Szaúd-Arábiától a Flydubai utasaiért küldött izraeli gépek",
-          "url": "https://hvg.hu/vilag/20261001_nem-kaptak-leszallasi-engedelyt-szaud-arabia-flydubai-izrael"
+          "cim": "Interaktív térképen mutatja meg a kormány, kik kapták az NKA-támogatásokat",
+          "url": "https://hvg.hu/itthon/20261001_kormany-nemzeti-kulturalis-alap-tamogatasok-interaktiv-terkep-hanko-balazs"
         }
       ]
     },
     {
-      "cim": "Forbes: gyakorlatilag összeomolhattak a Mol és a Gazprom tárgyalásai a NIS-ről",
-      "lead": "Miközben a hivatalos kommunikáció szerint tovább folytatódnak a tárgyalások a Mol és a Gazprom között a szerb NIS többségi részesedésének eladásáról, a Forbes Srbija kormányzati körökhöz közel álló forrása szerint a helyzet ennél jóval rosszabb: az egyeztetések gyakorlatilag zátonyra futhattak. A lap értesülése…",
+      "cim": "NKA-ügy: Varga-Bajusz Veronikát is letartóztatták",
+      "lead": "Hankó Balázs után korábbi államtitkárát, Varga-Bajusz Veronikát is letartóztatták a Nemzeti Kulturális Alap támogatásaihoz kapcsolódó ügyben. A volt államtitkár és védője fellebbezett a döntés ellen.",
       "forrasok": [
         {
           "nev": "Portfolio",
-          "cim": "Forbes: gyakorlatilag összeomolhattak a Mol és a Gazprom tárgyalásai a NIS-ről",
-          "url": "https://www.portfolio.hu/uzlet/20261001/forbes-gyakorlatilag-osszeomolhattak-a-mol-es-a-gazprom-targyalasai-a-nis-rol-866604"
-        },
-        {
-          "nev": "Telex",
-          "cim": "Forbes: Összeomlottak a Mol tárgyalásai a szerb kőolajvállalat megvásárlásáról",
-          "url": "https://telex.hu/gazdasag/2026/10/01/forbes-szerbia-mol-nis-megvasarlas-targyalas-megakadas"
-        }
-      ]
-    },
-    {
-      "cim": "Marco Rubio a vízumuk lejárta előtt küldhette haza a Washingtonnal tárgyaló iráni delegációt",
-      "lead": "Az amerikai külügyminiszternek a hírek szerint elege lett, miután a közvetett tárgyalások elakadtak.",
-      "forrasok": [
-        {
-          "nev": "HVG",
-          "cim": "Marco Rubio a vízumuk lejárta előtt küldhette haza a Washingtonnal tárgyaló iráni delegációt",
-          "url": "https://hvg.hu/vilag/20261001_marco-rubio-irani-ensz-delegacio-hazakuldes-targyalas-vege"
+          "cim": "NKA-ügy: Varga-Bajusz Veronikát is letartóztatták",
+          "url": "https://www.portfolio.hu/gazdasag/20261001/nka-ugy-varga-bajusz-veronikat-is-letartoztattak-866734"
         },
         {
           "nev": "444",
-          "cim": "Marco Rubio idő előtt kipenderítette New Yorkból az iráni ENSZ delegációt",
-          "url": "https://444.hu/2026/10/01/marco-rubio-ido-elott-kipenderitette-new-yorkbol-az-irani-ensz-delegaciot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "cim": "Letartóztatták Hankó Balázs egykori államtitkárát, Varga-Bajusz Veronikát",
+          "url": "https://444.hu/2026/10/01/letartoztattak-hanko-balazs-egykori-allamtitkarat-varga-bajusz-veronikat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ]
     },
     {
-      "cim": "Kapitány Istvánék feljelentést tettek a Beloiannisz hajó és a fonyódi sportszálló felújítása ügyében",
-      "lead": "A Gazdasági és Energetikai Minisztérium különösen nagy vagyoni hátrányt okozó költségvetési csalás és hűtlen kezelés gyanújával tett feljelentéseket ismeretlen tettesek ellen.",
+      "cim": "Rogán-Szendrei Cecília után Sarka Kata is kiszállt a jól fialó bulvárlapból",
+      "lead": "Mostantól Sarka férje, Bessenyei István a 100 százalékos tulajdonos.",
       "forrasok": [
         {
           "nev": "444",
-          "cim": "Kapitány Istvánék feljelentést tettek a Beloiannisz hajó és a fonyódi sportszálló felújítása ügyében",
-          "url": "https://444.hu/2026/10/01/kapitany-istvanek-feljelentest-tettek-a-beloiannisz-hajo-es-a-fonyodi-sportszallo-felujitasa-ugyeben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "cim": "Rogán-Szendrei Cecília után Sarka Kata is kiszállt a jól fialó bulvárlapból",
+          "url": "https://444.hu/2026/10/01/rogan-szendrei-cecilia-utan-sarka-kata-is-kiszallt-a-jol-fialo-bulvarlapbol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         },
         {
           "nev": "HVG",
-          "cim": "Átnézték Kapitány Istvánék az elődeik dokumentumait, és 2 milliárd forintos költségvetési csalás miatt feljelentést tettek",
-          "url": "https://hvg.hu/gazdasag/20261001_koltsegvetesi-csalas-feljelentes-hajo-sport-hotel-gazdasagi-es-energetikai-miniszterium-kapitany-istvan"
+          "cim": "Sarka Kata is megvált tulajdonrészétől a Rogán-Szendrei Cecíliával közösen alapított bulvárlapban",
+          "url": "https://hvg.hu/gazdasag/20261001_sarka-kata-rogan-szendrei-cecilia-top-news-hungary-kiszallas"
         }
       ]
     },
     {
-      "cim": "Debrecen, Göd, Iváncsa: a jogsértő beruházók fél évig nem kaphatnak új engedélyt",
-      "lead": "A kormány célja, hogy egyes gazdaságfejlesztési célú kiemelt beruházásokkal kapcsolatban meghatározza a környezetvédelmi vagy természetvédelmi szabályok megsértése esetén azt az időtartamot, amely alatt további hatósági engedély nem adható ki.",
+      "cim": "Ruszin-Szendi túlárazott szerződések miatt leállította a szolnoki laktanya építésének második szakaszát",
+      "lead": "Szerinte a beszerzésen indokolatlanul nagyot szakít a Mészáros Lőrinchez köthető ZÁÉV, ráadásul úgy látja, hogy a különleges műveleti katonáknak nincs szükségük sötétített üvegre.",
       "forrasok": [
         {
           "nev": "HVG",
-          "cim": "Debrecen, Göd, Iváncsa: a jogsértő beruházók fél évig nem kaphatnak új engedélyt",
-          "url": "https://hvg.hu/itthon/20261001_debrecen-god-ivancsa-a-jogserto-beruhazok-fel-evig-nem-kaphatnak-uj-engedelyt"
+          "cim": "Ruszin-Szendi túlárazott szerződések miatt leállította a szolnoki laktanya építésének második szakaszát",
+          "url": "https://hvg.hu/itthon/20261001_ruszin-szendi-romulusz-szolnoki-laktanya-epites-tularazott-szerzodesek-korrupcio"
         },
         {
-          "nev": "Telex",
-          "cim": "Fél évig nem kaphatnak építési engedélyt az akkugyárak, ha megsértik a környezet- vagy természetvédelmi szabályokat",
-          "url": "https://telex.hu/gazdasag/2026/10/01/akkugyarak-debrecen-ivancsa-god-epitesi-engedely"
-        }
-      ]
-    },
-    {
-      "cim": "Nagyon jól érezte magát a Fradinál, de megváltoztak a klub lehetőségei, magyarázta távozását a Ferencváros edzője",
-      "lead": "Robbie Keane szerint a csapat élén eltöltött három év alatt mentálisan is elfáradt, ezért azóta Spanyolországba költözött.",
-      "forrasok": [
-        {
-          "nev": "Telex",
-          "cim": "Nagyon jól érezte magát a Fradinál, de megváltoztak a klub lehetőségei, magyarázta távozását a Ferencváros edzője",
-          "url": "https://telex.hu/sport/2026/10/01/robbie-keane-ferencvaros-tul-sok-minden-tortent-klubnal"
-        },
-        {
-          "nev": "444",
-          "cim": "A Fradi vezetőedzője azért távozott egy hónappal a választások után, mert „megváltoztak a klub lehetőségei”",
-          "url": "https://444.hu/2026/10/01/a-fradi-vezetoedzoje-azert-tavozott-egy-honappal-a-valasztasok-utan-mert-megvaltoztak-a-klub-lehetosegei?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "nev": "Index",
+          "cim": "Indokolatlan kiadásokra bukkantak, munkálatokat állított le Ruszin-Szendi Romulusz a szolnoki laktanyán",
+          "url": "https://index.hu/belfold/2026/10/01/ruszin-szendi-romulusz-szolnok-laktanya-felujitas-beruhazas/"
         }
       ]
     }
   ],
   "nemzetkozi": [
+    {
+      "cim": "Live Updates: Investigators Seek to Establish Motive in FlyDubai Attack",
+      "lead": "The United Arab Emirates said it would lead the investigation, including into possible links to terrorism. Prime Minister Benjamin Netanyahu said the attacker had undergone “Islamist radical indoctrination,” though he did not elaborate.",
+      "forrasok": [
+        {
+          "nev": "New York Times",
+          "cim": "Live Updates: Investigators Seek to Establish Motive in FlyDubai Attack",
+          "url": "https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots"
+        },
+        {
+          "nev": "Deutsche Welle",
+          "cim": "UAE launches Flydubai hijacking and terrorism investigation",
+          "url": "https://www.dw.com/en/uae-launches-flydubai-hijacking-and-terrorism-investigation/a-79497746?maca=en-rss-en-world-4025-rdf"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "How will investigation into Flydubai flight attack unfold?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/how-will-investigation-into-flydubai-flight-attack-unfold?traffic_source=rss"
+        },
+        {
+          "nev": "BBC",
+          "cim": "Flydubai passenger describes putting attacker in chokehold after cockpit stabbing",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2z92xx57no?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Zimbabwe tycoon Wicknell Chivayo dies in helicopter crash",
+      "lead": "Zimbabwe's President Emmerson Mnangagwa has confirmed the death of businessman Wicknell Chivayo and his wife in a helicopter crash, calling the high-rollers with a lavish lifestyle \"consummately philanthropic.\"",
+      "forrasok": [
+        {
+          "nev": "Deutsche Welle",
+          "cim": "Zimbabwe tycoon Wicknell Chivayo dies in helicopter crash",
+          "url": "https://www.dw.com/en/zimbabwe-tycoon-wicknell-chivayo-dies-in-helicopter-crash/a-79501691?maca=en-rss-en-world-4025-rdf"
+        },
+        {
+          "nev": "New York Times",
+          "cim": "A Flashy Zimbabwean Tycoon Who Befriended Presidents Dies in Crash",
+          "url": "https://www.nytimes.com/2026/10/01/world/africa/zimbabwe-wicknell-chivayo-helicopter-crash.html"
+        },
+        {
+          "nev": "BBC",
+          "cim": "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash",
+          "url": "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "Zimbabwe businessman Wicknell Chivayo killed in helicopter crash",
+          "url": "https://www.aljazeera.com/news/2026/10/1/zimbabwe-businessman-wicknell-chivayo-killed-in-helicopter-crash?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "French high school protests escalate with violence reported – Europe live",
+      "lead": "Authorities have reported dozens of injuries, including from hurled objects but also, in some suspected cases, from police riot-control projectiles The ⁠EU Commission, France, Italy, Ireland ⁠and ⁠Britain are ​holding a call on ⁠the possible need to release diesel ⁠stocks, an ​EU ‌official ‌said, as reported by…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "French high school protests escalate with violence reported – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato"
+        },
+        {
+          "nev": "Deutsche Welle",
+          "cim": "France: Hundreds arrested as student protests escalate",
+          "url": "https://www.dw.com/en/france-hundreds-arrested-as-student-protests-escalate/a-79495633?maca=en-rss-en-world-4025-rdf"
+        },
+        {
+          "nev": "BBC",
+          "cim": "Watch: Why are students protesting at schools in France?",
+          "url": "https://www.bbc.co.uk/news/videos/cwy8z8rney97o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
     {
       "cim": "Pilot who stabbed co-pilot on Israel-bound plane may have tried to crash it, says Netanyahu",
       "lead": "Accused pilot being questioned in Saudi Arabia as Israeli officials investigate if incident was attempted terror attack ‘Whoever is hearing me, we need help’: how flight 1073 survived its 17,000ft plunge One of the pilots of a plane flying from the United Arab Emirates to Israel stabbed his co-pilot and appeared to…",
@@ -246,110 +294,62 @@
           "url": "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud"
         },
         {
-          "nev": "New York Times",
-          "cim": "Passenger Describes Chaos Aboard FlyDubai Flight",
-          "url": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-flight-israel-plane-passenger.html"
-        },
-        {
           "nev": "BBC",
-          "cim": "What we know about stabbing on Flydubai flight to Israel",
-          "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Live Updates: Israelis Celebrate Passengers’ Return as Questions Swirl Over Flight Attack",
-      "lead": "Prime Minister Benjamin Netanyahu praised the flight’s injured captain, Israeli passengers and reserve pilots, who helped secure the plane and land it safely. The attacker has not been identified.",
-      "forrasok": [
-        {
-          "nev": "New York Times",
-          "cim": "Live Updates: Israelis Celebrate Passengers’ Return as Questions Swirl Over Flight Attack",
-          "url": "https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots"
-        },
-        {
-          "nev": "BBC",
-          "cim": "Plummeting Israel flight like 'rollercoaster', says passenger",
-          "url": "https://www.bbc.co.uk/news/videos/cwm2r2v42vdeo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "cim": "UAE launches flydubai hijacking and terrorism investigation",
-      "lead": "The UAE's chief prosecutor said it's looking at the possibility of \"terrorist activity or intent\" in the alleged attempted hijacking of a flydubai commercial flight to Tel Aviv. It says it has jurisdiction in the case.",
-      "forrasok": [
-        {
-          "nev": "Deutsche Welle",
-          "cim": "UAE launches flydubai hijacking and terrorism investigation",
-          "url": "https://www.dw.com/en/uae-launches-flydubai-hijacking-and-terrorism-investigation/a-79497746?maca=en-rss-en-world-4025-rdf"
+          "cim": "Netanyahu says flight attacker 'underwent Islamist radical indoctrination'",
+          "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss"
         },
         {
           "nev": "Al Jazeera",
-          "cim": "Pakistan launches deadly air attacks on Afghanistan",
-          "url": "https://www.aljazeera.com/news/2026/10/1/afghanistan-says-nine-killed-in-pakistani-air-raids-on-kunar-helmand?traffic_source=rss"
+          "cim": "UAE investigates possible ‘terrorist’ link in attack on flight to Israel",
+          "url": "https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "After Two Decades, U.S. Forces Leave Iraq to an Uncertain Future",
-      "lead": "Some Iraqis are celebrating the end of an American military presence that unleashed waves of bloodshed. Others fear what happens next for their country, trapped between Washington and Tehran.",
+      "cim": "Israeli Politicians Trade Barbs Over FlyDubai Attack",
+      "lead": "Prime Minister Benjamin Netanyahu’s campaign for a coming election was already dominated by discussion of the policy, military and intelligence failures leading up to the Hamas-led attacks on Oct. 7, 2023.",
       "forrasok": [
         {
           "nev": "New York Times",
-          "cim": "After Two Decades, U.S. Forces Leave Iraq to an Uncertain Future",
-          "url": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html"
+          "cim": "Israeli Politicians Trade Barbs Over FlyDubai Attack",
+          "url": "https://www.nytimes.com/2026/10/01/world/middleeast/israel-flydubai-netanyahu-elections.html"
         },
         {
           "nev": "Al Jazeera",
-          "cim": "Iraq’s Kurdish forces look to a new era after US withdrawal",
-          "url": "https://www.aljazeera.com/news/2026/10/1/iraqs-kurdish-forces-look-to-a-new-era-after-us-withdrawal?traffic_source=rss"
+          "cim": "Flydubai attack gives Netanyahu new security message ahead of Israel vote",
+          "url": "https://www.aljazeera.com/news/2026/10/1/flydubai-attack-gives-netanyahu-new-security-message-ahead-of-israel-vote?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "Netanyahu says too early to tell who was behind plane incident as flydubai halts all flights to Israel",
-      "lead": "Israeli prime minister cautions against early conclusions when asked if there were any signs of Iranian involvement Benjamin Netanyahu has said it was too early to tell who was ultimately behind the apparent attempt to crash a ⁠Tel Aviv-bound flydubai flight, even as Israel’s ambassador to the United Nations called…",
+      "cim": "What happened in failed execution of Christa Pike - and what next?",
+      "lead": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
       "forrasok": [
         {
-          "nev": "The Guardian",
-          "cim": "Netanyahu says too early to tell who was behind plane incident as flydubai halts all flights to Israel",
-          "url": "https://www.theguardian.com/world/2026/oct/01/netanyahu-flydubai-halts-all-flights-to-israel"
+          "nev": "BBC",
+          "cim": "What happened in failed execution of Christa Pike - and what next?",
+          "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "nev": "BBC",
-          "cim": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
-          "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss"
+          "nev": "Al Jazeera",
+          "cim": "Christa Pike execution fails: What next when a lethal injection is botched?",
+          "url": "https://www.aljazeera.com/news/2026/10/1/christa-pike-execution-fails-what-next-when-a-lethal-injection-is-botched?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "US death row inmate survives execution attempt after two lethal injections",
-      "lead": "Killer Christa Pike's lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital.",
+      "cim": "Who Is Captain Smit Machchhar, the Pilot Hailed as a Hero After FlyDubai Cockpit Stabbing?",
+      "lead": "Capt. Smit Machchhar suffered stab wounds while fending off an attack from his co-pilot, saving the lives of around 170 people on board, officials said.",
       "forrasok": [
         {
-          "nev": "BBC",
-          "cim": "US death row inmate survives execution attempt after two lethal injections",
-          "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss"
+          "nev": "New York Times",
+          "cim": "Who Is Captain Smit Machchhar, the Pilot Hailed as a Hero After FlyDubai Cockpit Stabbing?",
+          "url": "https://www.nytimes.com/2026/10/01/world/asia/israel-flight-flydubai-pilot-captain-smit-machchhar.html"
         },
         {
           "nev": "Al Jazeera",
-          "cim": "Execution of US woman Christa Pike fails after botched lethal injection",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/execution-of-us-woman-christa-pike-fails-after-botched-lethal-injection?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "cim": "‘Catastrophic year’ as Swiss glaciers lose 5% of ice after heatwaves",
-      "lead": "Scientists are warning that Switzerland's glaciers have lost an ‘enormous’ amount of ice this year.",
-      "forrasok": [
-        {
-          "nev": "Al Jazeera",
-          "cim": "‘Catastrophic year’ as Swiss glaciers lose 5% of ice after heatwaves",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/catastrophic-year-as-swiss-glaciers-lose-5-of-ice-after-heatwaves?traffic_source=rss"
-        },
-        {
-          "nev": "BBC",
-          "cim": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
-          "url": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss"
+          "cim": "Flydubai stabbing: How safe are planes if a pilot turns violent?",
+          "url": "https://www.aljazeera.com/features/2026/10/1/flydubai-stabbing-how-safe-are-planes-if-a-pilot-turns-violent?traffic_source=rss"
         }
       ]
     },
@@ -370,56 +370,56 @@
       ]
     },
     {
-      "cim": "Hundreds Detained in France as Some Student Protests Turn Violent",
-      "lead": "French high schoolers are protesting teacher shortages and overcrowded classrooms, in France’s latest flare-up over education and public services.",
+      "cim": "UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says",
+      "lead": "The British prime minister, Andy Burnham, said there were “strong indications” Iran played a part in the events at R.A.F. Fairford on Sunday, without providing details why.",
       "forrasok": [
         {
           "nev": "New York Times",
-          "cim": "Hundreds Detained in France as Some Student Protests Turn Violent",
-          "url": "https://www.nytimes.com/2026/09/30/world/europe/france-student-protest-arrests.html"
+          "cim": "UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says",
+          "url": "https://www.nytimes.com/2026/09/30/world/europe/uk-iran-raf-fairford-burnham.html"
         },
         {
-          "nev": "Deutsche Welle",
-          "cim": "France: Hundreds arrested as student protests escalate",
-          "url": "https://www.dw.com/en/france-hundreds-arrested-as-student-protests-escalate/a-79495633?maca=en-rss-en-world-4025-rdf"
+          "nev": "Al Jazeera",
+          "cim": "UK PM Burnham says Iran likely behind RAF base incident: Is there evidence?",
+          "url": "https://www.aljazeera.com/news/2026/10/1/uk-pm-burnham-says-iran-likely-behind-raf-base-incident-is-there-evidence?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "Are the Houthis winning against Saudi Arabia?",
-      "lead": "It's unclear how the Saudis can defuse the threat presented by the Houthis in next-door Yemen or who they can turn to for help. The US isn't interested, the Europeans are hedging and nobody wants open conflict with Iran.",
+      "cim": "After Two Decades, U.S. Forces Leave Iraq to an Uncertain Future",
+      "lead": "Some Iraqis are celebrating the end of an American military presence that unleashed waves of bloodshed. Others fear what happens next for their country, trapped between Washington and Tehran.",
       "forrasok": [
-        {
-          "nev": "Deutsche Welle",
-          "cim": "Are the Houthis winning against Saudi Arabia?",
-          "url": "https://www.dw.com/en/are-the-houthis-winning-against-saudi-arabia/a-79492476?maca=en-rss-en-world-4025-rdf"
-        },
         {
           "nev": "New York Times",
-          "cim": "Israel and Saudi Arabia don’t have formal ties, but Israelis have occasionally landed there.",
-          "url": "https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots/israel-and-saudi-arabia-dont-have-formal-ties-but-israelis-have-occasionally-landed-there"
+          "cim": "After Two Decades, U.S. Forces Leave Iraq to an Uncertain Future",
+          "url": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "Iraq’s Kurdish forces look to a new era after US withdrawal",
+          "url": "https://www.aljazeera.com/news/2026/10/1/iraqs-kurdish-forces-look-to-a-new-era-after-us-withdrawal?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash",
-      "lead": "Chivayo was known for his lavish lifestyle, close ties to African presidents and lucrative government contracts.",
+      "cim": "Here’s the latest.",
+      "lead": "",
       "forrasok": [
         {
-          "nev": "BBC",
-          "cim": "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash",
-          "url": "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss"
+          "nev": "New York Times",
+          "cim": "Here’s the latest.",
+          "url": "https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots/heres-the-latest"
         }
       ]
     },
     {
-      "cim": "Modern cars’ smart features could be used to spy on you, drivers warned",
-      "lead": "Hostile states could access cameras, microphones or GPS, says Dutch spy agency amid concerns over Chinese imports Drivers have been warned that the smart features built into modern cars such as microphones, cameras and GPS trackers could be used by hostile states to spy on them. The Dutch General Intelligence and…",
+      "cim": "Swedish Company Uses A.I. Likeness of Greta Garbo in Ad",
+      "lead": "An ad produced by the manufacturing company SKF Group featured a digital version of the Swedish American actress, who died in 1990. Not all viewers found the replica convincing.",
       "forrasok": [
         {
-          "nev": "The Guardian",
-          "cim": "Modern cars’ smart features could be used to spy on you, drivers warned",
-          "url": "https://www.theguardian.com/technology/2026/oct/01/cars-smart-features-spy-gps-chinese-imports"
+          "nev": "New York Times",
+          "cim": "Swedish Company Uses A.I. Likeness of Greta Garbo in Ad",
+          "url": "https://www.nytimes.com/2026/10/01/world/europe/ai-garbo-ad-sweden-skf.html"
         }
       ]
     }
