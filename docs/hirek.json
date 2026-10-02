@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-02",
-  "generalva": "2026-10-02T09:12+02:00",
+  "generalva": "2026-10-02T09:24+02:00",
   "hazai": [
     {
       "cim": "Magyar Péter a Time magazin szerint a világ egyik legfontosabb „feltörekvő sztárja”",
@@ -12,14 +12,14 @@
           "url": "https://hvg.hu/elet/20261002_magyar-peter-a-time-magazin-szerint-a-vilag-egyik-legfontosabb-feltorekvo-sztarja"
         },
         {
-          "nev": "Portfolio",
-          "cim": "Magyar Pétert a legbefolyásosabb feltörekvő tehetségek közzé választotta a Time magazin",
-          "url": "https://www.portfolio.hu/gazdasag/20261002/magyar-petert-a-legbefolyasosabb-feltorekvo-tehetsegek-kozze-valasztotta-a-time-magazin-866816"
-        },
-        {
           "nev": "Magyar Nemzet",
           "cim": "Magyar Péter szerint Schiffer András írni és olvasni sem tud",
           "url": "https://magyarnemzet.hu/belfold/2026/10/magyar-peter-szerint-schiffer-andras-irni-es-olvasni-sem-tud?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        },
+        {
+          "nev": "Index",
+          "cim": "Beválasztotta Magyar Pétert a világ 100 legbefolyásosabb feltörekvő embere közé a Time",
+          "url": "https://index.hu/kulfold/2026/10/02/magyar-peter-sztar-miniszterelnok-kormany/"
         }
       ]
     },
@@ -41,6 +41,38 @@
           "nev": "Index",
           "cim": "Friss adatok érkeztek, javultak a mentők kiérkezési idői szeptemberben, de messze még a cél",
           "url": "https://index.hu/belfold/2026/10/02/mentoszolgalat-omsz-kierkezesi-ido/"
+        }
+      ]
+    },
+    {
+      "cim": "Szürreális fordulat: Magyar Péter újra kirúgta Havasi Bertalant",
+      "lead": "Ezúttal jelezték, hogy nem kaphat végkielégítést, és három évre el is tiltották a kormányzati szolgálattól.",
+      "forrasok": [
+        {
+          "nev": "Magyar Nemzet",
+          "cim": "Szürreális fordulat: Magyar Péter újra kirúgta Havasi Bertalant",
+          "url": "https://magyarnemzet.hu/belfold/2026/10/havasi-bertalan-ujbol-kirugtak-szurrealis-magyar-peter?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        },
+        {
+          "nev": "Index",
+          "cim": "Havasi Bertalan: Magyar Péter még egyszer kirúgott",
+          "url": "https://index.hu/belfold/2026/10/02/havasi-bertalan-fidesz-magyar-peter-kirugas/"
+        }
+      ]
+    },
+    {
+      "cim": "21 Kutatóközpont: csökkent, de így is óriási a Tisza előnye",
+      "lead": "Megerősíti a Tisza Párt kis mértékű népszerűségvesztését, illetve a Fidesz mélypontról történő elmozdulását a 21 Kutatóközpont friss pártpreferencia-vizsgálata.",
+      "forrasok": [
+        {
+          "nev": "Portfolio",
+          "cim": "21 Kutatóközpont: csökkent, de így is óriási a Tisza előnye",
+          "url": "https://www.portfolio.hu/gazdasag/20261002/21-kutatokozpont-csokkent-de-igy-is-oriasi-a-tisza-elonye-866826"
+        },
+        {
+          "nev": "Index",
+          "cim": "Friss felmérés: csökkent a Tisza előnye, erősödött a Fidesz és a Mi Hazánk",
+          "url": "https://index.hu/belfold/2026/10/02/21-kutatokozpont-kozvelemeny-kutatas-fidesz-tisza-part-mi-hazank/"
         }
       ]
     },
@@ -141,46 +173,24 @@
       ]
     },
     {
-      "cim": "Jön a hét legfontosabb adata - Mi várható a tőzsdéken?",
-      "lead": "Nagy ütést kapott csütörtökön a magyar tőzsde, rég nem látott esés volt az OTP piacán és nagy eséssel zárt a Mol is, magával rántva a BUX indexet. A nemzetközi piacokon is inkább negatív volt tegnap a hangulat, bár az amerikai indexek végül kis emelkedésekkel zártak. Ma reggel bizonytalan a kép, az ázsiai tőzsdék…",
+      "cim": "Küszöbön a totális EU-Kína gazdasági háború",
+      "lead": "Az Európai Unió és Kína közötti kereskedelmi tárgyalások hónapok óta tartanak, ám a megállapodás egyelőre nem körvonalazódik – nyilatkozta Maroš Šefčovič, az EU kereskedelmi biztosa a milwaukeei G20-as kereskedelmi miniszteri találkozó margóján a Politico -nak. A biztos ugyanakkor jelezte, hogy az uniós vezetők…",
       "forrasok": [
         {
           "nev": "Portfolio",
-          "cim": "Jön a hét legfontosabb adata - Mi várható a tőzsdéken?",
-          "url": "https://www.portfolio.hu/uzlet/20261002/jon-a-het-legfontosabb-adata-mi-varhato-a-tozsdeken-866804"
+          "cim": "Küszöbön a totális EU-Kína gazdasági háború",
+          "url": "https://www.portfolio.hu/unios-forrasok/20261002/kuszobon-a-totalis-eu-kina-gazdasagi-haboru-866854"
         }
       ]
     },
     {
-      "cim": "Zuhanórepülésben a Nike: menekülnek a befektetők, azonnali átszervezés jön",
-      "lead": "Újabb szerkezetátalakítást jelentett be a Nike Elliott Hill vezérigazgató irányításával. A létszámcsökkentéssel és az üzleti divíziók átszervezésével járó intézkedések mellett a vállalat a vártnál lényegesen meredekebb éves árbevétel-visszaesésre számít, miközben a sportszergyártó kínai eladásai tovább zuhannak. Esik…",
+      "cim": "Megjött a fenyegetés: sokkoló csapást szenved az egész világgazdaság, ha Amerika folytatja a háborút",
+      "lead": "Teljesen újfajta rakétákat fog használni Irán amerikai célpontok ellen és a Hormuzi-szorost, Vörös-tengert is lezárja, ha az Egyesült Államok folytatja a háborúját az ország ellen – idézi Moszávi Beidli iráni parlamenti képviselőt, a belügyi testület tagját az Iran International .",
       "forrasok": [
         {
           "nev": "Portfolio",
-          "cim": "Zuhanórepülésben a Nike: menekülnek a befektetők, azonnali átszervezés jön",
-          "url": "https://www.portfolio.hu/uzlet/20261002/zuhanorepulesben-a-nike-menekulnek-a-befektetok-azonnali-atszervezes-jon-866846"
-        }
-      ]
-    },
-    {
-      "cim": "Tisza-kormány: folytatódnak a büntetőeljárások, új szövetséget kötött Magyar Péter a fővárossal",
-      "lead": "Sűrű napot hozott a közélet: Varga Mihály bejelentette részvételét az MNB-ügyet vizsgáló bizottság előtt, miközben Hankó Balázsnál házkutatást tartottak. A kormány újabb nyugdíjemelési és szociális intézkedéseket jelentett be, Budapest pedig 120 milliárd forintos támogatásban állapodott meg a kabinettel. Eközben…",
-      "forrasok": [
-        {
-          "nev": "Portfolio",
-          "cim": "Tisza-kormány: folytatódnak a büntetőeljárások, új szövetséget kötött Magyar Péter a fővárossal",
-          "url": "https://www.portfolio.hu/gazdasag/20261002/tisza-kormany-folytatodnak-a-buntetoeljarasok-uj-szovetseget-kotott-magyar-peter-a-fovarossal-866818"
-        }
-      ]
-    },
-    {
-      "cim": "Váratlanul széthullott egy hidegháborús amerikai kémműhold",
-      "lead": "Szovjet rádiójelek lehallgatására indították még 1988-ban, egyes hírek szerint még 2021-ben is pályán volt, majd idén szeptember közepén szétrobbant az USA-32 kémműhold.",
-      "forrasok": [
-        {
-          "nev": "HVG",
-          "cim": "Váratlanul széthullott egy hidegháborús amerikai kémműhold",
-          "url": "https://hvg.hu/tudomany/20261002_hideghaborus-amerikai-kemmuhold-szeteses-robbanas"
+          "cim": "Megjött a fenyegetés: sokkoló csapást szenved az egész világgazdaság, ha Amerika folytatja a háborút",
+          "url": "https://www.portfolio.hu/global/20261002/megjott-a-fenyegetes-sokkolo-csapast-szenved-az-egesz-vilaggazdasag-ha-amerika-folytatja-a-haborut-866856"
         }
       ]
     }
@@ -194,6 +204,11 @@
           "nev": "The Guardian",
           "cim": "Britain in talks with European allies over release of emergency diesel stockpiles amid Trump pressure",
           "url": "https://www.theguardian.com/business/2026/oct/01/britain-talks-european-allies-eu-emergency-diesel-stockpiles-reserves"
+        },
+        {
+          "nev": "New York Times",
+          "cim": "Trump’s Threat to Ban Diesel Exports Sets Off Global Alarms",
+          "url": "https://www.nytimes.com/2026/10/01/business/diesel-prices-us-exports.html"
         },
         {
           "nev": "BBC",
@@ -352,6 +367,17 @@
       ]
     },
     {
+      "cim": "I opened cockpit door of plane while being attacked, Indian pilot tells Modi",
+      "lead": "Capt Smit Machchhar, who was stabbed on the Israel-bound flight, has been hailed as a hero.",
+      "forrasok": [
+        {
+          "nev": "BBC",
+          "cim": "I opened cockpit door of plane while being attacked, Indian pilot tells Modi",
+          "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
       "cim": "Australia news live: Union leader says PM ‘vastly underpaid’; Shoebridge pledges members will ‘have a say’ in next leader",
       "lead": "Follow the day’s news live Get our breaking news email , free app or daily news podcast A Sydney man has been charged after allegedly restraining, choking and sexually assaulting a young woman in a park, Australian Associated Press reports. A 23-year-old woman was walking from Flemington Station through Airey Park in…",
       "forrasok": [
@@ -359,17 +385,6 @@
           "nev": "The Guardian",
           "cim": "Australia news live: Union leader says PM ‘vastly underpaid’; Shoebridge pledges members will ‘have a say’ in next leader",
           "url": "https://www.theguardian.com/australia-news/live/2026/oct/02/labor-anthony-albanese-online-gaming-esafety-coalition-angus-taylor-greens-david-shoebridge-ntwnfb"
-        }
-      ]
-    },
-    {
-      "cim": "Miami judge rules federal noncitizen voting law violates US Constitution",
-      "lead": "Judge Leibowitz's decision underscores state jurisdiction over voter qualifications.",
-      "forrasok": [
-        {
-          "nev": "Al Jazeera",
-          "cim": "Miami judge rules federal noncitizen voting law violates US Constitution",
-          "url": "https://www.aljazeera.com/news/2026/10/2/miami-judge-rules-federal-noncitizen-voting-law-violates-us-constitution?traffic_source=rss"
         }
       ]
     }
