@@ -1,11 +1,16 @@
 {
   "datum": "2026-10-02",
-  "generalva": "2026-10-02T09:24+02:00",
+  "generalva": "2026-10-02T09:39+02:00",
   "hazai": [
     {
-      "cim": "Magyar Péter a Time magazin szerint a világ egyik legfontosabb „feltörekvő sztárja”",
-      "lead": "A magyar miniszterelnök olyan személyekkel került egy listára, mint Leonardo DiCaprio legutóbbi filmjének női főszereplője vagy a Grammy-jelölt zenész, Sombr. A Time szerint „Európától az USA-ig visszhangot kellene keltenie” Magyar győzelmének.",
+      "cim": "Magyar Péter lett a Time magazinnál a legbefolyásosabb feltörekvők egyike",
+      "lead": "A lap a Tisza áprilisi győzelmét a brexit utáni idők legegyértelműbb Európa-párti kiállásának nevezte. A Time 100 Next listán ott van az Obsessiont író-rendezője és az a futballista is, aki miatt Trump személyesen avatkozott bele a futball-vb-be.",
       "forrasok": [
+        {
+          "nev": "444",
+          "cim": "Magyar Péter lett a Time magazinnál a legbefolyásosabb feltörekvők egyike",
+          "url": "https://444.hu/2026/10/02/magyar-peter-lett-a-time-magazinnal-a-legbefolyasosabb-feltorekvok-egyike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
         {
           "nev": "HVG",
           "cim": "Magyar Péter a Time magazin szerint a világ egyik legfontosabb „feltörekvő sztárja”",
@@ -24,23 +29,55 @@
       ]
     },
     {
-      "cim": "A mentők közzétették a szeptemberi kiérkezési adatokat",
-      "lead": "Augusztushoz képest javultak, de júliushoz képest romlottak a számok, a kitűzött céltól pedig még messze van az Országos Mentőszolgálat kiérkezési ideje.",
+      "cim": "Egy plébános arról prédikált, hogy akik a Tiszára szavaztak, ellenségek és elpusztítják az országot, Magyar Péter felszólította a katolikus egyházat a nyilvános elhatárolódásra",
+      "lead": "Osztie Zoltán szokott Orbán Viktorért misézni, híres még a buzizásairól is, és általában a Fidesz buzgó támogatója. A miniszterelnök szerint „mind az egyházi, mind a világi életben meg kell húzni a határvonalakat”.",
       "forrasok": [
         {
-          "nev": "HVG",
-          "cim": "A mentők közzétették a szeptemberi kiérkezési adatokat",
-          "url": "https://hvg.hu/itthon/20261002_orszagos-mentoszolgalat-omsz-kierkezes-adatok-statisztika-legsurgosebb-esetek-90-szazalek-szeptember"
+          "nev": "444",
+          "cim": "Egy plébános arról prédikált, hogy akik a Tiszára szavaztak, ellenségek és elpusztítják az országot, Magyar Péter felszólította a katolikus egyházat a nyilvános elhatárolódásra",
+          "url": "https://444.hu/2026/10/01/egy-plebanos-arrol-predikalt-hogy-akik-a-tiszara-szavaztak-ellensegek-es-elpusztitjak-az-orszagot-magyar-peter-felszolitotta-a-katolikus-egyhazat-a-nyilvanos-elhatarolodasra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         },
         {
-          "nev": "444",
-          "cim": "Több mint egy perccel javult a mentők kiérkezési ideje, de még messze a 15 perces cél",
-          "url": "https://444.hu/2026/10/02/tobb-mint-egy-perccel-javult-a-mentok-kierkezesi-ideje-de-meg-messze-a-15-perces-cel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "nev": "Magyar Nemzet",
+          "cim": "Magyar Péter az egyházat is utasítja, a katolikusok reagáltak a felszólítására",
+          "url": "https://magyarnemzet.hu/belfold/2026/10/magyar-peter-az-egyhazat-is-utasitja-a-katolikusok-reagaltak-a-felszolitasara?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
         },
         {
           "nev": "Index",
-          "cim": "Friss adatok érkeztek, javultak a mentők kiérkezési idői szeptemberben, de messze még a cél",
-          "url": "https://index.hu/belfold/2026/10/02/mentoszolgalat-omsz-kierkezesi-ido/"
+          "cim": "A Magyar Katolikus Egyház kommentben üzent Magyar Péternek Osztie Zoltán ügyében",
+          "url": "https://index.hu/belfold/2026/10/02/magyar-katolikus-egyhaz-komment-magyar-peter-osztie-zoltan-predikacio-elhatarolodas/"
+        }
+      ]
+    },
+    {
+      "cim": "Tisza-kormány: folytatódnak a büntetőeljárások, felbukkant Nagy Márton",
+      "lead": "Sűrű napot hozott a közélet: Varga Mihály bejelentette részvételét az MNB-ügyet vizsgáló bizottság előtt, miközben Hankó Balázsnál házkutatást tartottak. A kormány újabb nyugdíjemelési és szociális intézkedéseket jelentett be, Budapest pedig 120 milliárd forintos támogatásban állapodott meg a kabinettel. Eközben…",
+      "forrasok": [
+        {
+          "nev": "Portfolio",
+          "cim": "Tisza-kormány: folytatódnak a büntetőeljárások, felbukkant Nagy Márton",
+          "url": "https://www.portfolio.hu/gazdasag/20261002/tisza-kormany-folytatodnak-a-buntetoeljarasok-felbukkant-nagy-marton-866818"
+        },
+        {
+          "nev": "Index",
+          "cim": "Kiderült, hol kezdett új életet Nagy Márton",
+          "url": "https://index.hu/gazdasag/2026/10/02/nagy-marton-svajc-nemzetgazdasagi-miniszterium-orban-viktor/"
+        }
+      ]
+    },
+    {
+      "cim": "Nem áll le a nukleáris fenyegetéssel Putyin, olyan fegyvert vetett be Ukrajna, mint azelőtt soha – Háborús híreink pénteken",
+      "lead": "Vlagyimir Putyin orosz elnök ismét azzal fenyegetőzött, hogy kész a teljes orosz fegyverarzenált bevetni, ha bárki megtámadná Kalinyingrádot vagy bármely más orosz régiót. Putyin szerint \"ez nem megfélemlítés\", csupán válasz mások megfélemlítési kísérleteire. Ukrajna először vetette be éles körülmények között a saját…",
+      "forrasok": [
+        {
+          "nev": "Portfolio",
+          "cim": "Nem áll le a nukleáris fenyegetéssel Putyin, olyan fegyvert vetett be Ukrajna, mint azelőtt soha – Háborús híreink pénteken",
+          "url": "https://www.portfolio.hu/global/20261002/nem-all-le-a-nuklearis-fenyegetessel-putyin-olyan-fegyvert-vetett-be-ukrajna-mint-azelott-soha-haborus-hireink-penteken-866788"
+        },
+        {
+          "nev": "Magyar Nemzet",
+          "cim": "Az 1956-os szabadságharc nem hasonlítható az ukrajnai háborúhoz",
+          "url": "https://magyarnemzet.hu/velemeny/2026/10/az-1956-os-szabadsagharc-nem-hasonlithato-az-ukrajnai-haboruhoz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
         }
       ]
     },
@@ -61,22 +98,6 @@
       ]
     },
     {
-      "cim": "21 Kutatóközpont: csökkent, de így is óriási a Tisza előnye",
-      "lead": "Megerősíti a Tisza Párt kis mértékű népszerűségvesztését, illetve a Fidesz mélypontról történő elmozdulását a 21 Kutatóközpont friss pártpreferencia-vizsgálata.",
-      "forrasok": [
-        {
-          "nev": "Portfolio",
-          "cim": "21 Kutatóközpont: csökkent, de így is óriási a Tisza előnye",
-          "url": "https://www.portfolio.hu/gazdasag/20261002/21-kutatokozpont-csokkent-de-igy-is-oriasi-a-tisza-elonye-866826"
-        },
-        {
-          "nev": "Index",
-          "cim": "Friss felmérés: csökkent a Tisza előnye, erősödött a Fidesz és a Mi Hazánk",
-          "url": "https://index.hu/belfold/2026/10/02/21-kutatokozpont-kozvelemeny-kutatas-fidesz-tisza-part-mi-hazank/"
-        }
-      ]
-    },
-    {
       "cim": "Kilenc százalékot esett a Tisza támogatottsága május óta",
       "lead": "A friss felmérést a Magyar Péterékhez közelálló 21 Kutatóközpont végezte.",
       "forrasok": [
@@ -89,22 +110,6 @@
           "nev": "444",
           "cim": "60:26 arányban vezet, de május óta 9 százalékot veszített támogatottságából a Tisza a 21 Kutatóközpont szerint",
           "url": "https://444.hu/2026/10/02/6026-aranyban-vezet-de-majus-ota-9-szazalekot-veszitett-tamogatottsagabol-a-tisza-a-21-kutatokozpont-szerint?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        }
-      ]
-    },
-    {
-      "cim": "Nem áll le a nukleáris fenyegetéssel Putyin, olyan fegyvert vetett be Ukrajna, mint azelőtt soha – Háborús híreink pénteken",
-      "lead": "Vlagyimir Putyin orosz elnök ismét azzal fenyegetőzött, hogy kész a teljes orosz fegyverarzenált bevetni, ha bárki megtámadná Kalinyingrádot vagy bármely más orosz régiót. Putyin szerint \"ez nem megfélemlítés\", csupán válasz mások megfélemlítési kísérleteire. Ukrajna először vetette be éles körülmények között a saját…",
-      "forrasok": [
-        {
-          "nev": "Portfolio",
-          "cim": "Nem áll le a nukleáris fenyegetéssel Putyin, olyan fegyvert vetett be Ukrajna, mint azelőtt soha – Háborús híreink pénteken",
-          "url": "https://www.portfolio.hu/global/20261002/nem-all-le-a-nuklearis-fenyegetessel-putyin-olyan-fegyvert-vetett-be-ukrajna-mint-azelott-soha-haborus-hireink-penteken-866788"
-        },
-        {
-          "nev": "Magyar Nemzet",
-          "cim": "Az 1956-os szabadságharc nem hasonlítható az ukrajnai háborúhoz",
-          "url": "https://magyarnemzet.hu/velemeny/2026/10/az-1956-os-szabadsagharc-nem-hasonlithato-az-ukrajnai-haboruhoz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
         }
       ]
     },
@@ -141,56 +146,51 @@
       ]
     },
     {
-      "cim": "Egy plébános arról prédikált, hogy akik a Tiszára szavaztak, ellenségek és elpusztítják az országot, Magyar Péter felszólította a katolikus egyházat a nyilvános elhatárolódásra",
-      "lead": "Osztie Zoltán szokott Orbán Viktorért misézni, híres még a buzizásairól is, és általában a Fidesz buzgó támogatója. A miniszterelnök szerint „mind az egyházi, mind a világi életben meg kell húzni a határvonalakat”.",
+      "cim": "Több mint egy perccel javult a mentők kiérkezési ideje, de még messze a 15 perces cél",
+      "lead": "Szeptemberben a legsürgősebb esetek 90 százalékához még így is 25 perc fölött értek ki a mentők.",
       "forrasok": [
         {
           "nev": "444",
-          "cim": "Egy plébános arról prédikált, hogy akik a Tiszára szavaztak, ellenségek és elpusztítják az országot, Magyar Péter felszólította a katolikus egyházat a nyilvános elhatárolódásra",
-          "url": "https://444.hu/2026/10/01/egy-plebanos-arrol-predikalt-hogy-akik-a-tiszara-szavaztak-ellensegek-es-elpusztitjak-az-orszagot-magyar-peter-felszolitotta-a-katolikus-egyhazat-a-nyilvanos-elhatarolodasra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "cim": "Több mint egy perccel javult a mentők kiérkezési ideje, de még messze a 15 perces cél",
+          "url": "https://444.hu/2026/10/02/tobb-mint-egy-perccel-javult-a-mentok-kierkezesi-ideje-de-meg-messze-a-15-perces-cel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         },
         {
-          "nev": "HVG",
-          "cim": "Visszaesett a Tisza, de így is többen szavaznának Magyarékra, mint áprilisban",
-          "url": "https://hvg.hu/itthon/20261002_kutatas-partpreferenciavisszaeses-tisza-fidesz"
+          "nev": "Index",
+          "cim": "Friss adatok érkeztek, javultak a mentők kiérkezési idői szeptemberben, de messze még a cél",
+          "url": "https://index.hu/belfold/2026/10/02/mentoszolgalat-omsz-kierkezesi-ido/"
         }
       ]
     },
     {
-      "cim": "A főegyházmegye tarthatatlannak nevezte Osztie Zoltán plébános tiszások elleni kirohanását, reagált az egyház és a KDNP is",
-      "lead": "A főegyházmegye figyelmeztette a plébánost, hogy a jövőben tartózkodjon az ilyen és hasonló jellegű megnyilvánulásoktól. A katolikus egyház viszont inkább Magyar Pétert igyekezett kiosztani, ahogy a KDNP is.",
+      "cim": "Új fejezetet nyit a világűr történetében, hogy az Egyesült Államok elismerte a felfegyverzését",
+      "lead": "Trump megalomániáját és a modern háborúk feltételeit egyszerre elégíti ki az amerikai űrképességek rohamos fejlesztése. A fegyverkezési versenyben új fejezetet nyit, hogy a Pentagon a világon elsőként elismerte: űrfegyvereket állított pályára. Közben felpumpálták az űrhaderő költségvetését és épül az Aranykupola. De…",
       "forrasok": [
         {
           "nev": "HVG",
-          "cim": "A főegyházmegye tarthatatlannak nevezte Osztie Zoltán plébános tiszások elleni kirohanását, reagált az egyház és a KDNP is",
-          "url": "https://hvg.hu/itthon/20261002_budapest-eszergomi-foegyhazmegye-osztie-zoltan-tisza-part-reakcio"
-        },
-        {
-          "nev": "444",
-          "cim": "Az egyház és a KDNP igencsak mást gondol arról, hogy az Orbán-rajongó plébános erkölcsileg romlott országpusztítónak nevezte a tiszásokat, ami miatt Magyar Péter elhatárolódást kért",
-          "url": "https://444.hu/2026/10/02/az-egyhaz-es-a-kdnp-igencsak-mast-gondol-arrol-hogy-az-orban-rajongo-plebanos-erkolcsileg-romlott-orszagpusztitonak-nevezte-a-tiszasokat-ami-miatt-magyar-peter-elhatarolodast-kert?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "cim": "Új fejezetet nyit a világűr történetében, hogy az Egyesült Államok elismerte a felfegyverzését",
+          "url": "https://hvg.hu/360/20261002_202640-fegyverkezesi-verseny-vilagur-amerikai-beismeres-urahdero-aranykupola-muhold-troy-meink"
         }
       ]
     },
     {
-      "cim": "Küszöbön a totális EU-Kína gazdasági háború",
-      "lead": "Az Európai Unió és Kína közötti kereskedelmi tárgyalások hónapok óta tartanak, ám a megállapodás egyelőre nem körvonalazódik – nyilatkozta Maroš Šefčovič, az EU kereskedelmi biztosa a milwaukeei G20-as kereskedelmi miniszteri találkozó margóján a Politico -nak. A biztos ugyanakkor jelezte, hogy az uniós vezetők…",
+      "cim": "Itt lehetnek a következő nagy befektetési sztorik – A piac még nem árazott be mindent!",
+      "lead": "Hol vannak még olyan befektetési lehetőségek, amiket nem fedezett fel teljesen a piac? Október 21-én a Portfolio Investment Day -en erre is keressük a választ. Pletser Tamás , az OTP Alapkezelő senior portfóliómenedzsere és Molnár Péter , az Erste Investment nyersanyagpiaci specialistája mutatja meg, milyen…",
       "forrasok": [
         {
           "nev": "Portfolio",
-          "cim": "Küszöbön a totális EU-Kína gazdasági háború",
-          "url": "https://www.portfolio.hu/unios-forrasok/20261002/kuszobon-a-totalis-eu-kina-gazdasagi-haboru-866854"
+          "cim": "Itt lehetnek a következő nagy befektetési sztorik – A piac még nem árazott be mindent!",
+          "url": "https://www.portfolio.hu/uzlet/20261002/itt-lehetnek-a-kovetkezo-nagy-befektetesi-sztorik-a-piac-meg-nem-arazott-be-mindent-794572"
         }
       ]
     },
     {
-      "cim": "Megjött a fenyegetés: sokkoló csapást szenved az egész világgazdaság, ha Amerika folytatja a háborút",
-      "lead": "Teljesen újfajta rakétákat fog használni Irán amerikai célpontok ellen és a Hormuzi-szorost, Vörös-tengert is lezárja, ha az Egyesült Államok folytatja a háborúját az ország ellen – idézi Moszávi Beidli iráni parlamenti képviselőt, a belügyi testület tagját az Iran International .",
+      "cim": "Francia közgazdász Magyarék vagyonadó-tervéről: Jó az egymilliárdos küszöb",
+      "lead": "Sok helyen arányosan kevesebb adót fizetnek a szupergazdagok, ha a tényleges adókulcsot nézzük, amit senki nem tart elfogadhatónak. Lemos egy sor vagyonadóval szembeni érvet.",
       "forrasok": [
         {
-          "nev": "Portfolio",
-          "cim": "Megjött a fenyegetés: sokkoló csapást szenved az egész világgazdaság, ha Amerika folytatja a háborút",
-          "url": "https://www.portfolio.hu/global/20261002/megjott-a-fenyegetes-sokkolo-csapast-szenved-az-egesz-vilaggazdasag-ha-amerika-folytatja-a-haborut-866856"
+          "nev": "HVG",
+          "cim": "Francia közgazdász Magyarék vagyonadó-tervéről: Jó az egymilliárdos küszöb",
+          "url": "https://hvg.hu/gazdasag/20261002_vagyonado-egyenlotlenseg-tenyleges-adokulcs-szja-adoreform-kuszob-gabriel-zucman-interju"
         }
       ]
     }
@@ -235,22 +235,6 @@
           "nev": "Al Jazeera",
           "cim": "Eritrea severs diplomatic ties with Ethiopia in row over Tigray",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/eritrea-severs-diplomatic-ties-with-ethiopia-in-row-over-tigray?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "cim": "FlyDubai Under Scrutiny After Cockpit Attack",
-      "lead": "The United Arab Emirates has said it is leading the investigation into the episode, and FlyDubai’s service between Dubai and Tel Aviv has been suspended.",
-      "forrasok": [
-        {
-          "nev": "New York Times",
-          "cim": "FlyDubai Under Scrutiny After Cockpit Attack",
-          "url": "https://www.nytimes.com/2026/10/01/world/middleeast/flydubai-israel-scrutiny.html"
-        },
-        {
-          "nev": "BBC",
-          "cim": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
-          "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -367,13 +351,13 @@
       ]
     },
     {
-      "cim": "I opened cockpit door of plane while being attacked, Indian pilot tells Modi",
-      "lead": "Capt Smit Machchhar, who was stabbed on the Israel-bound flight, has been hailed as a hero.",
+      "cim": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
+      "lead": "Capt Smit Machchhar was attacked by another pilot onboard the Flydubai flight bound for Tel Aviv.",
       "forrasok": [
         {
           "nev": "BBC",
-          "cim": "I opened cockpit door of plane while being attacked, Indian pilot tells Modi",
-          "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss"
+          "cim": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
+          "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -385,6 +369,17 @@
           "nev": "The Guardian",
           "cim": "Australia news live: Union leader says PM ‘vastly underpaid’; Shoebridge pledges members will ‘have a say’ in next leader",
           "url": "https://www.theguardian.com/australia-news/live/2026/oct/02/labor-anthony-albanese-online-gaming-esafety-coalition-angus-taylor-greens-david-shoebridge-ntwnfb"
+        }
+      ]
+    },
+    {
+      "cim": "Beau Lamarre-Condon trial: victim’s family cries as double murder trial hears triple-zero call",
+      "lead": "Court hears audio of call made on morning Luke Davies and Jesse Baird were allegedly murdered by NSW police officer Warning: graphic image below Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A triple-zero call made the morning Luke Davies and his…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Beau Lamarre-Condon trial: victim’s family cries as double murder trial hears triple-zero call",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/02/beau-lamarre-condon-asked-police-investigator-about-of-lilie-james-day-before-shootings-court-hears"
         }
       ]
     }
