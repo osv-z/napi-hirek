@@ -1,68 +1,193 @@
 {
   "datum": "2026-10-02",
-  "generalva": "2026-10-02T09:49+02:00",
+  "generalva": "2026-10-02T12:36+02:00",
   "hazai": [
     {
-      "cim": "Magyar Péter lett a Time magazinnál a legbefolyásosabb feltörekvők egyike",
-      "lead": "A lap a Tisza áprilisi győzelmét a brexit utáni idők legegyértelműbb Európa-párti kiállásának nevezte. A Time 100 Next listán ott van az Obsessiont író-rendezője és az a futballista is, aki miatt Trump személyesen avatkozott bele a futball-vb-be.",
+      "cim": "Szijjártó Péter megkaphatja a 70 milliárdos kérdést hétfőn, a nemzetbiztonsági bizottság ülésén",
+      "lead": "A választási vereség után a kínai BYD-hoz szegődött volt külügyminiszternek a parlamenti bizottság előtt kellene beszélnie hétfőn a BYD beruházásához az Orbán-kormány által adott közel 70 milliárdos állami infrastruktúra-fejlesztési támogatásról.",
       "forrasok": [
         {
-          "nev": "444",
-          "cim": "Magyar Péter lett a Time magazinnál a legbefolyásosabb feltörekvők egyike",
-          "url": "https://444.hu/2026/10/02/magyar-peter-lett-a-time-magazinnal-a-legbefolyasosabb-feltorekvok-egyike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
           "nev": "HVG",
-          "cim": "Magyar Péter a Time magazin szerint a világ egyik legfontosabb „feltörekvő sztárja”",
-          "url": "https://hvg.hu/elet/20261002_magyar-peter-a-time-magazin-szerint-a-vilag-egyik-legfontosabb-feltorekvo-sztarja"
-        },
-        {
-          "nev": "Magyar Nemzet",
-          "cim": "Magyar Péter szerint Schiffer András írni és olvasni sem tud",
-          "url": "https://magyarnemzet.hu/belfold/2026/10/magyar-peter-szerint-schiffer-andras-irni-es-olvasni-sem-tud?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+          "cim": "Szijjártó Péter megkaphatja a 70 milliárdos kérdést hétfőn, a nemzetbiztonsági bizottság ülésén",
+          "url": "https://hvg.hu/itthon/20261002_szijjarto-peter-70-milliardos-kerdes-nemzetbiztonsagi-bizottsag"
         },
         {
           "nev": "Index",
-          "cim": "Beválasztotta Magyar Pétert a világ 100 legbefolyásosabb feltörekvő embere közé a Time",
-          "url": "https://index.hu/kulfold/2026/10/02/magyar-peter-sztar-miniszterelnok-kormany/"
+          "cim": "Hétfőn állhat a nemzetbiztonsági bizottság elé Szijjártó Péter",
+          "url": "https://index.hu/belfold/2026/10/02/szijjarto-peter-nemzetbiztonsagi-bizottsag-byd-osszeferhetetlenseg/"
+        },
+        {
+          "nev": "Magyar Nemzet",
+          "cim": "Hétfőn Szijjártó Péter a nemzetbiztonsági bizottság elé állhat",
+          "url": "https://magyarnemzet.hu/belfold/2026/10/hetfo-szijjarto-peter-nemzetbiztonsagi-bizottsag-meghallgatas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        },
+        {
+          "nev": "Telex",
+          "cim": "Kezdeményezték Szijjártó Péter meghallgatását a Nemzetbiztonsági Bizottság előtt",
+          "url": "https://telex.hu/belfold/2026/10/02/szijjarto-peter-nemzetbiztonsagi-bizottsag-meghallgatas-1"
+        },
+        {
+          "nev": "444",
+          "cim": "A nemzetbiztonsági bizottság hétfői ülésére várják Szijjártó Pétert",
+          "url": "https://444.hu/2026/10/02/a-nemzetbiztonsagi-bizottsag-hetfoi-ulesere-varjak-szijjarto-petert?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ]
     },
     {
-      "cim": "Egy plébános arról prédikált, hogy akik a Tiszára szavaztak, ellenségek és elpusztítják az országot, Magyar Péter felszólította a katolikus egyházat a nyilvános elhatárolódásra",
-      "lead": "Osztie Zoltán szokott Orbán Viktorért misézni, híres még a buzizásairól is, és általában a Fidesz buzgó támogatója. A miniszterelnök szerint „mind az egyházi, mind a világi életben meg kell húzni a határvonalakat”.",
+      "cim": "Magyar oldaláról eltűnt az X-poszt, amellyel arra reagált, hogy Nagy Márton Svájcba költözött",
+      "lead": "„Magyarország gyönyörű, csak úgy tűnik, nem mindenkinek” – írta a miniszterelnök arról, hogy Nagy Márton külföldön kezdett új életet, de azóta a posztját törölték – nem tudni, miért.",
       "forrasok": [
         {
-          "nev": "444",
-          "cim": "Egy plébános arról prédikált, hogy akik a Tiszára szavaztak, ellenségek és elpusztítják az országot, Magyar Péter felszólította a katolikus egyházat a nyilvános elhatárolódásra",
-          "url": "https://444.hu/2026/10/01/egy-plebanos-arrol-predikalt-hogy-akik-a-tiszara-szavaztak-ellensegek-es-elpusztitjak-az-orszagot-magyar-peter-felszolitotta-a-katolikus-egyhazat-a-nyilvanos-elhatarolodasra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "nev": "HVG",
+          "cim": "Magyar oldaláról eltűnt az X-poszt, amellyel arra reagált, hogy Nagy Márton Svájcba költözött",
+          "url": "https://hvg.hu/itthon/20261002_magyar-peter-x-poszt-nagy-marton-svajc"
+        },
+        {
+          "nev": "Telex",
+          "cim": "Nagy Márton volt gazdasági miniszter Svájcba költözött, nyár óta egy zürichi banknak dolgozik",
+          "url": "https://telex.hu/gazdasag/2026/10/02/nagy-marton-svajc-zurich-koltozes-orban-kormany"
         },
         {
           "nev": "Magyar Nemzet",
           "cim": "Magyar Péter az egyházat is utasítja, a katolikusok reagáltak a felszólítására",
           "url": "https://magyarnemzet.hu/belfold/2026/10/magyar-peter-az-egyhazat-is-utasitja-a-katolikusok-reagaltak-a-felszolitasara?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        },
+        {
+          "nev": "Index",
+          "cim": "Magyar Péter is reagált arra, hogy Nagy Márton új életet kezdett",
+          "url": "https://index.hu/belfold/2026/10/02/magyar-peter-kulfoldre-tavoztak-ner-vezetoje/"
         }
       ]
     },
     {
-      "cim": "Tisza-kormány: folytatódnak a büntetőeljárások, felbukkant Nagy Márton",
-      "lead": "Sűrű napot hozott a közélet: Varga Mihály bejelentette részvételét az MNB-ügyet vizsgáló bizottság előtt, miközben Hankó Balázsnál házkutatást tartottak. A kormány újabb nyugdíjemelési és szociális intézkedéseket jelentett be, Budapest pedig 120 milliárd forintos támogatásban állapodott meg a kabinettel. Eközben…",
+      "cim": "„A saját életemért küzdöttem, de nem hagyhattam meghalni a többieket” – megszólalt a Flydubai megtámadott kapitánya",
+      "lead": "Smit Machchhar indiai kapitány Narendra Modi miniszterelnöknek idézte fel videóhívásban, hogyan élte túl a támadást, és segített megmenteni az utasokat.",
       "forrasok": [
         {
-          "nev": "Portfolio",
-          "cim": "Tisza-kormány: folytatódnak a büntetőeljárások, felbukkant Nagy Márton",
-          "url": "https://www.portfolio.hu/gazdasag/20261002/tisza-kormany-folytatodnak-a-buntetoeljarasok-felbukkant-nagy-marton-866818"
+          "nev": "444",
+          "cim": "„A saját életemért küzdöttem, de nem hagyhattam meghalni a többieket” – megszólalt a Flydubai megtámadott kapitánya",
+          "url": "https://444.hu/2026/10/02/a-sajat-eletemert-kuzdottem-de-nem-hagyhattam-meghalni-a-tobbieket-megszolalt-a-flydubai-megtamadott-kapitanya?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "Telex",
+          "cim": "A Flydubai-gép indiai kapitánya: Nem hagyhattam, hogy mindenki meghaljon",
+          "url": "https://telex.hu/kulfold/2026/10/02/a-flydubai-gep-indiai-kapitanya-nem-hagyhattam-hogy-mindenki-meghaljon"
+        },
+        {
+          "nev": "HVG",
+          "cim": "A Flydubai-járat megkéselt kapitánya: Nem hagyhattam, hogy mások meghaljanak",
+          "url": "https://hvg.hu/elet/20261002_flyduba-geprablasi-kiserlet-pilota-kapitany-india-narendra-modi"
         },
         {
           "nev": "Index",
-          "cim": "Kiderült, hol kezdett új életet Nagy Márton",
-          "url": "https://index.hu/gazdasag/2026/10/02/nagy-marton-svajc-nemzetgazdasagi-miniszterium-orban-viktor/"
+          "cim": "A Ronaldo-balhé óta először szólalt meg a sajtóban a portugál kapitány",
+          "url": "https://index.hu/sport/futball/2026/10/02/cristiano-ronaldo-portugalia-jorge-jesus-portugal-valogatott-nemzetek-ligaja/"
+        }
+      ]
+    },
+    {
+      "cim": "Kerkez Milos édesapjának tette után mindketten az ukránok ellenséglistájára kerültek",
+      "lead": "A Nemzetek Ligája-mérkőzés után történtek hatalmas felháborodást váltottak ki Ukrajnában.",
+      "forrasok": [
+        {
+          "nev": "Magyar Nemzet",
+          "cim": "Kerkez Milos édesapjának tette után mindketten az ukránok ellenséglistájára kerültek",
+          "url": "https://magyarnemzet.hu/sport/2026/10/kerkez-milos-edesapja-sebastijan-ukrajna-ellenseg-orosz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Ukrajna ellenségeként listázták Kerkez Milost a magyar–ukrán meccsen történt dulakodás után",
+          "url": "https://hvg.hu/sport/20261002_labdarugas-ukrajna-meccs-dulakodas-ellenseg-lista-kerkez-milos"
+        },
+        {
+          "nev": "Index",
+          "cim": "A magyar fociválogatott alapembere és apja is felkerült az „Ukrajna ellenségei” listára",
+          "url": "https://index.hu/sport/futball/2026/10/02/kerkez-milos-magyar-valogatott-ukrajna-magyarorszag-nemzetek-ligaja/"
+        }
+      ]
+    },
+    {
+      "cim": "Csoportos létszámleépítésbe kezd a közmédia",
+      "lead": "A Telex úgy értesült, hogy a vezetőség értesítette a szakszervezetet és az üzemi tanácsot, hogy a hamarosan lezáruló felülvizsgálat eredményeként várhatóan annyi munkakör szűnik meg, hogy az már eléri a létszámcsökkentés mértékét.",
+      "forrasok": [
+        {
+          "nev": "Telex",
+          "cim": "Csoportos létszámleépítésbe kezd a közmédia",
+          "url": "https://telex.hu/belfold/2026/10/02/kozmedia-atalakitas-duna-mediaszolgaltato"
+        },
+        {
+          "nev": "444",
+          "cim": "Csoportos létszámleépítést jelentettek be a közmédiánál",
+          "url": "https://444.hu/2026/10/02/csoportos-letszamleepitest-jelentettek-be-a-kozmedianal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Csoportos létszámleépítést jelentett be az ideiglenes vezetőség a közmédiánál",
+          "url": "https://hvg.hu/itthon/20261002_csoportos-letszamleepites-kozmedia-mtva-ideiglenes-vezetes"
+        }
+      ]
+    },
+    {
+      "cim": "Az ukránok közzétették a magyar kisebbség oktatási jogait erősítő jogszabályt",
+      "lead": "Szerhij Babak, az ukrán parlament oktatási, tudományos és innovációs bizottságának elnöke szerint sikerült olyan megoldást találni, amely egyszerre védi az ukrán nyelvet, és „érthető” jogokat biztosít a nemzeti kisebbségeknek.",
+      "forrasok": [
+        {
+          "nev": "HVG",
+          "cim": "Az ukránok közzétették a magyar kisebbség oktatási jogait erősítő jogszabályt",
+          "url": "https://hvg.hu/vilag/20261002_ukran-parlament-jogszabaly-magyar-kisebbseg-oktatasi-jog-nyelvhasznalat"
+        },
+        {
+          "nev": "444",
+          "cim": "Benyújtották az ukrán parlamentnek a magyar kisebbség oktatási jogait megerősítő törvényjavaslatot",
+          "url": "https://444.hu/2026/10/02/benyujtottak-az-ukran-parlamentnek-a-magyar-kisebbseg-oktatasi-jogait-megerosito-torvenyjavaslatot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "Telex",
+          "cim": "Orbán Anita: Az ukrán parlament elé kerül a nemzeti kisebbségek oktatási jogait érintő törvényjavaslat",
+          "url": "https://telex.hu/kulfold/2026/10/02/orban-anita-magyar-peter-ukrajna-magyarorszag-nemzeti-kisebbsegi-jogok-oktatas"
+        }
+      ]
+    },
+    {
+      "cim": "Decembertől szüneteltetheti a devizaváltást a Revolut",
+      "lead": "December 3-tól módosítja a felhasználási feltételeit a Revolut, aminek értelmében rendkívüli piaci események vagy technikai hibák esetén átmenetileg felfüggesztheti a devizaváltást. A korlátozás nem jelenti a számlák zárolását, ugyanakkor komoly fennakadásokat okozhat, ha valaki egy hirtelen forintgyengülés idején…",
+      "forrasok": [
+        {
+          "nev": "Portfolio",
+          "cim": "Decembertől szüneteltetheti a devizaváltást a Revolut",
+          "url": "https://www.portfolio.hu/bank/20261002/decembertol-szuneteltetheti-a-devizavaltast-a-revolut-866898"
+        },
+        {
+          "nev": "444",
+          "cim": "A Revolut újraírta a feltételeket: decembertől szünetelheti a devizaváltást",
+          "url": "https://444.hu/2026/10/02/a-revolut-ujrairta-a-felteteleket-decembertol-szunetelheti-a-devizavaltas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Most írták bele a szerződésekbe: szélsőséges esetekben korlátozhatja a devizaváltást a Revolut",
+          "url": "https://hvg.hu/gazdasag/20261002_revolut-valutavaltas-korlatozasa-szerzodesi-feltetelek-bankolas-fintech"
+        }
+      ]
+    },
+    {
+      "cim": "Hiába tudja megkerülni a Hormuzi-szorost egy rejtett útvonalon, patthelyzetbe került a közel-keleti rezsim",
+      "lead": "Irán lőtt még van nyitva egy lehetőség, amelyen keresztül meg tudja kerülni a Hormuzi-szorost, anélkül, hogy az Egyesült Államok blokádjával kelljen szembenéznie. Az Iran International elemzésében annak járt után, hogy pontosan mekkora hatékonysággal tudják használni ezt a lehetséges folyosót.",
+      "forrasok": [
+        {
+          "nev": "Portfolio",
+          "cim": "Hiába tudja megkerülni a Hormuzi-szorost egy rejtett útvonalon, patthelyzetbe került a közel-keleti rezsim",
+          "url": "https://www.portfolio.hu/global/20261002/hiaba-tudja-megkerulni-a-hormuzi-szorost-egy-rejtett-utvonalon-patthelyzetbe-kerult-a-kozel-keleti-rezsim-866930"
+        },
+        {
+          "nev": "444",
+          "cim": "Támadás ért egy tankert a Hormuzi-szorosban",
+          "url": "https://444.hu/2026/10/02/tamadas-ert-egy-tankert-a-hormuzi-szorosban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ]
     },
     {
       "cim": "Nem áll le a nukleáris fenyegetéssel Putyin, olyan fegyvert vetett be Ukrajna, mint azelőtt soha – Háborús híreink pénteken",
-      "lead": "Vlagyimir Putyin orosz elnök ismét azzal fenyegetőzött, hogy kész a teljes orosz fegyverarzenált bevetni, ha bárki megtámadná Kalinyingrádot vagy bármely más orosz régiót. Putyin szerint \"ez nem megfélemlítés\", csupán válasz mások megfélemlítési kísérleteire. Ukrajna először vetette be éles körülmények között a saját…",
+      "lead": "Vlagyimir Putyin orosz elnök ismét azzal fenyegetőzött , hogy kész a teljes orosz fegyverarzenált bevetni, ha bárki megtámadná Kalinyingrádot vagy bármely más orosz régiót. Putyin szerint \"ez nem megfélemlítés\", csupán válasz mások megfélemlítési kísérleteire. Ukrajna először vetette be éles körülmények között a saját…",
       "forrasok": [
         {
           "nev": "Portfolio",
@@ -77,144 +202,79 @@
       ]
     },
     {
-      "cim": "Szürreális fordulat: Magyar Péter újra kirúgta Havasi Bertalant",
-      "lead": "Ezúttal jelezték, hogy nem kaphat végkielégítést, és három évre el is tiltották a kormányzati szolgálattól.",
+      "cim": "A Női DPK társalapítója: A választást nem a jobboldal veszítette el, hanem Orbán Viktor",
+      "lead": "Isky Annamária a közösségi oldalán üzent, mondatait többek mellett Pócs János is árulásként értékelte.",
       "forrasok": [
-        {
-          "nev": "Magyar Nemzet",
-          "cim": "Szürreális fordulat: Magyar Péter újra kirúgta Havasi Bertalant",
-          "url": "https://magyarnemzet.hu/belfold/2026/10/havasi-bertalan-ujbol-kirugtak-szurrealis-magyar-peter?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-        },
-        {
-          "nev": "Index",
-          "cim": "Havasi Bertalan: Magyar Péter még egyszer kirúgott",
-          "url": "https://index.hu/belfold/2026/10/02/havasi-bertalan-fidesz-magyar-peter-kirugas/"
-        }
-      ]
-    },
-    {
-      "cim": "Kilenc százalékot esett a Tisza támogatottsága május óta",
-      "lead": "A friss felmérést a Magyar Péterékhez közelálló 21 Kutatóközpont végezte.",
-      "forrasok": [
-        {
-          "nev": "Magyar Nemzet",
-          "cim": "Kilenc százalékot esett a Tisza támogatottsága május óta",
-          "url": "https://magyarnemzet.hu/belfold/2026/10/kilenc-szazalekot-esett-a-tisza-tamogatottsaga-majus-ota?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-        },
-        {
-          "nev": "444",
-          "cim": "60:26 arányban vezet, de május óta 9 százalékot veszített támogatottságából a Tisza a 21 Kutatóközpont szerint",
-          "url": "https://444.hu/2026/10/02/6026-aranyban-vezet-de-majus-ota-9-szazalekot-veszitett-tamogatottsagabol-a-tisza-a-21-kutatokozpont-szerint?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        }
-      ]
-    },
-    {
-      "cim": "Áthelyeztek két rendőrt a HVG újságíróját sértegető e-mail miatt",
-      "lead": "Lezárult az Országos Rendőr-főkapitányság belső vizsgálata a „sikítozó kékharisnyázással” kapcsolatban, de azt nem árulták el, kiket érint az intézkedés, és hol dolgoznak tovább.",
-      "forrasok": [
-        {
-          "nev": "444",
-          "cim": "Áthelyeztek két rendőrt a HVG újságíróját sértegető e-mail miatt",
-          "url": "https://444.hu/2026/10/02/athelyeztek-ket-rendort-a-hvg-ujsagirojat-sertegeto-e-mail-miatt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
         {
           "nev": "HVG",
-          "cim": "Két rendőrt áthelyeztek a HVG újságírójának küldött kékharisnyázós e-mail után",
-          "url": "https://hvg.hu/itthon/20261002_orszagos-rendor-fokapitanysag-orfk-belso-vizsgalat-kekharisnya-athelyezes"
+          "cim": "A Női DPK társalapítója: A választást nem a jobboldal veszítette el, hanem Orbán Viktor",
+          "url": "https://hvg.hu/itthon/20261002_isky-annamaria-noi-dpk-orban-viktor-kritika"
+        },
+        {
+          "nev": "Telex",
+          "cim": "A Női DPK társalapítója, Varga Judit egykori sajtófőnöke szerint Orbán Viktor veszítette el a választást, nem a jobboldal",
+          "url": "https://telex.hu/belfold/2026/10/02/isky-annamaria-a-noi-digitalis-polgari-kor-tarsalapitoja-steiner-attila-varga"
         }
       ]
     },
     {
-      "cim": "Több mint egy perccel javult a mentők kiérkezési ideje, de még messze a 15 perces cél",
-      "lead": "Szeptemberben a legsürgősebb esetek 90 százalékához még így is 25 perc fölött értek ki a mentők.",
+      "cim": "Az összes biztonsági őr feketén dolgozott egy egyetemi rendezvényen",
+      "lead": "Azt nem közölte az adóhivatal, hogy melyik egyetem milyen rendezvényén történt az eset.",
       "forrasok": [
         {
           "nev": "444",
-          "cim": "Több mint egy perccel javult a mentők kiérkezési ideje, de még messze a 15 perces cél",
-          "url": "https://444.hu/2026/10/02/tobb-mint-egy-perccel-javult-a-mentok-kierkezesi-ideje-de-meg-messze-a-15-perces-cel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "cim": "Az összes biztonsági őr feketén dolgozott egy egyetemi rendezvényen",
+          "url": "https://444.hu/2026/10/02/az-osszes-biztonsagi-or-feketen-dolgozott-egy-egyetemi-rendezvenyen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         },
         {
-          "nev": "Index",
-          "cim": "Friss adatok érkeztek, javultak a mentők kiérkezési idői szeptemberben, de messze még a cél",
-          "url": "https://index.hu/belfold/2026/10/02/mentoszolgalat-omsz-kierkezesi-ido/"
+          "nev": "Telex",
+          "cim": "Kiszállt a NAV egy egyetemi rendezvényre, a 16 biztonsági őr közül egy sem volt bejelentve",
+          "url": "https://telex.hu/gazdasag/2026/10/02/nav-16-biztonsagi-or-bejelentes-nelkul-egyetemi-rendezveny"
         }
       ]
     },
     {
-      "cim": "Tarthatatlanná vált a helyzet Magyarországon: tömegesen adhatják fel a harcot a hazai gazdák a vadkárok miatt",
-      "lead": "Egy nemrég előkerült dokumentum bizonyítja, hogy az agrártárca közvetlen utasításai alapján, az állami erdészetek és nemzeti parkok aktív közreműködésével kerültek a vadászati jogok kormányközeli társaságokhoz. A politikai indíttatású, szakmaiatlan döntések nyomán drasztikusan túlszaporodott vadállomány mára olyan…",
+      "cim": "Halle Berry csak korlátozottan látogathatja a fiát egy ideig, a volt férje erőszakkal vádolja",
+      "lead": "A következő meghallgatásig korlátozta Halle Berry láthatási jogát egy bíró, miután volt férje azt állította a színésznőről: bántalmazta közös gyereküket. Berry ügyvédje szerint alaptalanok a vádak.",
       "forrasok": [
         {
-          "nev": "Portfolio",
-          "cim": "Tarthatatlanná vált a helyzet Magyarországon: tömegesen adhatják fel a harcot a hazai gazdák a vadkárok miatt",
-          "url": "https://www.portfolio.hu/gazdasag/20261002/tarthatatlanna-valt-a-helyzet-magyarorszagon-tomegesen-adhatjak-fel-a-harcot-a-hazai-gazdak-a-vadkarok-miatt-866864"
-        }
-      ]
-    },
-    {
-      "cim": "Menne tovább a dollár - vajon ma is megütik a forintot?",
-      "lead": "Az elmúlt hetek meghatározó fejleménye a devizapiacokon a dollár markáns erősödése, amelyet az erős amerikai gazdaság, a szigorodó monetáris politika és az energiaválság egyaránt táplál. A dollárindex tegnap közel 0,6%-ot emelkedett, az euró-dollár árfolyam 1,13 alá süllyedt, a jen pedig a 158-as szintet is megütötte…",
-      "forrasok": [
+          "nev": "HVG",
+          "cim": "Halle Berry csak korlátozottan látogathatja a fiát egy ideig, a volt férje erőszakkal vádolja",
+          "url": "https://hvg.hu/elet/20261002_halle-berry-fia-lathatas-volt-ferj-eroszak-vadak-beadvany"
+        },
         {
-          "nev": "Portfolio",
-          "cim": "Menne tovább a dollár - vajon ma is megütik a forintot?",
-          "url": "https://www.portfolio.hu/deviza/20261002/menne-tovabb-a-dollar-vajon-ma-is-megutik-a-forintot-866808"
-        }
-      ]
-    },
-    {
-      "cim": "Megemelték Magyarország finanszírozási tervét, rekordra ugrott az állam pénzügyi tartaléka",
-      "lead": "Szeptember végére az éves nettó kibocsátási tervének 94,4 százalékát teljesítette az Államadósság-kezelő Központ (ÁKK), miközben a megnövekedett költségvetési igények és a tartaléképítés miatt megemelte az idei finanszírozási célokat. Az év első kilenc hónapjában történelmi csúcsot ért el a kincstári likviditás, a…",
-      "forrasok": [
-        {
-          "nev": "Portfolio",
-          "cim": "Megemelték Magyarország finanszírozási tervét, rekordra ugrott az állam pénzügyi tartaléka",
-          "url": "https://www.portfolio.hu/gazdasag/20261002/megemeltek-magyarorszag-finanszirozasi-tervet-rekordra-ugrott-az-allam-penzugyi-tartaleka-866866"
-        }
-      ]
-    },
-    {
-      "cim": "Tragédia a horvát-szlovén határon, komoly a migrációs nyomás",
-      "lead": "Öten a Kulpa folyóba fulladtak, szlovén adatok szerint az év első felében drámaian nőtt a határátlépések száma.",
-      "forrasok": [
-        {
-          "nev": "Magyar Nemzet",
-          "cim": "Tragédia a horvát-szlovén határon, komoly a migrációs nyomás",
-          "url": "https://magyarnemzet.hu/kulfold/2026/10/horvat-szloven-hatar-migracios-nyomas-frontex?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+          "nev": "Telex",
+          "cim": "Volt férje szerint Halle Berry bántotta 12 éves fiukat, és verbálisan bántalmazta őt is",
+          "url": "https://telex.hu/kulfold/2026/10/02/halle-berry-olivier-martinez-tavoltartasi-vegzes"
         }
       ]
     }
   ],
   "nemzetkozi": [
     {
-      "cim": "Nagy-Britannia tárgyalásokat folytat az európai szövetségesekkel a rendkívüli dízelkészletek felszabadításáról Trump nyomásgyakorlata közepette",
-      "lead": "A miniszterek az EU-s országok tartalékainak felhasználásáról tárgyalnak, miután Donald Trump azzal fenyegetőzött, hogy elvágja az Egyesült Államokból érkező ellátást. Nagy-Britannia európai szövetségesekkel tárgyal a rendkívüli dízelkészletek felszabadításáról, miután Donald Trump azzal fenyegetőzött, hogy elvágja az üzemanyag amerikai szállításait. A miniszterek telefonbeszélgetéseket folytattak az európai partnerekkel…",
+      "cim": "„Az életemért harcoltam”: Hősként ünnepelt indiai pilóta emlékszik vissza a Flydubai pilótafülkéjében történt támadásra",
+      "lead": "Smit Machchhar az indiai miniszterelnökkel folytatott videóhívásban elmondta, rájött, ha nem kel fel, „az utasok életüket vesztik”. Az indiai pilóta, aki segített meghiúsítani a Flydubai egyik járatának lezuhanására irányuló kísérletet, beszámolt arról, hogyan küzdött az életéért a perceikben, miután társpilótája megkéselte, és a gép elkezdett…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "Britain in talks with European allies over release of emergency diesel stockpiles amid Trump pressure",
-          "url": "https://www.theguardian.com/business/2026/oct/01/britain-talks-european-allies-eu-emergency-diesel-stockpiles-reserves"
+          "cim": "‘I was fighting for my life’: Indian pilot hailed as hero recalls flydubai cockpit attack",
+          "url": "https://www.theguardian.com/world/2026/oct/02/indian-pilot-smit-machchhar-recalls-flydubai-cockpit-attack"
         },
         {
           "nev": "New York Times",
-          "cim": "Trump’s Threat to Ban Diesel Exports Sets Off Global Alarms",
-          "url": "https://www.nytimes.com/2026/10/01/business/diesel-prices-us-exports.html"
+          "cim": "Who Is Captain Smit Machchhar, the Pilot Hailed as a Hero After FlyDubai Cockpit Stabbing?",
+          "url": "https://www.nytimes.com/2026/10/01/world/asia/israel-flight-flydubai-pilot-captain-smit-machchhar.html"
         },
         {
           "nev": "BBC",
-          "cim": "US pressures Europe to release diesel reserves as Trump threatens export ban",
-          "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "Trump says US may ask Europe to release diesel reserves",
-          "url": "https://www.aljazeera.com/news/2026/10/2/trump-says-us-may-ask-europe-to-release-diesel-reserves?traffic_source=rss"
+          "cim": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+          "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "cim": "Etiópia és Eritrea megszakítja a diplomáciai kapcsolatokat az északi konfliktus éleződésével",
-      "lead": "A diplomáciai szakítás azután történt, hogy az etióp erők lázadó harcosokkal csaptak össze az ország északi régiójában.",
+      "lead": "A diplomáciai szakadás amiatt következett be, hogy az etióp erők lázadó harcosokkal csatáznak az ország északi részén.",
       "forrasok": [
         {
           "nev": "BBC",
@@ -229,56 +289,40 @@
       ]
     },
     {
-      "cim": "A FlyDubai vizsgálat alatt áll egy pilótafülkét ért támadás után",
-      "lead": "Az Egyesült Arab Emírségek közölte, hogy ő vezeti az incidens kivizsgálását, a FlyDubai Dubaj és Tel-Aviv közötti járatait pedig felfüggesztették.",
+      "cim": "Oroszország eddigi legerősebb csapását tervezi Ukrajna megfagyasztására",
+      "lead": "Ukrajna európai partnereinek olyan lehallgatottnak mondott orosz terveket mutatott be, amelyek szerint ezen a télen áram-, fűtés- és vízellátás nélkül hagynák a nagyobb városokat.",
       "forrasok": [
         {
           "nev": "New York Times",
-          "cim": "FlyDubai Under Scrutiny After Cockpit Attack",
-          "url": "https://www.nytimes.com/2026/10/01/world/middleeast/flydubai-israel-scrutiny.html"
-        },
-        {
-          "nev": "BBC",
-          "cim": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
-          "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Ukrajna és Dél-Korea összecsapott 2 észak-koreai fogoly átadása miatt",
-      "lead": "Diplomáciai botrány robbant ki két észak-koreai hadifogoly miatt, Dél-Korea bocsánatkérést követel Ukrajnától. Milyen reakciók érkeztek Kijevből?",
-      "forrasok": [
-        {
-          "nev": "Deutsche Welle",
-          "cim": "Ukraine, South Korea clash over transfer of 2 North Korean prisoners",
-          "url": "https://www.dw.com/en/ukraine-south-korea-clash-over-transfer-of-2-north-korean-prisoners/a-79508601?maca=en-rss-en-world-4025-rdf"
+          "cim": "Russia Is Planning Its Most Powerful Blow Yet to Try to Freeze Ukraine",
+          "url": "https://www.nytimes.com/2026/10/02/world/europe/russia-ukraine-winter.html"
         },
         {
           "nev": "Al Jazeera",
-          "cim": "Row between Ukraine, South Korea mounts over North Korean POWs",
-          "url": "https://www.aljazeera.com/news/2026/10/2/row-between-ukraine-south-korea-mounts-over-north-korean-pows?traffic_source=rss"
+          "cim": "Russia tries to freeze Ukraine as it suffers record casualties and retreats",
+          "url": "https://www.aljazeera.com/news/2026/10/2/russia-tries-to-freeze-ukraine-as-it-suffers-record-casualties-and-retreats?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "Tennessee felfüggeszti a kivégzéseket, miután Christa Pike ügyvédje szerint a meghiúsult méreginjekció kritikus állapotba hozta",
-      "lead": "Független vizsgálatot rendeltek el Pike meghiúsult kivégzése után, akit egy 1994-es gyilkosság miatt ítéltek el. Christa Pike: mit tudunk eddig a tennessee-i nő meghiúsult kivégzéséről? Tennessee kormányzója csütörtökön „mélyen aggasztónak” nevezte, hogy állapota válságos maradt, miután elrontották a halálraítélt fogoly kivégzését, aki életben maradt és…",
+      "cim": "Mit tudunk Christa Pike állapotáról a sikertelen kivégzés után?",
+      "lead": "A BBC-től Ione Wells jelentkezik abból a tennesseei kórházból, ahová a hírek szerint szerda este érkezett meg Pike, miután túlélt két halálos injekciós kísérletet.",
       "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Tennessee suspends executions as Christa Pike’s lawyer says failed lethal injection leaves her in critical condition",
-          "url": "https://www.theguardian.com/us-news/2026/oct/01/christa-pike-tennessee-governor-executions-year-pause"
-        },
         {
           "nev": "BBC",
           "cim": "What we know about Christa Pike’s condition after failed execution",
           "url": "https://www.bbc.co.uk/news/videos/cwe8e82jgm8po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "Lawyers for US inmate who survived lethal injections demand release",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/clip-christia-pike-execution-mp4?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "Lemondták Kanye West teltházas oroszországi koncertjeit, erősítették meg a szervezők",
-      "lead": "Oroszország külügyminisztériuma elfogadhatatlannak nevezte a tervezett fellépéseket a rapper Adolf Hitler „dicsőítése” miatt. A szervezők megerősítették, hogy lemondták azt a két teltházas koncertet, amelyeket Kanye West adott volna Oroszországban, heteken át tartó bizonytalanság után. Az amerikai rapper, aki jelenleg a Ye nevet használja, fellépett volna…",
+      "cim": "Lemondták Kanye West telt házas oroszországi koncertjeit, megerősítették a szervezők",
+      "lead": "Oroszország külügyminisztériuma elfogadhatatlannak nevezte a tervezett fellépéseket a rapper Adolf Hitler „dicsőítése” miatt. Telt házas koncertek sorozatát mondták le, amelyeket Kanye West adott volna Oroszországban, hetekig tartó bizonytalanság után – erősítették meg a szervezők. Az amerikai rapper, aki mostantól a Ye nevet használja, fellépett volna…",
       "forrasok": [
         {
           "nev": "The Guardian",
@@ -293,24 +337,8 @@
       ]
     },
     {
-      "cim": "Az EAE vizsgálatot indított a Flydubai gépeltérítési és terrorista ügyében",
-      "lead": "Az Egyesült Arab Emírségek legfőbb ügyésze közölte, hogy vizsgálják a „terrorista tevékenység vagy szándék” lehetőségét egy Tel-Avivba tartó Flydubai kereskedelmi járat állítólagos eltérísének kísérletével kapcsolatban. Hozzátette, hogy az ügyben hatáskörrel rendelkeznek.",
-      "forrasok": [
-        {
-          "nev": "Deutsche Welle",
-          "cim": "UAE launches Flydubai hijacking and terrorism investigation",
-          "url": "https://www.dw.com/en/uae-launches-flydubai-hijacking-and-terrorism-investigation/a-79497746?maca=en-rss-en-world-4025-rdf"
-        },
-        {
-          "nev": "New York Times",
-          "cim": "Investigators Seek Motive for FlyDubai Cockpit Attack",
-          "url": "https://www.nytimes.com/2026/10/01/world/middleeast/flydubai-attack-invesigation.html"
-        }
-      ]
-    },
-    {
-      "cim": "Meghalt Wicknell Chivayo zimbabwei mágnás egy helikopter-balesetben",
-      "lead": "Emmerson Mnangagwa, Zimbabwe elnöke megerősítette a milliárdos üzletember, Wicknell Chivayo és felesége halálát egy helikopter-balesetben, és a fényűző életmódot folytató nagyágyút „rendkívül jótékonynak” nevezte.",
+      "cim": "Meghalt Wicknell Chivayo zimbabwei mágnás helikopter-szerencsétlenségben",
+      "lead": "Emmerson Mnangagwa zimbabwei elnök megerősítette a Wicknell Chivayo üzletember és felesége halálát okozó helikopter-szerencsétlenség tényét, és a fényűző életmódot folytató milliárdosokat „kifejezetten filantrópnak” nevezte.",
       "forrasok": [
         {
           "nev": "Deutsche Welle",
@@ -325,8 +353,8 @@
       ]
     },
     {
-      "cim": "Renee Good családja bezperezte a Trump-kormányt a halálos kimenetelű ICE-lövöldözés miatt",
-      "lead": "Renee Good – az egyik amerikai állampolgár, akit januárban lőttek le halálosan szövetségi bevándorlási ügynökök Minneapolisban – családja beperelte Donald Trump elnök kormányát gondatlanság és polgári jogok megsértése miatt.",
+      "cim": "Renee Good családja beperli a Trump-kormányt a halálos kimenetelű ICE-lövöldözés miatt",
+      "lead": "Renee Good családja – akit azon két amerikai állampolgár egyikeként lőttek le szövetségi bevándorlási ügynökök Minneapolisban januárban – beperelte Donald Trump elnök kormányát gondatlanságra és polgári jogok megsértésére hivatkozva.",
       "forrasok": [
         {
           "nev": "Deutsche Welle",
@@ -341,8 +369,8 @@
       ]
     },
     {
-      "cim": "Iszlám radikális indoktrináción esett át a repülőgép késeléses ügyének másodpilótája – mondja Netanjahu",
-      "lead": "A szaúdi biztonsági szolgálatok kihallgatták a Flydubai állítólagos támadóját, miközben megindul a vizsgálat a lehetséges lezuhanási kísérlet ügyében. Az ománi másodpilóta, aki megkéselte a kapitányát egy Dubajból Izraelbe tartó járaton, feltételezhetően a gép lezuhanását célzó kísérlet során, korábban radikális iszlám indoktrináción esett át, és öngyilkos hajlamú volt – közölte Izrael miniszterelnöke...",
+      "cim": "A repülőgép késeléses incidensének társpilótája „iszlám radikális indoktrináción” esett át – mondja Netanjahu",
+      "lead": "A Flydubai állítólagos támadóját a szaúdi biztonsági szolgálatok hallgatják ki, miközben megindul a lezuhanási kísérlet vizsgálata. Az ománi társpilóta, aki megkéselte a kapitányát egy Dubaiból Izraelbe tartó járaton történt feltételezett gépeltérítési kísérlet során, korábban radikális iszlamista indoktrináción esett át, és öngyilkos hajlamú volt – mondta Izrael miniszterelnöke…",
       "forrasok": [
         {
           "nev": "The Guardian",
@@ -357,24 +385,46 @@
       ]
     },
     {
-      "cim": "Nem hagytam volna, hogy mások meghaljanak – mondja az indiai pilóta, aki kinyitotta a pilótafülke ajtaját a támadás alatt",
-      "lead": "A repülés közben megkéselt Smit Machchhar kapitány Narendra Modi indiai miniszterelnökkel beszélget.",
+      "cim": "400 francia iskolát zártak be pénteken, ahogy a tiltakozások „városi erőszakba” torkollnak – Európa élő",
+      "lead": "Iskolák tucatjai rongálódtak meg, és csaknem 3000 tizenegyest vettek őrizetbe a feszültségek kezdete óta. Újabb képeket kapunk Strasbourg területéről… Visszatérve Franciaországba, a helyzet ismét éleződni látszik Strasbourgban, ahol a tüntetők barikádot építenek, és összecsapnak a helyi rendőrséggel…",
       "forrasok": [
         {
-          "nev": "BBC",
-          "cim": "I wasn't going to let others die, says Indian pilot who opened cockpit door during attack",
-          "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss"
+          "nev": "The Guardian",
+          "cim": "400 French schools closed on Friday as protests escalate into ‘urban violence’ – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/oct/02/france-schools-protests-violence-ukraine-kallas-rome-pope-latest-news-updates"
         }
       ]
     },
     {
-      "cim": "Shoebridge ígéretet tett arra, hogy a Zöldek tagjai „szóhoz jutnak” a következő vezető megválasztásakor – ahogy történt",
-      "lead": "Ez a blog lezárult. Olvassa el friss hírleveleinket, ingyenes alkalmazásunkat vagy napi podcastunkat. Letartóztattak egy sydney-i férfit, akit azzal vádolnak, hogy egy parkban megfékezett, fojtogatott és szexuálisan bántalmazott egy fiatal nőt – jelentette az Australian Associated Press. Egy 23 éves nő a Flemington állomástól sétált az Airey Parkon keresztül, amikor…",
+      "cim": "Indítékot keresnek a nyomozók a FlyDubai pilótafülkéjében történt támadáshoz",
+      "lead": "Benjamin Netanjahu izraeli miniszterelnök kijelentette, hogy a pilótára rátámadó társpilóta „iszlamista radikális indoktrináción” esett át, de nem bocsátkozott részletekbe.",
+      "forrasok": [
+        {
+          "nev": "New York Times",
+          "cim": "Investigators Seek Motive for FlyDubai Cockpit Attack",
+          "url": "https://www.nytimes.com/2026/10/01/world/middleeast/flydubai-attack-invesigation.html"
+        }
+      ]
+    },
+    {
+      "cim": "Rekordmagasságba, literenként 2 fontra emelkedett az Egyesült Királyságban a gázolaj ára",
+      "lead": "Az autósok és a kisvállalkozások küzdenek a költségekkel, mivel az iráni háború felhajtja az olaj árát világszerte. „A fél napi fizetésem elmegy az autóm feltöltésére” – Üzlet élő – legfrissebb hírek. Újabb nyomás nehezedik a brit autósokra a kutaknál, miután a gázolaj átlagára rekordmagasságba, literenként 2 fontra emelkedett. Az árak az egyesült királyságbeli üzemanyagtöltő állomásokon…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "Shoebridge pledges Greens members will ‘have a say’ in next leader – as it happened",
-          "url": "https://www.theguardian.com/australia-news/live/2026/oct/02/labor-anthony-albanese-online-gaming-esafety-coalition-angus-taylor-greens-david-shoebridge-ntwnfb"
+          "cim": "UK diesel price hits record high of £2 a litre",
+          "url": "https://www.theguardian.com/money/2026/oct/02/uk-diesel-price-record-high-iran-war-oil"
+        }
+      ]
+    },
+    {
+      "cim": "Hogyan válaszolhat Jordánia Izrael Ciszjordániát érintő eszkalációjára?",
+      "lead": "A telepek terjeszkedése, a kitelepítések és a fokozódó izraeli ellenőrzés közvetlen következményekkel járna Jordániára nézve.",
+      "forrasok": [
+        {
+          "nev": "Al Jazeera",
+          "cim": "How can Jordan respond to Israel’s escalation across the West Bank?",
+          "url": "https://www.aljazeera.com/opinions/2026/10/2/how-can-jordan-respond-to-israels-escalation-across-the-west-bank?traffic_source=rss"
         }
       ]
     }
