@@ -1,6 +1,7 @@
 // Offline működés: az app váza a gyorsítótárból jön, a hírek (JSON) mindig
 // először a hálózatról, és csak ha az nem elérhető, a legutóbb mentett változatból.
-const VERZIO = "napi-hirek-v3";
+const ELOTAG = "napi-hirek-";
+const VERZIO = ELOTAG + "v4";
 const VAZ = ["./", "./index.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png", "./apple-touch-icon.png"];
 
 self.addEventListener("install", (e) => {
@@ -11,7 +12,7 @@ self.addEventListener("install", (e) => {
 self.addEventListener("activate", (e) => {
   e.waitUntil(
     caches.keys()
-      .then((kulcsok) => Promise.all(kulcsok.filter((k) => k !== VERZIO).map((k) => caches.delete(k))))
+      .then((kulcsok) => Promise.all(kulcsok.filter((k) => k.startsWith(ELOTAG) && k !== VERZIO).map((k) => caches.delete(k))))
       .then(() => self.clients.claim())
   );
 });
