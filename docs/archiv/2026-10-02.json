@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-02",
-  "generalva": "2026-10-02T09:39+02:00",
+  "generalva": "2026-10-02T09:47+02:00",
   "hazai": [
     {
       "cim": "Magyar Péter lett a Time magazinnál a legbefolyásosabb feltörekvők egyike",
@@ -130,22 +130,6 @@
       ]
     },
     {
-      "cim": "A Századvég márciusban letette Rogánék elé, hogy a nemzeti szégyen egyik fő építőköve a kormányzati politika",
-      "lead": "Egymilliárd forintot fizetett a kormány két olyan századvéges kutatásért, amiből ki lehetett olvasni, mekkora bajban vannak. Mindkettőhöz 60 ezer fős kutatás készült, és mindkét anyagot idén márciusban, bő egy hónappal a választás előtt adták le. A Századvég közösségimédia-elemzése viszont totális tévútnak tűnik…",
-      "forrasok": [
-        {
-          "nev": "444",
-          "cim": "A Századvég márciusban letette Rogánék elé, hogy a nemzeti szégyen egyik fő építőköve a kormányzati politika",
-          "url": "https://444.hu/2026/10/02/a-szazadveg-marciusban-letette-roganek-ele-hogy-a-nemzeti-szegyen-egyik-fo-epitokove-a-kormanyzati-politika?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "Portfolio",
-          "cim": "A Századvég már márciusban prezentálta Rogánéknak, mekkora bajban van az Orbán-kormány",
-          "url": "https://www.portfolio.hu/gazdasag/20261002/a-szazadveg-mar-marciusban-prezentalta-roganeknak-mekkora-bajban-van-az-orban-kormany-866828"
-        }
-      ]
-    },
-    {
       "cim": "Több mint egy perccel javult a mentők kiérkezési ideje, de még messze a 15 perces cél",
       "lead": "Szeptemberben a legsürgősebb esetek 90 százalékához még így is 25 perc fölött értek ki a mentők.",
       "forrasok": [
@@ -162,43 +146,54 @@
       ]
     },
     {
-      "cim": "Új fejezetet nyit a világűr történetében, hogy az Egyesült Államok elismerte a felfegyverzését",
-      "lead": "Trump megalomániáját és a modern háborúk feltételeit egyszerre elégíti ki az amerikai űrképességek rohamos fejlesztése. A fegyverkezési versenyben új fejezetet nyit, hogy a Pentagon a világon elsőként elismerte: űrfegyvereket állított pályára. Közben felpumpálták az űrhaderő költségvetését és épül az Aranykupola. De…",
+      "cim": "Vitézy szerint Érden tyúkok kapirgálnak, amit a helyi DK-s képviselő rossz néven vett",
+      "lead": "A miniszter arról beszélt, hogy az agglomeráció családi házas kialakítása közlekedés szempontjából nem ideális, egy érzékletes példa viszont betalált a helyi képviselőnél.",
       "forrasok": [
         {
           "nev": "HVG",
-          "cim": "Új fejezetet nyit a világűr történetében, hogy az Egyesült Államok elismerte a felfegyverzését",
-          "url": "https://hvg.hu/360/20261002_202640-fegyverkezesi-verseny-vilagur-amerikai-beismeres-urahdero-aranykupola-muhold-troy-meink"
+          "cim": "Vitézy szerint Érden tyúkok kapirgálnak, amit a helyi DK-s képviselő rossz néven vett",
+          "url": "https://hvg.hu/itthon/20261002_vitezy-david-erd-tyuk-gyekiczki-marton-agglomeracio-csaladi-haz"
         }
       ]
     },
     {
-      "cim": "Itt lehetnek a következő nagy befektetési sztorik – A piac még nem árazott be mindent!",
-      "lead": "Hol vannak még olyan befektetési lehetőségek, amiket nem fedezett fel teljesen a piac? Október 21-én a Portfolio Investment Day -en erre is keressük a választ. Pletser Tamás , az OTP Alapkezelő senior portfóliómenedzsere és Molnár Péter , az Erste Investment nyersanyagpiaci specialistája mutatja meg, milyen…",
+      "cim": "Csak két országban csökkentek a lakásárak Európában - Magyarország az egyik",
+      "lead": "Három éve először csökkentek a hazai lakásárak az előző negyedévhez képest hazánkban, a most megjelent második negyedéves statisztikai adatok alapján. Éves alapon még drágulás mérhető, de ez 2023 negyedik negyedéve óta a legalacsonyabb ütem. Uniós összehasonlításban Magyarország a mindössze két tagállam egyike, ahol…",
       "forrasok": [
         {
           "nev": "Portfolio",
-          "cim": "Itt lehetnek a következő nagy befektetési sztorik – A piac még nem árazott be mindent!",
-          "url": "https://www.portfolio.hu/uzlet/20261002/itt-lehetnek-a-kovetkezo-nagy-befektetesi-sztorik-a-piac-meg-nem-arazott-be-mindent-794572"
+          "cim": "Csak két országban csökkentek a lakásárak Európában - Magyarország az egyik",
+          "url": "https://www.portfolio.hu/ingatlan/20261002/csak-ket-orszagban-csokkentek-a-lakasarak-europaban-magyarorszag-az-egyik-866858"
         }
       ]
     },
     {
-      "cim": "Francia közgazdász Magyarék vagyonadó-tervéről: Jó az egymilliárdos küszöb",
-      "lead": "Sok helyen arányosan kevesebb adót fizetnek a szupergazdagok, ha a tényleges adókulcsot nézzük, amit senki nem tart elfogadhatónak. Lemos egy sor vagyonadóval szembeni érvet.",
+      "cim": "Hétfőn már kivallatnák Szijjártó Pétert, nemzetbiztonsági kérdésekre kell válaszolnia",
+      "lead": "A parlament Nemzetbiztonsági bizottsága jövő hétfőn hallgatná meg Szijjártó Péter korábbi külgazdasági és külügyminisztert a kínai BYD-nél betöltött új, felsővezetői pozíciója miatt. A Tisza-frakció azért kezdeményezte az ülés összehívását, mert a volt tárcavezető gyors munkahelyváltása szerintük súlyos…",
       "forrasok": [
         {
-          "nev": "HVG",
-          "cim": "Francia közgazdász Magyarék vagyonadó-tervéről: Jó az egymilliárdos küszöb",
-          "url": "https://hvg.hu/gazdasag/20261002_vagyonado-egyenlotlenseg-tenyleges-adokulcs-szja-adoreform-kuszob-gabriel-zucman-interju"
+          "nev": "Portfolio",
+          "cim": "Hétfőn már kivallatnák Szijjártó Pétert, nemzetbiztonsági kérdésekre kell válaszolnia",
+          "url": "https://www.portfolio.hu/gazdasag/20261002/hetfon-mar-kivallatnak-szijjarto-petert-nemzetbiztonsagi-kerdesekre-kell-valaszolnia-866860"
+        }
+      ]
+    },
+    {
+      "cim": "Óriási a forgalom az OTP papírjaiban - Mi történik a tőzsdéken?",
+      "lead": "Nagy ütést kapott csütörtökön a magyar tőzsde, rég nem látott esés volt az OTP piacán és nagy eséssel zárt a Mol is, magával rántva a BUX indexet. A nemzetközi piacokon is inkább negatív volt tegnap a hangulat, bár az amerikai indexek végül kis emelkedésekkel zártak. Ma reggel bizonytalan a kép, az ázsiai tőzsdék…",
+      "forrasok": [
+        {
+          "nev": "Portfolio",
+          "cim": "Óriási a forgalom az OTP papírjaiban - Mi történik a tőzsdéken?",
+          "url": "https://www.portfolio.hu/uzlet/20261002/oriasi-a-forgalom-az-otp-papirjaiban-mi-tortenik-a-tozsdeken-866804"
         }
       ]
     }
   ],
   "nemzetkozi": [
     {
-      "cim": "Britain in talks with European allies over release of emergency diesel stockpiles amid Trump pressure",
-      "lead": "Ministers discuss drawing down EU countries’ reserves after Donald Trump threatens to cut off US supplies Britain is in talks with European allies over releasing emergency diesel stockpiles after Donald Trump threatened to cut off US supplies of the fuel. Ministers held calls with counterparts from the European…",
+      "cim": "Nagy-Britannia tárgyalásokat folytat európai szövetségeseivel a biztonsági gázolajtartalékok felszabadításáról Trump nyomása miatt",
+      "lead": "A miniszterek az EU-tagállamok tartalékainak lehívásáról tárgyalnak, miután Donald Trump az amerikai szállítások leállításával fenyegetőzött. Nagy-Britannia tárgyalásokat folytat európai szövetségeseivel a biztonsági gázolajtartalékok felszabadításáról, miután Donald Trump az üzemanyag amerikai szállításainak leállításával fenyegetőzött. A miniszterek egyeztetéseket folytattak európai kollégáikkal...",
       "forrasok": [
         {
           "nev": "The Guardian",
@@ -223,8 +218,8 @@
       ]
     },
     {
-      "cim": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
-      "lead": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
+      "cim": "Etiópia és Eritrea megszakította a diplomáciai kapcsolatokat az északi konfliktus eszkalálódásával",
+      "lead": "A diplomáciai feszültség azután alakult ki, hogy az etióp erők lázadó harcosokkal csaptak össze az ország északi régiójában.",
       "forrasok": [
         {
           "nev": "BBC",
@@ -239,8 +234,24 @@
       ]
     },
     {
-      "cim": "Ukraine, South Korea clash over transfer of 2 North Korean prisoners",
-      "lead": "A diplomatic scandal has erupted over two North Korean prisoners of war, with South Korea demanding an apology from Ukraine. What's been the reaction in Kyiv?",
+      "cim": "Vizsgálat indult a FlyDubai ellen a pilótafülkében történt támadás után",
+      "lead": "Az Egyesült Arab Emírségek közölte, hogy ők vezetik az incidens kivizsgálását, és a FlyDubai Dubai és Tel-Aviv közötti járatát felfüggesztették.",
+      "forrasok": [
+        {
+          "nev": "New York Times",
+          "cim": "FlyDubai Under Scrutiny After Cockpit Attack",
+          "url": "https://www.nytimes.com/2026/10/01/world/middleeast/flydubai-israel-scrutiny.html"
+        },
+        {
+          "nev": "BBC",
+          "cim": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
+          "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Ukrajna és Dél-Korea összetűzésbe keveredett két észak-koreai fogoly átadása miatt",
+      "lead": "Diplomáciai botrány tört ki két észak-koreai hadifogoly miatt, Dél-Korea bocsánatkérést követel Ukrajnától. Mi a reakció Kijevben?",
       "forrasok": [
         {
           "nev": "Deutsche Welle",
@@ -255,8 +266,8 @@
       ]
     },
     {
-      "cim": "Tennessee suspends executions as Christa Pike’s lawyer says failed lethal injection leaves her in critical condition",
-      "lead": "Independent inquiry ordered after failed execution of Pike, who was convicted of 1994 murder Christa Pike: what we know so far about Tennessee woman’s failed execution Tennessee ’s governor on Thursday said it was “deeply disturbing” that his state botched the execution of a death row prisoner who remained alive and…",
+      "cim": "Tennessee felfüggeszti a kivégzéseket, miután Christa Pike ügyvédje szerint a sikertelen halálos injekció miatt a nő válságos állapotban van",
+      "lead": "Független vizsgálatot rendeltek el az 1994-es gyilkosságért elítélt Pike sikertelen kivégzése után. Christa Pike: mit tudunk eddig a tennessee-i nő sikertelen kivégzéséről? Tennessee kormányzója csütörtökön „mélyen aggasztónak” nevezte, hogy állama elhibázta egy halálraítélt kivégzését, aki életben maradt és...",
       "forrasok": [
         {
           "nev": "The Guardian",
@@ -271,8 +282,8 @@
       ]
     },
     {
-      "cim": "Kanye West’s sold-out Russia concerts cancelled, organisers confirm",
-      "lead": "Russia’s foreign ministry had called planned shows unacceptable due to rapper’s ‘glorification’ of Adolf Hitler Two sold-out shows that Kanye West was due to play in Russia have been cancelled after weeks of confusion, organisers have confirmed. The US rapper, who now goes by the name Ye, had been due to perform at…",
+      "cim": "Törölték Kanye West telt házas oroszországi koncertjeit, megerősítették a szervezők",
+      "lead": "Az orosz külügyminisztérium elfogadhatatlannak nevezte a tervezett koncerteket a rapper Adolf Hitlert dicsőítő kijelentései miatt. Hetekig tartó bizonytalanság után törölték Kanye West két telt házas oroszországi koncertjét, erősítették meg a szervezők. Az amerikai rappernek, aki ma már a Ye nevet használja, fellépése lett volna...",
       "forrasok": [
         {
           "nev": "The Guardian",
@@ -287,8 +298,8 @@
       ]
     },
     {
-      "cim": "UAE launches Flydubai hijacking and terrorism investigation",
-      "lead": "The UAE's chief prosecutor said it's looking at the possibility of \"terrorist activity or intent\" in the alleged attempted hijacking of a Flydubai commercial flight to Tel Aviv. It says it has jurisdiction in the case.",
+      "cim": "Az Egyesült Arab Emírségek gépeltérítés és terrorizmus miatt indított nyomozást a Flydubai ügyében",
+      "lead": "Az Egyesült Arab Emírségek főügyésze közölte, hogy vizsgálják a „terrorista tevékenység vagy szándék” lehetőségét a Flydubai Tel-Avivba tartó utasszállító járatának állítólagos eltérítési kísérletével kapcsolatban. Az ország állítása szerint joghatósággal rendelkezik az ügyben.",
       "forrasok": [
         {
           "nev": "Deutsche Welle",
@@ -303,8 +314,8 @@
       ]
     },
     {
-      "cim": "Zimbabwe tycoon Wicknell Chivayo dies in helicopter crash",
-      "lead": "Zimbabwe's President Emmerson Mnangagwa has confirmed the death of businessman Wicknell Chivayo and his wife in a helicopter crash, calling the high-rollers with a lavish lifestyle \"consummately philanthropic.\"",
+      "cim": "Helikopter-balesetben meghalt Wicknell Chivayo zimbabwei mágnás",
+      "lead": "Emmerson Mnangagwa zimbabwei elnök megerősítette Wicknell Chivayo üzletember és felesége halálát egy helikopter-balesetben, a fényűző életmódot folytató nagypályásokat „rendkívül jótékonynak” nevezve.",
       "forrasok": [
         {
           "nev": "Deutsche Welle",
@@ -319,8 +330,8 @@
       ]
     },
     {
-      "cim": "Renee Good's family sues Trump admin over fatal ICE shooting",
-      "lead": "The family of Renee Good, one of two US citizens fatally shot by federal immigration agents in Minneapolis in January, has sued President Donald Trump's administration alleging negligence and civil rights violations.",
+      "cim": "Renee Good családja beperelte a Trump-kormányzatot a halálos ICE-lövöldözés miatt",
+      "lead": "Renee Good családja – aki egyike annak a két amerikai állampolgárnak, akiket szövetségi bevándorlási ügynökök lőttek le Minneapolisban januárban – beperelte Donald Trump elnök kormányzatát, gondatlanságra és polgári jogi jogsértésekre hivatkozva.",
       "forrasok": [
         {
           "nev": "Deutsche Welle",
@@ -335,8 +346,8 @@
       ]
     },
     {
-      "cim": "Co-pilot in flight stabbing had ‘Islamic radical indoctrination’, says Netanyahu",
-      "lead": "Alleged flydubai attacker interrogated by Saudi security services as investigation into apparent crash attempt opens The Omani co-pilot who stabbed his captain in an apparent attempt to crash an Israel-bound flight from Dubai had previously undergone radical Islamist indoctrination and was suicidal, Israel’s prime…",
+      "cim": "A repülés közbeni késelés elkövető másodpilóta „radikális iszlám indoktrináción” esett át Netanjahu szerint",
+      "lead": "A Flydubai feltételezett támadóját a szaúdi biztonsági szolgálatok hallgatják ki, miközben vizsgálat indult a gép szándékos lezuhanására tett kísérlet ügyében. Az ománi másodpilóta, aki megkéselte kapitányát egy Dubajból Izraelbe tartó járat nyilvánvaló lezuhanási kísérlete során, korábban radikális iszlám indoktrináción esett át, és öngyilkossági hajlamai voltak, közölte Izrael miniszterelnöke...",
       "forrasok": [
         {
           "nev": "The Guardian",
@@ -351,37 +362,27 @@
       ]
     },
     {
-      "cim": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
-      "lead": "Capt Smit Machchhar was attacked by another pilot onboard the Flydubai flight bound for Tel Aviv.",
+      "cim": "„Nem akartam hagyni, hogy mások meghaljanak” – mondta az indiai pilóta, aki kinyitotta a pilótafülke ajtaját a támadás alatt",
+      "lead": "Smit Machchhar kapitány, akit a repülés közben megkéseltek, Narendra Modi indiai miniszterelnökkel beszél.",
       "forrasok": [
         {
           "nev": "BBC",
-          "cim": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
-          "url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss"
+          "cim": "I wasn't going to let others die, says Indian pilot who opened cockpit door during attack",
+          "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "cim": "Australia news live: Union leader says PM ‘vastly underpaid’; Shoebridge pledges members will ‘have a say’ in next leader",
-      "lead": "Follow the day’s news live Get our breaking news email , free app or daily news podcast A Sydney man has been charged after allegedly restraining, choking and sexually assaulting a young woman in a park, Australian Associated Press reports. A 23-year-old woman was walking from Flemington Station through Airey Park in…",
+      "cim": "Shoebridge ígérete szerint a Zöldek tagjainak „lesz beleszólásuk” a következő vezető személyébe – események percről percre",
+      "lead": "Ez a blog most lezárult. Iratkozzon fel rendkívüli hírlevelünkre, töltse le ingyenes alkalmazásunkat vagy hallgassa napi hír-podcastunkat. Vádat emeltek egy sydney-i férfi ellen, aki a gyanú szerint fogva tartott, fojtogatott és szexuálisan bántalmazott egy fiatal nőt egy parkban – jelenti az Australian Associated Press. Egy 23 éves nő a Flemington állomástól sétált az Airey Parkon keresztül...",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "Australia news live: Union leader says PM ‘vastly underpaid’; Shoebridge pledges members will ‘have a say’ in next leader",
+          "cim": "Shoebridge pledges Greens members will ‘have a say’ in next leader – as it happened",
           "url": "https://www.theguardian.com/australia-news/live/2026/oct/02/labor-anthony-albanese-online-gaming-esafety-coalition-angus-taylor-greens-david-shoebridge-ntwnfb"
         }
       ]
-    },
-    {
-      "cim": "Beau Lamarre-Condon trial: victim’s family cries as double murder trial hears triple-zero call",
-      "lead": "Court hears audio of call made on morning Luke Davies and Jesse Baird were allegedly murdered by NSW police officer Warning: graphic image below Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A triple-zero call made the morning Luke Davies and his…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Beau Lamarre-Condon trial: victim’s family cries as double murder trial hears triple-zero call",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/02/beau-lamarre-condon-asked-police-investigator-about-of-lilie-james-day-before-shootings-court-hears"
-        }
-      ]
     }
-  ]
+  ],
+  "fordites": "gemini-3.5-flash"
 }
