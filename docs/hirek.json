@@ -1,368 +1,417 @@
 {
-  "datum": "2026-10-10",
-  "generalva": "2026-10-10T12:42+02:00",
+  "datum": "2026-10-11",
+  "generalva": "2026-10-11T12:55+02:00",
   "hazai": [
     {
-      "cim": "Hivatali visszaélés gyanújával nyomoz a rendőrség Rákay Philip cégének milliárdos üzlete miatt",
-      "lead": "Hivatali visszaélés gyanújával indított nyomozást a rendőrség Rákay Philip egyik érdekeltségének milliárdos hasznot hozó rácalmási földügylete kapcsán. A feltételezések szerint az üzletember cége belső kormányzati információk révén juthatott hozzá egy olyan területhez, amelyet rövid időn belül busás profittal…",
+      "cim": "A lengyel rendőrség szerint merénylet készülhet Donald Tusk kormányfő és helyettese ellen",
+      "lead": "A lengyel biztonsági szolgálatok az ügyben sürgős tanácskozást hívtak össze, de Tusk napirendje változatlan marad, sőt, a kormányfő gyalog, extra védelem nélkül ment a hivatalába.",
       "forrasok": [
         {
-          "nev": "Portfolio",
-          "cim": "Hivatali visszaélés gyanújával nyomoz a rendőrség Rákay Philip cégének milliárdos üzlete miatt",
-          "url": "https://www.portfolio.hu/gazdasag/20261010/hivatali-visszaeles-gyanujaval-nyomoz-a-rendorseg-rakay-philip-cegenek-milliardos-uzlete-miatt-868852"
+          "nev": "Telex",
+          "cim": "A lengyel rendőrség szerint merénylet készülhet Donald Tusk kormányfő és helyettese ellen",
+          "url": "https://telex.hu/kulfold/2026/10/11/lengyelorszag-donald-tusk-lehetseges-merenylet-titkosszolgalatok"
+        },
+        {
+          "nev": "444",
+          "cim": "A kormányfő és a kormányfő-helyettes elleni lehetséges merénylet miatt ülnek össze a lengyel biztonsági szolgálatok",
+          "url": "https://444.hu/2026/10/11/a-kormanyfo-es-a-kormanyfo-helyettes-elleni-lehetseges-merenylet-miatt-ulnek-ossze-a-lengyel-biztonsagi-szolgalatok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Merényletet tervezhettek Donald Tusk ellen, rendkívüli tanácskozást hívtak össze Lengyelországban",
+          "url": "https://hvg.hu/vilag/20261011_donald-tusk-merenyletterv-lengyelorszag-rendkivuli-tanacskozas"
+        },
+        {
+          "nev": "Magyar Nemzet",
+          "cim": "Merényletet terveznek Donald Tusk ellen?",
+          "url": "https://magyarnemzet.hu/kulfold/2026/10/merenyletet-terveznek-donald-tusk-ellen?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
         },
         {
           "nev": "Index",
-          "cim": "Rákay Philip cégének milliárdos rácalmási földvásárlása ügyében nyomoz a rendőrség",
-          "url": "https://index.hu/belfold/2026/10/10/rakay-philip-rendorseg-nyomozas-racalmas-foldvasarlas-hankook-brfk-szijjarto-peter/"
+          "cim": "Merényletet tervezhettek Donald Tusk ellen, rendkívüli ülést hívott össze a lengyel kormány",
+          "url": "https://index.hu/kulfold/2026/10/11/donald-tusk-lengyelorszag-vedelmi-miniszter-wladislaw-kosiniak-kamysz-valsagtanacs/"
         }
       ]
     },
     {
-      "cim": "Trump megállapodott Putyinnal, orosz dízel érkezhet nagy mennyiségben az amerikai piacra",
-      "lead": "Az orosz olaj kereskedelmét évek óta szankciókkal korlátozták. Az amerikai elnök így törné le az iráni háború miatt elszállt üzemanyagárakat.",
+      "cim": "Hadházy Ákos feljelentést tesz az augusztus 20-i közbeszerzések miatt",
+      "lead": "A volt képviselő szerint a Belügyminisztérium vizsgálatából nem derült ki, hogy volt-e túlárazás, és mi volt Radnai Márk szerepe.",
+      "forrasok": [
+        {
+          "nev": "Telex",
+          "cim": "Hadházy Ákos feljelentést tesz az augusztus 20-i közbeszerzések miatt",
+          "url": "https://telex.hu/belfold/2026/10/11/hadhazy-akos-feljelentes-augusztus-20-tuzijatek"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Hadházy Ákos feljelentést tesz az augusztus 20-i tűzijáték kivizsgálását lezáró belügyminisztériumi jelentés után",
+          "url": "https://hvg.hu/itthon/20261011_hadhazy-akos-feljelentes-augusztus-20-tuzijatek-belugyminiszterium-jelentes"
+        },
+        {
+          "nev": "444",
+          "cim": "Hadházy Ákos feljelentést tesz tűzijáték-ügyben",
+          "url": "https://444.hu/2026/10/11/hadhazy-akos-feljelentest-tesz-tuzijatek-ugyben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "Index",
+          "cim": "Kijött a Belügyminisztérium jelentése a tűzijáték-beszerzésről, Hadházy Ákos nagyot csalódott",
+          "url": "https://index.hu/belfold/2026/10/11/hadhazy-akos-tuzijatek-belugyminiszterium-jelentes-palyazat-ajanlattetel-radnai-mark/"
+        }
+      ]
+    },
+    {
+      "cim": "A fideszes képviselő szerint Tóth Gabit nem kampányrendezvényre hívták Debrecenbe",
+      "lead": "Széles Diána fideszes képviselő szerint, a „tiszás besúgórendszerben mindenki gyanús lehet, aki egy színpadon áll egy ellenzéki városvezetővel”, de szerinte ettől még jó emberek lehetnek, ahogy Tóth Gabi is.",
       "forrasok": [
         {
           "nev": "444",
-          "cim": "Trump megállapodott Putyinnal, orosz dízel érkezhet nagy mennyiségben az amerikai piacra",
-          "url": "https://444.hu/2026/10/09/trump-megallapodott-putyinnal-orosz-dizel-erkezhet-nagy-mennyisegben-az-amerikai-piacra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "cim": "A fideszes képviselő szerint Tóth Gabit nem kampányrendezvényre hívták Debrecenbe",
+          "url": "https://444.hu/2026/10/11/a-fideszes-kepviselo-szerint-toth-gabit-nem-kampanyrendezvenyre-hivtak-debrecenbe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Megszólalt a fideszes képviselő Tóth Gabi fellépéséről, szerinte nem kampányrendezvényre hívták Debrecenbe az énekesnőt",
+          "url": "https://hvg.hu/elet/20261011_toth-gabi-fellepes-debrecen-fideszes-kepviselo-molnar-aron-kampanyrendezveny-nka"
+        },
+        {
+          "nev": "Index",
+          "cim": "Feljelentik Tóth Gabit, aki Zugló polgármestere szerint ötmilliós óradíjért léphetett fel a Fidesz kampányrendezvényén",
+          "url": "https://index.hu/belfold/2026/10/11/rozsa-andras-reakcio-toth-gabi-molnar-aron-radics-bela/"
+        }
+      ]
+    },
+    {
+      "cim": "Fegyelmi eljárást indított Cristiano Ronaldo ellen a portugál szövetség",
+      "lead": "A portugál klasszis idő előtt hagyta el a válogatott edzőtáborát, mondván, Jorge Jesus szövetségi kapitány kétszer is megszegte a neki tett ígéretét.",
+      "forrasok": [
+        {
+          "nev": "HVG",
+          "cim": "Fegyelmi eljárást indított Cristiano Ronaldo ellen a portugál szövetség",
+          "url": "https://hvg.hu/sport/20261010_labdarugas-portugal-valogatott-cristiano-ronaldo-fegyelmi-eljaras"
+        },
+        {
+          "nev": "444",
+          "cim": "Fegyelmi eljárást indított Cristiano Ronaldo ellen a Portugál Labdarúgó Szövetség",
+          "url": "https://444.hu/2026/10/10/fegyelmi-eljarast-inditott-cristiano-ronaldo-ellen-a-portugal-labdarugo-szovetseg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         },
         {
           "nev": "Magyar Nemzet",
-          "cim": "Trump megegyezett Putyinnal: feloldották a szankciókat, nagy mennyiségű orosz gázolaj érkezik az Egyesült Államokba",
-          "url": "https://magyarnemzet.hu/kulfold/2026/10/orosz-gazolajat-vesz-washington?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+          "cim": "Folytatódik Cristiano Ronaldo botránya - most a portugál szövetség lépett",
+          "url": "https://magyarnemzet.hu/sport/2026/10/cristiano-ronaldo-portugalia-eltiltas?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
         }
       ]
     },
     {
-      "cim": "A nyugdíjminimum emelése miatt saját támogatói mentek neki Ruszin-Szendi Romulusznak egy fórumon",
-      "lead": "Eredményeket emleget a miniszter, de a részleteket elfelejtette megemlíteni.",
+      "cim": "Szörnyű mészárlás: nyolc embert, köztük gyerekeket is agyonlőtt egy férfi",
+      "lead": "Két helyen is családirtás történt az Egyesült Államokban.",
       "forrasok": [
         {
           "nev": "Magyar Nemzet",
-          "cim": "A nyugdíjminimum emelése miatt saját támogatói mentek neki Ruszin-Szendi Romulusznak egy fórumon",
-          "url": "https://magyarnemzet.hu/belfold/2026/10/nyugdijminimum-emeles-ruszin-szendi-romulusz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+          "cim": "Szörnyű mészárlás: nyolc embert, köztük gyerekeket is agyonlőtt egy férfi",
+          "url": "https://magyarnemzet.hu/kulfold/2026/10/tomegmeszarlasokkal-koszontott-be-a-hetvege-amerikaban?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Nyolc embert, köztük két gyereket lőtt agyon egy férfi Pennsylvaniában",
+          "url": "https://hvg.hu/vilag/20261011_pennsylvania-lovoldozes-halalos-aldozatok-egyesult-allamok"
         }
       ]
     },
     {
-      "cim": "Megszólalt Az Árulók frissen leleplezett Titkos Gyilkosa, így fogja átverni társait",
+      "cim": "A vártnál is több eső zúdult Magyarországra: még nem ért véget a csapadékos idő",
+      "lead": "Az éjszakai órákban a várakozásokat is meghaladó, országszerte jelentős mennyiségű esőt hozott a Magyarország fölé érkező csapadékzóna. A meteorológiai előrejelzések szerint a keleti tájakon a nap folyamán további esőzésre lehet számítani, ami tovább növelheti a mérési értékeket – derült ki a HungaroMet Nonprofit Zrt…",
+      "forrasok": [
+        {
+          "nev": "Portfolio",
+          "cim": "A vártnál is több eső zúdult Magyarországra: még nem ért véget a csapadékos idő",
+          "url": "https://www.portfolio.hu/gazdasag/20261011/a-vartnal-is-tobb-eso-zudult-magyarorszagra-meg-nem-ert-veget-a-csapadekos-ido-868924"
+        },
+        {
+          "nev": "Index",
+          "cim": "Özönvíz csapott le a Balatonra, az ország több pontján hatalmas mennyiségű csapadék zúdult le",
+          "url": "https://index.hu/belfold/2026/10/11/budapest-eso-csapadek-mecsek-balaton-szeged-debrecen/"
+        }
+      ]
+    },
+    {
+      "cim": "Lecsapott az újabb katasztrófa: házakat és hidakat pusztított el az áradás Nepálban",
+      "lead": "A katasztrófavédelem még vizsgálja, hogy mi okozta a folyó szintemelkedését.",
+      "forrasok": [
+        {
+          "nev": "Index",
+          "cim": "Lecsapott az újabb katasztrófa: házakat és hidakat pusztított el az áradás Nepálban",
+          "url": "https://index.hu/kulfold/2026/10/11/nepal-aradas-haz-hid-katmandu-hadsereg-katasztrofa-foldcsuszamlas/"
+        },
+        {
+          "nev": "Telex",
+          "cim": "Házakat, hidakat söpört el az újabb áradás Nepálban",
+          "url": "https://telex.hu/kulfold/2026/10/11/hazakat-hidakat-soport-el-az-ujabb-aradas-nepalban"
+        }
+      ]
+    },
+    {
+      "cim": "Fegyveresek támadták meg a rijádi nemzetközi repülőteret, 12-en meghaltak, több mint 300-an megsérültek",
+      "lead": "A szaúdi katonai vezetés a jemeni húszikat tette felelőssé a repülőtér elleni támadásért és háborús bűncselekményt emleget. A halottak között amerikai állampolgárok is vannak, Donald Trump elfogadhatatlannak nevezte a támadást.",
+      "forrasok": [
+        {
+          "nev": "HVG",
+          "cim": "Fegyveresek támadták meg a rijádi nemzetközi repülőteret, 12-en meghaltak, több mint 300-an megsérültek",
+          "url": "https://hvg.hu/vilag/20261011_fegyveres-tamadas-rijadi-nemzetkozi-repuloter-szaud-arabia-halalos-aldozatok"
+        },
+        {
+          "nev": "444",
+          "cim": "Újabb támadás érte a rijádi nemzetközi repülőteret",
+          "url": "https://444.hu/2026/10/10/ujabb-tamadas-erte-a-rijadi-nemzetkozi-repuloteret?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        }
+      ]
+    },
+    {
+      "cim": "Babiš sokkolónak nevezte Trump és Putyin megállapodását az orosz olajtermékekről",
+      "lead": "„Értem, hogy Trump választások előtt áll, ám Európa számára ez hatalmas pofon. Meglátjuk, mit szólnak hozzá az európai kollégák” – mondta a cseh miniszterelnök.",
+      "forrasok": [
+        {
+          "nev": "444",
+          "cim": "Babiš sokkolónak nevezte Trump és Putyin megállapodását az orosz olajtermékekről",
+          "url": "https://444.hu/2026/10/11/babis-sokkolonak-nevezte-trump-es-putyin-megallapodasat-az-orosz-olajtermekekrol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "Telex",
+          "cim": "Andrej Babiš szerint hatalmas pofon Európának Trump és Putyin megállapodása",
+          "url": "https://telex.hu/kulfold/2026/10/11/andrej-babis-csehorszag-trump-es-putyin-megallapodasa-hatalmas-pofon"
+        }
+      ]
+    },
+    {
+      "cim": "Tigris mart halálra egy férfit, aki bemászott a kifutóba egy angliai állatparkban",
+      "lead": "Az eset a Yorkshire Wildlife Parkban történt.",
+      "forrasok": [
+        {
+          "nev": "HVG",
+          "cim": "Tigris mart halálra egy férfit, aki bemászott a kifutóba egy angliai állatparkban",
+          "url": "https://hvg.hu/vilag/20261010_anglia-yorkshire-wildlife-park-tigris-halalos-tigristamadas"
+        },
+        {
+          "nev": "444",
+          "cim": "Bemászott a tigris ketrecébe egy férfi egy angliai állatparkban, meghalt",
+          "url": "https://444.hu/2026/10/10/bemaszott-a-tigris-ketrecebe-egy-ferfi-egy-angliai-allatparkban-meghalt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        }
+      ]
+    },
+    {
+      "cim": "Trump: Ideje, hogy új elnöke legyen Ukrajnának",
+      "lead": "Az amerikai elnök szerint Zelenszkij „problémákat akar okozni a világnak” az orosz finomítók elleni támadásokkal.",
+      "forrasok": [
+        {
+          "nev": "HVG",
+          "cim": "Trump: Ideje, hogy új elnöke legyen Ukrajnának",
+          "url": "https://hvg.hu/vilag/20261010_egyesult-allamok-ukrajna-donald-trump-volodimir-zelenszkij"
+        },
+        {
+          "nev": "444",
+          "cim": "Trump: Eljött az ideje, hogy Ukrajnának új elnöke legyen",
+          "url": "https://444.hu/2026/10/10/trump-eljott-az-ideje-hogy-ukrajnanak-uj-elnoke-legyen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        }
+      ]
+    },
+    {
+      "cim": "Katona Mazsi megmutatta, ilyen lett az orra a plasztikai műtét után",
       "lead": "",
       "forrasok": [
         {
           "nev": "Index",
-          "cim": "Megszólalt Az Árulók frissen leleplezett Titkos Gyilkosa, így fogja átverni társait",
-          "url": "https://index.hu/mindekozben/poszt/2026/10/10/titkos-gyilkos-arulok-megszolalt/"
-        }
-      ]
-    },
-    {
-      "cim": "Válása után régi szerelmével fotozóták le Amanda Seyfriedet",
-      "lead": "Mamma Mia! című film forgatása után találtak egymásra.",
-      "forrasok": [
-        {
-          "nev": "Index",
-          "cim": "Válása után régi szerelmével fotozóták le Amanda Seyfriedet",
-          "url": "https://index.hu/fomo/2026/10/10/amanda-seyfried-dominic-cooper-talalkozas-filmfesztival-valas/"
-        }
-      ]
-    },
-    {
-      "cim": "Újabb bizonyítékok támasztják alá, hogy zafírkő volt a Szent Korona csúcsán a kereszt előtt",
-      "lead": "A csúcsdíszt egy magyar özvegy királynő törte le, majd kalandos úton a Habsburg koronára került.",
-      "forrasok": [
-        {
-          "nev": "Index",
-          "cim": "Újabb bizonyítékok támasztják alá, hogy zafírkő volt a Szent Korona csúcsán a kereszt előtt",
-          "url": "https://index.hu/tudomany/2026/10/10/szent-korona-rudolf-korona-zafir-csucsdisz-kereszt-bathory-zsigmond/"
-        }
-      ]
-    },
-    {
-      "cim": "December 20-án egy csapatban futballozhat Lionel Messi és Cristiano Ronaldo",
-      "lead": "A portugál és az argentin világsztár soha nem játszott egy csapatban, most ez is megtörténhet.",
-      "forrasok": [
-        {
-          "nev": "Magyar Nemzet",
-          "cim": "December 20-án egy csapatban futballozhat Lionel Messi és Cristiano Ronaldo",
-          "url": "https://magyarnemzet.hu/sport/2026/10/lionel-messi-cristiano-ronaldo-carlos-tevez-bucsumeccs?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-        }
-      ]
-    },
-    {
-      "cim": "Csak álom marad, hogy a pénzügyek olcsóbbá és globalizáltabbá válnak?",
-      "lead": "Két hosszú távú trend fogja alakítani a pénzügyi szektort az elkövetkező években: az egyik alulról felfelé irányuló, transzformatív technológiai innovációk által hajtott, a másik pedig felülről lefelé irányuló, geoökonómiai hatások által vezérelt. Mindkettő kezelése jelentős alkalmazkodást igényel a pénzügyi…",
-      "forrasok": [
-        {
-          "nev": "Portfolio",
-          "cim": "Csak álom marad, hogy a pénzügyek olcsóbbá és globalizáltabbá válnak?",
-          "url": "https://www.portfolio.hu/gazdasag/20261010/csak-alom-marad-hogy-a-penzugyek-olcsobba-es-globalizaltabba-valnak-867444"
-        }
-      ]
-    },
-    {
-      "cim": "Újra tárgyalhat Trump és Putyin, aggódik Zelenszkij, megbénult az orosz légi közlekedés – háborús híreink szombaton",
-      "lead": "Pénteken tovább folytatódott a drón- és rakétaháború Oroszország és Ukrajna között: Kijevben áramkimaradásokat okoztak az orosz csapások, Moszkvában pedig több száz repülőjáratot érintettek az ukrán támadások, amelyek egy Yandex-adatközpontot is elértek. Volodimir Zelenszkij közben élesen bírálta az ukrán főváros…",
-      "forrasok": [
-        {
-          "nev": "Portfolio",
-          "cim": "Újra tárgyalhat Trump és Putyin, aggódik Zelenszkij, megbénult az orosz légi közlekedés – háborús híreink szombaton",
-          "url": "https://www.portfolio.hu/global/20261010/ujra-targyalhat-trump-es-putyin-aggodik-zelenszkij-megbenult-az-orosz-legi-kozlekedes-haborus-hireink-szombaton-868834"
-        }
-      ]
-    },
-    {
-      "cim": "Célba vették az ukrán főváros hídjait, veszélyes új drónokat vetett be Oroszország",
-      "lead": "Oroszország az elmúlt héten három, a Dnyeperen átívelő hidat is megtámadott sugárhajtású drónokkal – köztük kettőt Kijevben –, amivel új szakaszába lépett a légi háború, hiszen az energetikai létesítmények mellett immár a közlekedési infrastruktúrát is rendszeresen célozza a közelgő tél előtt - számolt be a Financial…",
-      "forrasok": [
-        {
-          "nev": "Portfolio",
-          "cim": "Célba vették az ukrán főváros hídjait, veszélyes új drónokat vetett be Oroszország",
-          "url": "https://www.portfolio.hu/global/20261010/celba-vettek-az-ukran-fovaros-hidjait-veszelyes-uj-dronokat-vetett-be-oroszorszag-868858"
-        }
-      ]
-    },
-    {
-      "cim": "Vitézy Dávid a kezdetektől ott volt a déli körvasút tervezésénél, mindenről tudhatott, most mégis nekiment a projektnek",
-      "lead": "A miniszter nemrégiben még együtt iszogatott a V-Híd vezetőjével.",
-      "forrasok": [
-        {
-          "nev": "Magyar Nemzet",
-          "cim": "Vitézy Dávid a kezdetektől ott volt a déli körvasút tervezésénél, mindenről tudhatott, most mégis nekiment a projektnek",
-          "url": "https://magyarnemzet.hu/belfold/2026/10/vitezy-david-a-v-hid-deli-korvasut-tervezes-mindenrol-tudhatott?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-        }
-      ]
-    },
-    {
-      "cim": "Megállapodott az EU Kínával, hogy felére csökkentik a hibridek exportját",
-      "lead": "Kína állítólag elismerte, hogy a jelenség mennyire komoly politikai feszültséget okoz az EU tagországaiban.",
-      "forrasok": [
-        {
-          "nev": "444",
-          "cim": "Megállapodott az EU Kínával, hogy felére csökkentik a hibridek exportját",
-          "url": "https://444.hu/2026/10/10/megallapodott-az-eu-kinaval-hogy-felere-csokkentik-a-hibridek-exportjat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "cim": "Katona Mazsi megmutatta, ilyen lett az orra a plasztikai műtét után",
+          "url": "https://index.hu/mindekozben/poszt/2026/10/11/berki-mazsi-mutet-utan/"
         }
       ]
     }
   ],
   "nemzetkozi": [
     {
-      "cim": "Navi Pillay ICJ-bíró nyerte el a Nobel-békemíjat a nemzetközi jog népszerűsítéséért",
-      "lead": "A bizottság elismeri annak a dél-afrikai nőnek a munkáját, aki annak az ENSZ-bizottságnak az elnöke volt, amely megállapította, hogy Izrael népkövetést hajtott végre Gázában. A Nobel-békemíjat Navi Pillaynak, a volt dél-afrikai ENSZ-emberi jogi főbiztosnak ítélték oda, aki az ENSZ-bizottságot vezette, amely megállapította, hogy Izrael népkövetést hajtott végre Gázában. A…",
+      "cim": "Britain stands behind Zelenskyy, says Streeting after Trump’s call for new leader in Ukraine",
+      "lead": "Defence secretary backs Ukrainian president and says priority is to maintain western unity over Russia conflict Britain stands behind Volodymyr Zelenskyy, the defence secretary has said, after Donald Trump called for the Ukrainian president to be replaced and the US announced a controversial agreement to buy Russian…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
-          "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize"
+          "cim": "Britain stands behind Zelenskyy, says Streeting after Trump’s call for new leader in Ukraine",
+          "url": "https://www.theguardian.com/politics/2026/oct/11/britain-stands-behind-zelenskyy-streeting-trump-ukraine"
         },
         {
           "nev": "New York Times",
-          "cim": "Human Rights Lawyer Navi Pillay Is Awarded Nobel Peace Prize",
-          "url": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026"
-        },
-        {
-          "nev": "Deutsche Welle",
-          "cim": "US imposes sanctions aiming to 'dismantle' International Criminal Court",
-          "url": "https://www.dw.com/en/us-imposes-sanctions-aiming-to-dismantle-international-criminal-court/a-79618577?maca=en-rss-en-world-4025-rdf"
-        },
-        {
-          "nev": "BBC",
-          "cim": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
-          "url": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss"
+          "cim": "Rebuking Ukraine Over Oil Strikes, Trump Says It Should ‘Get a New President’",
+          "url": "https://www.nytimes.com/2026/10/10/world/europe/ukraine-russia-trump-diesel-talks.html"
         },
         {
           "nev": "Al Jazeera",
-          "cim": "Trump slams Norway for not awarding him Nobel Peace Prize",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-slams-norway-for-not-awarding-him-nobel-peace-prize?traffic_source=rss"
+          "cim": "Trump calls for Ukraine election, says Zelenskyy failed to end war",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/trump-calls-for-ukraine-election-says-zelenskyy-failed-to-end-war?traffic_source=rss"
+        },
+        {
+          "nev": "BBC",
+          "cim": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+          "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "cim": "Az Isaias hurrikán partot ért Floridában és sújtotta a Mexikói-öböl partvidékét",
-      "lead": "Mississippi, Alabama és Florida kormányzói rendkívüli állapotot hirdetnek ki, miközben a lecsökkentett Fema első nagy próbatétele előtt áll. Isaias hurrikán – élő frissítések. Az Isaias hurrikán pénteken csapódott be az Egyesült Államok Mexikói-öbölbeli partvidékére veszélyes 2-es kategóriájú viharként, és pusztító szelekkel sújtotta Alabamát és a Florida panhandle közösségeit…",
+      "cim": "Twelve killed and hundreds injured in Houthi attack at Riyadh airport",
+      "lead": "Donald Trump evaluating whether US should join Saudi strikes against the Iran-backed Yemeni rebels The latest attack on the international airport in Saudi Arabia’s capital of Riyadh killed 12 people and injured more than 300 others, civil aviation authorities said early on Sunday, with some in a critical condition. A…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "Hurricane Isaias makes landfall in Florida and hammers Gulf coast",
-          "url": "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-makes-landfall"
-        },
-        {
-          "nev": "BBC",
-          "cim": "Hurricane Isaias downgraded after making landfall in Florida",
-          "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "Isaias weakens after making landfall in US Gulf Coast as hurricane",
-          "url": "https://www.aljazeera.com/news/2026/10/10/isaias-weakens-after-making-landfall-in-us-gulf-coast-as-hurricane?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Zelenszkij dühös, miután Trump bejelentette az orosz dízel vásárlásáról szóló megállapodást",
-      "lead": "Az amerikai elnök szerint megállapodásra van szükség az amerikai üzemanyagárak csökkentése érdekében, de a lépés valószínűleg új válságot teremt Ukrajnával és a NATO-szövetségesekkel. Donald Trump újabb ütközőpályára állt Volodimir Zelenszkij ukrán elnökkel és az európai szövetségesekkel az Oroszországtól való dízelvásárlásról szóló megdöbbentő megállapodás után, felborítva az évek óta tartó...",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Zelenskyy furious as Trump announces deal to buy Russian diesel",
-          "url": "https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine"
-        },
-        {
-          "nev": "BBC",
-          "cim": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
-          "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "Hours after Trump-Putin diesel deal, Ukraine strikes Russian fuel site",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ukraine-drone-russia-oil-clip?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "cim": "India „csótányai” vs. Választási Bizottság: Amit tudnod kell a CJP október 10-i tiltakozásai előtt",
-      "lead": "Az indiai fővárost, Újdelhit erőddé változtatták vonat- és metrójáratok törlésével, barikádokkal és erős rendőri jelenléttel a szombatra tervezett, az indiai választási testület vezetője elleni tüntetések előtt.",
-      "forrasok": [
-        {
-          "nev": "Deutsche Welle",
-          "cim": "India's 'cockroaches' vs Election Commission: What you need to know ahead of CJP's October 10 protests",
-          "url": "https://www.dw.com/en/india-s-cockroaches-vs-election-commission-what-you-need-to-know-ahead-of-cjp-s-october-10-protests/a-79608760?maca=en-rss-en-world-4025-rdf"
+          "cim": "Twelve killed and hundreds injured in Houthi attack at Riyadh airport",
+          "url": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz"
         },
         {
           "nev": "New York Times",
-          "cim": "What to Know About the Delhi Protests",
+          "cim": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
+          "url": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport",
+          "url": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "‘Cockroach’ leader among thousands detained in Delhi protest crackdown",
+      "lead": "Authorities impose strict lockdown in capital to try to stop rally against removal of 130m names from electoral roll Indian authorities have placed Delhi under a severe lockdown and detained tens of thousands of people, including the leader of the youth-led “Cockroach” movement, in an attempt to stop an…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "‘Cockroach’ leader among thousands detained in Delhi protest crackdown",
+          "url": "https://www.theguardian.com/world/2026/oct/10/cockroach-party-rally-delhi-protests-chief-election-officer-resigns"
+        },
+        {
+          "nev": "New York Times",
+          "cim": "What to Know About the Protests in India",
           "url": "https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html"
         },
         {
           "nev": "Al Jazeera",
-          "cim": "India protest live: ‘Cockroach’ leaders detained; New Delhi in lockdown",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown?traffic_source=rss"
+          "cim": "Photos: Thousands detained in police crackdown on India’s youth protest",
+          "url": "https://www.aljazeera.com/gallery/2026/10/11/photos-thousands-detained-as-new-delhi-cracks-down-on-youth-protest?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "Erős, 7,7-es erősségű földrengés rázta meg Panamát, és pánikot keltett a fővárosban",
-      "lead": "A földrengés épületek és utak összeomlását okozta, de úgy tűnik, az ország megmenekült a széles körű pusztulástól vagy halálos áldozatoktól. Egy 7,7-es erősségű földrengés rázta meg Dél-Panamát pénteken, megrongálva az épületeket és ezreket kényszerítve az utcákra, de az ország úgy tűnik, megmenekült a széles körű pusztulástól vagy halálos áldozatoktól. Az US...",
+      "cim": "India’s ‘Cockroach’ Leaders Released as New Delhi Braces for More Protests",
+      "lead": "The leaders of the Cockroach Janta Party, an Indian youth movement, were detained by the police on Saturday before they could lead protests over voting rights.",
       "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
-          "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake"
-        },
         {
           "nev": "New York Times",
-          "cim": "7.7-Magnitude Panama Earthquake Sets Off Series of Aftershocks",
-          "url": "https://www.nytimes.com/2026/10/09/world/americas/panama-earthquake-tsunami.html"
+          "cim": "India’s ‘Cockroach’ Leaders Released as New Delhi Braces for More Protests",
+          "url": "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html"
         },
         {
           "nev": "BBC",
-          "cim": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
-          "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss"
+          "cim": "Why have hundreds of 'cockroach' protesters been detained in Delhi",
+          "url": "https://www.bbc.co.uk/news/videos/cqwy7p2y20gxo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "cim": "Három férfit bűnösnek találtak ausztrál szörfös testvérek és amerikai barátjuk mexikói meggyilkolásában",
-      "lead": "Az ausztrál testvéreket, a 30 és 33 éves Jake-et és Callum Robinsont, valamint barátjukat, a 30 éves Carter Rhoadot egy 2024-es szörfút során ölték meg. Iratkozzon fel a hírértesítő e-mailünkre, az ingyenes alkalmazásra vagy a napi hírpodcastunkra. A Mexikóban meggyilkolt ausztrál szörfös testvérek szülei azt mondták, hogy „egyetlen kimenetel sem teheti jóvá ezt a tragédiát”, miután három férfi...",
+      "cim": "Capital punishment is surging in the US – but after Christa Pike’s botched execution, what is its future?",
+      "lead": "Trump has used the full might of the presidency to supercharge executions, but an avalanche of mishaps has put the system’s flaws in the spotlight It took more than an hour to establish the two intravenous lines through which Christa Pike would be injected with a giant and normally lethal dose of the sedative…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "Three men found guilty of murders of Australian surfer brothers and US friend in Mexico",
-          "url": "https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb"
+          "cim": "Capital punishment is surging in the US – but after Christa Pike’s botched execution, what is its future?",
+          "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/11/executions-us-christa-pike"
         },
         {
           "nev": "BBC",
-          "cim": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
-          "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss"
+          "cim": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+          "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "cim": "A BBC kielemezte a New York-i ICE-lövöldözés utáni videót",
-      "lead": "A BBC-s Nada Tawfik új, drámai testkamera-felvételeket mutat be, amelyek bemutatják azokat a feszült pillanatokat, amikor a rendőrség a helyszínre érkezik.",
+      "cim": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "lead": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
       "forrasok": [
         {
           "nev": "BBC",
-          "cim": "BBC breaks down video of the aftermath of New York City ICE shooting",
-          "url": "https://www.bbc.co.uk/news/videos/cm36905w7zl4o?at_medium=RSS&at_campaign=rss"
+          "cim": "Four dead and thousands without power after Hurricane Isaias lashes US",
+          "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss"
         },
         {
           "nev": "Al Jazeera",
-          "cim": "CCTV footage shows ICE shooting in New York",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ice-shooting-update-sv?traffic_source=rss"
+          "cim": "Hurricane Isaias kills four, leaves 650,000 without power in Florida",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-isaias-is-here-us?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "A Flydubai másodpilótája öngyilkos merényletet tervezett izraeli repülőtér ellen az Egyesült Arab Emírségek ügyészei szerint",
-      "lead": "Hammam al-Hammami a Tel-Aviv melletti Ben Gurion repülőtér utasterminálját vehette célba. Az a másodpilóta, aki a múlt héten megpróbálta átvenni az irányítást egy Dubaiból Tel-Avivba tartó utasszállító repülőgép felett, öngyilkos merényletet tervezett Izrael nemzetközi repülőterének utasterminálja ellen...",
+      "cim": "Man Dies in Tiger Attack at Yorkshire Wildlife Park in England",
+      "lead": "The man came face to face with an Amur tiger inside the animal’s habitat at Yorkshire Wildlife Park in England. The park was evacuated and closed to the public.",
       "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Flydubai co-pilot planned suicide attack on Israeli airport, UAE prosecutors say",
-          "url": "https://www.theguardian.com/world/2026/oct/09/flydubai-co-pilot-planned-suicide-attack-on-israeli-airport-uae-prosecutors-say"
-        },
         {
           "nev": "New York Times",
-          "cim": "Attacker in FlyDubai Flight Meant to Crash Into Israeli Airport, Emiratis Say",
-          "url": "https://www.nytimes.com/2026/10/09/world/middleeast/flydubai-pilot-attack.html"
-        }
-      ]
-    },
-    {
-      "cim": "Az etiópiai eritreai csapatok regionális háborútól való félelmet keltenek",
-      "lead": "Etiópia és Eritrea egymást okolja a Tigrében történt összecsapásokért a nemzetközi önmérsékletre szólító felhívások közepette. Mindkét fél szövetségesei képesek regionális háborúvá duzzasztani a konfliktust.",
-      "forrasok": [
-        {
-          "nev": "Deutsche Welle",
-          "cim": "Eritrean troops in Ethiopia raise fears of a regional war",
-          "url": "https://www.dw.com/en/eritrean-troops-in-ethiopia-raise-fears-of-a-regional-war/a-79615065?maca=en-rss-en-world-4025-rdf"
+          "cim": "Man Dies in Tiger Attack at Yorkshire Wildlife Park in England",
+          "url": "https://www.nytimes.com/2026/10/10/world/europe/tiger-attack-wildlife-park-man-dead.html"
         },
         {
-          "nev": "BBC",
-          "cim": "Ethiopia warns Eritrea it will defend itself after troops cross border",
-          "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss"
+          "nev": "Al Jazeera",
+          "cim": "Man dies after entering tiger enclosure at England wildlife park",
+          "url": "https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "Előkerültek a francia múzeumból ellopott Renoir-festmények",
-      "lead": "A két műtárgyat a múlt hónapban foglalták le, amikor a tolvajok átvágtak egy kerítést és betörtek egy ablakot a francia Riviérán lévő Renoir Múzeumban.",
-      "forrasok": [
-        {
-          "nev": "BBC",
-          "cim": "Two Renoir paintings stolen from French museum are recovered",
-          "url": "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "nev": "New York Times",
-          "cim": "Paintings Stolen From Renoir Museum Are Recovered, Authorities Say",
-          "url": "https://www.nytimes.com/2026/10/09/world/europe/renoir-museum-artworks-theft-france-arrests.html"
-        }
-      ]
-    },
-    {
-      "cim": "Chile katasztrófaövezetté nyilvánítja Las Condest sárlavina után",
-      "lead": "",
+      "cim": "Fear and uncertainty for civilians as Yemen’s capital comes under attack",
+      "lead": "Sanaa has faced intense bombing since the Yemeni government announced a campaign to take the capital from the Houthis.",
       "forrasok": [
         {
           "nev": "Al Jazeera",
-          "cim": "Chile declares Las Condes disaster zone after mudslide",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/chile-declares-las-condes-disaster-zone-after-mudslide?traffic_source=rss"
+          "cim": "Fear and uncertainty for civilians as Yemen’s capital comes under attack",
+          "url": "https://www.aljazeera.com/news-analysis/2026/10/11/fear-and-uncertainty-for-civilians-as-yemens-capital-comes-under-attack?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "A Zöldeknek kerülniük kell a „szélsőségesek és rasszisták általi elfoglalást” – mondja a párt képviselője",
-      "lead": "Ellie Chowns szerint a tagok 0,4%-ának a „cionizmus rasszizmus” politikára leadott szavazata azt mutatja, hogy a párt folyamatai nem működnek. Egy zöldpárti képviselő azt mondta, biztosítani akarja, hogy pártja ne legyen „sebezhető a szélsőségesek és rasszisták általi elfoglalással szemben” a „cionizmus rasszizmus” szavazás folyamatos utóhatásai közepette. A párt politikai...",
+      "cim": "Modi is in trouble",
+      "lead": "The CJP protests sweeping through the country have exposed India’s hollowed-out democracy.",
+      "forrasok": [
+        {
+          "nev": "Al Jazeera",
+          "cim": "Modi is in trouble",
+          "url": "https://www.aljazeera.com/opinions/2026/10/11/modi-is-in-trouble?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Marco Bezzecchi wins in Indonesia as Martin takes MotoGP lead",
+      "lead": "Bezzecchi's win, the 300th victory for an Italian in MotoGP, also kept his faint championship ​hopes alive.",
+      "forrasok": [
+        {
+          "nev": "Al Jazeera",
+          "cim": "Marco Bezzecchi wins in Indonesia as Martin takes MotoGP lead",
+          "url": "https://www.aljazeera.com/sports/2026/10/11/indonesia-gp-motogp-bezzecchi-martin-world-championship?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Former Irish Olympic swimming coach and child abuser George Gibney to be sentenced",
+      "lead": "Gibney, 77, will face justice for abusing athletes in the 1970s and 80s after decades of effort to track and extradite him More than half a century after he started sexually abusing children, and enjoyed prestige as Ireland’s Olympic swimming coach before fleeing to the United States, George Gibney is to face justice…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "Greens must avoid ‘capture by extremists and racists’, says party MP",
-          "url": "https://www.theguardian.com/politics/2026/oct/10/greens-must-avoid-capture-by-extremists-and-racists-ellie-chowns-zionism-racism"
+          "cim": "Former Irish Olympic swimming coach and child abuser George Gibney to be sentenced",
+          "url": "https://www.theguardian.com/world/2026/oct/11/george-gibney-former-irish-olympic-swimming-coach-to-be-sentenced"
+        }
+      ]
+    },
+    {
+      "cim": "‘She was swaying, zoning out’: UK pets poisoned in record numbers by illicit drugs",
+      "lead": "Toxicology helplines report 42% increase in calls involving animals poisoned by drugs and nicotine A record number of pets are ingesting recreational drugs and requiring veterinary care in the UK, figures shared with the Guardian reveal. Last year, the UK’s only emergency poison centre for animals received its highest…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "‘She was swaying, zoning out’: UK pets poisoned in record numbers by illicit drugs",
+          "url": "https://www.theguardian.com/society/2026/oct/11/record-number-uk-pets-dogs-ingesting-drugs-parks-streets"
         }
       ]
     }
-  ],
-  "fordites": "gemini-3.5-flash-lite"
+  ]
 }
