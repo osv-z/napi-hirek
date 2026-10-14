@@ -1,211 +1,333 @@
 {
-  "datum": "2026-10-13",
-  "generalva": "2026-10-13T13:57+02:00",
+  "datum": "2026-10-14",
+  "generalva": "2026-10-14T11:37+02:00",
   "hazai": [
     {
-      "cim": "Megvannak az NVVH elnökhelyettesei",
-      "lead": "Az Országgyűlés megválasztotta a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (NVVH) három elnökhelyettesét kedden titkos szavazáson: Ötvös Károly közpénzügyi, Gellért Károly Árpád vádemelésért felelős, valamint Terhes Tibor Dávid fellebbviteli elnökhelyettese lesz a testületnek.",
+      "cim": "Orbán helyzetértékelésével indul a Fidesz és a KDNP kihelyezett frakcióülése",
+      "lead": "A volt miniszterelnök szerdán Brüsszelbe utazott a Patrióta csúcstalálkozóra, onnan fog majd Lakitelekre érkezni.",
+      "forrasok": [
+        {
+          "nev": "Telex",
+          "cim": "Orbán helyzetértékelésével indul a Fidesz és a KDNP kihelyezett frakcióülése",
+          "url": "https://telex.hu/belfold/2026/10/14/fidesz-kihelyezett-frakcioules-orban-viktor"
+        },
+        {
+          "nev": "Magyar Nemzet",
+          "cim": "Lakiteleken tanácskozik a Fidesz–KDNP",
+          "url": "https://magyarnemzet.hu/belfold/2026/10/lakiteleken-tanacskozik-a-fidesz-kdnp?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        },
+        {
+          "nev": "Index",
+          "cim": "Nagyüzem várható Lakiteleken, kihelyezett frakcióülést tart a Fidesz–KDNP",
+          "url": "https://index.hu/belfold/2026/10/14/fidesz-kdnp-frakcioules-lakitelek/"
+        }
+      ]
+    },
+    {
+      "cim": "Kapitány István: nem mondtam le, és nem is fogok",
+      "lead": "Kapitány István határozottan cáfolta a távozásáról szóló értesüléseket: közösségi oldalán azt írta, nem mondott le, és nem is tervezi ezt. A gazdasági és energetikai miniszter azután szólalt meg, hogy kedden váratlanul távozott Tótth András energetikai államtitkár.",
       "forrasok": [
         {
           "nev": "Portfolio",
-          "cim": "Megvannak az NVVH elnökhelyettesei",
-          "url": "https://www.portfolio.hu/gazdasag/20261013/megvannak-az-nvvh-elnokhelyettesei-869348"
+          "cim": "Kapitány István: nem mondtam le, és nem is fogok",
+          "url": "https://www.portfolio.hu/gazdasag/20261014/kapitany-istvan-nem-mondtam-le-es-nem-is-fogok-869586"
         },
         {
-          "nev": "444",
-          "cim": "Megválasztotta az NVVH három elnökhelyettesét az Országgyűlés",
-          "url": "https://444.hu/2026/10/13/megvalasztotta-az-nvvh-harom-elnokhelyetteset-az-orszaggyules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "HVG",
-          "cim": "Megválasztotta a vagyonvisszaszerzési hivatal elnökhelyetteseit az Országgyűlés",
-          "url": "https://hvg.hu/itthon/20261013_vagyonvisszaszerzesi-hivatal-elnokhelyettes-orszaggyules"
+          "nev": "Telex",
+          "cim": "Kapitány István: Nem mondtam le, és nem is fogok!",
+          "url": "https://telex.hu/gazdasag/2026/10/14/kapitany-istvan-reakcio-totth-andras-lemondas-magyar-peter"
         },
         {
           "nev": "Index",
-          "cim": "Döntött a parlament: megvannak az elnökhelyettesei a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak",
-          "url": "https://index.hu/belfold/2026/10/13/orszaggyules-parlament-nemzeti-vagyonvisszaszerzesi-es-vagyonvedelmi-hivatal-nvvh/"
+          "cim": "Kapitány Istvánnal is konfliktusba kerülhetett a távozó államtitkár, mert akadoznak a kormányzati döntések",
+          "url": "https://index.hu/gazdasag/2026/10/14/energetika-totth-andras-kapitany-istvan-kormany-gazdasagi-es-energetikai-miniszterium-bejelentes/"
         }
       ]
     },
     {
-      "cim": "Magyar: Alkohol- és drogtesztet a Parlamentbe!",
-      "lead": "A hétfői ülésen a frakciótársaival bingózó Pócs Jánosba állt bele a miniszterelnök.",
+      "cim": "Hivatalos: a Revolut csatlakozott a Magyar Bankszövetséghez",
+      "lead": "Hivatalosan is csatlakozott a Magyar Bankszövetséghez a Revolut - közölte a pénzintézet. A több mint kétmillió hazai ügyféllel rendelkező pénzintézet a magyarországi fióktelepének megalapítását követően lépett be a szervezetbe, hogy részt vegyen a hazai bankszektor szakmai egyeztetéseiben és érdekképviseletében…",
       "forrasok": [
         {
-          "nev": "444",
-          "cim": "Magyar: Alkohol- és drogtesztet a Parlamentbe!",
-          "url": "https://444.hu/2026/10/13/magyar-alkohol-es-drogtesztet-a-parlamentbe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "Index",
-          "cim": "Orbán Viktor szerint Magyar Péter összevissza beszél",
-          "url": "https://index.hu/belfold/2026/10/13/orban-viktor-ado-csokkenes-noveles-beszed-magyar-peter/"
-        }
-      ]
-    },
-    {
-      "cim": "Részben elfogadták Baka András kifogásait a kötelező orvosi kamarai tagságról szóló törvénnyel kapcsolatban",
-      "lead": "Több időt kapnak az orvosok a kötelező kamarai visszalépésre, de a vezetők mandátumkorlátja az államfő kifogása ellenére is megmarad.",
-      "forrasok": [
-        {
-          "nev": "444",
-          "cim": "Részben elfogadták Baka András kifogásait a kötelező orvosi kamarai tagságról szóló törvénnyel kapcsolatban",
-          "url": "https://444.hu/2026/10/13/reszben-elfogadtak-baka-andras-kifogasait-a-kotelezo-orvosi-kamarai-tagsagrol-szolo-torvennyel-kapcsolatban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "HVG",
-          "cim": "Baka András orvosi kamarai törvényéhez fűzött javaslataiból egyet elfogadott, egyet visszautasított az Országgyűlés",
-          "url": "https://hvg.hu/itthon/20261013_baka-andras-torvenymodositas-orvosi-kamara"
-        }
-      ]
-    },
-    {
-      "cim": "80 milliárdért épít autópályát Észak-Macedóniában a Duna Aszfalt és a Strabag",
-      "lead": "Konzorciumban nyerték el a részben uniós forrásokból finanszírozott beruházásra kiírt tendert.",
-      "forrasok": [
-        {
-          "nev": "HVG",
-          "cim": "80 milliárdért épít autópályát Észak-Macedóniában a Duna Aszfalt és a Strabag",
-          "url": "https://hvg.hu/kkv/20261013_duna-aszfalt-strabag-eszak-macedonia-autopalya-epites-ebrd"
-        },
-        {
-          "nev": "Index",
-          "cim": "Európai országban nyert tendert a Strabag és a Duna Aszfalt",
-          "url": "https://index.hu/gazdasag/2026/10/13/strabag-duna-aszfalt-eszak-macedonia-autopalya-tender/"
-        }
-      ]
-    },
-    {
-      "cim": "Amikor a piac a várakozásainkkal ellentétesen mozdul el",
-      "lead": "Hogyan működnek a határidős devizaügyletek és devizaopciók?",
-      "forrasok": [
-        {
-          "nev": "HVG",
-          "cim": "Amikor a piac a várakozásainkkal ellentétesen mozdul el",
-          "url": "https://hvg.hu/360/20261013_premium-hirlevelek-concorde-hova-tegyem-a-penzem-hataridos-devizaugyletek-devizaopciok"
-        },
-        {
-          "nev": "Index",
-          "cim": "Várak, amik újra harcban állnak, de most egy láthatatlan ellenséggel szemben",
-          "url": "https://index.hu/tudomany/2026/10/13/var-skocia-klimavaltozas-finnorszag-sintra-pena-palota/"
-        }
-      ]
-    },
-    {
-      "cim": "Egy ember meghalt egy amerikai vidámparkban történt hullámvasút-balesetben",
-      "lead": "Szemtanúk szerint egy férfi kiesett a szerelvényből és egy kísértetház tetejére zuhant, de a hatóságok egyelőre nem közölték, pontosan mi történt.",
-      "forrasok": [
-        {
-          "nev": "444",
-          "cim": "Egy ember meghalt egy amerikai vidámparkban történt hullámvasút-balesetben",
-          "url": "https://444.hu/2026/10/13/egy-ember-meghalt-egy-amerikai-vidamparkban-tortent-hullamvasut-balesetben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "nev": "Portfolio",
+          "cim": "Hivatalos: a Revolut csatlakozott a Magyar Bankszövetséghez",
+          "url": "https://www.portfolio.hu/bank/20261014/hivatalos-a-revolut-csatlakozott-a-magyar-bankszovetseghez-869582"
         },
         {
           "nev": "Magyar Nemzet",
-          "cim": "Lövöldözés volt az Európai Parlamentnél Brüsszelben, egy másik kerületben egy rendőrt ért halálos lövél",
-          "url": "https://magyarnemzet.hu/kulfold/2026/10/brusszel-lovoldozes-ep?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+          "cim": "Megvan, ki vezeti a Magyar Energetikai és Közmű-szabályozási Hivatalt a következő hét évben",
+          "url": "https://magyarnemzet.hu/gazdasag/2026/10/megvan-ki-vezeti-a-magyar-energetikai-es-kozmu-szabalyozasi-hivatalt-a-kovetkezo-het-evben?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        },
+        {
+          "nev": "444",
+          "cim": "Losonczy Gézát nevezték ki a Magyar Energetikai és Közmű-szabályozási Hivatal új elnökévé",
+          "url": "https://444.hu/2026/10/13/losonczy-gezat-neveztek-ki-a-magyar-energetikai-es-kozmu-szabalyozasi-hivatal-uj-elnokeve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ]
     },
     {
-      "cim": "Kötelező alkohol- és drogteszteket vezetne be Magyar Péter az Országgyűlésben",
-      "lead": "A miniszterelnök szerint Pócs János „egyre rosszabb állapotban van”.",
+      "cim": "Lemondott a felszámolókat képviselő egyesület elnöke és vezetőinek többsége",
+      "lead": "A fizetésképtelenné vált cégek ügyeivel foglalkozó szervezet vezetése október 1-jén távozott, a lemondások okát nem közölték.",
       "forrasok": [
         {
+          "nev": "444",
+          "cim": "Lemondott a felszámolókat képviselő egyesület elnöke és vezetőinek többsége",
+          "url": "https://444.hu/2026/10/14/lemondott-a-felszamolokat-kepviselo-egyesulet-elnoke-es-vezetoinek-tobbsege?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "Telex",
+          "cim": "Lemondott az Országos Vízügyi Főigazgatóság vezetője",
+          "url": "https://telex.hu/belfold/2026/10/14/lemondott-az-orszagos-vizugyi-foigazgatosag-vezetoje"
+        }
+      ]
+    },
+    {
+      "cim": "Vitézy Dávid bejelentette: gyökeres változás jön az ország legnépszerűbb kerékpáros útvonalán",
+      "lead": "Hazai és a napokban feloldott európai uniós forrásokból összesen közel húsz kilométeren újul meg a Balatoni Bringakör. Az északi partot érintő, két párhuzamos fejlesztési program célja a balesetveszélyes, tönkrement szakaszok helyreállítása és kiszélesítése. A kisebb, állami finanszírozású munkálatok már a 2027-es…",
+      "forrasok": [
+        {
+          "nev": "Portfolio",
+          "cim": "Vitézy Dávid bejelentette: gyökeres változás jön az ország legnépszerűbb kerékpáros útvonalán",
+          "url": "https://www.portfolio.hu/uzlet/20261014/vitezy-david-bejelentette-gyokeres-valtozas-jon-az-orszag-legnepszerubb-kerekparos-utvonalan-869576"
+        },
+        {
           "nev": "Index",
-          "cim": "Kötelező alkohol- és drogteszteket vezetne be Magyar Péter az Országgyűlésben",
-          "url": "https://index.hu/belfold/2026/10/13/magyar-peter-pocs-janos-drog-alkohol-teszt-hazszabaly-torvenymodositas-javaslat/"
+          "cim": "Vitézy Dávid bejelentette: megújul a Balatoni Bringakör",
+          "url": "https://index.hu/belfold/2026/10/14/vitezy-david-balatoni-bringakor-felujitas-unios-forras-hazai-forras/"
+        }
+      ]
+    },
+    {
+      "cim": "Kármán András a szolidaritási hozzájárulásról: Az AB döntése önmagában nem jelent fizetési moratóriumot",
+      "lead": "A pénzügyminiszter posztjában azt hangsúlyozta, hogy a szeptemberi döntés nem a szolidaritási hozzájárulás eltörléséről vagy alkotmányellenességéről szólt.",
+      "forrasok": [
+        {
+          "nev": "Telex",
+          "cim": "Kármán András a szolidaritási hozzájárulásról: Az AB döntése önmagában nem jelent fizetési moratóriumot",
+          "url": "https://telex.hu/gazdasag/2026/10/14/karman-andras-alkotmanybirosag-szolidaritasi-hozzajarulas"
+        },
+        {
+          "nev": "Index",
+          "cim": "Kármán András: Az Alkotmánybíróság nem törölte el a szolidaritási hozzájárulást",
+          "url": "https://index.hu/belfold/2026/10/14/karman-andras-alkotmanybirosag-szolidaritasi-hozzajarulas/"
+        }
+      ]
+    },
+    {
+      "cim": "Távozik az Országos Vízügyi Főigazgatóság vezetője",
+      "lead": "Lemondott Láng István Országos Vízügyi Főigazgatóság (OVF) vezetője- közölte az Élő Környezetért Felelős Minisztérium Facebook-oldalán. A tárca közlése szerint Láng utódját pedig pályázat útján választják majd ki.",
+      "forrasok": [
+        {
+          "nev": "Portfolio",
+          "cim": "Távozik az Országos Vízügyi Főigazgatóság vezetője",
+          "url": "https://www.portfolio.hu/gazdasag/20261014/tavozik-az-orszagos-vizugyi-foigazgatosag-vezetoje-869574"
         },
         {
           "nev": "Magyar Nemzet",
-          "cim": "Meglepő: Alkohol- és drogtesztet vezetne be Magyar Péter az Országgyűlésben + videó",
-          "url": "https://magyarnemzet.hu/belfold/2026/10/pocs-janosra-hivatkozva-vezetne-be-alkohol-es-drogtesztet-magyar-peter-a-parlamentben?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+          "cim": "Újabb váratlan lemondás a Tisza-kormány idején: távozik az országos vízügyi főigazgató",
+          "url": "https://magyarnemzet.hu/belfold/2026/10/ujabb-varatlan-lemondas-a-tisza-kormany-idejen-tavozik-az-orszagos-vizugyi-foigazgato?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
         }
       ]
     },
     {
-      "cim": "Médiatanács: Ismét leszavazták a Fidesz és a KDNP jelöltjeit, a két párt képviselői ki is vonultak az ülésteremből",
-      "lead": "A Mi Hazánk jelöltjét, Radetzky Andrást viszont megválasztották. A Fidesznek és a KDNP-nek új jelölteket kell állítania.",
+      "cim": "„Csak diktátorok művelnek ilyet” – Élő adás közben szállta meg a rendőrség a televíziót",
+      "lead": "Behatolt szerdán a török rendőrség a Halk TV nevű, ellenzéki televíziós társaság isztambuli székházába, az intézkedés nyomán az adást megszakították - derült ki a magánkézben lévő Halk TV X-en közzétett bejegyzéséből.",
       "forrasok": [
         {
-          "nev": "HVG",
-          "cim": "Médiatanács: Ismét leszavazták a Fidesz és a KDNP jelöltjeit, a két párt képviselői ki is vonultak az ülésteremből",
-          "url": "https://hvg.hu/itthon/20261013_mediatanacs-ismet-leszavaztak-a-fidesz-es-a-kdnp-jeloltjeit-a-ket-part-kepviseloi-ki-is-vonultak-az-ulesterembol"
-        },
-        {
-          "nev": "444",
-          "cim": "A Mi Hazánk jelöltjét beválasztották a Médiatanácsba, a Fideszét és a KDNP-ét ismét elutasították",
-          "url": "https://444.hu/2026/10/13/a-mi-hazank-jeloltjet-bevalasztottak-a-mediatanacsba-a-fideszet-es-a-kdnp-et-ismet-elutasitottak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        }
-      ]
-    },
-    {
-      "cim": "Visszatér Afrikába a Forma–1",
-      "lead": "Utoljára 1993-ban, Dél-Afrikában rendeztek futamot a kontinensen, most tíz évre szóló megállapodás született a ruandai versenyekről.",
-      "forrasok": [
-        {
-          "nev": "HVG",
-          "cim": "Visszatér Afrikába a Forma–1",
-          "url": "https://hvg.hu/cegauto/20261013_forma-1-visszateres-afrika-ruanda"
+          "nev": "Portfolio",
+          "cim": "„Csak diktátorok művelnek ilyet” – Élő adás közben szállta meg a rendőrség a televíziót",
+          "url": "https://www.portfolio.hu/global/20261014/csak-diktatorok-muvelnek-ilyet-elo-adas-kozben-szallta-meg-a-rendorseg-a-televiziot-869580"
         },
         {
           "nev": "Index",
-          "cim": "Visszatér Afrikába a Formula–1",
-          "url": "https://index.hu/sport/forma1/2026/10/13/formula-1-versenynaptar-afrika-ruanda/"
+          "cim": "Rendőrök szállták meg a legfőbb ellenzéki televízió székházát Törökországban",
+          "url": "https://index.hu/kulfold/2026/10/14/torokorszag-isztambul-halk-tv-rendorseg-allami-felugyelet-ellenzek/"
         }
       ]
     },
     {
-      "cim": "Melléthei-Barna Márton megvizsgálná a NER-nek dolgozó ügyvédek büntetőjogi felelősségét is",
-      "lead": "A tiszás politikus szerint a kormányváltás előtti korrupciós rendszer működését nem kizárólag azok tették lehetővé, akik a pénzek elosztásáról döntöttek, hanem azok is, akik a vitatható ügyletek jogi és pénzügyi hátterét megteremtették.",
+      "cim": "Tárkányi Zsolt számonkérte az energetikai államtitkárt, utóbbi pár perccel később lemondott",
+      "lead": "A közlekedési minisztérium államtitkára nem kímélte kollégáját.",
       "forrasok": [
-        {
-          "nev": "HVG",
-          "cim": "Melléthei-Barna Márton megvizsgálná a NER-nek dolgozó ügyvédek büntetőjogi felelősségét is",
-          "url": "https://hvg.hu/itthon/20261013_mellethei-barna-marton-ugyvedi-irodak-elszamoltatas"
-        },
-        {
-          "nev": "444",
-          "cim": "Melléthei-Barna Márton publicisztikában ment neki a korrupciós ügyletekben szerepet vállaló ügyvédeknek",
-          "url": "https://444.hu/2026/10/13/mellethei-barna-marton-publicisztikaban-ment-neki-a-korrupcios-ugyletekben-szerepet-vallalo-ugyvedeknek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        }
-      ]
-    },
-    {
-      "cim": "Két magyar hegymászót kellett kimenekíteni Ausztria legmagasabb csúcsáról",
-      "lead": "Egy 19 és 20 éves fiatal adott le segélyhívást kedd éjszaka.",
-      "forrasok": [
-        {
-          "nev": "HVG",
-          "cim": "Két magyar hegymászót kellett kimenekíteni Ausztria legmagasabb csúcsáról",
-          "url": "https://hvg.hu/elet/20261013_grossglockner-ket-magyar-hegymaszo-mentes"
-        },
         {
           "nev": "Index",
-          "cim": "Magyar hegymászókat kellett kimentenie az osztrák hegyimentőknek",
-          "url": "https://index.hu/kulfold/2026/10/13/ausztria-hegymaszo-mentes-grossglockner/"
+          "cim": "Tárkányi Zsolt számonkérte az energetikai államtitkárt, utóbbi pár perccel később lemondott",
+          "url": "https://index.hu/gazdasag/2026/10/14/tarkanyi-zsolt-debrecen-akkumulatorgyar-totth-andras-lemondott/"
+        },
+        {
+          "nev": "444",
+          "cim": "Lemondott Tótth András energetikai államtitkár",
+          "url": "https://444.hu/2026/10/13/lemondott-totth-andras-energetikai-allamtitkar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ]
     },
     {
-      "cim": "Szünetel a Terror Háza egykori alapítványa által kiadott könyvek értékesítése",
-      "lead": "A Társadalmi Kapcsolatokért és Kultúráért Felelős Minisztérium azt írta, a kekva megszűnése miatt rendezni kell a terjesztési jogokat.",
+      "cim": "Rákay Philip cége csendben átpasszolt egy budai villát Jászai Gellért magántőkealapjainak",
+      "lead": "Már 2022-ben, csak semmit nem lehetett erről tudni, amíg Jászai magántőkealapjai bele nem toltak 160 milliót a villát tulajdonló cégbe felújításra.",
       "forrasok": [
         {
           "nev": "444",
-          "cim": "Szünetel a Terror Háza egykori alapítványa által kiadott könyvek értékesítése",
-          "url": "https://444.hu/2026/10/13/szunetel-a-terror-haza-egykori-alapitvanya-altal-kiadott-konyvek-ertekesitese?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "cim": "Rákay Philip cége csendben átpasszolt egy budai villát Jászai Gellért magántőkealapjainak",
+          "url": "https://444.hu/2026/10/14/rakay-philip-cege-csendben-atpasszolt-egy-budai-villat-jaszai-gellert-magantokealapjainak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         },
         {
-          "nev": "Magyar Nemzet",
-          "cim": "Tarr Zoltánék megszólaltak a Terror Háza visszahívott könyveiről",
-          "url": "https://magyarnemzet.hu/belfold/2026/10/tarr-zoltanek-megszolaltak-a-terror-haza-visszahivott-konyveirol?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+          "nev": "Telex",
+          "cim": "Radar alatt: Rákay Philip cégétől Jászai Gellért magántőkealapjaihoz került a budai villa",
+          "url": "https://telex.hu/gazdasag/2026/10/14/rakay-philip-villa-jaszai-gellert-rege-ut-magantokealap-atkerult-hogyan"
+        }
+      ]
+    },
+    {
+      "cim": "Évek óta Orbánék kövéből épül az iváncsai akkugyár",
+      "lead": "A gánti Dolomit Kft. már 2022-ben, a gyár építésekor is szállított zúzottkövet, most a 20 milliárd forintból épülő vasúti vágányhoz visznek építőanyagot. A vasútépítés kivitelezője a Mészáros-féle V-Híd, amelynek túlárazásgyanús szerződései ügyében nyár óta nyomoz a rendőrség.",
+      "forrasok": [
+        {
+          "nev": "444",
+          "cim": "Évek óta Orbánék kövéből épül az iváncsai akkugyár",
+          "url": "https://444.hu/2026/10/14/evek-ota-orbanek-kovebol-epul-az-ivancsai-akkugyar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "Telex",
+          "cim": "Orbán apjának bányájából származó kavicsból épült az iváncsai akkugyár",
+          "url": "https://telex.hu/gazdasag/2026/10/14/orban-gyozo-banya-kavics-ivancsai-akkugyar"
+        }
+      ]
+    },
+    {
+      "cim": "A Kísértés Milánja máris megingott a „tökös” Leila miatt, a piros lámpa pedig már ki is gyulladt a villában",
+      "lead": "",
+      "forrasok": [
+        {
+          "nev": "Index",
+          "cim": "A Kísértés Milánja máris megingott a „tökös” Leila miatt, a piros lámpa pedig már ki is gyulladt a villában",
+          "url": "https://index.hu/mindekozben/poszt/2026/10/14/kisertes-2026-milan-leila-megcsalas-piros-lampa/"
         }
       ]
     }
   ],
   "nemzetkozi": [
+    {
+      "cim": "Ukrainian soldier to go on trial over sabotage of Nord Stream gas pipelines",
+      "lead": "Special forces officer Serhii Kuznetsov denies involvement in the 2022 blasts that left pipelines badly damaged A Ukrainian soldier is to go on trial in Hamburg accused of taking part in one of the most brazen acts of sabotage in postwar European history – the 2022 attack on the Nord Stream gas pipelines between…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Ukrainian soldier to go on trial over sabotage of Nord Stream gas pipelines",
+          "url": "https://www.theguardian.com/business/2026/oct/14/ukrainian-soldier-to-go-on-trial-over-sabotage-of-nord-stream-gas-pipelines"
+        },
+        {
+          "nev": "BBC",
+          "cim": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+          "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "Ukrainian ex-officer goes on trial in Germany over Nord Stream blasts",
+          "url": "https://www.aljazeera.com/news/2026/10/14/ukrainian-ex-officer-goes-on-trial-in-germany-over-nord-stream-blasts?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Russia arrests Japanese journalist on allegations of spying",
+      "lead": "FSB security agency said reporter was arrested on island of Sakhalin, alleging he was collecting information about Russia’s defences Russia has arrested a Japanese journalist on the far east island of Sakhalin and accused him of spying, in the latest sign of rising tensions between Moscow and Tokyo. Russian foreign…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Russia arrests Japanese journalist on allegations of spying",
+          "url": "https://www.theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying"
+        },
+        {
+          "nev": "New York Times",
+          "cim": "Russia Detains Japanese Journalist for Alleged Espionage",
+          "url": "https://www.nytimes.com/2026/10/13/world/europe/russia-detains-japanese-journalist.html"
+        },
+        {
+          "nev": "BBC",
+          "cim": "Russia arrests Japanese journalist on spying charges",
+          "url": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Pope Leo’s Cancer Diagnosis: What Happens Next",
+      "lead": "Pope Leo XIV was diagnosed with a common form of lung cancer on Tuesday, about a year and half into his papacy. He still plans to travel to South America next month.",
+      "forrasok": [
+        {
+          "nev": "New York Times",
+          "cim": "Pope Leo’s Cancer Diagnosis: What Happens Next",
+          "url": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-xiv-cancer-diagnosis.html"
+        },
+        {
+          "nev": "BBC",
+          "cim": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+          "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Saudi Arabia's military struggle against Houthi attacks",
+      "lead": "Houthi attacks on airports and energy facilities are putting Saudi Arabia under pressure. Could a Saudi-led international military offensive succeed against the Iran-aligned Houthi militia in Yemen?",
+      "forrasok": [
+        {
+          "nev": "Deutsche Welle",
+          "cim": "Saudi Arabia's military struggle against Houthi attacks",
+          "url": "https://www.dw.com/en/saudi-arabia-s-military-struggle-against-houthi-attacks/a-79650857?maca=en-rss-en-world-4025-rdf"
+        },
+        {
+          "nev": "New York Times",
+          "cim": "A Pilgrim and a Retiree: Victims of the Houthi Airport Attack in Saudi Arabia",
+          "url": "https://www.nytimes.com/2026/10/14/world/middleeast/houthi-airport-attack-victims-saudi-arabia.html"
+        }
+      ]
+    },
+    {
+      "cim": "Ukraine Says It Received No Intelligence About Strikes 2 Nights in a Row",
+      "lead": "Asked about apparent U.S. threats to cut off intelligence sharing with Kyiv, which can warn of Russian aerial attacks, President Trump said information continued to flow.",
+      "forrasok": [
+        {
+          "nev": "New York Times",
+          "cim": "Ukraine Says It Received No Intelligence About Strikes 2 Nights in a Row",
+          "url": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-trump-intelligence.html"
+        },
+        {
+          "nev": "BBC",
+          "cim": "Russian strikes leave 600,000 without power in Ukraine, Zelensky says",
+          "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Leaders of India’s Cockroach party jailed for violating ban on protest site",
+      "lead": "Ashutosh Ranka and Saurav Das will spend spend five days in prison for entering Delhi’s Jantar Mantar – a historic protest site that has been closed by authorities Two leaders of India’s youth-led Cockroach movement have been sent to jail for five days for violating a ban on protests at a site in central Delhi. A…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Leaders of India’s Cockroach party jailed for violating ban on protest site",
+          "url": "https://www.theguardian.com/world/2026/oct/14/leaders-of-indias-cockroach-party-jailed-for-violating-ban-on-protest-site"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "India’s ‘Cockroach’ leaders jailed after entering ‘banned’ protest site",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/indias-cockroach-leaders-jailed-after-entering-banned-protest-site?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Russian attacks on Ukraine leave 600,000 without power as Zelenskyy says Moscow ‘disrespecting’ US – Europe live",
+      "lead": "Zelenskyy says Russia attacked ‘infrastructure covered by the ceasefire announced by the American president’ Ukrainian soldiers have access to Starlink satellite internet restricted in Berlin A Ukrainian soldier is to go on trial in Hamburg accused of taking part in one of the most brazen acts of sabotage in postwar…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Russian attacks on Ukraine leave 600,000 without power as Zelenskyy says Moscow ‘disrespecting’ US – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/oct/14/russia-ukraine-war-latest-updates-zelenskyy-europe"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "‘Massive’ Russian attack on Ukraine kills at least six, damages power sites",
+          "url": "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss"
+        }
+      ]
+    },
     {
       "cim": "Bulgaria Summons Russian Ambassador After More Black Sea Drone Strikes",
       "lead": "Drones struck two ships off Bulgaria’s Black Sea coast, according to the country’s prime minister.",
@@ -217,194 +339,72 @@
         },
         {
           "nev": "Al Jazeera",
-          "cim": "Drone attack sinks ship off Bulgaria’s Black Sea coast, PM says",
-          "url": "https://www.aljazeera.com/news/2026/10/13/drone-attack-sinks-ship-off-bulgarias-black-sea-coast-pm-says?traffic_source=rss"
-        },
-        {
-          "nev": "BBC",
-          "cim": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-          "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss"
+          "cim": "Ukrainian drones strike more than 100km into Russian territory",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/ukrainian-drones-strike-more-than-100km-into-russian-territory?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "After Lockdown, Sea of Protesters Flows Through India’s Capital",
-      "lead": "The raucous demonstrations by opposition groups on Monday followed days of an effective lockdown and mass detentions of young protesters by security forces.",
+      "cim": "Saudi employee charged with planting recording device in OpenAI office",
+      "lead": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+      "forrasok": [
+        {
+          "nev": "BBC",
+          "cim": "Saudi employee charged with planting recording device in OpenAI office",
+          "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "Saudi-born engineer for OpenAI arrested for planting listening bug",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/openai-employee-listening-device-spying-saudi-fozan?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Acclaimed Author Denies Using A.I. but Admits Plagiarism",
+      "lead": "Breaking a weekslong silence, Thélyson Orélien, a Haitian-Canadian writer, still rejected accusations about his new novel, ‘It Was Either That or Die.’",
       "forrasok": [
         {
           "nev": "New York Times",
-          "cim": "After Lockdown, Sea of Protesters Flows Through India’s Capital",
-          "url": "https://www.nytimes.com/2026/10/12/world/asia/india-protests-congress-rahul-gandhi.html"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "Police detain leaders of India’s ‘cockroach’ movement at New Delhi protest",
-          "url": "https://www.aljazeera.com/news/2026/10/13/police-detain-leaders-of-indias-cockroach-movement-at-new-delhi-protest?traffic_source=rss"
+          "cim": "Acclaimed Author Denies Using A.I. but Admits Plagiarism",
+          "url": "https://www.nytimes.com/2026/10/13/world/europe/author-ai-plagiarism-france-haiti.html"
         },
         {
           "nev": "BBC",
-          "cim": "India 'cockroach' leaders detained after entering barricaded protest site",
-          "url": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss"
+          "cim": "Zimbabwean author denies using AI to write award-winning story",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "cim": "Pope Leo admitted to hospital for operation to remove growth on lung",
-      "lead": "Leo arrived at hospital on Tuesday for the surgery, which is deemed low risk and could take place this afternoon Pope Leo has been admitted to hospital in Rome for an operation to remove a small growth from his lung, a discovery a top Vatican cardinal said had come “like a bolt out of the blue”. In a rare moment of…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Pope Leo admitted to hospital for operation to remove growth on lung",
-          "url": "https://www.theguardian.com/world/2026/oct/13/pope-leo-hospital-operation-growth-lung"
-        },
-        {
-          "nev": "New York Times",
-          "cim": "Pope Leo Prepares for Surgery to Remove Lung Nodule",
-          "url": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html"
-        }
-      ]
-    },
-    {
-      "cim": "Ex-president named leader of new DR Congo rebel coalition",
-      "lead": "Joseph Kabila had previously denied having links to the M23 rebels, which control much of eastern DR Congo.",
-      "forrasok": [
-        {
-          "nev": "BBC",
-          "cim": "Ex-president named leader of new DR Congo rebel coalition",
-          "url": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "Former DR Congo President Kabila joins M23 rebels in a new coalition",
-          "url": "https://www.aljazeera.com/news/2026/10/13/former-dr-congo-president-kabila-joins-m23-rebels-in-a-new-coalition?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Zelenskyy says Russia ‘did not heed’ Trump’s call for ceasefire and Ukraine had ‘no early warning’ before strikes on Kyiv – Europe live",
-      "lead": "Ukraine’s president says his country has halted strikes on Russian oil refineries for two days after Trump’s energy ceasefire announcement On frozen Russian assets, Poland’s Sikorski says the use of frozen Russian assets is “a complicated issue,” but takes a very clear stance in response to any suggestion of releasing…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Zelenskyy says Russia ‘did not heed’ Trump’s call for ceasefire and Ukraine had ‘no early warning’ before strikes on Kyiv – Europe live",
-          "url": "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates"
-        },
-        {
-          "nev": "BBC",
-          "cim": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-          "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Cyberattack Hits Hundreds of Supermarket Refrigeration Systems in France",
-      "lead": "The attack targeted a Danish software system in at least 380 supermarkets, forcing some shops to throw out frozen produce. The attackers have not been identified.",
-      "forrasok": [
-        {
-          "nev": "New York Times",
-          "cim": "Cyberattack Hits Hundreds of Supermarket Refrigeration Systems in France",
-          "url": "https://www.nytimes.com/2026/10/13/world/europe/france-cyberattack-supermarkets-refrigeration.html"
-        },
-        {
-          "nev": "BBC",
-          "cim": "Fridges in French supermarkets hit by cyber attack",
-          "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "cim": "One killed, several injured in Georgia rollercoaster ‘incident’",
-      "lead": "Six Flags temporarily closes nine similar rollercoasters after a fatal accident at its Georgia amusement park.",
-      "forrasok": [
-        {
-          "nev": "Al Jazeera",
-          "cim": "One killed, several injured in Georgia rollercoaster ‘incident’",
-          "url": "https://www.aljazeera.com/news/2026/10/13/one-dead-after-roller-coaster-incident-in-george-us?traffic_source=rss"
-        },
-        {
-          "nev": "BBC",
-          "cim": "One dead and several hurt after rollercoaster incident at Six Flags",
-          "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "cim": "‘Our future is being stolen’: Greta Thunberg joins students protesting in Paris",
-      "lead": "Swedish activist stands alongside French teenagers calling for investment to fix teacher shortages and crumbling schools The Swedish climate activist Greta Thunberg has joined demonstrating high school students in France as the country braced for another day of nationwide protests over chronic teacher shortages…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "‘Our future is being stolen’: Greta Thunberg joins students protesting in Paris",
-          "url": "https://www.theguardian.com/world/2026/oct/13/greta-thunberg-student-protest-paris-france"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "Activist Greta Thunberg joins French student protests",
-          "url": "https://www.aljazeera.com/news/2026/10/13/activist-greta-thunberg-joins-french-student-protests?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Can South Korea and Ukraine resolve their diplomatic spat over North Korean POWs?",
-      "lead": "Seoul and Kyiv are trading accusations after the transfer of two North Korean POWs to South Korea. The South insists the move was to be kept secret as it seeks to avoid antagonizing Pyongyang.",
+      "cim": "Ukraine allies in Poland after Starlink sabotage, Trump diesel deal",
+      "lead": "Germany's Johann Wadephul said hybrid plots like the Starlink fire showed Europe was \"in Russia's crosshairs.\" The UK's Ed Miliband said Trump's Russian diesel deal led to a \"very difficult few days\" diplomatically.",
       "forrasok": [
         {
           "nev": "Deutsche Welle",
-          "cim": "Can South Korea and Ukraine resolve their diplomatic spat over North Korean POWs?",
-          "url": "https://www.dw.com/en/can-south-korea-and-ukraine-resolve-their-diplomatic-spat-over-north-korean-pows/a-79641352?maca=en-rss-en-world-4025-rdf"
+          "cim": "Ukraine allies in Poland after Starlink sabotage, Trump diesel deal",
+          "url": "https://www.dw.com/en/ukraine-allies-in-poland-after-starlink-sabotage-trump-diesel-deal/a-79653869?maca=en-rss-en-world-4025-rdf"
         },
         {
           "nev": "New York Times",
-          "cim": "At Least 6 Injured in Stabbing in South Korea",
-          "url": "https://www.nytimes.com/2026/10/13/world/asia/south-korea-stabbing-homeplus.html"
+          "cim": "U.K. and Europe Recoil From Trump’s Diesel Deal With Putin",
+          "url": "https://www.nytimes.com/2026/10/13/world/europe/trump-putin-diesel-uk-europe-gift.html"
         }
       ]
     },
     {
-      "cim": "What to Know About the Protests in India",
-      "lead": "Protests against sweeping revisions to India’s voter rolls have broken out in New Delhi. The police met earlier protests with an extraordinary show of force.",
+      "cim": "MI5 Chief Warns of Escalating Hybrid Threats From Iran and Russia on British Soil",
+      "lead": "The head of Britain’s domestic security agency accused Tehran and Moscow of escalating their hybrid campaigns in the U.K., and called Iran-led attacks on Jewish communities “sickening.”",
       "forrasok": [
         {
           "nev": "New York Times",
-          "cim": "What to Know About the Protests in India",
-          "url": "https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "Dozens of journalists in India detained while covering anti-gov’t protests",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/dozens-of-journalists-in-india-detained-while-covering-anti-govt-protests?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport",
-      "lead": "Energy minister says ‘fear has no place in the Saudi lexicon’ as paramilitary group again breaches stretched defences Why are the Houthis attacking Saudi airports and how are the missiles getting through? Saudi Arabia has been forced to suspend all flights to and from its main international airport in Riyadh until…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport",
-          "url": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport"
-        },
-        {
-          "nev": "New York Times",
-          "cim": "Saudi Arabia Faces More Attacks as It Reels From Airport Strikes",
-          "url": "https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia.html"
-        }
-      ]
-    },
-    {
-      "cim": "Indian opposition figures lead march to police barricades around supreme court",
-      "lead": "Thousands join rally to deliver petition calling for resignation of election commissioner Delhi police have again obstructed protests in India’s capital as thousands of people returned to the streets, led by opposition leaders, to demand the resignation of the election commissioner. After mass unrest in the capital…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Indian opposition figures lead march to police barricades around supreme court",
-          "url": "https://www.theguardian.com/world/2026/oct/12/india-election-protests-delhi-police-shut-metro-stations-ahead-march"
+          "cim": "MI5 Chief Warns of Escalating Hybrid Threats From Iran and Russia on British Soil",
+          "url": "https://www.nytimes.com/2026/10/13/world/europe/mi5-uk-threat-iran-russia.html"
         },
         {
           "nev": "BBC",
-          "cim": "Thousands march to Indian Supreme Court to demand election chief resign",
-          "url": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss"
+          "cim": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+          "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
