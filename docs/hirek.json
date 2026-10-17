@@ -1,237 +1,282 @@
 {
-  "datum": "2026-10-16",
-  "generalva": "2026-10-16T11:08+02:00",
+  "datum": "2026-10-17",
+  "generalva": "2026-10-17T10:40+02:00",
   "hazai": [
     {
-      "cim": "Napokon belül Budapestre érkezhet Volodimir Zelenszkij: meghívást kapott a magyar kormánytól az ukrán elnök",
-      "lead": "Volodimir Zelenszkij ukrán elnök és Magyar Péter miniszterelnök ma tartja első hivatalos kétoldalú egyeztetését Brüsszelben, Zelenszkij pedig meghívást kapott az október 23-i budapesti megemlékezésre - erősítette meg az Euronews-nak adott exkluzív interjújában Ihor Zsovkva, az ukrán elnök kabinetfőnök-helyettese.",
+      "cim": "Váratlan lépés az Egyesült Államoktól: Trump visszakozott az Oroszországot sújtó kemény szankcióktól",
+      "lead": "Donald Trump amerikai elnök egy pénteken kiadott rendeletével felfüggesztette az oroszellenes szankciós törvény kulcsfontosságú rendelkezéseit – köztük az Oroszországból származó árukra kivetendő vámokat, valamint az orosz olaj- és gázvásárlásokat büntető intézkedéseket –, mindössze néhány nappal azok hatálybalépése…",
       "forrasok": [
         {
           "nev": "Portfolio",
-          "cim": "Napokon belül Budapestre érkezhet Volodimir Zelenszkij: meghívást kapott a magyar kormánytól az ukrán elnök",
-          "url": "https://www.portfolio.hu/global/20261016/napokon-belul-budapestre-erkezhet-volodimir-zelenszkij-meghivast-kapott-a-magyar-kormanytol-az-ukran-elnok-870128"
+          "cim": "Váratlan lépés az Egyesült Államoktól: Trump visszakozott az Oroszországot sújtó kemény szankcióktól",
+          "url": "https://www.portfolio.hu/global/20261017/varatlan-lepes-az-egyesult-allamoktol-trump-visszakozott-az-oroszorszagot-sujto-kemeny-szankcioktol-870352"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Trump felfüggesztette az Oroszország ellen hozott új szankciós csomagot",
+          "url": "https://hvg.hu/gazdasag/20261017_trump-szankcios-csomag-oroszorszag-eltorles-dizelmegallapodas"
         },
         {
           "nev": "444",
-          "cim": "Zelenszkijt is meghívták Budapestre, az október 23-ai ünnepi eseményekre",
-          "url": "https://444.hu/2026/10/16/zelenszkijt-is-meghivtak-budapestre-az-oktober-23-ai-unnepi-esemenyekre?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "cim": "Donald Trump felfüggesztette az Oroszország elleni szankciós csomagot",
+          "url": "https://444.hu/2026/10/17/donald-trump-felfuggesztette-az-oroszorszag-elleni-szankcios-csomagot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         },
         {
           "nev": "Magyar Nemzet",
-          "cim": "Magyar Péter meghívta Zelenszkijt az október 23-i budapesti megemlékezésre",
-          "url": "https://magyarnemzet.hu/belfold/2026/10/zelenszkij-oktober-23-magyar-peter-meghivas-evfordulo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+          "cim": "Minket is érint: Trump újabb orosz szankciókat törölt",
+          "url": "https://magyarnemzet.hu/kulfold/2026/10/trump-kiszurt-a-kongresszussal-oroszellenes-szankciokat-ervenytelenitett?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
         },
         {
           "nev": "Index",
-          "cim": "Volodimir Zelenszkij Budapestre érkezhet október 23-án",
-          "url": "https://index.hu/kulfold/2026/10/16/volodimir-zelenszkij-magyar-peter-budapest-talalkozo-oktober/"
-        },
-        {
-          "nev": "HVG",
-          "cim": "Volodimir Zelenszkijt is meghívták Budapestre október 23-ra",
-          "url": "https://hvg.hu/itthon/20261016_volodimir-zelenszkijt-is-meghivtak-budapestre-oktober-23-ra"
+          "cim": "Donald Trump felfüggesztette az Oroszország elleni új szankciós csomagot, még a félidős választás előtt",
+          "url": "https://index.hu/kulfold/2026/10/17/egyesult-allamok-donald-trump-oroszorszag-szankcios-csomag-felfuggesztes/"
         }
       ]
     },
     {
-      "cim": "Hadházy feljelentést tett Fürcht Pál volt főügyész aranykonvojos állításai alapján",
-      "lead": "Szerinte az ügyészség is hivatali visszaélést és bűnpártolást követett el, azt is tisztázná, ki akadályozta a nyomozást, és mi volt Orbán Viktor szerepe az ukrán pénzszállítók elfogásában.",
-      "forrasok": [
-        {
-          "nev": "444",
-          "cim": "Hadházy feljelentést tett Fürcht Pál volt főügyész aranykonvojos állításai alapján",
-          "url": "https://444.hu/2026/10/16/hadhazy-feljelentest-tett-furcht-pal-volt-fougyesz-aranykonvojos-allitasai-alapjan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "Index",
-          "cim": "Újabb feljelentést tett Hadházy Ákos az aranykonvojügyben",
-          "url": "https://index.hu/belfold/2026/10/16/hadhazy-akos-feljelentes-furcht-pal-nyomozati-cselekmeny-hivatali-visszaeles-bunpartolas-aranykonvoj/"
-        },
-        {
-          "nev": "HVG",
-          "cim": "Hadházy Ákos újabb feljelentést tett az aranykonvojügyben",
-          "url": "https://hvg.hu/itthon/20261016_hadhazy-akos-feljelentes-furcht-pal"
-        }
-      ]
-    },
-    {
-      "cim": "Kapitány feljelentést tett az Orbán-kormány 475 milliárdos szállodafejlesztési programja miatt",
-      "lead": "A miniszter közölte, hogy súlyos visszaéléseket tártak fel a Kisfaludy turisztikai program átvilágítása során.",
-      "forrasok": [
-        {
-          "nev": "444",
-          "cim": "Kapitány feljelentést tett az Orbán-kormány 475 milliárdos szállodafejlesztési programja miatt",
-          "url": "https://444.hu/2026/10/16/kapitany-feljelentest-tett-az-orban-kormany-475-milliardos-szallodafejlesztesi-programja-miatt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "Index",
-          "cim": "Kapitány Istvánék feljelentést tettek a Kisfaludy-program miatt, a BDPST cáfolja, hogy a hévízi szálloda az övék lenne",
-          "url": "https://index.hu/gazdasag/2026/10/16/kisfaludy-program-feljelentes-gazdasagi-es-energetikai-miniszterium-kapitany-istvan-tamogatas/"
-        }
-      ]
-    },
-    {
-      "cim": "Bemutatták a repülő Teslát",
-      "lead": "Elon Musk autója a levegőben is megpördült, majd átugratott öt másik autót.",
-      "forrasok": [
-        {
-          "nev": "444",
-          "cim": "Bemutatták a repülő Teslát",
-          "url": "https://444.hu/2026/10/16/bemutattak-a-repulo-teslat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "Index",
-          "cim": "A Tesla bemutatta repülő autóját, amely fejjel lefelé is tud közlekedni",
-          "url": "https://index.hu/techtud/2026/10/16/tesla-roadster-elon-musk-repulo-auto-bemutato/"
-        }
-      ]
-    },
-    {
-      "cim": "Unicummal indult, veszekedéssel ért véget a Fővárosi Közgyűlés rendkívüli ülése",
-      "lead": "Alig húsz percig tartott a Fővárosi Közgyűlés rendkívüli ülése, amit azért hívtak össze, hogy korlátozzák a főpolgármester szavazati jogát a Fővárosi Közfejleszések Tanácsában. Az ülésre több kerületi polgármester is hiába ment el: ugyan több képviselő is javasolta, hogy hallgassák meg őket, a napirendet nem szavazták…",
-      "forrasok": [
-        {
-          "nev": "HVG",
-          "cim": "Unicummal indult, veszekedéssel ért véget a Fővárosi Közgyűlés rendkívüli ülése",
-          "url": "https://hvg.hu/itthon/20261016_rendkivuli-kozgyules-budapest-fovarosi-kozfejlesztesek-tanacsa-fidesz-karacsony-gergely-parkolas"
-        },
-        {
-          "nev": "Index",
-          "cim": "Feszült vita után már a rendkívüli ülés napirendjét sem sikerült elfogadni, előkerült egy üveg Unicum is - A Fővárosi Közgyűlés rendkívüli ülése",
-          "url": "https://index.hu/belfold/2026/10/16/budapest-fovaros-karacsony-gergely-fovarosi-kozgyules-keruletek-parkolas-fidesz-tisza-part/"
-        }
-      ]
-    },
-    {
-      "cim": "Beindult a Fidesz körüli mozgolódás, Partos Bence helyett a felesége próbálja életre kelteni a Digitális Polgári Köröket",
-      "lead": "Az alapító hátrébb lépett, de a 444 információi szerint a power couple másik fele, Farkas Vera pszichológus a saját cégén, a Volumen Communicationsen keresztül beszállt az egyre inkább a személyes találkozókra építő DPK-k szervezésébe.",
-      "forrasok": [
-        {
-          "nev": "444",
-          "cim": "Beindult a Fidesz körüli mozgolódás, Partos Bence helyett a felesége próbálja életre kelteni a Digitális Polgári Köröket",
-          "url": "https://444.hu/2026/10/16/beindult-a-fidesz-koruli-mozgolodas-partos-bence-helyett-a-felesege-probalja-eletre-kelteni-a-digitalis-polgari-koroket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "HVG",
-          "cim": "Újraélednek a Digitális Polgári Körök, a korábbi alapító felesége is beszállt a bizniszbe",
-          "url": "https://hvg.hu/itthon/20261016_digitalis-polgari-korok-partos-bence-farkas-vera"
-        }
-      ]
-    },
-    {
-      "cim": "Megszólalt a Mol, ezt gondolja az üzemanyaghelyzetről",
-      "lead": "Vajon szóba áll Hernádi Zsolt a független benzinkutasokkal a mai tüntetésen?",
+      "cim": "Meghalt Kuna Károly színművész",
+      "lead": "A színész súlyos betegséggel küzdött, szeptember végén kollégái és a színház irányított véradást szerveztek a megsegítésére.",
       "forrasok": [
         {
           "nev": "Magyar Nemzet",
-          "cim": "Megszólalt a Mol, ezt gondolja az üzemanyaghelyzetről",
-          "url": "https://magyarnemzet.hu/gazdasag/2026/10/megszolalt-a-mol-ezt-gondolja-az-uzemanyaghelyzetrol?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+          "cim": "Meghalt Kuna Károly színművész",
+          "url": "https://magyarnemzet.hu/kultura/2026/10/meghalt-kuna-karoly-szinmuvesz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        },
+        {
+          "nev": "Index",
+          "cim": "Meghalt Kuna Károly, Jászai Mari- és Aase-díjas színművész",
+          "url": "https://index.hu/kultur/2026/10/17/kuna-karoly-szinmuvesz-gyasz-halalhir-vorosmarty-szinhaz/"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Meghalt Kuna Károly",
+          "url": "https://hvg.hu/kultura/20261017_kuna-karoly-meghalt-vorosmarty-szinhaz"
         }
       ]
     },
     {
-      "cim": "Az oroszok felfedezték a lehaló mobilhálózatok elleni csodaszert: a vezetékes telefont",
-      "lead": "Vissza a startvonalra: olyan gyatra lett az orosz vezeték nélküli távközlés a háború hatására, hogy",
+      "cim": "Magyar Péter szerint Magyarország szempontjából sem mindegy az amerikai-orosz dízelalku",
+      "lead": "Magyarország szempontjából is van jelentősége a Trump és Putyin közötti dízelmegállapodásnak – mondta Magyar Péter az uniós csúcsról hazafelé tartó repülőgépen. A miniszterelnök szerint ha Washington az orosz dízelexportról állapodott meg, akkor nehezen indokolható, hogy Magyarország ne kapja meg újabb egy évre az…",
+      "forrasok": [
+        {
+          "nev": "Portfolio",
+          "cim": "Magyar Péter szerint Magyarország szempontjából sem mindegy az amerikai-orosz dízelalku",
+          "url": "https://www.portfolio.hu/gazdasag/20261017/magyar-peter-szerint-magyarorszag-szempontjabol-sem-mindegy-az-amerikai-orosz-dizelalku-870358"
+        },
+        {
+          "nev": "444",
+          "cim": "Magyar Péter a dízelmegállapodásról a 444-nek: Az amerikai elnök olyan megállapodást köt, amilyet akar, de ennek Magyarország szempontjából is van jelentősége",
+          "url": "https://444.hu/2026/10/17/magyar-peter-a-dizelmegallapodasrol-a-444-nek-az-amerikai-elnok-olyan-megallapodast-kot-amilyet-akar-de-ennek-magyarorszag-szempontjabol-is-van-jelentosege?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Magyar Péter: „Az orosz elnököt leszámítva” mindenkit meghívtunk az október 23-i megemlékezésre, de nem hiszem, hogy Zelenszkij eljön",
+          "url": "https://hvg.hu/itthon/20261017_magyar-peter-eu-csucs-zelenszkij-migracios-birsag-dizelmegallapodas"
+        }
+      ]
+    },
+    {
+      "cim": "Halálos késelés volt egy németországi idősotthonban",
+      "lead": "A két sebesült közül egyikük állapota életveszélyes. A támadás oka ismeretlen.",
       "forrasok": [
         {
           "nev": "HVG",
-          "cim": "Az oroszok felfedezték a lehaló mobilhálózatok elleni csodaszert: a vezetékes telefont",
-          "url": "https://hvg.hu/tudomany/20261016_oroszorszag-mobilinternet-kimaradasok-tavkozles-vezetekes-telefon-hasznalata"
+          "cim": "Halálos késelés volt egy németországi idősotthonban",
+          "url": "https://hvg.hu/vilag/20261017_nemetorszag-dortmund-keses-tamadas-halalos-aldozat-idosek-otthona"
+        },
+        {
+          "nev": "444",
+          "cim": "Idősotthonban történt késelés Németországban",
+          "url": "https://444.hu/2026/10/17/idosotthonban-tortent-keseles-nemetorszagban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "Index",
+          "cim": "Késelés történt egy német idősotthonban: 72 éves férfi ölhetett meg egy 86 éves nőt, két további lakót megsebesíthetett",
+          "url": "https://index.hu/kulfold/2026/10/17/nemetorszag-idosek-otthona-keses-tamadas-halalos-aldozat/"
         }
       ]
     },
     {
-      "cim": "A cégek már váltanak: lassan, de biztosan nő az elektromos autók aránya",
-      "lead": "Az elektromos autózás Magyarországon még lemaradásban van az európai átlaghoz képest, de a trend egyértelmű: a céges vásárlók húzzák a piacot, miközben a benzines és dízel modellek aránya fokozatosan csökken. A videóban szó esik arról is, hogyan reagálnak az autógyártók a változó igényekre, és miért marad kulcskérdés…",
+      "cim": "Minimálbér: 14 százalék helyett csak 6 százalék alatti emelést adnának a munkáltatók",
+      "lead": "A korábban tervezett 14 százalék helyett akár 6 százalék alá is csökkenhet a minimálbér 2027-es emelése – számolt be az RTL Híradó . Az Orbán-kormány 2024 végén kötött hároméves bérmegállapodása még jelentős növekedéssel számolt, a gazdaság azonban a vártnál gyengébben teljesít, az infláció pedig alacsonyabb lett a…",
       "forrasok": [
         {
           "nev": "Portfolio",
-          "cim": "A cégek már váltanak: lassan, de biztosan nő az elektromos autók aránya",
-          "url": "https://www.portfolio.hu/gazdasag/20261016/a-cegek-mar-valtanak-lassan-de-biztosan-no-az-elektromos-autok-aranya-869654"
+          "cim": "Minimálbér: 14 százalék helyett csak 6 százalék alatti emelést adnának a munkáltatók",
+          "url": "https://www.portfolio.hu/gazdasag/20261016/minimalber-14-szazalek-helyett-csak-6-szazalek-alatti-emelest-adnanak-a-munkaltatok-870336"
+        },
+        {
+          "nev": "444",
+          "cim": "Sokallják a tervezett minimálbér-emelést a munkaadók, 14 százalék helyett még 6-ot sem adnának",
+          "url": "https://444.hu/2026/10/16/sokalljak-a-tervezett-minimalber-emelest-javasol-a-munkaadok-14-szazalek-helyett-meg-6-ot-sem-adnanak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "Index",
+          "cim": "A tervezett 14 helyett kevesebb mint 6 százalékos béremelést adnának a munkáltatók jövőre",
+          "url": "https://index.hu/gazdasag/2026/10/17/minimalber-emeles-munkaltatok-fizetes-gazdasagi-teljesitmeny-inflacio/"
         }
       ]
     },
     {
-      "cim": "Kiderült, honnan jött a parancs, hogy szúrjanak ki Kijevvel, mérgesedik az amerikai-ukrán viszony - Pénteki híreink az orosz-ukrán háborúról",
-      "lead": "A Reuters hírügynökség amerikai és nyugati forrásokból úgy értesült , hogy a Fehér Házból érkezett az utasítás az Ukrajna által harctéri kommunikációra és drónműveletekre használt SpaceX Starshield műholdas rendszer korlátozására. A Newsmaxnak adott tegnapi interjújában Donald Trump amerikai elnök bírálta Volodimir…",
+      "cim": "Küszöbön a szigorítás: korhatárhoz köthetik az elektromos rollerek használatát Magyarországon",
+      "lead": "A kormány heteken belül bemutatja az elektromos rollerek használatára vonatkozó új keretszabályozást, amely külön kezeli a kis- és nagy teljesítményű eszközöket, valamint alsó korhatárhoz kötheti azok használatát. Erről egy Facebook-videóban számolt be Vitézy Dávid közlekedési és beruházási miniszter.",
       "forrasok": [
         {
           "nev": "Portfolio",
-          "cim": "Kiderült, honnan jött a parancs, hogy szúrjanak ki Kijevvel, mérgesedik az amerikai-ukrán viszony - Pénteki híreink az orosz-ukrán háborúról",
-          "url": "https://www.portfolio.hu/global/20261016/kiderult-honnan-jott-a-parancs-hogy-szurjanak-ki-kijevvel-mergesedik-az-amerikai-ukran-viszony-penteki-hireink-az-orosz-ukran-haborurol-870052"
+          "cim": "Küszöbön a szigorítás: korhatárhoz köthetik az elektromos rollerek használatát Magyarországon",
+          "url": "https://www.portfolio.hu/gazdasag/20261017/kuszobon-a-szigoritas-korhatarhoz-kothetik-az-elektromos-rollerek-hasznalatat-magyarorszagon-870350"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Vitézy Dávid korhatárhoz kötné az elektromos rollerek használatát",
+          "url": "https://hvg.hu/cegauto/20261017_e-roller-szabalyozas-korhatar-vitezy-david"
         }
       ]
     },
     {
-      "cim": "„Hamis mese” – újabb videóval jelentkezett Matolcsy",
-      "lead": "2025 márciusáig állt az MNB élén, eddig tud felelősen nyilatkozni az alapítványok vagyonáról. Szerinte a vagyon megvan, a vita valójában arról szól, hogy miként értékelnek egy kötvényt.",
+      "cim": "Magyar Péter szerint Zelenszkij nem fog eljönni az október 23-ai megemlékezésre",
+      "lead": "Abban egyeztek meg, hogy a továbbiakban a minisztereik folytatják a tárgyalásokat.",
+      "forrasok": [
+        {
+          "nev": "444",
+          "cim": "Magyar Péter szerint Zelenszkij nem fog eljönni az október 23-ai megemlékezésre",
+          "url": "https://444.hu/2026/10/16/magyar-peter-szerint-zelenszkij-nem-fog-eljonni-az-oktober-23-ai-megemlekezesre?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "Index",
+          "cim": "Bóka János szerint Magyar Péter felvételt akart arról, ahogy Hankó Balázst bilincsben elviszik a Parlamentből",
+          "url": "https://index.hu/belfold/2026/10/17/boka-janos-magyar-peter-parlament-hanko-balazs-forsthoffer-agnes/"
+        }
+      ]
+    },
+    {
+      "cim": "Kátai-Németh Vilmos: A családpolitikai programokra szánt közpénzek egy részét Koncz Zsófia választási rendezvényeire használhatták fel",
+      "lead": "Hivatali visszaélés és hűtlen kezelés miatt feljelentést tett Kátai-Németh Vilmos szociális és családügyi miniszter a Családbarát Magyarország program 2026 tavaszán Szerencsen finanszírozott rendezvényei miatt - közölte a miniszter péntek éjjel Facebook-oldalán.",
       "forrasok": [
         {
           "nev": "HVG",
-          "cim": "„Hamis mese” – újabb videóval jelentkezett Matolcsy",
-          "url": "https://hvg.hu/gazdasag/20261016_matolcsy-gyorgy-mnb-alapitvanyok-padme-vagyonvesztes-optima-asz-jelentes-video-gtc-befektetes"
+          "cim": "Kátai-Németh Vilmos: A családpolitikai programokra szánt közpénzek egy részét Koncz Zsófia választási rendezvényeire használhatták fel",
+          "url": "https://hvg.hu/itthon/20261017_katai-nemeth-vilmos-a-csaladpolitikai-programokra-szant-kozpenzek-egy-reszet-koncz-zsofia-valasztasi-rendezvenyeire-hasznalhattak-fel"
+        },
+        {
+          "nev": "Index",
+          "cim": "Kátai-Németh Vilmos feljelentést tett a Családbarát Magyarország programsorozat szerencsi rendezvényei miatt",
+          "url": "https://index.hu/belfold/2026/10/17/katai-nemeth-vilmos-csaladbarat-magyarorszag-fidesz-koncz-zsofia/"
         }
       ]
     },
     {
-      "cim": "Rejtélyes mondatot ejtett el Zelenszkij: \"néha ennek kettőnk között kell maradnia\"",
-      "lead": "Lengyelország aktívan segíti Ukrajna légvédelmét, és egy újabb fegyverbeszerzési megállapodás is körvonalazódik a két ország között. Mindez azon a lengyel–ukrán egyeztetésen derült ki, amelyet az Európai Tanács brüsszeli csúcstalálkozójának margóján tartottak.",
+      "cim": "Ki fizeti meg Gryllus Dorka hőhullámainak az árát?",
+      "lead": "A gerillakampány leleplezése után mondhatjuk azt, hogy a megrendelő. Csakhogy a kérdés ennél bonyolultabb.",
       "forrasok": [
         {
-          "nev": "Portfolio",
-          "cim": "Rejtélyes mondatot ejtett el Zelenszkij: \"néha ennek kettőnk között kell maradnia\"",
-          "url": "https://www.portfolio.hu/global/20261016/rejtelyes-mondatot-ejtett-el-zelenszkij-neha-ennek-kettonk-kozott-kell-maradnia-870142"
+          "nev": "HVG",
+          "cim": "Ki fizeti meg Gryllus Dorka hőhullámainak az árát?",
+          "url": "https://hvg.hu/360/20261017_gryllus-dorka-menopauza-hohullam-dm-rtl-reggeli-kampany-atveres"
+        },
+        {
+          "nev": "444",
+          "cim": "Csak egy kampány volt Gryllus Dorka rosszulléte",
+          "url": "https://444.hu/2026/10/17/csak-egy-kampany-volt-gryllus-dorka-rosszullete?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        }
+      ]
+    },
+    {
+      "cim": "Megszűnt Mészáros Lőrinc lányának a munkaviszonya az MBH Banknál",
+      "lead": "Vezérigazgató-helyettesi pozícióban volt a banknál, aminek a legnagyobb tulajdonosa az apja.",
+      "forrasok": [
+        {
+          "nev": "444",
+          "cim": "Megszűnt Mészáros Lőrinc lányának a munkaviszonya az MBH Banknál",
+          "url": "https://444.hu/2026/10/16/megszunik-a-munkaviszonya-meszaros-lorinc-lanyanak-az-mbh-banknal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Az MBH Bank rendkívüli tájékoztatása szerint megszűnt náluk Mészáros Lőrinc lányának munkaviszonya",
+          "url": "https://hvg.hu/kkv/20261016_meszaros-lorinc-meszaros-beatrix-mbh-bank-munkaviszony-megszunes"
+        }
+      ]
+    },
+    {
+      "cim": "Egy hétig se bírta a Fehér Ház új szóvivője",
+      "lead": "Katie Zacharia öt nap után mondott le a tisztségről, miután Trump felszólította, hogy gondolkodjon el rajta.",
+      "forrasok": [
+        {
+          "nev": "444",
+          "cim": "Egy hétig se bírta a Fehér Ház új szóvivője",
+          "url": "https://444.hu/2026/10/16/egy-hetig-se-birta-a-feher-haz-uj-szovivoje?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "HVG",
+          "cim": "New York Times: Botrányos bemutatkozása után menesztették is a Fehér Ház új szóvivőjét",
+          "url": "https://hvg.hu/vilag/20261016_new-york-times-botranyos-bemutatkozasa-utan-menesztettek-is-a-feher-haz-uj-szovivojet"
+        }
+      ]
+    },
+    {
+      "cim": "Akkora feszültség alakult ki több településen, hogy időközi választásokat kell tartani",
+      "lead": "Visszatérő probléma a belső megosztottság.",
+      "forrasok": [
+        {
+          "nev": "Index",
+          "cim": "Akkora feszültség alakult ki több településen, hogy időközi választásokat kell tartani",
+          "url": "https://index.hu/belfold/2026/10/17/idokozi-valasztas-puspokladany-medina-bakonynana-szapar-polgarmester-kepviselo-testulet/"
         }
       ]
     }
   ],
   "nemzetkozi": [
     {
-      "cim": "32 Children Killed After School Roof Collapses in Pakistan",
-      "lead": "The collapse, in Peshawar, also killed a teacher and injured dozens of people. A local official said the building appeared to be dilapidated.",
-      "forrasok": [
-        {
-          "nev": "New York Times",
-          "cim": "32 Children Killed After School Roof Collapses in Pakistan",
-          "url": "https://www.nytimes.com/2026/10/15/world/asia/pakistan-school-collapse.html"
-        },
-        {
-          "nev": "BBC",
-          "cim": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
-          "url": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "Peshawar mourns children killed in school roof collapse",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/peshawar-mourns-children-killed-in-school-roof-collapse?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Houthi missiles strike Yemen presidential palace, killing five",
-      "lead": "Attack was the first on Aden’s Al-Maashiq palace ⁠in the latest fighting between ​the Iran-aligned Houthis and Saudi Arabia Yemen’s Houthis fired missiles at the presidential palace complex in the southern city of Aden on Thursday, killing five people, the government said, as the Saudi-led coalition listed dozens of…",
+      "cim": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
+      "lead": "Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend Carter Rhoad, were killed while on a surf trip in Baja California in 2024 Get our breaking news email , free app or daily news podcast A Mexican ⁠judge ⁠has sentenced ​three men to 158 years ⁠and nine months in prison each for ⁠the murder of…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "Houthi missiles strike Yemen presidential palace, killing five",
-          "url": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen"
+          "cim": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb"
         },
         {
           "nev": "BBC",
-          "cim": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
-          "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss"
+          "cim": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+          "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "nev": "New York Times",
-          "cim": "Houthi Missiles Strike Government Headquarters in Yemen",
-          "url": "https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html"
+          "nev": "Al Jazeera",
+          "cim": "Three Mexicans jailed for 158 years each for killing Australian, US surfers",
+          "url": "https://www.aljazeera.com/news/2026/10/17/three-mexicans-jailed-for-158-years-each-for-killing-australian-us-surfers?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
-      "lead": "President Volodymyr Zelensky expressed overt frustration with the United States in an interview with The Financial Times. He had paused the strikes to comply with a demand from the United States.",
+      "cim": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
+      "lead": "Forest clearance at smallest total since records began in 1988 in success for Lula ahead of presidential run-off Deforestation in the Brazilian Amazon has fallen to its lowest level since records began, new government data shows. But whether this globally important success is maintained or reversed is on a knife edge…",
       "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
+          "url": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election"
+        },
+        {
+          "nev": "BBC",
+          "cim": "Brazil sees record fall in Amazon deforestation as key election looms",
+          "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "Brazil’s Amazon deforestation hits lowest level on record",
+          "url": "https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Starlink access still not fully restored for Ukraine’s military, says Zelenskyy",
+      "lead": "Ukrainian president says US limiting access was a ‘dangerous and unpleasant surprise’, amid reports the order came from inside White House Volodymyr Zelenskyy has said the Ukrainian military’s access to the Starlink satellite internet service has not yet been fully restored, as media reports suggested the order to…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Starlink access still not fully restored for Ukraine’s military, says Zelenskyy",
+          "url": "https://www.theguardian.com/world/2026/oct/16/ukraine-military-starlink-access-starshield-volodymyr-zelenskyy"
+        },
         {
           "nev": "New York Times",
           "cim": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
@@ -239,127 +284,157 @@
         },
         {
           "nev": "BBC",
-          "cim": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
-          "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss"
+          "cim": "Trump denies limiting Ukraine access to Starlink network",
+          "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "cim": "China tells Israel to stop ‘forced establishment’ of West Bank settlements",
-      "lead": "'The Palestinian question is the greatest historical injustice of this century,' China's foreign minister said.",
-      "forrasok": [
-        {
-          "nev": "Al Jazeera",
-          "cim": "China tells Israel to stop ‘forced establishment’ of West Bank settlements",
-          "url": "https://www.aljazeera.com/news/2026/10/16/china-tells-israel-to-stop-forced-establishment-of-west-bank-settlements?traffic_source=rss"
-        },
-        {
-          "nev": "BBC",
-          "cim": "China tells Israel to stop 'forced establishment' of West Bank settlements",
-          "url": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Pentagon says Trump and Hegseth ‘completely aligned’ on decision to cancel livestream of firing squad execution – as it happened",
-      "lead": "This live blog is now closed. Sign up for the Breaking News US email The US government could spend hundreds of thousands of dollars on a media campaign in South Africa to figure out why more white Afrikaners are not applying to become refugees to the US , as Donald Trump had hoped. State department officials…",
+      "cim": "Israeli settlers attack olive farmers and Washington Post journalist in West Bank",
+      "lead": "Settlers hurl rocks at Palestinians and beat photographer Heidi Levine as part of yearly attacks to disrupt harvest Israeli settlers have attacked Palestinians across the occupied West Bank in a coordinated movement to disrupt the annual olive harvest, burning cars and trees and injuring Palestinians and a Washington…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "Pentagon says Trump and Hegseth ‘completely aligned’ on decision to cancel livestream of firing squad execution – as it happened",
-          "url": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates"
+          "cim": "Israeli settlers attack olive farmers and Washington Post journalist in West Bank",
+          "url": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine"
+        },
+        {
+          "nev": "New York Times",
+          "cim": "Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank",
+          "url": "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html"
         },
         {
           "nev": "BBC",
-          "cim": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-          "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss"
+          "cim": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+          "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "cim": "Nicolás Maduro tells New York court new torture allegations are ‘false’",
-      "lead": "Rewritten indictment accuses ex-Venezuela president and wife Cilia Flores of leading campaign of torture Nicolás Maduro insisted on Thursday during an appearance in a New York court that torture allegations in a rewritten drug trafficking indictment against the deposed Venezuelan president and his wife were “false…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Nicolás Maduro tells New York court new torture allegations are ‘false’",
-          "url": "https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores"
-        },
-        {
-          "nev": "BBC",
-          "cim": "Maduro pleads not guilty to new torture-related charges in New York",
-          "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Romania: 2 ships on fire in Black Sea, 7 crew missing",
-      "lead": "Two chemical tankers have caught fire in Romanian territorial waters in the Black Sea. The blazes occurred after Russian drones were sighted in Romanian airspace.",
+      "cim": "France braces for nationwide protests",
+      "lead": "Students, trade unionists and Yellow Vest activists are taking to French streets to protest high prices and inequality. Authorities say they fear the rallies could turn violent.",
       "forrasok": [
         {
           "nev": "Deutsche Welle",
-          "cim": "Romania: 2 ships on fire in Black Sea, 7 crew missing",
-          "url": "https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003?maca=en-rss-en-world-4025-rdf"
+          "cim": "France braces for nationwide protests",
+          "url": "https://www.dw.com/en/france-braces-for-nationwide-protests/a-79685584?maca=en-rss-en-world-4025-rdf"
+        },
+        {
+          "nev": "New York Times",
+          "cim": "How Bally Bagayoko, a 53-Year-Old Mayor, Became the Face of France’s Youth Protests",
+          "url": "https://www.nytimes.com/2026/10/17/france-protests-mayor-bally-bagayoko.html"
+        }
+      ]
+    },
+    {
+      "cim": "Oregon school shooting: Police praise 'heroism' of those who intervened to stop more killing",
+      "lead": "US police have praised the actions of three people who cut short a deadly shooting at a school in the state of Oregon. Three children and a teacher were killed in the attack, carried out by a former pupil at the school.",
+      "forrasok": [
+        {
+          "nev": "Deutsche Welle",
+          "cim": "Oregon school shooting: Police praise 'heroism' of those who intervened to stop more killing",
+          "url": "https://www.dw.com/en/oregon-school-shooting-police-praise-heroism-of-those-who-intervened-to-stop-more-killing/a-79685302?maca=en-rss-en-world-4025-rdf"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "Oregon school shooter was former special needs student, police say",
+          "url": "https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "lead": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+      "forrasok": [
+        {
+          "nev": "BBC",
+          "cim": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+          "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "Trump puts on hold new Russia sanctions he signed into law",
+          "url": "https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Power plant attacks reflect Russian blueprint to make Ukrainian cities unlivable",
+      "lead": "Kremlin turning to punishment of Ukraine’s population in major cities as frontlines remain frozen As Russian missiles and drones have systematically slammed into power plants in Kyiv and Kharkiv this week, the rolling blackouts and water outages have increasingly resembled a supposed Russian blueprint to destroy life…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Power plant attacks reflect Russian blueprint to make Ukrainian cities unlivable",
+          "url": "https://www.theguardian.com/world/2026/oct/16/attacks-on-ukraine-power-plants-show-russia-has-given-up-on-military-victory"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "Russian attacks in Ukraine kill at least 8, cut power to 1 million",
+          "url": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Child sex abuse charges against actor Timothy Busfield dismissed by judge",
+      "lead": "Prosecution did not act in fair and impartial way in grand jury proceedings, judge rules, after West Wing actor charged with groping young boy on TV set A state court ⁠judge in New Mexico has dismissed charges of child sexual abuse against West Wing actor and director Timothy Busfield, saying the prosecution did not…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Child sex abuse charges against actor Timothy Busfield dismissed by judge",
+          "url": "https://www.theguardian.com/us-news/2026/oct/17/child-sex-abuse-charges-against-actor-timothy-busfield-dismissed-by-judge"
         },
         {
           "nev": "BBC",
-          "cim": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
-          "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss"
+          "cim": "Judge throws out child sex abuse charges against actor Timothy Busfield",
+          "url": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "cim": "Caracas Is Eerily Safe After Deadly Police Raids in Venezuela Killed Thousands",
-      "lead": "Crime plunged after police raids killed thousands. Venezuela is now withdrawing from the International Criminal Court as it investigates this blood-soaked campaign.",
+      "cim": "India's young workers have a new colleague: AI",
+      "lead": "Artificial intelligence is changing the way Indian workplaces operate — raising questions about productivity, skills and entry-level jobs.",
+      "forrasok": [
+        {
+          "nev": "Deutsche Welle",
+          "cim": "India's young workers have a new colleague: AI",
+          "url": "https://www.dw.com/en/india-s-young-workers-have-a-new-colleague-ai/a-79678342?maca=en-rss-en-world-4025-rdf"
+        },
+        {
+          "nev": "New York Times",
+          "cim": "Meet Neha Bora, Activist and Face of India’s Young Protesters",
+          "url": "https://www.nytimes.com/2026/10/15/world/asia/india-student-leader-neha.html"
+        }
+      ]
+    },
+    {
+      "cim": "16 People Rescued in Pacific Ocean Off Mexico, U.S. Coast Guard Says",
+      "lead": "The agency said a major rescue operation was underway near the coast of Baja California after it received reports of 27 people in the water.",
       "forrasok": [
         {
           "nev": "New York Times",
-          "cim": "Caracas Is Eerily Safe After Deadly Police Raids in Venezuela Killed Thousands",
-          "url": "https://www.nytimes.com/2026/10/16/world/americas/caracas-is-eerily-safe-state-death-squads-made-sure-of-it.html"
-        }
-      ]
-    },
-    {
-      "cim": "What Life Is Like in Kyiv as Russia Tries to Make It Unlivable",
-      "lead": "A day in the Ukrainian capital, a new kind of battlefield far from the front, where daily life means assessing — and accepting — deadly risks.",
-      "forrasok": [
+          "cim": "16 People Rescued in Pacific Ocean Off Mexico, U.S. Coast Guard Says",
+          "url": "https://www.nytimes.com/2026/10/16/world/americas/baja-california-mexico-rescue-coast-guard.html"
+        },
         {
-          "nev": "New York Times",
-          "cim": "What Life Is Like in Kyiv as Russia Tries to Make It Unlivable",
-          "url": "https://www.nytimes.com/2026/10/16/world/europe/ukraine-war-life-in-kyiv.html"
+          "nev": "Al Jazeera",
+          "cim": "US coastguard rescues 16 after boat sinks off Mexico’s Baja coast",
+          "url": "https://www.aljazeera.com/news/2026/10/17/us-coastguard-rescues-16-after-boat-sinks-off-mexicos-baja-coast?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "Greens leader denies knowledge of ‘secret dossier’ on how to handle Jordon Steele-John misconduct allegations",
-      "lead": "David Shoebridge says 47-page document not ‘made by, used by, or seen by’ his office as matter referred to parliamentary standards commission Get our new political email , free app or daily news podcast Greens leader David Shoebridge has denied knowledge of the existence of an alleged crisis management document on how…",
+      "cim": "India’s Cockroach Janta party leader arrested amid crackdown on protests",
+      "lead": "Abhijeet Dipke was detained before planned anti-government demonstrations in Delhi The leader of the Cockroach Janta party (CJP) youth movement, Abhijeet Dipke, was detained by police on Friday and then later formally arrested as authorities cracked down on fresh anti-government protests in the Indian capital. Dipke…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "Greens leader denies knowledge of ‘secret dossier’ on how to handle Jordon Steele-John misconduct allegations",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/16/david-shoebridge-denies-secret-dossier-jordon-steel-john-misconduct-allegations-ntwnfb"
-        }
-      ]
-    },
-    {
-      "cim": "Flash floods kill five and destroy villages in central Nepal",
-      "lead": "Landslide blocks river and triggers downstream flooding, while summer temperatures persist in Portugal Flash floods have swept through Nepal’s central Gorkha district after a pre-dawn landslide on 11 October blocked the Budhi Gandaki River, triggering severe downstream flooding. At least five people have died, and…",
-      "forrasok": [
+          "cim": "India’s Cockroach Janta party leader arrested amid crackdown on protests",
+          "url": "https://www.theguardian.com/world/2026/oct/16/india-cockroach-janta-party-leader-detained-amid-crackdown-protests"
+        },
         {
-          "nev": "The Guardian",
-          "cim": "Flash floods kill five and destroy villages in central Nepal",
-          "url": "https://www.theguardian.com/environment/2026/oct/16/flash-floods-deaths-nepal-high-temperatures-portugal"
-        }
-      ]
-    },
-    {
-      "cim": "Jenrick claims Farage has done more to stand against racism than ‘almost anybody’",
-      "lead": "Reform MP defends leader after ITV footage shows official warning Farage he is ‘protecting’ candidate over racist David Lammy comments The Reform UK MP Robert Jenrick sought to defend the party against fresh allegations that it hosts extremists by claiming that Nigel Farage had “probably done more than almost anybody…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Jenrick claims Farage has done more to stand against racism than ‘almost anybody’",
-          "url": "https://www.theguardian.com/politics/2026/oct/16/jenrick-farage-reform-done-more-stand-against-racism-than-almost-anybody"
+          "nev": "BBC",
+          "cim": "India's 'cockroach' party founder detained ahead of protest",
+          "url": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
