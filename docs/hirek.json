@@ -1,445 +1,450 @@
 {
-  "datum": "2026-10-18",
-  "generalva": "2026-10-18T10:57+02:00",
+  "datum": "2026-10-19",
+  "generalva": "2026-10-19T12:05+02:00",
   "hazai": [
     {
-      "cim": "A lengyel külügyminiszter súlyos bizonyítékokról beszél Oroszország és az Orbán-kormány viszonylatában",
-      "lead": "Radosław Sikorski lengyel külügyminiszter egy friss interjúban kijelentette, hogy banki átutalásokról és hangfelvételekről rendelkeznek bizonyítékokkal, amelyek alátámasztják az orosz vezetés és az előző magyar kormány közötti szoros együttműködést. A felvételek tanúsága szerint Szijjártó Péter egykori magyar…",
+      "cim": "Bombafenyegetést kapott nagyon sok magyar iskola - Megszólalt a rendőrség",
+      "lead": "Fenyegető e-mail érkezett több médiatartalom-szolgáltatóhoz 2026. október 19-én reggel. A levél szerint az országban több mint hetven oktatási intézményben helyeztek el robbanószert. Az ORFK közölte, hogy a rendőrség minden szükséges intézkedést megtesz. A hatóság arra kéri az érintetteket, hogy a helyszíneken…",
       "forrasok": [
         {
           "nev": "Portfolio",
-          "cim": "A lengyel külügyminiszter súlyos bizonyítékokról beszél Oroszország és az Orbán-kormány viszonylatában",
-          "url": "https://www.portfolio.hu/global/20261017/a-lengyel-kulugyminiszter-sulyos-bizonyitekokrol-beszel-oroszorszag-es-az-orban-kormany-viszonylataban-870410"
-        },
-        {
-          "nev": "HVG",
-          "cim": "Lesz-e Orbán Viktornak „Elba-pillanata”?",
-          "url": "https://hvg.hu/360/20261018_lesz-e-orban-viktornak-elba-pillanata"
+          "cim": "Bombafenyegetést kapott nagyon sok magyar iskola - Megszólalt a rendőrség",
+          "url": "https://www.portfolio.hu/gazdasag/20261019/bombafenyegetest-kapott-nagyon-sok-magyar-iskola-megszolalt-a-rendorseg-870592"
         },
         {
           "nev": "Magyar Nemzet",
-          "cim": "Orbán Viktor: Ma rombolás zajlik Magyarországon",
-          "url": "https://magyarnemzet.hu/belfold/2026/10/orban-viktor-is-felszolal-lakitelken-tabuk-nelkul-lehet-kerdezni-a-volt-miniszterelnokot?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-        },
-        {
-          "nev": "444",
-          "cim": "A lengyel külügyminiszter szerint pénzutalások és felvételek bizonyítják, hogy Orbánék együttműködtek az oroszokkal",
-          "url": "https://444.hu/2026/10/17/a-lengyel-kulugyminiszter-szerint-penzutalasok-es-felvetelek-bizonyitjak-hogy-orbanek-egyuttmukodtek-az-oroszokkal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "Index",
-          "cim": "Lengyel külügyminiszter: Bizonyítékaink vannak rá, hogy az oroszok támogatták Orbán Viktor kormányát",
-          "url": "https://index.hu/kulfold/2026/10/18/radoslaw-sikorski-kulugyminiszter-lengyelorszag-szijjarto-peter-szergej-lavrov-oroszorszag/"
-        }
-      ]
-    },
-    {
-      "cim": "Csatatérré változott az európai nagyváros főtere, rendőrökkel csaptak össze a tüntetők",
-      "lead": "Csatatérré változott a Milánó városközpontjában található Dóm tér, ahol tüntetők és rendőrök csaptak össze szombat délután. A teret lezárták.",
-      "forrasok": [
-        {
-          "nev": "Portfolio",
-          "cim": "Csatatérré változott az európai nagyváros főtere, rendőrökkel csaptak össze a tüntetők",
-          "url": "https://www.portfolio.hu/global/20261017/csataterre-valtozott-az-europai-nagyvaros-fotere-rendorokkel-csaptak-ossze-a-tuntetok-870406"
-        },
-        {
-          "nev": "Magyar Nemzet",
-          "cim": "Rendőri nyomásgyakorlás miatt marad el a hétfői genderellenes tüntetés",
-          "url": "https://magyarnemzet.hu/belfold/2026/10/rendori-nyomasgyakorlas-miatt-marad-el-a-hetfoi-genderellenes-tuntetes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-        },
-        {
-          "nev": "444",
-          "cim": "Olaszországban is eldurvultak a tüntetések, csatatérré változott Milánóban a Dóm tér",
-          "url": "https://444.hu/2026/10/17/olaszorszagban-is-eldurvultak-a-tuntetesek-csataterre-valtozott-milanoban-a-dom-ter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "Index",
-          "cim": "Csatatérré változott Milánóban a dóm előtti tér a tüntetők és a rendőrök összecsapásai miatt",
-          "url": "https://index.hu/kulfold/2026/10/18/olaszorszag-milano-tuntetes-bologna-torino-giorgia-meloni-aremelkedes/"
-        }
-      ]
-    },
-    {
-      "cim": "Álarcos izraeli telepesek támadtak európai diplomatákra Ciszjordániában",
-      "lead": "A delegáció azért látogatott a faluba, mert a telepesek rendszeresen megzavarják a palesztinok olajbogyó-szüretét. A konvojban utazó francia polgármestert megrugdosták és vasrudakkal ütötték.",
-      "forrasok": [
-        {
-          "nev": "444",
-          "cim": "Álarcos izraeli telepesek támadtak európai diplomatákra Ciszjordániában",
-          "url": "https://444.hu/2026/10/18/alarcos-izraeli-telepesek-tamadtak-europai-diplomatakra-ciszjordaniaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "HVG",
-          "cim": "Belga külügyminiszter: álarcos telepesek palesztinokra és nyugati diplomatákra támadtak Ciszjordániában",
-          "url": "https://hvg.hu/vilag/20261017_ciszjordania-tamadas-izraeli-telepesek-francia-politikusok-diplomatak-lengyelek-belgak"
+          "cim": "„Ma eljött a bosszú napja!” – országszerte több mint hetven iskolát fenyegettek meg",
+          "url": "https://magyarnemzet.hu/belfold/2026/10/ma-eljott-a-bosszu-napja-orszagszerte-tobb-mint-hetven-iskolat-fenyegettek-meg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
         },
         {
           "nev": "Telex",
-          "cim": "Európai diplomatákra támadtak álarcos telepesek Ciszjordániában",
-          "url": "https://telex.hu/kulfold/2026/10/17/taibe-diplomaciai-kuldottseg-tamadas-izraeli-telepesek-ciszjordania"
+          "cim": "Több belgrádi és újvidéki iskola is bombafenyegetést kapott",
+          "url": "https://telex.hu/kulfold/2026/10/19/szerbia-belgrad-ujvidek-iskola-bombafenyegetes-level"
         },
         {
           "nev": "Index",
-          "cim": "Európai diplomatákat és újságírókat támadtak meg izraeli telepesek Ciszjordániában",
-          "url": "https://index.hu/kulfold/2026/10/18/izrael-ciszjordania-tajbe-francia-polgarmester-diplomatak/"
+          "cim": "Bombariadók országszerte: több mint 70 iskolát fenyegettek meg",
+          "url": "https://index.hu/belfold/2026/10/19/bombariadok-orszagszerte-tobb-mint-hetven-iskolat-fenyegettek-meg/"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Több mint hetven iskolában volt bombariadó hétfő reggel",
+          "url": "https://hvg.hu/itthon/20261019_oktatas-iskolak-bombafenyegetes-bombariado"
         }
       ]
     },
     {
-      "cim": "Dróntámadás érte Szentpétervárt: kigyulladt a hatalmas olajterminál, ezrek maradtak áram nélkül - Oroszország háborúja Ukrajnában – az Index vasárnapi hírösszefoglalója",
-      "lead": "Oroszország háborúja Ukrajnában – az Index vasárnapi hírösszefoglalója.",
+      "cim": "Fekete-Győr András lezárja a momentumos korszakát",
+      "lead": "Progresszív, független, parlamenten kívüli politikusként folytatja pályafutását, máris támogatókat keres hozzá.",
       "forrasok": [
         {
-          "nev": "Index",
-          "cim": "Dróntámadás érte Szentpétervárt: kigyulladt a hatalmas olajterminál, ezrek maradtak áram nélkül - Oroszország háborúja Ukrajnában – az Index vasárnapi hírösszefoglalója",
-          "url": "https://index.hu/kulfold/2026/10/18/oroszorszag-ukrajna-orosz-ukran-konfliktus-kijev-moszkva-volodimir-zelenszkij-vlagyimir-putyin-nato-europai-unio-beketargyalas/"
-        },
-        {
-          "nev": "HVG",
-          "cim": "Dróntámadás érte Szentpétervárt, egy ember meghalt",
-          "url": "https://hvg.hu/vilag/20261018_drontamadas-szentpetervar-oroszorszag"
+          "nev": "444",
+          "cim": "Fekete-Győr András lezárja a momentumos korszakát",
+          "url": "https://444.hu/2026/10/19/fekete-gyor-andras-lezarja-a-momentumos-korszakat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         },
         {
           "nev": "Telex",
-          "cim": "Tömeges dróntámadás érte Szentpétervárt",
-          "url": "https://telex.hu/kulfold/2026/10/18/tomeges-drontamadas-erte-szentpetervart"
-        }
-      ]
-    },
-    {
-      "cim": "Futballpályára hajtott egy autós és két embert halálra gázolt az Egyesült Államokban",
-      "lead": "A járművet egy 34 éves nő vezette és két kiskorú is utazott benne.",
-      "forrasok": [
-        {
-          "nev": "HVG",
-          "cim": "Futballpályára hajtott egy autós és két embert halálra gázolt az Egyesült Államokban",
-          "url": "https://hvg.hu/vilag/20261018_futballpalyara-hajtott-egy-autos-es-ket-embert-halalra-gazolt-az-egyesult-allamokban"
-        },
-        {
-          "nev": "444",
-          "cim": "Két ember, köztük egy hatéves gyerek meghalt, amikor egy teherautó egy ifjúsági focimeccs közben a pályára hajtott az Egyesült Államokban",
-          "url": "https://444.hu/2026/10/18/ket-ember-koztuk-egy-hateves-gyerek-meghalt-amikor-egy-teherauto-egy-ifjusagi-focimeccs-kozben-a-palyara-hajtott-az-egyesult-allamokban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "Magyar Nemzet",
-          "cim": "Tragédia a futballmeccsen: két embert ölt meg a pályára hajtó autó",
-          "url": "https://magyarnemzet.hu/sport/2026/10/egyesult-allamok-tragedia-kansas-allam-futballmeccs?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-        }
-      ]
-    },
-    {
-      "cim": "Ruszin-Szendi Romulusz: Úgy tűnik, lesz Magyarországnak lézerfegyvere",
-      "lead": "A miniszter szerint a fegyver különböző típusú drónok megsemmisítésére lesz képes.",
-      "forrasok": [
-        {
-          "nev": "HVG",
-          "cim": "Ruszin-Szendi Romulusz: Úgy tűnik, lesz Magyarországnak lézerfegyvere",
-          "url": "https://hvg.hu/itthon/20261017_ruszin-szendi-romulusz-ugy-tunik-lesz-magyarorszagnak-lezerfegyvere"
+          "cim": "Fekete-Győr András kilépett a Momentumból, független politikusként fog országjárásra indulni",
+          "url": "https://telex.hu/belfold/2026/10/19/fekete-gyor-andras-lezarta-a-momemntumos-korszakat-fuggetlen-politikus-orszagjaras"
         },
         {
           "nev": "Index",
-          "cim": "Ruszin-Szendi Romulusz: lesz Magyarországnak lézerfegyvere",
-          "url": "https://index.hu/belfold/2026/10/18/ruszin-szendi-romulusz-honvedseg-lezerfegyver-haditecnhikai-bemutato/"
+          "cim": "Fekete-Győr András kilépett a Momentumból, független politikusként folytatja a munkát",
+          "url": "https://index.hu/belfold/2026/10/19/fekete-gyor-andras-momentum-fuggetlen-politikus/"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Fekete-Győr András kilépett a Momentumból",
+          "url": "https://hvg.hu/itthon/20261019_momentum-fekete-gyor-andras-kilepes"
+        }
+      ]
+    },
+    {
+      "cim": "Valter Attila bukással és kulcscsonttöréssel fejezte be az idei országúti kerékpáros szezont",
+      "lead": "A Bahrain Victorious csapat magyar bringása 2026-ban nem tudta elérni a kitűzött céljait, és a sok negatív kritika is megviselte.",
+      "forrasok": [
+        {
+          "nev": "Telex",
+          "cim": "Valter Attila bukással és kulcscsonttöréssel fejezte be az idei országúti kerékpáros szezont",
+          "url": "https://telex.hu/sport/2026/10/19/valter-attila-orszaguti-bukas-kulcsonttores-japan-bahrain-victorious-szezon-vege"
         },
         {
           "nev": "444",
-          "cim": "Ruszin-Szendi Romulusz: Lesz Magyarországnak lézerfegyvere",
-          "url": "https://444.hu/2026/10/17/ruszin-szendi-romulusz-lesz-magyarorszagnak-lezerfegyvere?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        }
-      ]
-    },
-    {
-      "cim": "Holoda Attila: \"Végleg el kell felejteni, hogy az energia újra olcsó lesz\"",
-      "lead": "Súlyos finanszírozási és infrastrukturális kihívásokkal néz szembe a magyar energiaellátó rendszer, hiszen a távhőszolgáltatás éveken belül válságba kerülhet, a független benzinkutak egy része a csőd szélén áll, Paks II. folyamatos csúszása miatt pedig elkerülhetetlen a meglévő atomerőművi blokkok kiesésével járó…",
-      "forrasok": [
-        {
-          "nev": "Portfolio",
-          "cim": "Holoda Attila: \"Végleg el kell felejteni, hogy az energia újra olcsó lesz\"",
-          "url": "https://www.portfolio.hu/gazdasag/20261017/holoda-attila-vegleg-el-kell-felejteni-hogy-az-energia-ujra-olcso-lesz-870404"
-        },
-        {
-          "nev": "Magyar Nemzet",
-          "cim": "A Tisza energetikai szakértője szerint el kell felejteni az olcsó energiát",
-          "url": "https://magyarnemzet.hu/gazdasag/2026/10/a-tisza-energetikai-szakertoje-szerint-el-kell-felejteni-az-olcso-energiat?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-        }
-      ]
-    },
-    {
-      "cim": "Orbán Viktor: A jóisten tartozik nekem még négy évvel – élő közvetítés a DPK-táborról",
-      "lead": "A kétnapos rendezvény meglepetésvendége a volt miniszterelnök, az eredeti programban ugyanis nem tettek róla említést.",
-      "forrasok": [
-        {
-          "nev": "HVG",
-          "cim": "Orbán Viktor: A jóisten tartozik nekem még négy évvel – élő közvetítés a DPK-táborról",
-          "url": "https://hvg.hu/itthon/20261018_orban-viktor-dpk-beszelgetes-fidesz-lakitelek"
+          "cim": "Töréssel zárta a szerzont Valter Attila",
+          "url": "https://444.hu/2026/10/19/toressel-zarta-a-szerzont-valter-attila?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         },
         {
           "nev": "Index",
-          "cim": "Orbán Viktor: A Jóisten még tartozik nekem négy évvel",
-          "url": "https://index.hu/belfold/2026/10/18/orban-viktor-digitalis-polgari-korok-tabor-fidesz-beszed/"
-        }
-      ]
-    },
-    {
-      "cim": "Tarr Zoltán: vége annak a világnak, ahol a dolgoknak nincs következményük",
-      "lead": "A határon túli támogatások felhasználásánál is lesz következménye a feltárt visszaéléseknek, mondta Tarr Zoltán a Transtelexnek adott interjújában. A társadalmi kapcsolatokért és kultúráért felelős miniszter szerint különösen azokat a szervezeteket vizsgálják, amelyek a választás évében és az azt megelőző évben…",
-      "forrasok": [
-        {
-          "nev": "Portfolio",
-          "cim": "Tarr Zoltán: vége annak a világnak, ahol a dolgoknak nincs következményük",
-          "url": "https://www.portfolio.hu/gazdasag/20261018/tarr-zoltan-vege-annak-a-vilagnak-ahol-a-dolgoknak-nincs-kovetkezmenyuk-870422"
+          "cim": "Nem úszta meg a súlyos sérülést a szezont bukással záró Valter Attila",
+          "url": "https://index.hu/sport/2026/10/19/valter-attila-bukas-sulyos-serules-kulcscsonttores/"
         },
         {
           "nev": "HVG",
-          "cim": "Tarr Zoltán: Biztos, hogy annak a világnak vége van, ahol a dolgoknak nincs következményük",
-          "url": "https://hvg.hu/itthon/20261018_tarr-zoltan-biztos-hogy-annak-a-vilagnak-vege-van-ahol-a-dolgoknak-nincs-kovetkezmenyuk"
+          "cim": "Valter Attilának eltört a kulcscsontja",
+          "url": "https://hvg.hu/elet/20261019_kerekpar-valter-attila-kulcscsonttores-bukas"
         }
       ]
     },
     {
-      "cim": "Orbán Viktor fontos beszédet mond a DPK első országos táborában Lakiteleken",
-      "lead": "Meglepetésvendégként érkezett a Fidesz elnöke a rendezvényre, 10 órától lehet élőben követni a Magyar Nemzet oldalán.",
+      "cim": "Börtönbüntetést kért az ügyészség a Váci úton halálos balesetet okozó sofőrre",
+      "lead": "A 25 éves török férfit véglegesen eltiltanának a vezetéstől, és kiutasítanák Magyarországról.",
       "forrasok": [
-        {
-          "nev": "Magyar Nemzet",
-          "cim": "Orbán Viktor fontos beszédet mond a DPK első országos táborában Lakiteleken",
-          "url": "https://magyarnemzet.hu/belfold/2026/10/orban-viktor-beszedevel-zarul-a-dpk-elso-orszagos-tabora-lakiteleken?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-        },
         {
           "nev": "HVG",
-          "cim": "Bár a hivatalos programban nem szerepel, de mégis ott lesz Orbán Viktor vasárnap a lakitelki DPK-táborban",
-          "url": "https://hvg.hu/itthon/20261017_orban-viktor-lakitelek-dpk-tabor"
-        }
-      ]
-    },
-    {
-      "cim": "Négy településen rendeznek időközi önkormányzati választást",
-      "lead": "Négy településen tartanak ma időközi önkormányzati választást: Bakonynánán és Szápáron polgármestert és képviselőket, Medinán polgármestert, Püspökladányban pedig egyéni képviselőt választanak.",
-      "forrasok": [
-        {
-          "nev": "Portfolio",
-          "cim": "Négy településen rendeznek időközi önkormányzati választást",
-          "url": "https://www.portfolio.hu/gazdasag/20261018/negy-telepulesen-rendeznek-idokozi-onkormanyzati-valasztast-870416"
+          "cim": "Börtönbüntetést kért az ügyészség a Váci úton halálos balesetet okozó sofőrre",
+          "url": "https://hvg.hu/itthon/20261019_vaci-uti-halalos-baleset-inditvanyozas-borton-kiutasitas"
         },
         {
-          "nev": "Index",
-          "cim": "Időközi önkormányzati választást tartanak vasárnap négy településen",
-          "url": "https://index.hu/belfold/2026/10/18/idokozi-onkormanyzati-valasztas-telepulesek-bakonynana-szapar-medina-puspokladany/"
-        }
-      ]
-    },
-    {
-      "cim": "Jármű törhette át a lipcsei repülőtér kerítését, lezárták az egyik kifutópályát",
-      "lead": "Lezárták a Leipzig/Halle repülőtér északi kifutópályáját, miután vasárnapra virradó éjjel feltehetően egy jármű áttörte a biztonsági kerítést. A rendőrség átvizsgálta a területet, de egyelőre sem illetéktelen személyeket, sem gyanús tárgyakat nem találtak. Ugyanezen a repülőtéren augusztusban robbanóanyagot fedeztek…",
-      "forrasok": [
-        {
-          "nev": "Portfolio",
-          "cim": "Jármű törhette át a lipcsei repülőtér kerítését, lezárták az egyik kifutópályát",
-          "url": "https://www.portfolio.hu/befektetes/20261018/jarmu-torhette-at-a-lipcsei-repuloter-keriteset-lezartak-az-egyik-kifutopalyat-870418"
+          "nev": "Telex",
+          "cim": "Vádat emeltek a 25 éves sofőr ellen, aki a Váci úti felüljárón okozott halálos balesetet áprilisban",
+          "url": "https://telex.hu/belfold/2026/10/19/vadat-emeltek-a-25-eves-sofor-ellen-aki-a-vaci-uti-feluljaron-okozott-balesetet-aprilisban"
         },
         {
           "nev": "444",
-          "cim": "Lyukat találtak a lipcsei repülőtér biztonsági kerítésén",
-          "url": "https://444.hu/2026/10/18/lyukat-talaltak-a-lipcsei-repuloter-biztonsagi-keritesen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "cim": "Börtönbüntetést és végleges kiutasítást kért az ügyészség a Váci úti felüljárón tömegbalesetet okozó sofőr ügyében",
+          "url": "https://444.hu/2026/10/19/bortonbuntetest-es-vegleges-kiutasitast-kert-az-ugyeszseg-a-vaci-uti-feluljaron-tomegbalesetet-okozo-sofor-ugyeben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        }
+      ]
+    },
+    {
+      "cim": "Baka András első államfői interjúját adta: Vértelen forradalom zajlik az országban, nem pedig önkény épül",
+      "lead": "Első államfői interjúját adta Baka András, aki szerint „ami történt, ami történik, az egy vértelen forradalom”. Az elnök szerint az, hogy az előző rendszer kinevezettjeit eltávolítják fontos pozíciókból, nem önkény, hanem a jogállami működés biztosítása.",
+      "forrasok": [
+        {
+          "nev": "HVG",
+          "cim": "Baka András első államfői interjúját adta: Vértelen forradalom zajlik az országban, nem pedig önkény épül",
+          "url": "https://hvg.hu/itthon/20261019_baka-andras-forradalom-onkeny-interju"
+        },
+        {
+          "nev": "Index",
+          "cim": "Baka András első államfői interjúját adta, nem zárja ki a régi rendszer kinevezettjeinek törvényi úton való leváltását",
+          "url": "https://index.hu/belfold/2026/10/19/baka-andras-koztarsasagi-elnok-interju/"
+        },
+        {
+          "nev": "Telex",
+          "cim": "A köztársasági elnök szerint jelenleg vértelen forradalom zajlik az országban",
+          "url": "https://telex.hu/belfold/2026/10/19/baka-andras-koztarsasagi-elnok-interju-legfobb-ugyesz-oktober-23"
+        }
+      ]
+    },
+    {
+      "cim": "Incidens miatt riasztották a NATO vadászgépeit, Ukrajna elveszítheti a háborút – Híreink az orosz-ukrán háborúról hétfőn",
+      "lead": "A Kyiv Independent beszámolója szerint riasztották a NATO vadászgépeit Litvániában, egy ismeretlen vadászgép miatt. A háttérben az ukránok orosz elektronikai hadviselési lépésre gyanakodnak. Volodimir Zelenszkij ukrán elnök az NBC Meet the Press című műsorában adott interjújában arról beszélt, hogy van egy olyan…",
+      "forrasok": [
+        {
+          "nev": "Portfolio",
+          "cim": "Incidens miatt riasztották a NATO vadászgépeit, Ukrajna elveszítheti a háborút – Híreink az orosz-ukrán háborúról hétfőn",
+          "url": "https://www.portfolio.hu/global/20261019/incidens-miatt-riasztottak-a-nato-vadaszgepeit-ukrajna-elveszitheti-a-haborut-hireink-az-orosz-ukran-haborurol-hetfon-870484"
+        },
+        {
+          "nev": "444",
+          "cim": "Trump szerint Ukrajna elvesztette az óceánjait a háborúban",
+          "url": "https://444.hu/2026/10/19/trump-szerint-ukrajna-elvesztette-az-oceanjait-a-haboruban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        }
+      ]
+    },
+    {
+      "cim": "Kaprinyák Tibor távozik az Élő Környezetért Felelős Bizottságból",
+      "lead": "A vadászfotóiról elhíresült politikus alelnök volt a parlamenti bizottságban.",
+      "forrasok": [
+        {
+          "nev": "Telex",
+          "cim": "Kaprinyák Tibor távozik az Élő Környezetért Felelős Bizottságból",
+          "url": "https://telex.hu/belfold/2026/10/19/kaprinyak-tibor-tavozik-az-elo-kornyezetert-felelos-bizottsagbol"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Kaprinyák Tibor távozik az Élő Környezetért Felelős Bizottságból",
+          "url": "https://hvg.hu/itthon/20261019_kaprinyak-tibor-tavozik-elo-kornyezetert-felelos-bizottsag-tisza-bujdoso-frakcio"
+        }
+      ]
+    },
+    {
+      "cim": "1,63 milliárd forintból fejlesztik a meddőségi klinikákat",
+      "lead": "Az összegből 157 eszközt vásárolnak tizenhárom helyszínre.",
+      "forrasok": [
+        {
+          "nev": "HVG",
+          "cim": "1,63 milliárd forintból fejlesztik a meddőségi klinikákat",
+          "url": "https://hvg.hu/itthon/20261019_orszagos-korhazi-foigazgatosag-meddosegi-klinika-lombikintezet-fejlesztes"
+        },
+        {
+          "nev": "Telex",
+          "cim": "Napelemes kartell ellen intézkedett a GVH, 9 millió forint bírságot szabtak ki",
+          "url": "https://telex.hu/gazdasag/2026/10/19/napelemes-kartell-gazdasagi-versenyhivatal-gvh-eljaras-integritas-hatosag"
+        }
+      ]
+    },
+    {
+      "cim": "Történelmi szintre értek az országos lakásárak",
+      "lead": "A fővárosban ugyan stagnálnak az árak, de országosan enyhe drágulást hozott az ősz az ingatlanpiacon.",
+      "forrasok": [
+        {
+          "nev": "Magyar Nemzet",
+          "cim": "Történelmi szintre értek az országos lakásárak",
+          "url": "https://magyarnemzet.hu/gazdasag/2026/10/tortenelmi-szintre-ertek-az-orszagos-lakasarak?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        },
+        {
+          "nev": "Telex",
+          "cim": "Csúcson a lakásárak: országosan 1 millió forint felett az átlag négyzetméterár",
+          "url": "https://telex.hu/gazdasag/2026/10/19/magyarorszag-ingatlan-lakasar-emelkedes-negyzetmeter-zenga"
+        }
+      ]
+    },
+    {
+      "cim": "Három év börtönbüntetésre ítélték a Volánbusz korábbi vezérigazgatóját",
+      "lead": "Fekete Antal korábban többször is próbálkozott vagyonkimenekítéssel és ingatlanjainak eladásával.",
+      "forrasok": [
+        {
+          "nev": "HVG",
+          "cim": "Három év börtönbüntetésre ítélték a Volánbusz korábbi vezérigazgatóját",
+          "url": "https://hvg.hu/gazdasag/20261019_volanbusz-zrt-vezerigazgato-fekete-antal-bortonbuntetes"
+        },
+        {
+          "nev": "Index",
+          "cim": "Három év börtönre ítélték a Volánbusz Zrt. volt vezetőjét, aki a Seszták-ügyben is kulcsszerepet játszik",
+          "url": "https://index.hu/belfold/2026/10/19/volanbusz-ugy-fekete-antal-bortonbuntetes-vagyon-kimenekites/"
+        }
+      ]
+    },
+    {
+      "cim": "Több mint másfél millióért kelt el egy József Attila-verseskötet",
+      "lead": "Más irodalmi ritkaságok, köztük egy dedikált Radnóti-kötet is egymillió forint felett talált gazdára egy árverésen.",
+      "forrasok": [
+        {
+          "nev": "HVG",
+          "cim": "Több mint másfél millióért kelt el egy József Attila-verseskötet",
+          "url": "https://hvg.hu/kultura/20261019_jozsef-attila-radnoti-verseskotet"
+        },
+        {
+          "nev": "Telex",
+          "cim": "Több mint másfél milliárdból korszerűsítik a meddőségi ellátást",
+          "url": "https://telex.hu/belfold/2026/10/19/meddosegi-ellatas-korszerusites-eszkozbeszerzes-1-63-milliard-okfo"
+        }
+      ]
+    },
+    {
+      "cim": "Tisza-kormány: Magyar Péter nagy bejelentésre készül, a parlamentben két költségvetésről is szó lesz",
+      "lead": "Magyar Péter miniszterelnök hétfőn kora délután, az Országgyűlésben ismerteti a 2027-es költségvetés terveit, amelyből kiderülhet, hogyan finanszírozná a kormány a korábban beígért gazdasági és társadalmi intézkedéseket. A parlament eközben az idei költségvetés módosításáról is szavaz, amely jelentős…",
+      "forrasok": [
+        {
+          "nev": "Portfolio",
+          "cim": "Tisza-kormány: Magyar Péter nagy bejelentésre készül, a parlamentben két költségvetésről is szó lesz",
+          "url": "https://www.portfolio.hu/gazdasag/20261019/tisza-kormany-magyar-peter-nagy-bejelentesre-keszul-a-parlamentben-ket-koltsegvetesrol-is-szo-lesz-870488"
+        },
+        {
+          "nev": "Magyar Nemzet",
+          "cim": "Magyar Péter üzlettársa a kormányzati missziók közelében is feltűnt",
+          "url": "https://magyarnemzet.hu/belfold/2026/10/magyar-peter-uzlettarsa-a-kormanyzati-missziok-kozeleben-is-feltunt?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
         }
       ]
     }
   ],
   "nemzetkozi": [
     {
-      "cim": "Buildings set ablaze and more than 1,200 arrested as police clash with protesters across France",
-      "lead": "Police fire teargas in Paris and Limoges town hall ‘largely lost’ to fire – with officials blaming violence on ‘ultra-left’ More than 1,200 people were arrested in France on Saturday after protesters supporting high school students clashed with police, with some demonstrations later spiralling out of control as…",
+      "cim": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
+      "lead": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’ Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fire tore through one of Canada’s busiest military training bases in Alberta, the country’s prime…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "Buildings set ablaze and more than 1,200 arrested as police clash with protesters across France",
-          "url": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes"
-        },
-        {
-          "nev": "New York Times",
-          "cim": "What to Know About the Violent Protests in Albania",
-          "url": "https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html"
-        },
-        {
-          "nev": "BBC",
-          "cim": "Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests",
-          "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "Photos: Protests across France spiral into looting, blazes and clashes",
-          "url": "https://www.aljazeera.com/gallery/2026/10/18/photos-protests-across-france-spiral-into-looting-blazes-and-clashes?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Israeli settlers attack European diplomats in West Bank",
-      "lead": "French mayor and archbishop also attacked during violent attempt to stop Palestinians harvesting olives Israeli settler militants have attacked European diplomats, a French mayor and the archbishop of Cambrai in Taybeh, in the occupied West Bank, injuring three people and damaging a car, in the latest violent attempt…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Israeli settlers attack European diplomats in West Bank",
-          "url": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank"
-        },
-        {
-          "nev": "New York Times",
-          "cim": "Israeli Settlers Attack Palestinians and European Officials in West Bank",
-          "url": "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html"
-        },
-        {
-          "nev": "BBC",
-          "cim": "European diplomats attacked by Israeli settlers in West Bank",
-          "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "Israeli settlers attack European diplomats in the occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "cim": "‘Serious incident’ at Alberta military base causes deaths and injuries, Canada officials say",
-      "lead": "Patients being taken to hospitals in Edmonton as Wainwright ‘completely overwhelmed’ by number of injuries, local doctor says People have been killed and injured after an incident at one of Canada’s busiest military training bases in Alberta caused a large fire, Canada’s defence minister said Saturday. “I’m saddened…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "‘Serious incident’ at Alberta military base causes deaths and injuries, Canada officials say",
+          "cim": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
           "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright"
         },
         {
           "nev": "BBC",
-          "cim": "Several dead or injured in major fire at Canada military base",
-          "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss"
+          "cim": "Major fire at Canada military base leaves four dead, dozens injured",
+          "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss"
         },
         {
           "nev": "Al Jazeera",
-          "cim": "‘Serious incident’ at Canada military base causes deaths, injuries",
-          "url": "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss"
+          "cim": "How a grass fire at a Canadian military base killed four soldiers",
+          "url": "https://www.aljazeera.com/news/2026/10/19/how-a-grass-fire-at-a-canadian-military-base-killed-four-soldiers?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "At Least 19 Dead After Stampede at Indian Religious Event",
-      "lead": "Such deadly crowd events are relatively common in India, and it was unclear what caused this one. The authorities detained the event’s organizer and others involved.",
+      "cim": "The French City of Limoges Wasn’t Known for Unrest. Then Rioters Set Fire to Its City Hall.",
+      "lead": "As unrest surged across France this weekend, the most surprising attack came in the quiet city of Limoges, where rioters set fire to the city hall.",
       "forrasok": [
         {
           "nev": "New York Times",
-          "cim": "At Least 19 Dead After Stampede at Indian Religious Event",
-          "url": "https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "At least 19 dead in stampede at Kolkata Hindu festival",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss"
+          "cim": "The French City of Limoges Wasn’t Known for Unrest. Then Rioters Set Fire to Its City Hall.",
+          "url": "https://www.nytimes.com/2026/10/18/world/france-limoges-fire-arson-protests.html"
         },
         {
           "nev": "BBC",
-          "cim": "At least 17 dead in crush at Hindu festival event in India",
-          "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "cim": "No action to be taken against wife of PM’s aide over Palestine Action post",
-      "lead": "Tweet by Sarah Helm, wife of national security adviser Jonathan Powell, ‘does not meet criminal threshold’ No further action will be taken against Sarah Helm, the wife of the prime minister’s national security adviser, after she was accused of supporting the banned protest group Palestine Action. Helm, a journalist…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "No action to be taken against wife of PM’s aide over Palestine Action post",
-          "url": "https://www.theguardian.com/politics/2026/oct/17/sarah-helm-jonathan-powell-palestine-action"
+          "cim": "'Very upsetting': Residents in shock after historic French town hall set alight",
+          "url": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss"
         },
         {
           "nev": "Al Jazeera",
-          "cim": "UK police rule out probe into Palestine Action post by PM adviser’s wife",
-          "url": "https://www.aljazeera.com/news/2026/10/18/uk-police-rule-out-probe-into-palestine-action-post-by-pm-advisers-wife?traffic_source=rss"
+          "cim": "‘It broke my heart’: Limoges residents reel after town hall fire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/it-broke-my-heart-limoges-residents-reel-after-town-hall-fire?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "UAE agrees with Saudi Arabia to re-enter Yemen conflict amid Houthi gains",
-      "lead": "United Arab Emirates will reportedly resume payments to Yemeni forces as gains by Iran-backed Houthi fighters alarm Gulf state rulers Yemen civil war: what sparked latest escalation and who is involved? The United Arab Emirates has agreed to re-enter the Yemen conflict by resuming payments to some government forces…",
+      "cim": "Zelensky Says Trump Risks ‘Historic Mistake’ If He Backs Russia",
+      "lead": "President Volodymyr Zelensky of Ukraine pressed Sunday for more information on possible restrictions to Starshield, a U.S.-provided satellite internet service used by the Ukrainian military.",
+      "forrasok": [
+        {
+          "nev": "New York Times",
+          "cim": "Zelensky Says Trump Risks ‘Historic Mistake’ If He Backs Russia",
+          "url": "https://www.nytimes.com/2026/10/18/world/europe/ukraine-starshield-russia-war.html"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "Trump defends Russian sanctions relief, lashes out at Zelenskyy",
+          "url": "https://www.aljazeera.com/news/2026/10/19/trump-defends-russian-sanctions-relief-lashes-out-at-zelenskyy?traffic_source=rss"
+        },
+        {
+          "nev": "BBC",
+          "cim": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+          "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Cuts force World Food Programme to end support for half a million Palestinians in Gaza",
+      "lead": "Two-thirds of population face crisis levels of food insecurity and 200,000 people are in danger of famine This winter is likely to deepen hunger for Palestinians in Gaza, after sweeping aid cuts forced the UN’s World Food Programme (WFP) to end support for more than half a million people each month, the agency’s…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "UAE agrees with Saudi Arabia to re-enter Yemen conflict amid Houthi gains",
-          "url": "https://www.theguardian.com/world/2026/oct/17/uae-yemen-conflict-agreement-saudi-arabia-houthi-gains"
+          "cim": "Cuts force World Food Programme to end support for half a million Palestinians in Gaza",
+          "url": "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza"
         },
         {
-          "nev": "New York Times",
-          "cim": "Yemen Fighting Rages as Civilian Toll From Houthi-Saudi Conflict Worsens",
-          "url": "https://www.nytimes.com/2026/10/17/world/middleeast/houthi-saudi-clashes-in-yemen.html"
+          "nev": "BBC",
+          "cim": "Funding shortages force World Food Programme to cut aid to Gaza",
+          "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "cim": "Pope discharged from hospital days after lung cancer surgery",
-      "lead": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
+      "cim": "Independent MP Helen Haines in critical condition after ‘attack’ outside Wangaratta office, PM says",
+      "lead": "Anthony Albanese says his thoughts remain with Indi MP after arrest of driver at the scene on Monday afternoon Helen Haines updates: PM says person in custody after alleged attack on Helen Haines – follow live The independent MP Helen Haines has been critically injured in an alleged attack involving a vehicle outside…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Independent MP Helen Haines in critical condition after ‘attack’ outside Wangaratta office, PM says",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb"
+        },
+        {
+          "nev": "New York Times",
+          "cim": "Australian Lawmaker Helen Haines Injured After Attack, Prime Minister Says",
+          "url": "https://www.nytimes.com/2026/10/19/world/australia/helen-haines-mp-attacked-wangaratta-australia.html"
+        }
+      ]
+    },
+    {
+      "cim": "Musk and Anthropic pledge public share giveaways",
+      "lead": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
       "forrasok": [
         {
           "nev": "BBC",
-          "cim": "Pope discharged from hospital days after lung cancer surgery",
-          "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss"
+          "cim": "Musk and Anthropic pledge public share giveaways",
+          "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "nev": "New York Times",
-          "cim": "Pope Leo Leaves Hospital, Days After Lung Cancer Surgery",
-          "url": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html"
-        }
-      ]
-    },
-    {
-      "cim": "Chelsea’s injury-hit Emi Martinez will return to action ‘in a few weeks’",
-      "lead": "The goalkeeper was stretchered off after a collision during Chelsea's visit to Everton, and later underwent surgery.",
-      "forrasok": [
-        {
           "nev": "Al Jazeera",
-          "cim": "Chelsea’s injury-hit Emi Martinez will return to action ‘in a few weeks’",
-          "url": "https://www.aljazeera.com/sports/2026/10/18/chelseas-injury-hit-emi-martinez-will-return-to-action-in-a-few-weeks?traffic_source=rss"
+          "cim": "AI giant Anthropic commits 5% of shares to ‘public benefit’ fund",
+          "url": "https://www.aljazeera.com/economy/2026/10/19/anthropic-says-it-will-commit-5-of-shares-to-public-benefit-fund?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "Whole streets in Paris ‘devastated’ by protests, says mayor, as France demonstrations continue – Europe live",
-      "lead": "France’s worst protests in years saw buildings set ablaze across the country and record numbers of people arrested Here’s a selection of photographs from the protests on Saturday and their aftermath, including the City Hall in Limoges. The prefect on Sunday said the blaze in the 143-year-old building had been…",
+      "cim": "Macron refuses minister’s resignation after huge protests rock France – Europe live",
+      "lead": "Interior minister Laurent Nuñez should stay to ensure chain of command with police and security forces, says president Macron criticises ‘unbridled violence’ after 2,400 arrests across France in Rome Italian prime minister Giorgia Meloni will hold a crisis meeting with top security officials on Monday after two days…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "Whole streets in Paris ‘devastated’ by protests, says mayor, as France demonstrations continue – Europe live",
-          "url": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news"
-        }
-      ]
-    },
-    {
-      "cim": "‘No Kings’ protests spread across the US ahead of midterm elections",
-      "lead": "Thousands rallied across the US against President Donald Trump in ‘No Kings’ demonstrations.",
-      "forrasok": [
+          "cim": "Macron refuses minister’s resignation after huge protests rock France – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates"
+        },
         {
           "nev": "Al Jazeera",
-          "cim": "‘No Kings’ protests spread across the US ahead of midterm elections",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/no-kings-protests-spread-across-the-us-ahead-of-midterm-elections?traffic_source=rss"
+          "cim": "France protests live: Macron admits ‘failures’ after days of violent unrest",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/19/france-protests-live-macron-admits-failures-after-days-of-violent-unrest?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "‘Young protesters across Europe share grievances and tactics’",
-      "lead": "",
+      "cim": "China’s economy grows faster than forecast after AI boom boosts exports",
+      "lead": "Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demand Business live – latest updates Roaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending. China’s GDP grew by 4.5%…",
       "forrasok": [
         {
+          "nev": "The Guardian",
+          "cim": "China’s economy grows faster than forecast after AI boom boosts exports",
+          "url": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports"
+        },
+        {
           "nev": "Al Jazeera",
-          "cim": "‘Young protesters across Europe share grievances and tactics’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/young-protesters-across-europe-share-grievances-and?traffic_source=rss"
+          "cim": "China’s economy grows 4.5 percent in Q3, beating forecasts",
+          "url": "https://www.aljazeera.com/economy/2026/10/19/chinas-economy-grows-4-5-percent-in-q3-beating-forecasts?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "In India, the Scion of a Political Dynasty Tries to Seize His Moment",
-      "lead": "Rahul Gandhi is the descendant of three prime ministers. A surge of protests could give him a springboard to take on the nation’s current leader.",
+      "cim": "Ukraine Uses F-16s to Shoot Down Russia’s Jet-Powered Drones",
+      "lead": "The fighters are a key tool against Moscow’s latest weapon of choice. But deploying the multimillion-dollar planes to counter drones is an imperfect fix.",
       "forrasok": [
         {
           "nev": "New York Times",
-          "cim": "In India, the Scion of a Political Dynasty Tries to Seize His Moment",
-          "url": "https://www.nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html"
+          "cim": "Ukraine Uses F-16s to Shoot Down Russia’s Jet-Powered Drones",
+          "url": "https://www.nytimes.com/2026/10/19/world/europe/ukraine-f16-fighter-jets-drones-russia.html"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
+          "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Deepfakes, bots and distrust: How AI is shaping Israel's election",
+      "lead": "For the first time, AI is playing a major role in Israel's elections. Observers warn that deepfakes, bots and influence campaigns could sway voters.",
+      "forrasok": [
+        {
+          "nev": "Deutsche Welle",
+          "cim": "Deepfakes, bots and distrust: How AI is shaping Israel's election",
+          "url": "https://www.dw.com/en/deepfakes-bots-and-distrust-how-ai-is-shaping-israel-s-election/a-79657988?maca=en-rss-en-world-4025-rdf"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "The kingmakers who could determine Israel’s election",
+          "url": "https://www.aljazeera.com/news/2026/10/19/the-kingmakers-that-could-determine-israels-election?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
+      "lead": "The Pope's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace.",
+      "forrasok": [
+        {
+          "nev": "BBC",
+          "cim": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
+          "url": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "Pope greeted by crowds in first major appearance since lung cancer surgery",
+          "url": "https://www.aljazeera.com/news/2026/10/19/pope-greeted-by-crowds-in-first-major-appearance-since-lung-cancer-surgery?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Kenya Confirms Four New Ebola Cases",
+      "lead": "Seven Ebola infections have now been confirmed in Kenya, which before this month had never recorded cases of the deadly virus.",
+      "forrasok": [
+        {
+          "nev": "New York Times",
+          "cim": "Kenya Confirms Four New Ebola Cases",
+          "url": "https://www.nytimes.com/2026/10/17/world/africa/kenya-ebola.html"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "Kenya confirms eighth Ebola case amid widening regional outbreak",
+          "url": "https://www.aljazeera.com/news/2026/10/19/kenya-confirms-eighth-ebola-case-amid-widening-regional-outbreak?traffic_source=rss"
         }
       ]
     }
