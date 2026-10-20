@@ -1,333 +1,226 @@
 {
-  "datum": "2026-10-19",
-  "generalva": "2026-10-19T12:05+02:00",
+  "datum": "2026-10-20",
+  "generalva": "2026-10-20T11:31+02:00",
   "hazai": [
     {
-      "cim": "Bombafenyegetést kapott nagyon sok magyar iskola - Megszólalt a rendőrség",
-      "lead": "Fenyegető e-mail érkezett több médiatartalom-szolgáltatóhoz 2026. október 19-én reggel. A levél szerint az országban több mint hetven oktatási intézményben helyeztek el robbanószert. Az ORFK közölte, hogy a rendőrség minden szükséges intézkedést megtesz. A hatóság arra kéri az érintetteket, hogy a helyszíneken…",
+      "cim": "Kedd reggel leállt a Revolut",
+      "lead": "Fizetni és utalni se tudnak a felhasználók. Dolgoznak a hiba javításán.",
+      "forrasok": [
+        {
+          "nev": "444",
+          "cim": "Kedd reggel leállt a Revolut",
+          "url": "https://444.hu/2026/10/20/kedd-reggel-leallt-a-revolut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Teljesen leállt a Revolut",
+          "url": "https://hvg.hu/kkv/20261020_teljesen-leallt-a-revolut"
+        },
+        {
+          "nev": "Index",
+          "cim": "Teljesen leállt a Revolut, egyetlen funkció sem érhető el",
+          "url": "https://index.hu/gazdasag/2026/10/20/revolut-bank-leallas-hiba-funkcio/"
+        }
+      ]
+    },
+    {
+      "cim": "Vizsgálja a GVH az RTL, a DM és Gryllus Dorka médiahekkjét",
+      "lead": "A menopauzás színjátékkal kapcsolatban fogyasztói panasz érkezett az Önszabályozó Reklám Testülethez is.",
+      "forrasok": [
+        {
+          "nev": "444",
+          "cim": "Vizsgálja a GVH az RTL, a DM és Gryllus Dorka médiahekkjét",
+          "url": "https://444.hu/2026/10/20/vizsgalja-a-gvh-az-rtl-a-dm-es-gryllus-dorka-mediahekkjet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "Index",
+          "cim": "A GVH vizsgálatot indított az RTL és Gryllus Dorka menopauzás médiahackje miatt",
+          "url": "https://index.hu/fomo/2026/10/20/gryllus-dorka-menopauza-rtl-panaszeljaras/"
+        }
+      ]
+    },
+    {
+      "cim": "Kármán felfedte a bűvös számokat: rengeteg pénzt tesz a nyugdíjasok zsebébe a Tisza-kormány",
+      "lead": "Jelentősen emelkednek a legkisebb nyugdíjak 2027-től, a minimálnyugdíj ugyanis 28 500 forintról 120 ezer forintra nő – idézte fel Kármán András pénzügyminiszter a kormány keddi sajtótájékoztatóján. A rendkívüli felzárkóztatás mellett nő a megváltozott munkaképességűek ellátása, az időskorúak járadéka és az árvaellátás…",
       "forrasok": [
         {
           "nev": "Portfolio",
-          "cim": "Bombafenyegetést kapott nagyon sok magyar iskola - Megszólalt a rendőrség",
-          "url": "https://www.portfolio.hu/gazdasag/20261019/bombafenyegetest-kapott-nagyon-sok-magyar-iskola-megszolalt-a-rendorseg-870592"
+          "cim": "Kármán felfedte a bűvös számokat: rengeteg pénzt tesz a nyugdíjasok zsebébe a Tisza-kormány",
+          "url": "https://www.portfolio.hu/gazdasag/20261020/karman-felfedte-a-buvos-szamokat-rengeteg-penzt-tesz-a-nyugdijasok-zsebebe-a-tisza-kormany-870880"
+        },
+        {
+          "nev": "444",
+          "cim": "2,4 százalékos GDP-növekedéssel számol a kormány",
+          "url": "https://444.hu/2026/10/20/24-szazalekos-gdp-novekedessel-szamol-a-kormany?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        }
+      ]
+    },
+    {
+      "cim": "Fradi-tisztújítás: Kubatov újraindul, a Telekom vezetője nem",
+      "lead": "Hiába jelentette be Magyar Péter, hogy kitiltják a politikusokat a sportszervezetek éléről, Kubatov Gábor így is újraválasztatná magát a Fradi élére. A Telekom vezérigazgatója, Rékasi Tibor azonban nincs a jelöltek között.",
+      "forrasok": [
+        {
+          "nev": "HVG",
+          "cim": "Fradi-tisztújítás: Kubatov újraindul, a Telekom vezetője nem",
+          "url": "https://hvg.hu/itthon/20261020_kubatov-gabor-ferencvaros-elnokseg-nevsor-osszeferhetetlenseg-magyar-peter"
         },
         {
           "nev": "Magyar Nemzet",
-          "cim": "„Ma eljött a bosszú napja!” – országszerte több mint hetven iskolát fenyegettek meg",
-          "url": "https://magyarnemzet.hu/belfold/2026/10/ma-eljott-a-bosszu-napja-orszagszerte-tobb-mint-hetven-iskolat-fenyegettek-meg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-        },
-        {
-          "nev": "Telex",
-          "cim": "Több belgrádi és újvidéki iskola is bombafenyegetést kapott",
-          "url": "https://telex.hu/kulfold/2026/10/19/szerbia-belgrad-ujvidek-iskola-bombafenyegetes-level"
-        },
-        {
-          "nev": "Index",
-          "cim": "Bombariadók országszerte: több mint 70 iskolát fenyegettek meg",
-          "url": "https://index.hu/belfold/2026/10/19/bombariadok-orszagszerte-tobb-mint-hetven-iskolat-fenyegettek-meg/"
-        },
-        {
-          "nev": "HVG",
-          "cim": "Több mint hetven iskolában volt bombariadó hétfő reggel",
-          "url": "https://hvg.hu/itthon/20261019_oktatas-iskolak-bombafenyegetes-bombariado"
+          "cim": "Bármit is tesz Magyar Péter, Kubatov Gábor újraindul a Fradi elnöki posztjáért",
+          "url": "https://magyarnemzet.hu/sport/2026/10/kubatov-gabor-ferencvaros-elnokvalasztas-2?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
         }
       ]
     },
     {
-      "cim": "Fekete-Győr András lezárja a momentumos korszakát",
-      "lead": "Progresszív, független, parlamenten kívüli politikusként folytatja pályafutását, máris támogatókat keres hozzá.",
+      "cim": "Vicces, vagyis inkább nevetséges büntetést kapott Cristiano Ronaldo",
+      "lead": "Amikor ezt meglátta a portugál válogatott sztárja, szinte egészen biztosan felnevetett.",
       "forrasok": [
         {
-          "nev": "444",
-          "cim": "Fekete-Győr András lezárja a momentumos korszakát",
-          "url": "https://444.hu/2026/10/19/fekete-gyor-andras-lezarja-a-momentumos-korszakat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "Telex",
-          "cim": "Fekete-Győr András kilépett a Momentumból, független politikusként fog országjárásra indulni",
-          "url": "https://telex.hu/belfold/2026/10/19/fekete-gyor-andras-lezarta-a-momemntumos-korszakat-fuggetlen-politikus-orszagjaras"
-        },
-        {
-          "nev": "Index",
-          "cim": "Fekete-Győr András kilépett a Momentumból, független politikusként folytatja a munkát",
-          "url": "https://index.hu/belfold/2026/10/19/fekete-gyor-andras-momentum-fuggetlen-politikus/"
-        },
-        {
-          "nev": "HVG",
-          "cim": "Fekete-Győr András kilépett a Momentumból",
-          "url": "https://hvg.hu/itthon/20261019_momentum-fekete-gyor-andras-kilepes"
-        }
-      ]
-    },
-    {
-      "cim": "Valter Attila bukással és kulcscsonttöréssel fejezte be az idei országúti kerékpáros szezont",
-      "lead": "A Bahrain Victorious csapat magyar bringása 2026-ban nem tudta elérni a kitűzött céljait, és a sok negatív kritika is megviselte.",
-      "forrasok": [
-        {
-          "nev": "Telex",
-          "cim": "Valter Attila bukással és kulcscsonttöréssel fejezte be az idei országúti kerékpáros szezont",
-          "url": "https://telex.hu/sport/2026/10/19/valter-attila-orszaguti-bukas-kulcsonttores-japan-bahrain-victorious-szezon-vege"
+          "nev": "Magyar Nemzet",
+          "cim": "Vicces, vagyis inkább nevetséges büntetést kapott Cristiano Ronaldo",
+          "url": "https://magyarnemzet.hu/sport/2026/10/cristiano-ronaldo-buntetes-portugal-valogatott?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
         },
         {
           "nev": "444",
-          "cim": "Töréssel zárta a szerzont Valter Attila",
-          "url": "https://444.hu/2026/10/19/toressel-zarta-a-szerzont-valter-attila?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "Index",
-          "cim": "Nem úszta meg a súlyos sérülést a szezont bukással záró Valter Attila",
-          "url": "https://index.hu/sport/2026/10/19/valter-attila-bukas-sulyos-serules-kulcscsonttores/"
-        },
-        {
-          "nev": "HVG",
-          "cim": "Valter Attilának eltört a kulcscsontja",
-          "url": "https://hvg.hu/elet/20261019_kerekpar-valter-attila-kulcscsonttores-bukas"
+          "cim": "Harmincnapos eltiltást kapott a portugál szövetségtől Cristiano Ronaldo",
+          "url": "https://444.hu/2026/10/19/harmincnapos-eltiltast-kapott-a-portugal-szovetsegtol-cristiano-ronaldo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ]
     },
     {
-      "cim": "Börtönbüntetést kért az ügyészség a Váci úton halálos balesetet okozó sofőrre",
-      "lead": "A 25 éves török férfit véglegesen eltiltanának a vezetéstől, és kiutasítanák Magyarországról.",
-      "forrasok": [
-        {
-          "nev": "HVG",
-          "cim": "Börtönbüntetést kért az ügyészség a Váci úton halálos balesetet okozó sofőrre",
-          "url": "https://hvg.hu/itthon/20261019_vaci-uti-halalos-baleset-inditvanyozas-borton-kiutasitas"
-        },
-        {
-          "nev": "Telex",
-          "cim": "Vádat emeltek a 25 éves sofőr ellen, aki a Váci úti felüljárón okozott halálos balesetet áprilisban",
-          "url": "https://telex.hu/belfold/2026/10/19/vadat-emeltek-a-25-eves-sofor-ellen-aki-a-vaci-uti-feluljaron-okozott-balesetet-aprilisban"
-        },
-        {
-          "nev": "444",
-          "cim": "Börtönbüntetést és végleges kiutasítást kért az ügyészség a Váci úti felüljárón tömegbalesetet okozó sofőr ügyében",
-          "url": "https://444.hu/2026/10/19/bortonbuntetest-es-vegleges-kiutasitast-kert-az-ugyeszseg-a-vaci-uti-feluljaron-tomegbalesetet-okozo-sofor-ugyeben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        }
-      ]
-    },
-    {
-      "cim": "Baka András első államfői interjúját adta: Vértelen forradalom zajlik az országban, nem pedig önkény épül",
-      "lead": "Első államfői interjúját adta Baka András, aki szerint „ami történt, ami történik, az egy vértelen forradalom”. Az elnök szerint az, hogy az előző rendszer kinevezettjeit eltávolítják fontos pozíciókból, nem önkény, hanem a jogállami működés biztosítása.",
-      "forrasok": [
-        {
-          "nev": "HVG",
-          "cim": "Baka András első államfői interjúját adta: Vértelen forradalom zajlik az országban, nem pedig önkény épül",
-          "url": "https://hvg.hu/itthon/20261019_baka-andras-forradalom-onkeny-interju"
-        },
-        {
-          "nev": "Index",
-          "cim": "Baka András első államfői interjúját adta, nem zárja ki a régi rendszer kinevezettjeinek törvényi úton való leváltását",
-          "url": "https://index.hu/belfold/2026/10/19/baka-andras-koztarsasagi-elnok-interju/"
-        },
-        {
-          "nev": "Telex",
-          "cim": "A köztársasági elnök szerint jelenleg vértelen forradalom zajlik az országban",
-          "url": "https://telex.hu/belfold/2026/10/19/baka-andras-koztarsasagi-elnok-interju-legfobb-ugyesz-oktober-23"
-        }
-      ]
-    },
-    {
-      "cim": "Incidens miatt riasztották a NATO vadászgépeit, Ukrajna elveszítheti a háborút – Híreink az orosz-ukrán háborúról hétfőn",
-      "lead": "A Kyiv Independent beszámolója szerint riasztották a NATO vadászgépeit Litvániában, egy ismeretlen vadászgép miatt. A háttérben az ukránok orosz elektronikai hadviselési lépésre gyanakodnak. Volodimir Zelenszkij ukrán elnök az NBC Meet the Press című műsorában adott interjújában arról beszélt, hogy van egy olyan…",
+      "cim": "\"Szégyen, hogy Trump összeállt egy háborús bűnös diktátorral!\" – Kiakadtak az elnök saját szövetségesei",
+      "lead": "Az amerikai félidős kongresszusi választások közeledtével egy visszavonuló és egy veszélyeztetett republikánus képviselő szokatlanul éles hangnemben bírálta Donald Trump orosz–ukrán háborúval kapcsolatos politikáját. Don Bacon \"erkölcsi vakságról\" beszélt az amerikai elnök részéről, Brian Fitzpatrick pedig a…",
       "forrasok": [
         {
           "nev": "Portfolio",
-          "cim": "Incidens miatt riasztották a NATO vadászgépeit, Ukrajna elveszítheti a háborút – Híreink az orosz-ukrán háborúról hétfőn",
-          "url": "https://www.portfolio.hu/global/20261019/incidens-miatt-riasztottak-a-nato-vadaszgepeit-ukrajna-elveszitheti-a-haborut-hireink-az-orosz-ukran-haborurol-hetfon-870484"
-        },
-        {
-          "nev": "444",
-          "cim": "Trump szerint Ukrajna elvesztette az óceánjait a háborúban",
-          "url": "https://444.hu/2026/10/19/trump-szerint-ukrajna-elvesztette-az-oceanjait-a-haboruban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "cim": "\"Szégyen, hogy Trump összeállt egy háborús bűnös diktátorral!\" – Kiakadtak az elnök saját szövetségesei",
+          "url": "https://www.portfolio.hu/global/20261020/szegyen-hogy-trump-osszeallt-egy-haborus-bunos-diktatorral-kiakadtak-az-elnok-sajat-szovetsegesei-870882"
         }
       ]
     },
     {
-      "cim": "Kaprinyák Tibor távozik az Élő Környezetért Felelős Bizottságból",
-      "lead": "A vadászfotóiról elhíresült politikus alelnök volt a parlamenti bizottságban.",
+      "cim": "Ha ez igaz, az angol topfutballban évekre elbúcsúzhatunk a Manchester City nevétől",
+      "lead": "A Daily Mail szerint megvan, milyen büntetés várhat a súlyos csalássorozattal vádolt klubra.",
       "forrasok": [
-        {
-          "nev": "Telex",
-          "cim": "Kaprinyák Tibor távozik az Élő Környezetért Felelős Bizottságból",
-          "url": "https://telex.hu/belfold/2026/10/19/kaprinyak-tibor-tavozik-az-elo-kornyezetert-felelos-bizottsagbol"
-        },
-        {
-          "nev": "HVG",
-          "cim": "Kaprinyák Tibor távozik az Élő Környezetért Felelős Bizottságból",
-          "url": "https://hvg.hu/itthon/20261019_kaprinyak-tibor-tavozik-elo-kornyezetert-felelos-bizottsag-tisza-bujdoso-frakcio"
-        }
-      ]
-    },
-    {
-      "cim": "1,63 milliárd forintból fejlesztik a meddőségi klinikákat",
-      "lead": "Az összegből 157 eszközt vásárolnak tizenhárom helyszínre.",
-      "forrasok": [
-        {
-          "nev": "HVG",
-          "cim": "1,63 milliárd forintból fejlesztik a meddőségi klinikákat",
-          "url": "https://hvg.hu/itthon/20261019_orszagos-korhazi-foigazgatosag-meddosegi-klinika-lombikintezet-fejlesztes"
-        },
-        {
-          "nev": "Telex",
-          "cim": "Napelemes kartell ellen intézkedett a GVH, 9 millió forint bírságot szabtak ki",
-          "url": "https://telex.hu/gazdasag/2026/10/19/napelemes-kartell-gazdasagi-versenyhivatal-gvh-eljaras-integritas-hatosag"
-        }
-      ]
-    },
-    {
-      "cim": "Történelmi szintre értek az országos lakásárak",
-      "lead": "A fővárosban ugyan stagnálnak az árak, de országosan enyhe drágulást hozott az ősz az ingatlanpiacon.",
-      "forrasok": [
-        {
-          "nev": "Magyar Nemzet",
-          "cim": "Történelmi szintre értek az országos lakásárak",
-          "url": "https://magyarnemzet.hu/gazdasag/2026/10/tortenelmi-szintre-ertek-az-orszagos-lakasarak?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-        },
-        {
-          "nev": "Telex",
-          "cim": "Csúcson a lakásárak: országosan 1 millió forint felett az átlag négyzetméterár",
-          "url": "https://telex.hu/gazdasag/2026/10/19/magyarorszag-ingatlan-lakasar-emelkedes-negyzetmeter-zenga"
-        }
-      ]
-    },
-    {
-      "cim": "Három év börtönbüntetésre ítélték a Volánbusz korábbi vezérigazgatóját",
-      "lead": "Fekete Antal korábban többször is próbálkozott vagyonkimenekítéssel és ingatlanjainak eladásával.",
-      "forrasok": [
-        {
-          "nev": "HVG",
-          "cim": "Három év börtönbüntetésre ítélték a Volánbusz korábbi vezérigazgatóját",
-          "url": "https://hvg.hu/gazdasag/20261019_volanbusz-zrt-vezerigazgato-fekete-antal-bortonbuntetes"
-        },
         {
           "nev": "Index",
-          "cim": "Három év börtönre ítélték a Volánbusz Zrt. volt vezetőjét, aki a Seszták-ügyben is kulcsszerepet játszik",
-          "url": "https://index.hu/belfold/2026/10/19/volanbusz-ugy-fekete-antal-bortonbuntetes-vagyon-kimenekites/"
+          "cim": "Ha ez igaz, az angol topfutballban évekre elbúcsúzhatunk a Manchester City nevétől",
+          "url": "https://index.hu/sport/futball/2026/10/20/manchester-city-varhato-buntetes-lapertesules/"
         }
       ]
     },
     {
-      "cim": "Több mint másfél millióért kelt el egy József Attila-verseskötet",
-      "lead": "Más irodalmi ritkaságok, köztük egy dedikált Radnóti-kötet is egymillió forint felett talált gazdára egy árverésen.",
-      "forrasok": [
-        {
-          "nev": "HVG",
-          "cim": "Több mint másfél millióért kelt el egy József Attila-verseskötet",
-          "url": "https://hvg.hu/kultura/20261019_jozsef-attila-radnoti-verseskotet"
-        },
-        {
-          "nev": "Telex",
-          "cim": "Több mint másfél milliárdból korszerűsítik a meddőségi ellátást",
-          "url": "https://telex.hu/belfold/2026/10/19/meddosegi-ellatas-korszerusites-eszkozbeszerzes-1-63-milliard-okfo"
-        }
-      ]
-    },
-    {
-      "cim": "Tisza-kormány: Magyar Péter nagy bejelentésre készül, a parlamentben két költségvetésről is szó lesz",
-      "lead": "Magyar Péter miniszterelnök hétfőn kora délután, az Országgyűlésben ismerteti a 2027-es költségvetés terveit, amelyből kiderülhet, hogyan finanszírozná a kormány a korábban beígért gazdasági és társadalmi intézkedéseket. A parlament eközben az idei költségvetés módosításáról is szavaz, amely jelentős…",
+      "cim": "2027-es költségvetés: megvan, hol és hogyan vágja le a kiadásokat a Tisza-kormány",
+      "lead": "Közös sajtótájékoztatón mutatja be a 2027-es költségvetés részleteit Magyar Péter miniszterelnök és Kármán András pénzügyminiszter. A bejelentésekről a Portfolio élőben tudósít.",
       "forrasok": [
         {
           "nev": "Portfolio",
-          "cim": "Tisza-kormány: Magyar Péter nagy bejelentésre készül, a parlamentben két költségvetésről is szó lesz",
-          "url": "https://www.portfolio.hu/gazdasag/20261019/tisza-kormany-magyar-peter-nagy-bejelentesre-keszul-a-parlamentben-ket-koltsegvetesrol-is-szo-lesz-870488"
-        },
+          "cim": "2027-es költségvetés: megvan, hol és hogyan vágja le a kiadásokat a Tisza-kormány",
+          "url": "https://www.portfolio.hu/gazdasag/20261020/2027-es-koltsegvetes-megvan-hol-es-hogyan-vagja-le-a-kiadasokat-a-tisza-kormany-870846"
+        }
+      ]
+    },
+    {
+      "cim": "Ma tárgyalják a nagy port kavart premontrei ügyet Szatmárnémetiben",
+      "lead": "Október 20-án derül ki, hogy a főapát az EU luxembourgi Bíróságához fordul-e ügyében. Erdély fontos magyar egyházi, történelmi és kulturális öröksége forog kockán.",
+      "forrasok": [
         {
           "nev": "Magyar Nemzet",
-          "cim": "Magyar Péter üzlettársa a kormányzati missziók közelében is feltűnt",
-          "url": "https://magyarnemzet.hu/belfold/2026/10/magyar-peter-uzlettarsa-a-kormanyzati-missziok-kozeleben-is-feltunt?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+          "cim": "Ma tárgyalják a nagy port kavart premontrei ügyet Szatmárnémetiben",
+          "url": "https://magyarnemzet.hu/kultura/2026/10/erdely-ma-targyaljak-premontrei-ugyet-szatmarnemetiben?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        }
+      ]
+    },
+    {
+      "cim": "Elmondta a Telekom, miért száll ki a Fradi elnökségéből Rékasi Tibor",
+      "lead": "És azt is elmondták, a Telekom eltávolodik-e ezzel a Fraditól.",
+      "forrasok": [
+        {
+          "nev": "HVG",
+          "cim": "Elmondta a Telekom, miért száll ki a Fradi elnökségéből Rékasi Tibor",
+          "url": "https://hvg.hu/kkv/20261020_fradi-telekom-tisztujitas-kubatov-gabor-rekasi-tibor"
+        }
+      ]
+    },
+    {
+      "cim": "Ursula császárnő a forradalom leverését ünnepli október 23-án Budapesten",
+      "lead": "Győzelmi tort ülni jön Magyarországra az Európai Bizottság vezetője.",
+      "forrasok": [
+        {
+          "nev": "Magyar Nemzet",
+          "cim": "Ursula császárnő a forradalom leverését ünnepli október 23-án Budapesten",
+          "url": "https://magyarnemzet.hu/velemeny/2026/10/ursula-von-der-leyen-oktober-23-budapest-latogatas-gyozelmi-tor?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        }
+      ]
+    },
+    {
+      "cim": "Nem viccelt a kormány: egészen extrém kiadáscsökkentés következik, itt vannak a részletek!",
+      "lead": "Kármán András pénzügyminiszter bemutatta a 2027-es költségvetés részleteit , amely szerint az államháztartás hiánya a GDP 4,9 százalékára csökkenhet, ez 2,6 százalékpontos javulás. A korrekció nagy részét a választások előtti egyszeri kiadások kivezetésétől, a pazarlás visszaszorításától és az igazságosabb…",
+      "forrasok": [
+        {
+          "nev": "Portfolio",
+          "cim": "Nem viccelt a kormány: egészen extrém kiadáscsökkentés következik, itt vannak a részletek!",
+          "url": "https://www.portfolio.hu/gazdasag/20261020/nem-viccelt-a-kormany-egeszen-extrem-kiadascsokkentes-kovetkezik-itt-vannak-a-reszletek-870888"
         }
       ]
     }
   ],
   "nemzetkozi": [
     {
-      "cim": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
-      "lead": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’ Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fire tore through one of Canada’s busiest military training bases in Alberta, the country’s prime…",
+      "cim": "Alberta voters reject plan for referendum to leave Canada",
+      "lead": "Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin a process towards independence, delivering a victory for the prime minister, Mark Carney, and supporters of Canadian unity. With more than 1.5m votes counted…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
-          "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright"
+          "cim": "Alberta voters reject plan for referendum to leave Canada",
+          "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum"
         },
         {
-          "nev": "BBC",
-          "cim": "Major fire at Canada military base leaves four dead, dozens injured",
-          "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss"
+          "nev": "Deutsche Welle",
+          "cim": "Canada: Alberta votes on holding independence referendum",
+          "url": "https://www.dw.com/en/canada-alberta-votes-on-holding-independence-referendum/a-79700283?maca=en-rss-en-world-4025-rdf"
         },
-        {
-          "nev": "Al Jazeera",
-          "cim": "How a grass fire at a Canadian military base killed four soldiers",
-          "url": "https://www.aljazeera.com/news/2026/10/19/how-a-grass-fire-at-a-canadian-military-base-killed-four-soldiers?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "cim": "The French City of Limoges Wasn’t Known for Unrest. Then Rioters Set Fire to Its City Hall.",
-      "lead": "As unrest surged across France this weekend, the most surprising attack came in the quiet city of Limoges, where rioters set fire to the city hall.",
-      "forrasok": [
         {
           "nev": "New York Times",
-          "cim": "The French City of Limoges Wasn’t Known for Unrest. Then Rioters Set Fire to Its City Hall.",
-          "url": "https://www.nytimes.com/2026/10/18/world/france-limoges-fire-arson-protests.html"
-        },
-        {
-          "nev": "BBC",
-          "cim": "'Very upsetting': Residents in shock after historic French town hall set alight",
-          "url": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss"
+          "cim": "Voters in Oil-Rich Alberta Reject Leaving Canada",
+          "url": "https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html"
         },
         {
           "nev": "Al Jazeera",
-          "cim": "‘It broke my heart’: Limoges residents reel after town hall fire",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/it-broke-my-heart-limoges-residents-reel-after-town-hall-fire?traffic_source=rss"
+          "cim": "Alberta voters reject separation from Canada, early results show",
+          "url": "https://www.aljazeera.com/news/2026/10/20/alberta-voters-reject-separation-from-canada-early-results-show?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "Zelensky Says Trump Risks ‘Historic Mistake’ If He Backs Russia",
-      "lead": "President Volodymyr Zelensky of Ukraine pressed Sunday for more information on possible restrictions to Starshield, a U.S.-provided satellite internet service used by the Ukrainian military.",
+      "cim": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
+      "lead": "Paul Mackenzie and his church set up sect that ordered followers to starve themselves and their children, say prosecutors A Kenyan court has found the starvation cult leader Paul Mackenzie and about 30 others guilty of murder over the deaths of ⁠190 children and one adult in one of the world’s worst cult-related…",
       "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
+          "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children"
+        },
         {
           "nev": "New York Times",
-          "cim": "Zelensky Says Trump Risks ‘Historic Mistake’ If He Backs Russia",
-          "url": "https://www.nytimes.com/2026/10/18/world/europe/ukraine-starshield-russia-war.html"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "Trump defends Russian sanctions relief, lashes out at Zelenskyy",
-          "url": "https://www.aljazeera.com/news/2026/10/19/trump-defends-russian-sanctions-relief-lashes-out-at-zelenskyy?traffic_source=rss"
+          "cim": "Cult Leader Convicted of Mass Murder by Court in Kenya",
+          "url": "https://www.nytimes.com/2026/10/19/world/africa/kenya-cult-deaths-paul-mackenzie-court-ruling.html"
         },
         {
           "nev": "BBC",
-          "cim": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-          "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss"
+          "cim": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+          "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "cim": "Cuts force World Food Programme to end support for half a million Palestinians in Gaza",
-      "lead": "Two-thirds of population face crisis levels of food insecurity and 200,000 people are in danger of famine This winter is likely to deepen hunger for Palestinians in Gaza, after sweeping aid cuts forced the UN’s World Food Programme (WFP) to end support for more than half a million people each month, the agency’s…",
+      "cim": "Helen Haines loses leg as surgeons fight to save the other after alleged attack in Wangaratta",
+      "lead": "Independent MP is in critical yet stable condition after man allegedly did U-turn to strike her twice with his car Brendan Nugent’s family say Helen Haines has been their friend for more than 20 years ‘I don’t want to be known as a hero’: barber who rushed to help Helen Haines praised by PM Get our new political email…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "Cuts force World Food Programme to end support for half a million Palestinians in Gaza",
-          "url": "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza"
-        },
-        {
-          "nev": "BBC",
-          "cim": "Funding shortages force World Food Programme to cut aid to Gaza",
-          "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Independent MP Helen Haines in critical condition after ‘attack’ outside Wangaratta office, PM says",
-      "lead": "Anthony Albanese says his thoughts remain with Indi MP after arrest of driver at the scene on Monday afternoon Helen Haines updates: PM says person in custody after alleged attack on Helen Haines – follow live The independent MP Helen Haines has been critically injured in an alleged attack involving a vehicle outside…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Independent MP Helen Haines in critical condition after ‘attack’ outside Wangaratta office, PM says",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb"
+          "cim": "Helen Haines loses leg as surgeons fight to save the other after alleged attack in Wangaratta",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb"
         },
         {
           "nev": "New York Times",
@@ -337,114 +230,126 @@
       ]
     },
     {
-      "cim": "Musk and Anthropic pledge public share giveaways",
-      "lead": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
-      "forrasok": [
-        {
-          "nev": "BBC",
-          "cim": "Musk and Anthropic pledge public share giveaways",
-          "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "AI giant Anthropic commits 5% of shares to ‘public benefit’ fund",
-          "url": "https://www.aljazeera.com/economy/2026/10/19/anthropic-says-it-will-commit-5-of-shares-to-public-benefit-fund?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Macron refuses minister’s resignation after huge protests rock France – Europe live",
-      "lead": "Interior minister Laurent Nuñez should stay to ensure chain of command with police and security forces, says president Macron criticises ‘unbridled violence’ after 2,400 arrests across France in Rome Italian prime minister Giorgia Meloni will hold a crisis meeting with top security officials on Monday after two days…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Macron refuses minister’s resignation after huge protests rock France – Europe live",
-          "url": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "France protests live: Macron admits ‘failures’ after days of violent unrest",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/19/france-protests-live-macron-admits-failures-after-days-of-violent-unrest?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "cim": "China’s economy grows faster than forecast after AI boom boosts exports",
-      "lead": "Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demand Business live – latest updates Roaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending. China’s GDP grew by 4.5%…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "China’s economy grows faster than forecast after AI boom boosts exports",
-          "url": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "China’s economy grows 4.5 percent in Q3, beating forecasts",
-          "url": "https://www.aljazeera.com/economy/2026/10/19/chinas-economy-grows-4-5-percent-in-q3-beating-forecasts?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Ukraine Uses F-16s to Shoot Down Russia’s Jet-Powered Drones",
-      "lead": "The fighters are a key tool against Moscow’s latest weapon of choice. But deploying the multimillion-dollar planes to counter drones is an imperfect fix.",
+      "cim": "Houthi Strikes Kill Dozens in Yemeni Desert Military Camp, Officials Say",
+      "lead": "The Iranian-backed militia struck with ballistic missiles deep in government-held central Yemen, in what appeared to be among the deadliest attacks of the renewed war.",
       "forrasok": [
         {
           "nev": "New York Times",
-          "cim": "Ukraine Uses F-16s to Shoot Down Russia’s Jet-Powered Drones",
-          "url": "https://www.nytimes.com/2026/10/19/world/europe/ukraine-f16-fighter-jets-drones-russia.html"
+          "cim": "Houthi Strikes Kill Dozens in Yemeni Desert Military Camp, Officials Say",
+          "url": "https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html"
         },
         {
-          "nev": "Al Jazeera",
-          "cim": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
-          "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss"
+          "nev": "BBC",
+          "cim": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+          "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "cim": "Deepfakes, bots and distrust: How AI is shaping Israel's election",
-      "lead": "For the first time, AI is playing a major role in Israel's elections. Observers warn that deepfakes, bots and influence campaigns could sway voters.",
+      "cim": "Australian MP seriously hurt in suspected car attack",
+      "lead": "Helen Haines, an independent federal lawmaker, suffered severe injuries in what Australia's prime minister has called a deliberate attack by a man in a car.",
       "forrasok": [
         {
           "nev": "Deutsche Welle",
-          "cim": "Deepfakes, bots and distrust: How AI is shaping Israel's election",
-          "url": "https://www.dw.com/en/deepfakes-bots-and-distrust-how-ai-is-shaping-israel-s-election/a-79657988?maca=en-rss-en-world-4025-rdf"
+          "cim": "Australian MP seriously hurt in suspected car attack",
+          "url": "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-world-4025-rdf"
         },
         {
-          "nev": "Al Jazeera",
-          "cim": "The kingmakers who could determine Israel’s election",
-          "url": "https://www.aljazeera.com/news/2026/10/19/the-kingmakers-that-could-determine-israels-election?traffic_source=rss"
+          "nev": "New York Times",
+          "cim": "Attack on Australian Lawmaker Prompts Calls to Dial Down Political Tensions",
+          "url": "https://www.nytimes.com/2026/10/20/world/asia/helen-haines-mp-attacked-wangaratta-australia.html"
         }
       ]
     },
     {
-      "cim": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
-      "lead": "The Pope's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace.",
-      "forrasok": [
-        {
-          "nev": "BBC",
-          "cim": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
-          "url": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "Pope greeted by crowds in first major appearance since lung cancer surgery",
-          "url": "https://www.aljazeera.com/news/2026/10/19/pope-greeted-by-crowds-in-first-major-appearance-since-lung-cancer-surgery?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Kenya Confirms Four New Ebola Cases",
-      "lead": "Seven Ebola infections have now been confirmed in Kenya, which before this month had never recorded cases of the deadly virus.",
+      "cim": "14 Dead After Gold Mine Collapses in Colombia",
+      "lead": "The mine is among a growing number of small-scale, unlicensed operations in Colombia that are fueled by the metal’s rising global price.",
       "forrasok": [
         {
           "nev": "New York Times",
-          "cim": "Kenya Confirms Four New Ebola Cases",
-          "url": "https://www.nytimes.com/2026/10/17/world/africa/kenya-ebola.html"
+          "cim": "14 Dead After Gold Mine Collapses in Colombia",
+          "url": "https://www.nytimes.com/2026/10/20/world/americas/colombia-gold-mine-collapse.html"
         },
         {
           "nev": "Al Jazeera",
-          "cim": "Kenya confirms eighth Ebola case amid widening regional outbreak",
-          "url": "https://www.aljazeera.com/news/2026/10/19/kenya-confirms-eighth-ebola-case-amid-widening-regional-outbreak?traffic_source=rss"
+          "cim": "Fourteen dead in illegal Colombian gold mine collapse",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/fourteen-dead-in-illegal-colombian-gold-mine-collapse?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Israeli Police Detain 10 Over Violent Settler Attacks in West Bank",
+      "lead": "Israel has faced pressure, including from the United States, to investigate the attacks. Rights groups say most inquiries into extremist assaults on Palestinians go nowhere.",
+      "forrasok": [
+        {
+          "nev": "New York Times",
+          "cim": "Israeli Police Detain 10 Over Violent Settler Attacks in West Bank",
+          "url": "https://www.nytimes.com/2026/10/19/world/middleeast/israel-west-bank-settlers-palestinians.html"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "Palestine weekly: Israeli settlers attack journalist and diplomats",
+          "url": "https://www.aljazeera.com/news/2026/10/20/palestine-weekly-israeli-settlers-attack-journalist-and-diplomats?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Japan launches historic mission to bring back Mars moon samples",
+      "lead": "Japan has launched a five-year uncrewed mission to collect samples from Phobos, one of Mars’ two moons.",
+      "forrasok": [
+        {
+          "nev": "Al Jazeera",
+          "cim": "Japan launches historic mission to bring back Mars moon samples",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/japan-launches-historic-mission-to-bring-back-mars-moon-samples?traffic_source=rss"
+        },
+        {
+          "nev": "BBC",
+          "cim": "Mission blasts off for Mars to grab a piece of its moon",
+          "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Badenoch says Healey’s budget will be worse than Reeves’s if he doesn’t slash spending – UK politics live",
+      "lead": "Conservative leader to give a speech later, while Treasury sources say Healey has ruled out a rise in capital gains tax Angela Rayner has also rejected claims that cabinet ministers are split over Shabana Mahmood’s plans to make migrant workers wait much longer until they can apply for permanent residency in the UK…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Badenoch says Healey’s budget will be worse than Reeves’s if he doesn’t slash spending – UK politics live",
+          "url": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news"
+        }
+      ]
+    },
+    {
+      "cim": "France Protests Show Europe’s Shift Away From Centrist Politics",
+      "lead": "Europe’s centrist parties are losing ground among young people and workers, who are increasingly tempted by populist promises of radical change.",
+      "forrasok": [
+        {
+          "nev": "New York Times",
+          "cim": "France Protests Show Europe’s Shift Away From Centrist Politics",
+          "url": "https://www.nytimes.com/2026/10/20/world/europe/france-protests-europe-centrist-far-right.html"
+        }
+      ]
+    },
+    {
+      "cim": "The Mayor of a City in Haiti Warned of a Massacre. No One Listened.",
+      "lead": "The mayor of Kenscoff, a town near Haiti’s capital, wrote government officials hundreds of letters to warn of gang threats. Then dozens of people died, and he did, too.",
+      "forrasok": [
+        {
+          "nev": "New York Times",
+          "cim": "The Mayor of a City in Haiti Warned of a Massacre. No One Listened.",
+          "url": "https://www.nytimes.com/2026/10/20/world/americas/mayor-kenscoff-haiti-gangs-massacre.html"
+        }
+      ]
+    },
+    {
+      "cim": "Serbian prosecutor who investigated Belgrade Trump tower project ‘targeted with spyware’",
+      "lead": "Apparent attempt to hack Rade Bajić’s iPhone comes amid efforts to undermine landmark criminal case A Serbian prosecutor who investigated the authorities’ allegedly illegal scheme to help the Trumps build a tower in Belgrade has been targeted with advanced spyware, expert analysis indicates. The finding suggests a…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Serbian prosecutor who investigated Belgrade Trump tower project ‘targeted with spyware’",
+          "url": "https://www.theguardian.com/world/2026/oct/20/serbia-prosecutor-belgrade-trump-tower-project-targeted-spyware"
         }
       ]
     }
