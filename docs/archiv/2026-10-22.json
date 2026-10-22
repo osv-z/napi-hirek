@@ -1,0 +1,377 @@
+{
+  "datum": "2026-10-22",
+  "generalva": "2026-10-22T11:30+02:00",
+  "hazai": [
+    {
+      "cim": "Leállították a magyarorszag.hu-t a világszintű biztonsági fenyegetettség miatt",
+      "lead": "A PHP programozási nyelvben azonosított két súlyos biztonsági hiba miatt világszerte állnak le nagy cégek és kormányok honlapjai elővigyázatosságból. A magyar kormány arra kér minden céget, hogy ellenőrizzék a honlapjaikat.",
+      "forrasok": [
+        {
+          "nev": "444",
+          "cim": "Leállították a magyarorszag.hu-t a világszintű biztonsági fenyegetettség miatt",
+          "url": "https://444.hu/2026/10/22/leallitottak-a-magyarorszaghu-t-a-vilagszintu-biztonsagi-fenyegetettseg-miatt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "HVG",
+          "cim": "A kormány leállította a magyarorszag.hu weboldalt egy több országot érintő, veszélyes kiberbiztonsági hiba miatt",
+          "url": "https://hvg.hu/itthon/20261022_magyarorszag-hu-weboldal-leallitas-php-hiba-kiberbiztonsag-tanacs-zoltan-kormany"
+        },
+        {
+          "nev": "Telex",
+          "cim": "Informatikai biztonsági kockázat miatt 48 órára leállították a magyarorszag.hu-t",
+          "url": "https://telex.hu/belfold/2026/10/22/informatikai-biztonsagi-kockazat-miatt-48-orara-leallitottak-a-magyarorszag-hu-t"
+        }
+      ]
+    },
+    {
+      "cim": "Magyar Péter az ellenforradalmár",
+      "lead": "A miniszterelnök és köre számára egyre terhesebb az 1956-os forradalom és szabadságharc.",
+      "forrasok": [
+        {
+          "nev": "Magyar Nemzet",
+          "cim": "Magyar Péter az ellenforradalmár",
+          "url": "https://magyarnemzet.hu/velemeny/2026/10/magyar-peter-az-ellenforradalmar?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        },
+        {
+          "nev": "Index",
+          "cim": "Magyar Péter a Kossuth Lajos téren mond beszédet",
+          "url": "https://index.hu/belfold/2026/10/22/oktober-23-megemlekezes-1956-os-forradalom-es-szabadsagharc-evfordulo-tisza-part-magyar-peter-fidesz-mi-hazank-mozgalom/magyar-peter-a-kossuth-lajos-teren-mond-beszedet/"
+        }
+      ]
+    },
+    {
+      "cim": "Magyarországot és Csehországot is elmarasztalta az uniós bíróság a védő nélküli kihallgatások miatt",
+      "lead": "Az Európai Unió Bírósága szerint Magyarország és a Cseh Köztársaság is megsértette az uniós jogot azzal, hogy meghatározott határidő elteltével lehetővé tette a gyanúsítottak ügyvéd nélküli kihallgatását. A magyar szabályozással kapcsolatban egy másik jogsértést is megállapítottak: a nemzeti jog nem tartalmazta az…",
+      "forrasok": [
+        {
+          "nev": "HVG",
+          "cim": "Magyarországot és Csehországot is elmarasztalta az uniós bíróság a védő nélküli kihallgatások miatt",
+          "url": "https://hvg.hu/eurologus/20261022_europai-birosag-kotelezettsegszeges-ugyved"
+        },
+        {
+          "nev": "Telex",
+          "cim": "Az Európai Unió Bírósága szerint Magyarország megsértette az uniós jogot azzal, hogy lehetővé teszi a gyanúsítottak kihallgatását ügyvédjük távollétében",
+          "url": "https://telex.hu/belfold/2026/10/22/europai-unio-birosag-magyarorszag-unios-jogsertes-kihallgatas-ugyvedi-jelenlet"
+        }
+      ]
+    },
+    {
+      "cim": "Hadházy Ákos szerint egy budapesti étteremben fotózták le a körözött Nikola Gruevszkit",
+      "lead": "A politikus azt sürgeti, hogy a kormány vizsgálja felül a Magyarországon menedékjogot kapott volt észak-macedóniai kormányfő helyzetét.",
+      "forrasok": [
+        {
+          "nev": "Telex",
+          "cim": "Hadházy Ákos szerint egy budapesti étteremben fotózták le a körözött Nikola Gruevszkit",
+          "url": "https://telex.hu/belfold/2026/10/22/hadhazy-akos-budapesti-etterem-volt-eszakmacedon-miniszterelnok-gruevszki"
+        },
+        {
+          "nev": "Index",
+          "cim": "Budapesti étteremben fotózták le a nemzetközi körözés alatt álló, volt észak-macedón kormányfőt, Nikola Gruevszkit",
+          "url": "https://index.hu/belfold/2026/10/22/nikola-gruevszki-budapest-etterem-foto-hadhazy-akos/"
+        }
+      ]
+    },
+    {
+      "cim": "Holtan találtak egy nőt Kecskeméten, egy 22 éves férfit vettek őrizetbe",
+      "lead": "A férfi többször megütötte a nőt, majd magára hagyta. A rendőröknek azt állította, hogy amikor távozott, még életben volt.",
+      "forrasok": [
+        {
+          "nev": "Telex",
+          "cim": "Holtan találtak egy nőt Kecskeméten, egy 22 éves férfit vettek őrizetbe",
+          "url": "https://telex.hu/belfold/2026/10/22/holttest-no-kecskemet-22-eves-ferfi-orizetbe-vettek-rendorseg"
+        },
+        {
+          "nev": "Index",
+          "cim": "Halálra vertek egy nőt Kecskeméten, elfogtak egy 22 éves férfit",
+          "url": "https://index.hu/belfold/2026/10/22/halalt-okozo-testi-sertes-bantalmazas-kecskemet-rendorseg/"
+        }
+      ]
+    },
+    {
+      "cim": "„Azt szeretném, ha nem a Magyar Közlönyből értesülnénk az új szabályokról”",
+      "lead": "Bár januártól megszűnik az árrésstop, a kiskereskedelmi különadó és a plázastop azonban továbbra is súlyos terhet jelent az ágazatnak, a korlátozások következményeit pedig a vásárlók is megérzik – mondja Balázs Ildikó, az Országos Kereskedelmi Szövetség (OKSZ) új főtitkára.",
+      "forrasok": [
+        {
+          "nev": "HVG",
+          "cim": "„Azt szeretném, ha nem a Magyar Közlönyből értesülnénk az új szabályokról”",
+          "url": "https://hvg.hu/360/20261022_kereskedok-kertek-balazs-ildiko-oksz-interju-arresstop-plazastop-hvg"
+        },
+        {
+          "nev": "444",
+          "cim": "Matolcsyék ritka kétes hírnevet szereztek Magyarországnak",
+          "url": "https://444.hu/2026/10/21/matolcsyek-ritka-ketes-hirnevet-szereztek-magyarorszagnak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        }
+      ]
+    },
+    {
+      "cim": "Az Airbnb-házigazdák nem kötelezhetik többé takarításra a vendégeket",
+      "lead": "Mivel a vendégek fizetnek a takarításért, ezért az új szabályzat szerint alapesetben nem lehet olyasmikre kötelezni őket, amiket jellemzően egy takarító végez el.",
+      "forrasok": [
+        {
+          "nev": "444",
+          "cim": "Az Airbnb-házigazdák nem kötelezhetik többé takarításra a vendégeket",
+          "url": "https://444.hu/2026/10/22/az-airbnb-hazigazdak-nem-kotelezhetik-tobbe-takaritasra-a-vendegeket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "Index",
+          "cim": "Új szabályt vezet be az Airbnb: mostantól nem lesz kötelező kitakarítania a távozó vendégeknek",
+          "url": "https://index.hu/kulfold/2026/10/22/airbnb-szabalyozas-turizmus-utazas-idegenforgalom/"
+        }
+      ]
+    },
+    {
+      "cim": "Nőtt a foglalkoztatottság szeptemberben",
+      "lead": "A harmadik negyedévben az előző év azonos időszakához képest viszont 22 ezerrel kevesebben dolgoztak az elsődleges munkaerőpiacon.",
+      "forrasok": [
+        {
+          "nev": "Telex",
+          "cim": "Nőtt a foglalkoztatottság szeptemberben",
+          "url": "https://telex.hu/gazdasag/2026/10/22/ksh-statisztika-foglalkoztatottsag-munkanelkuliseg-szeptember"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Csökkent a foglalkoztatottak, és nőtt a munkanélküliek száma az elmúlt hónapokban",
+          "url": "https://hvg.hu/gazdasag/20261022_statisztika-foglalkoztatottsag-munkanelkuliseg-ksh-gazdasag"
+        }
+      ]
+    },
+    {
+      "cim": "Észak-Korea a hangszórós propaganda újraindításával fenyegeti Dél-Koreát",
+      "lead": "Kim Dzsongun húga szerint mindez a pszichológiai hadviselés része.",
+      "forrasok": [
+        {
+          "nev": "Telex",
+          "cim": "Észak-Korea a hangszórós propaganda újraindításával fenyegeti Dél-Koreát",
+          "url": "https://telex.hu/kulfold/2026/10/22/eszak-korea-propaganda-hangszoro-bekapcsol-del-korea"
+        },
+        {
+          "nev": "444",
+          "cim": "Észak-Korea arra készül, hogy újra elkezd propagandát tolni hangszórókból a határon át",
+          "url": "https://444.hu/2026/10/22/eszak-korea-arra-keszul-hogy-ujra-elkezd-propagandat-tolni-hangszorokbol-a-hataron-at?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        }
+      ]
+    },
+    {
+      "cim": "Látványos átalakulás az autópiacon: egymás után söprik el a trónkövetelők a régi kedvenceket",
+      "lead": "Egyre több ismert autómárkát utasítanak maguk mögé a kínai gyártók az európai eladási rangsorban, miközben több hagyományos szereplő a növekvő kereslet mellett is piacot veszít. Az ACEA legfrissebb adatai megmutatják, mekkorát változtak az erőviszonyok egyetlen év alatt, és mely gyártók maradnak le a versenyben…",
+      "forrasok": [
+        {
+          "nev": "Portfolio",
+          "cim": "Látványos átalakulás az autópiacon: egymás után söprik el a trónkövetelők a régi kedvenceket",
+          "url": "https://www.portfolio.hu/uzlet/20261022/latvanyos-atalakulas-az-autopiacon-egymas-utan-soprik-el-a-tronkovetelok-a-regi-kedvenceket-871424"
+        }
+      ]
+    },
+    {
+      "cim": "Nem lesz előrehozott választás a Hegyvidéken, leszavazták a képviselő-testület feloszlatását",
+      "lead": "A feloszlatást Kovács Gergely korábbi szövetségese kezdeményezte. Visi Piroska szerint tarthatatlan, ahogy a kutyapártos polgármester vezeti a kerületet. A helyi Fidesz a Tisza és a Kutyapárt hatalmi harcának nevezte a kialakult helyzetet, de végül ők is nemmel szavaztak.",
+      "forrasok": [
+        {
+          "nev": "Telex",
+          "cim": "Nem lesz előrehozott választás a Hegyvidéken, leszavazták a képviselő-testület feloszlatását",
+          "url": "https://telex.hu/belfold/2026/10/22/hegyvidek-kepviselo-testulet-feloszlatas-kovacs-gergely-kutyapart"
+        }
+      ]
+    },
+    {
+      "cim": "Elárulta Tanács minisztériuma, milyen ügyekben indított nyomozást a NAV a tárca feljelentése után",
+      "lead": "A Digitális Kormányzati Ügynökség és a Digitális Magyarország Ügynökség a P2M-mel és a Lounge-csoporttal kötött szerződései ügyében indult nyomozás.",
+      "forrasok": [
+        {
+          "nev": "Telex",
+          "cim": "Elárulta Tanács minisztériuma, milyen ügyekben indított nyomozást a NAV a tárca feljelentése után",
+          "url": "https://telex.hu/belfold/2026/10/22/ttm-tanacs-zoltan-feljelentes-nyomozas-nav-lounge"
+        }
+      ]
+    }
+  ],
+  "nemzetkozi": [
+    {
+      "cim": "Russia frees jailed American Stephen Hubbard during Witkoff talks",
+      "lead": "During talks between Vladimir Putin and Steve Witkoff, Putin announced that jailed American Stephen Hubbard had been released. The Kremlin also said Russia was \"in principle\" ready to resume trilateral talks next month.",
+      "forrasok": [
+        {
+          "nev": "Deutsche Welle",
+          "cim": "Russia frees jailed American Stephen Hubbard during Witkoff talks",
+          "url": "https://www.dw.com/en/russia-frees-jailed-american-stephen-hubbard-during-witkoff-talks/a-79719452?maca=en-rss-en-world-4025-rdf"
+        },
+        {
+          "nev": "New York Times",
+          "cim": "Who Is Stephen James Hubbard, the American Released From Russian Jail?",
+          "url": "https://www.nytimes.com/2026/10/21/world/europe/who-stephen-hubbard-american-russia-prisoner-release.html"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "Russia frees American Stephen Hubbard after 4 years behind bars",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-frees-american-stephen-hubbard-after-4-years-behind-bars?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Zelenskyy appears to mock Witkoff for his praise for ‘humanitarian’ Putin after Kyiv attacks – Europe live",
+      "lead": "Zelenskyy said: ‘Three waves of ballistic missiles have been launched at Kyiv by Russian “humanitarians”’ in Palermo As lorry drivers’ protests bring much of southern Italy to a standstill amid food and fuel shortages, with businesses warning they are on the brink of collapse, Italian authorities have launched a…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Zelenskyy appears to mock Witkoff for his praise for ‘humanitarian’ Putin after Kyiv attacks – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "Russian strikes hit Kyiv after Witkoff meets Putin",
+          "url": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Shark Returns to Sea After Over a Month Stuck in a South Korean Port Canal",
+      "lead": "The 10-foot-long dusky shark, nicknamed “Bukangi,” was successfully guided back to the open ocean after a third rescue attempt.",
+      "forrasok": [
+        {
+          "nev": "New York Times",
+          "cim": "Shark Returns to Sea After Over a Month Stuck in a South Korean Port Canal",
+          "url": "https://www.nytimes.com/2026/10/21/world/asia/south-korea-shark-bukangi-busan.html"
+        },
+        {
+          "nev": "BBC",
+          "cim": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+          "url": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Palestinians Hope Israeli Election Will Oust Netanyahu",
+      "lead": "Many in Gaza and the West Bank are desperate to avoid more years of Prime Minister Benjamin Netanyahu’s right-wing government, which has made life close to unbearable.",
+      "forrasok": [
+        {
+          "nev": "New York Times",
+          "cim": "Palestinians Hope Israeli Election Will Oust Netanyahu",
+          "url": "https://www.nytimes.com/2026/10/21/world/middleeast/stakes-for-palestinians-of-israel-election.html"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "In Israel election, Palestinian citizens weigh fear against disillusionment",
+          "url": "https://www.aljazeera.com/news/2026/10/22/in-israel-election-palestinian-citizens-weigh-fear-against-disillusionment?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "El Salvador’s Bukele threatens Haitian gangs over abducted soldiers",
+      "lead": "President Nayib Bukele says he has initiated military operation to rescue four Salvadoran soldiers abducted in Haiti.",
+      "forrasok": [
+        {
+          "nev": "Al Jazeera",
+          "cim": "El Salvador’s Bukele threatens Haitian gangs over abducted soldiers",
+          "url": "https://www.aljazeera.com/news/2026/10/22/el-salvadors-bukele-threatens-haitian-gangs-over-abducted-soldiers?traffic_source=rss"
+        },
+        {
+          "nev": "New York Times",
+          "cim": "El Salvador’s President Issues Harsh Warning to Haitian Gangs After 4 Soldiers Are Abducted",
+          "url": "https://www.nytimes.com/2026/10/21/world/americas/el-salvador-military-haiti-gangs.html"
+        }
+      ]
+    },
+    {
+      "cim": "North Korea prepares to restart propaganda loudspeakers as ties sour with South",
+      "lead": "Kim Yo-jong, sister of Kim Jong-un, issues warning after inspecting border fortifications against backdrop of rising tensions Propaganda loudspeakers aimed at South Korea will be ready to restart within days along the entire border, Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un, has said amid a…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "North Korea prepares to restart propaganda loudspeakers as ties sour with South",
+          "url": "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "North Korea to resume propaganda broadcasts, South Korea urges dialogue",
+          "url": "https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI",
+      "lead": "Author withdrawn from France’s Prix Goncourt last month has repeatedly denied using artificial intelligence to write novel The publisher of top-selling Haitian Canadian writer Thélyson Orélien, who was removed from France’s most prestigious literary prize list last month, has confirmed the author used artificial…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI",
+          "url": "https://www.theguardian.com/culture/2026/oct/22/canadian-publisher-boreal-ends-relationship-author-thelyson-orelien-over-ai"
+        },
+        {
+          "nev": "New York Times",
+          "cim": "Thélyson Orélien's Quebec Publisher Cuts Ties Over A.I. Accusations",
+          "url": "https://www.nytimes.com/2026/10/21/world/canada/thelyson-orelien-ai-publisher.html"
+        }
+      ]
+    },
+    {
+      "cim": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
+      "lead": "Reports emerge of similar withdrawals in UAE, Jordan, Qatar and Bahrain amid concerns about a return to conflict with Iran after US midterm elections The US state department has ordered some diplomats and the families of US government employees to leave Saudi Arabia, as the gulf kingdom faces a barrage of near-daily…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
+          "url": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks"
+        },
+        {
+          "nev": "BBC",
+          "cim": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Pope does not need further treatment after lung cancer surgery",
+      "lead": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.",
+      "forrasok": [
+        {
+          "nev": "BBC",
+          "cim": "Pope does not need further treatment after lung cancer surgery",
+          "url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "nev": "New York Times",
+          "cim": "Pope Needs No Further Treatment for Lung Cancer, Doctors Say",
+          "url": "https://www.nytimes.com/2026/10/21/world/europe/pope-leo-cancer.html"
+        }
+      ]
+    },
+    {
+      "cim": "Indian court orders release of two leaders of Cockroach movement",
+      "lead": "Saurav Das and Ashutosh Ranka spent a week in jail after defying restrictions on protests in Delhi amid government crackdown An Indian court has ordered the release of two leaders of India’s Cockroach movement who were jailed last week amid a mounting state crackdown on youth-led protests. The two leaders of the…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Indian court orders release of two leaders of Cockroach movement",
+          "url": "https://www.theguardian.com/world/2026/oct/21/india-cockroach-movement-leaders-released-protests-government-crackdown"
+        },
+        {
+          "nev": "BBC",
+          "cim": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
+          "url": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Some New Yorkers hail ban on horse-drawn carriages, but drivers fear for incomes",
+      "lead": "As councillors prepare to banish the vehicles, views in Central Park are divided over the 160-year-old tradition.",
+      "forrasok": [
+        {
+          "nev": "BBC",
+          "cim": "Some New Yorkers hail ban on horse-drawn carriages, but drivers fear for incomes",
+          "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Space Debris Found Twice Within Days Amid ‘Growing Casualty Risk’",
+      "lead": "Debris was found in Indonesia on Monday, just days after a farmer across the globe in Minnesota reported a massive metal object thought to be space junk in a cornfield.",
+      "forrasok": [
+        {
+          "nev": "New York Times",
+          "cim": "Space Debris Found Twice Within Days Amid ‘Growing Casualty Risk’",
+          "url": "https://www.nytimes.com/2026/10/22/world/asia/space-debris-indonesia-minnesota.html"
+        }
+      ]
+    }
+  ]
+}
