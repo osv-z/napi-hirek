@@ -1,0 +1,412 @@
+{
+  "datum": "2026-10-23",
+  "generalva": "2026-10-23T11:26+02:00",
+  "hazai": [
+    {
+      "cim": "Rónai Egon otthagyja az ATV-t",
+      "lead": "A csatorna egyik arcának számító Rónai több mint tizenöt év után távozik.",
+      "forrasok": [
+        {
+          "nev": "Telex",
+          "cim": "Rónai Egon otthagyja az ATV-t",
+          "url": "https://telex.hu/after/2026/10/22/ronai-egon-otthagyja-az-atv-t"
+        },
+        {
+          "nev": "444",
+          "cim": "Rónai Egon távozik az ATV-től",
+          "url": "https://444.hu/2026/10/22/ronai-egon-tavozik-az-atv-tol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "Magyar Nemzet",
+          "cim": "Rónai Egon távozik az ATV-től, Magyar Péter köréhez csatlakozhat",
+          "url": "https://magyarnemzet.hu/belfold/2026/10/ronai-egon-atv-tavozik?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Távozik az ATV-től Rónai Egon",
+          "url": "https://hvg.hu/itthon/20261022_tavozik-az-atv-tol-ronai-egon"
+        }
+      ]
+    },
+    {
+      "cim": "Meghalt Tom Skerritt, a Nyolcadik utas: a Halál főszereplője",
+      "lead": "Meghalt Tom Skerritt Primetime Emmy-díjas amerikai színész, az Alien és Top Gun filmek sztárja - közölte a menedzsere.",
+      "forrasok": [
+        {
+          "nev": "HVG",
+          "cim": "Meghalt Tom Skerritt, a Nyolcadik utas: a Halál főszereplője",
+          "url": "https://hvg.hu/kultura/20261023_tom-skerritt-megeghalt"
+        },
+        {
+          "nev": "Index",
+          "cim": "Meghalt Tom Skerritt, az Alien és a Top Gun színésze",
+          "url": "https://index.hu/kultur/2026/10/23/tom-skerritt-szinesz-meghalt-alien-top-gun/"
+        },
+        {
+          "nev": "Telex",
+          "cim": "Meghalt Tom Skerritt, a Top Gun és az Alien színésze",
+          "url": "https://telex.hu/after/2026/10/22/tom-skerritt-meghalt-93-evesen-alien-top-gun"
+        }
+      ]
+    },
+    {
+      "cim": "Gyengüléssel kezdett a forint a nemzeti ünnepen",
+      "lead": "Gyengült a forint péntek reggelre a főbb devizákkal szemben az előző délutáni jegyzéséhez képest a nemzetközi devizakereskedelemben. A mai nap a bankközi piac a nemzeti ünnep miatt nincs nyitva, ezért nincs is akkora kereskedési volumen, és azt is fontos látni, hogy ebben az illikvid kereskedési környezetben kisebb…",
+      "forrasok": [
+        {
+          "nev": "Portfolio",
+          "cim": "Gyengüléssel kezdett a forint a nemzeti ünnepen",
+          "url": "https://www.portfolio.hu/deviza/20261023/gyengulessel-kezdett-a-forint-a-nemzeti-unnepen-871658"
+        },
+        {
+          "nev": "444",
+          "cim": "Zászlófelvonás, beszédek és egy Sztálin-szobor ledöntése: indul a nemzet ünnep",
+          "url": "https://444.hu/2026/10/23/zaszlofelvonas-beszedek-es-egy-sztalin-szobor-ledontese-indul-a-nemzet-unnep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Ismét gyengült a forint",
+          "url": "https://hvg.hu/gazdasag/20261023_ismet-gyengult-a-forint"
+        }
+      ]
+    },
+    {
+      "cim": "Tisza-kormány: '56-ra emlékezik az ország, Matolcsy György ma tesz vallomást",
+      "lead": "Országszerte megemlékeznek ma az 1956-os forradalomról és szabadságharcról. A 70. évforduló alkalmából tartott programsorozat 9 órakor ünnepélyes zászlófelvonással kezdődik Baka András köztársasági elnök, Forsthoffer Ágnes házelnök és Magyar Péter miniszterelnök, valamint külföldi vendégek részvételével. Az országházi…",
+      "forrasok": [
+        {
+          "nev": "Portfolio",
+          "cim": "Tisza-kormány: '56-ra emlékezik az ország, Matolcsy György ma tesz vallomást",
+          "url": "https://www.portfolio.hu/gazdasag/20261023/tisza-kormany-56-ra-emlekezik-az-orszag-matolcsy-gyorgy-ma-tesz-vallomast-871656"
+        },
+        {
+          "nev": "Telex",
+          "cim": "Matolcsy védője: vallomást tesz Matolcsy György a letartóztatásáról döntő ülésen",
+          "url": "https://telex.hu/gazdasag/2026/10/23/matolcsy-gyorgy-letartoztatas-birosag-mnb-ugy"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Matolcsy ügyvédje a bíróságnál: a volt jegybankelnök még nem tett vallomást, a gyanúsítás hatezer oldalt tesz ki",
+          "url": "https://hvg.hu/itthon/20261023_matolcsy-gyorgy-egyelore-nem-tett-vallomast-tovabbra-sem-tudni-hol-van-a-fia"
+        }
+      ]
+    },
+    {
+      "cim": "Magyar Péter felmentett egy helyettes államtitkárt, aki korábban Navracsics alatt töltötte be ezt a tisztséget",
+      "lead": "A miniszterelnök egyidejűleg kinevezte Peresztegi Gergelyt Kivés Zoltán pozíciójába.",
+      "forrasok": [
+        {
+          "nev": "Telex",
+          "cim": "Magyar Péter felmentett egy helyettes államtitkárt, aki korábban Navracsics alatt töltötte be ezt a tisztséget",
+          "url": "https://telex.hu/belfold/2026/10/23/magyar-peter-felmentett-egy-helyettes-allamtitkart-aki-korabban-navracsics-alatt-toltotte-be-ezt-a-tisztseget"
+        },
+        {
+          "nev": "Magyar Nemzet",
+          "cim": "Telefonon toborozza híveit Magyar Péter az állami ünnepségre",
+          "url": "https://magyarnemzet.hu/belfold/2026/10/telefon-toborozas-magyar-peter-allami-unnepseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        }
+      ]
+    },
+    {
+      "cim": "Infrastrukturális és energetikai létesítményeket értek orosz légicsapások éjszaka Ukrajnában",
+      "lead": "Ketten megsebesültek az északkelet-ukrajnai Szumiban egy benzinkutat ért orosz dróncsapásban, Odessza megyében egy hőerőművet és civil infrastruktúrát értek találatok.",
+      "forrasok": [
+        {
+          "nev": "Telex",
+          "cim": "Infrastrukturális és energetikai létesítményeket értek orosz légicsapások éjszaka Ukrajnában",
+          "url": "https://telex.hu/kulfold/2026/10/23/infrastrukturalis-es-energetikai-letesitmenyeket-ertek-orosz-legicsapasok-ejszaka-ukrajnaban"
+        },
+        {
+          "nev": "444",
+          "cim": "Benzinkutat, hőerőművet ért orosz csapás Ukrajnában",
+          "url": "https://444.hu/2026/10/23/benzinkutat-hoeromuvet-ert-orosz-csapas-ukrajnaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        }
+      ]
+    },
+    {
+      "cim": "Akár egy hónapon belül hazahozhatják Matolcsy Ádámot Dubajból",
+      "lead": "Nincs kiadatási egyezmény a két ország között, de az ügyvéd szerint egy egyedi megállapodás lehetne a leggyorsabb út.",
+      "forrasok": [
+        {
+          "nev": "Index",
+          "cim": "Akár egy hónapon belül hazahozhatják Matolcsy Ádámot Dubajból",
+          "url": "https://index.hu/belfold/2026/10/23/matolcsy-adam-mnb-ugy-egyesult-arab-emirsegek-dubaj/"
+        },
+        {
+          "nev": "444",
+          "cim": "Egy ügyvéd szerint el lehet intézni, hogy akár egy hónapon belül kiadják Matolcsy Ádámot",
+          "url": "https://444.hu/2026/10/23/egy-ugyved-szerint-el-lehet-intezni-hogy-akar-egy-honapon-belul-kiadjak-matolcsy-adamot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        }
+      ]
+    },
+    {
+      "cim": "Váratlanul kirúgtak több magyar dolgozót az iváncsai akkumulátorgyárból, további leépítéstől tartanak",
+      "lead": "A szakszervezet magyarázatot követel, nem tartják kizártnak, hogy további leépítések várhatók.",
+      "forrasok": [
+        {
+          "nev": "Index",
+          "cim": "Váratlanul kirúgtak több magyar dolgozót az iváncsai akkumulátorgyárból, további leépítéstől tartanak",
+          "url": "https://index.hu/gazdasag/2026/10/23/ivancsai-akkumulatorgyar-sk-on-hungary-leepitesek-liga-szakszervezet/"
+        },
+        {
+          "nev": "Telex",
+          "cim": "Váratlanul több magyar munkavállalót elbocsátottak az iváncsai akkumulátorgyárból",
+          "url": "https://telex.hu/gazdasag/2026/10/22/tobb-magyar-munkavallalot-elbocsatottak-az-ivancsai-akkumulatorgyarbol"
+        }
+      ]
+    },
+    {
+      "cim": "Felvonták a nemzeti lobogót a Parlamentnél, megkezdődtek az október 23-i programok",
+      "lead": "Az eseményen közreműködött a központi katonazenekar, a nemzeti lovas díszegység, valamint a Magyar Honvédség testőrezrede és a gróf Nádasdy Ferenc Huszárosztály.",
+      "forrasok": [
+        {
+          "nev": "Telex",
+          "cim": "Felvonták a nemzeti lobogót a Parlamentnél, megkezdődtek az október 23-i programok",
+          "url": "https://telex.hu/belfold/2026/10/23/felvontak-a-nemzeti-lobogot-a-parlamentnel-megkezdodtek-az-oktober-23-i-programok"
+        },
+        {
+          "nev": "Magyar Nemzet",
+          "cim": "Felvonták a nemzeti lobogót az Országház előtt",
+          "url": "https://magyarnemzet.hu/belfold/2026/10/1956-oktober-23-megemlekezes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        }
+      ]
+    },
+    {
+      "cim": "Trump szerint Musk visszaállította a hozzáférést az ukrán Starlink hálózathoz",
+      "lead": "Az amerikai elnök korábban tagadta, hogy köze lenne a SpaceX Starlink műholdas internetszolgáltatásának ukrajnai korlátozásához.",
+      "forrasok": [
+        {
+          "nev": "Telex",
+          "cim": "Trump szerint Musk visszaállította a hozzáférést az ukrán Starlink hálózathoz",
+          "url": "https://telex.hu/kulfold/2026/10/23/trump-szerint-musk-visszaallitotta-a-hozzaferest-az-ukran-starlink-halozathoz"
+        },
+        {
+          "nev": "Index",
+          "cim": "Donald Trump közbeléphetett, Elon Musk visszaállította a Starlinket Ukrajnának",
+          "url": "https://index.hu/kulfold/2026/10/23/donald-trump-volodimir-zelenszkij-starlink-starshield/"
+        }
+      ]
+    },
+    {
+      "cim": "Véres és vértelen forradalom, avagy 1956 2026-ban",
+      "lead": "1956-ban és 2026-ban is egy tudatosan nyugatellenes és oroszbarát, a nemzeti történelmet saját politikai érdekei mentén újraírni igyekvő rendszer bukott meg Magyarországon, de természetesen rengeteg a különbség a két hatalomváltás között. Ungváry Krisztián történész véleménycikkében amellett érvel, hogy 2026 bizonyos…",
+      "forrasok": [
+        {
+          "nev": "Telex",
+          "cim": "Véres és vértelen forradalom, avagy 1956 2026-ban",
+          "url": "https://telex.hu/velemeny/2026/10/23/oktober-23-1956-ungvary-krisztian-fidesz-forradalom-tisza"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Szabó Andrea: Van közös vonása az 1956-os forradalomnak és a 2026-os választásnak",
+          "url": "https://hvg.hu/360/20261023_szabo-andrea-a-tukorbe-egyszer-belekell-nezni-oktober-23-1956-1989-2026-hvg"
+        }
+      ]
+    },
+    {
+      "cim": "Nagyon erős földrengés rázta meg Tibetet, házak százai omlottak össze",
+      "lead": "Legalább 16 ember meghalt, 54-en megsérültek, és több száz lakóépület összeomlott egy 7-es magnitúdójú földrengésben a délnyugat-kínai Tibetben – jelentette pénteken a kínai állami média.",
+      "forrasok": [
+        {
+          "nev": "Portfolio",
+          "cim": "Nagyon erős földrengés rázta meg Tibetet, házak százai omlottak össze",
+          "url": "https://www.portfolio.hu/global/20261023/nagyon-eros-foldrenges-razta-meg-tibetet-hazak-szazai-omlottak-ossze-871654"
+        },
+        {
+          "nev": "444",
+          "cim": "Tibetet erős földrengés rázta meg, legalább 16 ember meghalt",
+          "url": "https://444.hu/2026/10/23/tibetet-eros-foldrenges-razta-meg-legalabb-16-ember-meghalt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        }
+      ]
+    }
+  ],
+  "nemzetkozi": [
+    {
+      "cim": "Starlink access for Ukraine limited after Trump’s claims satellite service restored, officials say – Europe live",
+      "lead": "The satellite service was still operating at a cap of 161km/hr, crippling key air defences In Vienna this morning, Austria’s foreign ministry has announced it is kicking out another four Russian diplomats over “activities incompatible ⁠with their diplomatic status” – a euphemism usually for espionage. Three of them…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Starlink access for Ukraine limited after Trump’s claims satellite service restored, officials say – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates"
+        },
+        {
+          "nev": "BBC",
+          "cim": "Ukraine hit by strikes after Russia agrees to new peace talks",
+          "url": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "Trump says Musk restored Ukraine’s Starlink access amid Russia war",
+          "url": "https://www.aljazeera.com/news/2026/10/23/trump-says-musk-restored-ukraines-starlink-access-amid-russia-war?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes",
+      "lead": "Search and rescue efforts under way after quake strikes region’s north, with at least seven aftershocks recorded A magnitude-7 earthquake has hit Tibet, killing at least 16 people, injuring 54 and destroying hundreds of homes in the northern regional city of Nagqu, official media have said. Search and rescue efforts…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes",
+          "url": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet"
+        },
+        {
+          "nev": "New York Times",
+          "cim": "Powerful Earthquake in Tibet Kills at Least 16",
+          "url": "https://www.nytimes.com/2026/10/22/world/asia/earthquake-tibet-china.html"
+        },
+        {
+          "nev": "BBC",
+          "cim": "Powerful earthquake hits Tibet killing 16 people, reports say",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Boom in weight-loss drugs could lead to drop in beer sales, Heineken warns British pubs",
+      "lead": "World’s second largest brewer says use of drugs such as Wegovy can reduce desire to drink alcohol Heineken has warned British bars and pubs that the boom in popularity of weight-loss drugs could lead to a fall in sales of beer and cider. The world’s second largest brewer sent a presentation to British hospitality…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Boom in weight-loss drugs could lead to drop in beer sales, Heineken warns British pubs",
+          "url": "https://www.theguardian.com/business/2026/oct/23/weight-loss-drugs-beer-sales-heineken-british-pubs-wegovy"
+        },
+        {
+          "nev": "BBC",
+          "cim": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
+          "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Brazil’s election and the battle for the Amazon – podcast",
+      "lead": "Our Latin America correspondent, Tom Phillips, heads to Roraima to hear what’s at stake for the rainforest and the communities that live there in the Brazilian presidential runoff on Sunday. Send your comments and questions to tif.questions@theguardian.com For the Amazon and the communities who live there, the stakes…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Brazil’s election and the battle for the Amazon – podcast",
+          "url": "https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "Ultra-Orthodox conscription debate ignites Israel’s election battleground",
+          "url": "https://www.aljazeera.com/news/2026/10/23/ultra-orthodox-conscription-debate-ignites-israels-election-battleground?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "As Typhoon Champi Nears, Taiwan’s Mayors Bet on a Popular Day Off",
+      "lead": "One expert said the likelihood that a mayor announces closure of work and school because of a typhoon increases 31 percent during an election year.",
+      "forrasok": [
+        {
+          "nev": "New York Times",
+          "cim": "As Typhoon Champi Nears, Taiwan’s Mayors Bet on a Popular Day Off",
+          "url": "https://www.nytimes.com/2026/10/22/world/asia/taiwan-typhoon-champi-mayors.html"
+        },
+        {
+          "nev": "BBC",
+          "cim": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+          "url": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cim": "What will Trump do if he loses in November? Your questions answered – podcast",
+      "lead": "Will Donald Trump accept a ‘blue wave’ if it happens? Have young people turned away from centrist politics for ever? Will the US ever recover its image on the world stage? Jonathan Freedland is joined by the Guardian US columnist Moira Donegan to answer these questions and more Buy your tickets to the Guardian’s…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "What will Trump do if he loses in November? Your questions answered – podcast",
+          "url": "https://www.theguardian.com/politics/audio/2026/oct/23/us-midterm-elections-donald-trump-your-questions-answered-podcast"
+        },
+        {
+          "nev": "BBC",
+          "cim": "Trump ordered to answer questions under oath in BBC lawsuit",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cim": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
+      "lead": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood.",
+      "forrasok": [
+        {
+          "nev": "BBC",
+          "cim": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
+          "url": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "Trump backs Ramaswamy ad featuring rival Amy Acton’s estranged mother",
+          "url": "https://www.aljazeera.com/news/2026/10/23/trump-backs-ramaswamy-ad-featuring-rival-amy-actons-estranged-mother?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "He Was Reporting on Floods in Australia. Then He Jumped to the Rescue.",
+      "lead": "Will Murray of Australia’s public broadcaster spotted a man in a sinking truck, then jumped in the water with a bystander. (Just don’t call him Clark Kent.)",
+      "forrasok": [
+        {
+          "nev": "New York Times",
+          "cim": "He Was Reporting on Floods in Australia. Then He Jumped to the Rescue.",
+          "url": "https://www.nytimes.com/2026/10/22/world/australia/brisbane-flooding-car-rescue-abc-reporter.html"
+        },
+        {
+          "nev": "BBC",
+          "cim": "Moment man rescued from sinking car by Australian TV reporter",
+          "url": "https://www.bbc.co.uk/news/videos/cwdr8zm3r5gko?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
+      "lead": "Similar withdrawals from UAE, Jordan, Qatar and Bahrain reported as concerns grow about restart of war on Iran after US midterm elections The US state department has ordered some diplomats and the families of US government employees to leave Saudi Arabia as the gulf kingdom faces a barrage of near-daily attacks, with…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
+          "url": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks"
+        },
+        {
+          "nev": "New York Times",
+          "cim": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
+          "url": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html"
+        }
+      ]
+    },
+    {
+      "cim": "Hamilton calls for Palestine and DR Congo freedom as Rwanda takes F1 spotlight",
+      "lead": "Rwanda's controversial Formula One GP leads Lewis Hamilton to call for freedom for DR Congo, while renewing Palestine plea.",
+      "forrasok": [
+        {
+          "nev": "Al Jazeera",
+          "cim": "Hamilton calls for Palestine and DR Congo freedom as Rwanda takes F1 spotlight",
+          "url": "https://www.aljazeera.com/sports/2026/10/23/hamilton-calls-for-palestine-sudan-and-congo-freedom-with-f1-in-spotlight?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Israeli military kills two in gun battle in occupied West Bank",
+      "lead": "Israel’s PM is preparing to order a shutdown in the occupied West Bank lockdown after a shooting near Hebron.",
+      "forrasok": [
+        {
+          "nev": "Al Jazeera",
+          "cim": "Israeli military kills two in gun battle in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Where Brazil’s Left Is Losing Voters",
+      "lead": "Far from Rio and São Paulo, small towns like Nanuque, with big agricultural businesses and a surging evangelical Christian movement, are swinging to the right.",
+      "forrasok": [
+        {
+          "nev": "New York Times",
+          "cim": "Where Brazil’s Left Is Losing Voters",
+          "url": "https://www.nytimes.com/video/world/americas/100000011230998/brazil-nanuque-election-shift.html"
+        }
+      ]
+    }
+  ]
+}
