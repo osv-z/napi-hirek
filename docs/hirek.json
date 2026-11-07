@@ -1,271 +1,245 @@
 {
-  "datum": "2026-11-06",
-  "generalva": "2026-11-06T13:17+01:00",
+  "datum": "2026-11-07",
+  "generalva": "2026-11-07T12:12+01:00",
   "hazai": [
     {
-      "cim": "Az ügynökakták miatt nyílt ülést hívott össze hétfő reggelre a Nemzetbiztonsági Bizottság elnöke",
-      "lead": "Egy nappal azután, hogy kiderült, Lezsák Sándor neve informatikai hiba következtében jelent meg a hálózati személyek között.",
+      "cim": "Megsérült a horvát Janaf kőolajvezeték, olaj került a környezetbe",
+      "lead": "Megsérült a horvát Janaf kőolajvezeték egyik szakasza Sziszek (Sisak) és Szlavónbród (Slavonski Brod) között, aminek következtében kőolaj szivárgott ki a vezetékből. A szivárgást megállították, a lakosság és az ivóvízellátás nincs veszélyben - közölte szombaton a vezetéket üzemeltető vállalat.",
       "forrasok": [
         {
-          "nev": "444",
-          "cim": "Az ügynökakták miatt nyílt ülést hívott össze hétfő reggelre a Nemzetbiztonsági Bizottság elnöke",
-          "url": "https://444.hu/2026/11/06/az-ugynokaktak-miatt-nyilt-ulest-hivott-ossze-hetfo-reggelre-a-nemzetbiztonsagi-bizottsag-elnoke?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "Magyar Nemzet",
-          "cim": "Rendkívüli ülést tart a nemzetbiztonsági bizottság a tiszás ügynökbotrány miatt",
-          "url": "https://magyarnemzet.hu/belfold/2026/11/rendkivuli-ulest-tart-a-nemzetbiztonsagi-bizottsag-a-tiszas-ugynokbotrany-miatt-2?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+          "nev": "Portfolio",
+          "cim": "Megsérült a horvát Janaf kőolajvezeték, olaj került a környezetbe",
+          "url": "https://www.portfolio.hu/befektetes/20261107/megserult-a-horvat-janaf-koolajvezetek-olaj-kerult-a-kornyezetbe-874866"
         },
         {
           "nev": "Telex",
-          "cim": "Nyílt ülést hívott össze a Nemzetbiztonsági Bizottság elnöke az ügynökakták miatt hétfő reggelre",
-          "url": "https://telex.hu/ugynokaktak/2026/11/06/jovo-hetre-osszehivtak-a-nemzetbiztonsagi-bizottsag-uleset-az-ugynokaktak-miatt"
-        }
-      ]
-    },
-    {
-      "cim": "Rákay Philip szerint ő csak kreatív producer volt a Petőfi-filmben, de a szerződése alapján ellenőriznie kellett a film költségfelhasználását is",
-      "lead": "A Fidesz-közeli üzletember azt mondta, több producer is dolgozott a filmen, ő a kreatív részért felelt, szétosztották a feladatokat és nem úgy dolgoztak, hogy mindenki bemagolta a szerződését.",
-      "forrasok": [
-        {
-          "nev": "Telex",
-          "cim": "Rákay Philip szerint ő csak kreatív producer volt a Petőfi-filmben, de a szerződése alapján ellenőriznie kellett a film költségfelhasználását is",
-          "url": "https://telex.hu/after/2026/11/06/rakay-philip-petofi-film-most-vagy-soha-producer-szerzodes-penz-allami-tamogatas"
-        },
-        {
-          "nev": "Magyar Nemzet",
-          "cim": "A magyarok hősének elégtétel, hogy sikertelen volt a kapus, aki miatt távoznia kellett",
-          "url": "https://magyarnemzet.hu/sport/2026/11/bartucz-sotonyi-gyori-ligetvari-kezilabda-eb-montenegro?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-        },
-        {
-          "nev": "444",
-          "cim": "Hiába magyarázta Rákay Philip, hogy csak a kreatív producer volt a Petőfi-filmben, a szerződése szerint neki is kellett ellenőriznie a pénz felhasználását",
-          "url": "https://444.hu/2026/11/06/hiaba-magyarazta-rakay-philip-hogy-csak-a-kreativ-producer-volt-a-petofi-filmben-a-szerzodese-szerint-neki-is-kellett-ellenoriznie-a-penz-felhasznalasat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        }
-      ]
-    },
-    {
-      "cim": "Megvan az időpont: Magyar Péter jövő kedden utazik Berlinbe",
-      "lead": "A miniszterelnök Friedrich Merz német kancellárral tárgyal majd – ahogy tette azt júniusban is.",
-      "forrasok": [
-        {
-          "nev": "HVG",
-          "cim": "Megvan az időpont: Magyar Péter jövő kedden utazik Berlinbe",
-          "url": "https://hvg.hu/itthon/20261106_magyar-peter-kormany-nemetorszag-utazas-friedrich-merz-targyalas"
-        },
-        {
-          "nev": "Telex",
-          "cim": "Jövő héten Berlinbe megy Magyar Péter, Merz kancellárral fog tárgyalni",
-          "url": "https://telex.hu/kulfold/2026/11/06/magyar-peter-magyarorszag-nemetorszag-kozos-kormanyules"
+          "cim": "Megsérült a horvát Janaf kőolajvezeték egyik szakasza, olaj került a környezetbe",
+          "url": "https://telex.hu/gazdasag/2026/11/07/megserult-a-horvat-janaf-koolajvezetek-egyik-szakasza-olaj-kerult-a-talajba"
         },
         {
           "nev": "Index",
-          "cim": "Magyar Péter jövő héten Berlinben tárgyal Friedrich Merz német kancellárral",
-          "url": "https://index.hu/belfold/2026/11/06/magyar-peter-nemetorszag-berlin-kormanyules/"
+          "cim": "Megsérült a Molt is ellátó horvát kőolajvezeték, szivárgást jelentettek",
+          "url": "https://index.hu/kulfold/2026/11/07/janaf-koolajvezetek-horvatorszag-serules-szennyezodes/"
         }
       ]
     },
     {
-      "cim": "Véget ért Mészáros Zsófia megbízása a közmédiánál, már nem ő felel az online igazgatóságért",
-      "lead": "A közmédia sajtóosztálya azt írta, hogy a 444.hu korábbi vezető szerkesztője megbízását a vezérigazgatói pályázat kiírásáig vállalta.",
-      "forrasok": [
-        {
-          "nev": "Telex",
-          "cim": "Véget ért Mészáros Zsófia megbízása a közmédiánál, már nem ő felel az online igazgatóságért",
-          "url": "https://telex.hu/after/2026/11/06/kozmedia-online-meszaros-zsofia"
-        },
-        {
-          "nev": "HVG",
-          "cim": "Mészáros Zsófia megbízása véget ért a közmédiánál",
-          "url": "https://hvg.hu/itthon/20261106_kozmedia-online-igazgatosag-atvilagitas-atmeneti-vezetes-meszaros-zsofia-tavozas"
-        },
-        {
-          "nev": "444",
-          "cim": "Már nem dolgozik a közmédiánál Mészáros Zsófia",
-          "url": "https://444.hu/2026/11/06/mar-nem-dolgozik-a-kozmedianal-meszaros-zsofia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        }
-      ]
-    },
-    {
-      "cim": "Utcára vonultak a hallgatók, elegük lett Lannert Judit beváltatlan ígéreteiből",
-      "lead": "A tanárjelöltek szerint a miniszter felelős azért, hogy bizonytalanná vált a tanulmányaik befejezése.",
-      "forrasok": [
-        {
-          "nev": "Magyar Nemzet",
-          "cim": "Utcára vonultak a hallgatók, elegük lett Lannert Judit beváltatlan ígéreteiből",
-          "url": "https://magyarnemzet.hu/belfold/2026/11/betelt-a-pohar-a-diakoknal-utcara-vonultak-a-tanarjeloltek?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-        },
-        {
-          "nev": "Index",
-          "cim": "Utcára vonultak az NKE pedagógus karának hallgatói, Lannert Judit döntése miatt tiltakoztak",
-          "url": "https://index.hu/belfold/2026/11/06/budapest-diaktuntetes-lannert-judit-egxetmi-hallgatok-nke-tanarkepzo-kar/"
-        }
-      ]
-    },
-    {
-      "cim": "Vagyonnyilatkozati eljárást kezdeményezett Németh Balázs Forsthoffer Ágnes ellen",
-      "lead": "A fideszes képviselő szerint egy másik fontos adatot is kihagyott a nyilatkozatból a házelnök, aki egyszer már kiegészítette a júniusi dokumentumot.",
-      "forrasok": [
-        {
-          "nev": "Telex",
-          "cim": "Vagyonnyilatkozati eljárást kezdeményezett Németh Balázs Forsthoffer Ágnes ellen",
-          "url": "https://telex.hu/belfold/2026/11/06/nemeth-balazs-vagyonnyilatkozati-eljaras-forsthoffer-agnes"
-        },
-        {
-          "nev": "444",
-          "cim": "Németh Balázs egy újabb vagyonnyilatkozati eljárást kezdeményezett Forsthofferrel szemben",
-          "url": "https://444.hu/2026/11/06/nemeth-balazs-egy-ujabb-vagyonnyilatkozati-eljarast-kezdemenyezett-forsthofferrel-szemben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        }
-      ]
-    },
-    {
-      "cim": "Megvannak a 2027-es hivatalos autópályamatrica-árak",
-      "lead": "Az autópályázás jövőre sem lesz olcsóbb, de akad egy matrica, amelynek az ára nem változik.",
+      "cim": "Magyar Péter felmentette Rétvári Bencét a szegénység visszaszorítását célzó operatív program bizottságának éléről",
+      "lead": "Péntek estig a KDNP-s politikus állt az Emberi Erőforrás Fejlesztési Operatív Programot ellenőrző bizottság élén.",
       "forrasok": [
         {
           "nev": "HVG",
-          "cim": "Megvannak a 2027-es hivatalos autópályamatrica-árak",
-          "url": "https://hvg.hu/cegauto/20261106_autopalyamatrica-ar-2027-dragulas-emelkedes"
-        },
-        {
-          "nev": "Index",
-          "cim": "Drágul az autópályázás, kiderült, mennyit kell fizetni a matricákért 2027-ben",
-          "url": "https://index.hu/gazdasag/2026/11/06/autopalya-matrica-arak-2027-aremelkedes-szemelyauto/"
-        }
-      ]
-    },
-    {
-      "cim": "Sváby Andrással fog Korda György pókert közvetíteni",
-      "lead": "Sváby szerint olyan Kordával együtt dolgozni, mintha Puskás Öcsi mellett kellene először labdába rúgnia.",
-      "forrasok": [
-        {
-          "nev": "HVG",
-          "cim": "Sváby Andrással fog Korda György pókert közvetíteni",
-          "url": "https://hvg.hu/elet/20261106_svaby-andras-korda-gyorgy-poker-kozvetites"
-        },
-        {
-          "nev": "Telex",
-          "cim": "Korda Györggyel térnek vissza a pókerközvetítések a Sport TV-n",
-          "url": "https://telex.hu/after/2026/11/06/korda-gyorgy-es-svaby-andras-lesznek-a-sport-tv-pokerkozvetiteseinek-kommentatorai"
-        }
-      ]
-    },
-    {
-      "cim": "Ketten meghaltak, tizenhatan megsérültek egy franciaországi buszbalesetben",
-      "lead": "Egy kiskorú és egy fiatal felnőtt vesztette életét a balesetben. A buszon 15 kiskorú utazott.",
-      "forrasok": [
-        {
-          "nev": "Telex",
-          "cim": "Ketten meghaltak, tizenhatan megsérültek egy franciaországi buszbalesetben",
-          "url": "https://telex.hu/kulfold/2026/11/06/buszbaleset-franciaorszag-aldozatok"
-        },
-        {
-          "nev": "HVG",
-          "cim": "Súlyos buszbaleset történt Franciaországban, ketten meghaltak",
-          "url": "https://hvg.hu/vilag/20261106_franciaorszag-buszbaleset"
-        }
-      ]
-    },
-    {
-      "cim": "Péntek reggel megdőlt a szezon hidegrekordja",
-      "lead": "A Nógrád megyei Zabarban volt a legfagyosabb a reggel.",
-      "forrasok": [
-        {
-          "nev": "Index",
-          "cim": "Péntek reggel megdőlt a szezon hidegrekordja",
-          "url": "https://index.hu/belfold/2026/11/06/hungaromet-hidegrekord-zabar-nyirtass-lenarddaroc/"
-        },
-        {
-          "nev": "Telex",
-          "cim": "Megdőlt a hidegrekord, szinte az egész ország lefagyott",
-          "url": "https://telex.hu/belfold/2026/11/06/szinte-mindenhol-reggeli-fagy-volt-az-orszagban"
-        }
-      ]
-    },
-    {
-      "cim": "Orbán Balázs is megdicsérte a Milánó főterén karlendítő Fradi-tábort",
-      "lead": "„A Ferencváros magyar ultrái büszkén és méltósággal érkeztek az olasz városba, hogy támogassák csapatukat és emlékeztessék Európát arra, hogy van mit megvédenünk. Igazi hazafiak!\" - értékelt Orbán Balázs.",
-      "forrasok": [
-        {
-          "nev": "444",
-          "cim": "Orbán Balázs is megdicsérte a Milánó főterén karlendítő Fradi-tábort",
-          "url": "https://444.hu/2026/11/06/orban-balazs-is-megdicserte-a-milano-foteren-karlendito-fradi-tabort?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "HVG",
-          "cim": "Orbán Balázs a Mussolinit éltető fradistákról: Igazi hazafiak!",
-          "url": "https://hvg.hu/elet/20261106_orban-balazs-mussolini-fradi"
-        }
-      ]
-    },
-    {
-      "cim": "Pócs János fellebbez a parlamenti kitiltása ellen",
-      "lead": "Szerinte Magyar Péter például minden egyes ellenzéki felszólalást megzavar a bekiabálásaival, mégsem kapott még büntetést.",
-      "forrasok": [
-        {
-          "nev": "444",
-          "cim": "Pócs János fellebbez a parlamenti kitiltása ellen",
-          "url": "https://444.hu/2026/11/06/pocs-janos-fellebbez-a-parlamenti-kitiltasa-ellen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "cim": "Magyar Péter felmentette Rétvári Bencét a szegénység visszaszorítását célzó operatív program bizottságának éléről",
+          "url": "https://hvg.hu/gazdasag/20261107_retvari-bence-felmentes-operativ-program-monitoring-bizottsag-szegenyseg"
         },
         {
           "nev": "Magyar Nemzet",
-          "cim": "Pócs János a kitiltásról: Ki van adva a parancs, ki kell lőni",
-          "url": "https://magyarnemzet.hu/belfold/2026/11/pocs-janos-kitiltas-parancs-ki-kell-loni?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+          "cim": "Magyar Péter két uniós tisztségből is felmentette Rétvári Bencét",
+          "url": "https://magyarnemzet.hu/belfold/2026/11/magyar-peter-retvari-bence-miniszterelnok-frakciovezeto?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        },
+        {
+          "nev": "Index",
+          "cim": "Magyar Péter két tisztségéből is felmentette Rétvári Bencét",
+          "url": "https://index.hu/belfold/2026/11/07/magyar-peter-retvari-bence-felmentes-elnok-tisztseg-kdnp-kokayne-lanyi-marietta/"
+        }
+      ]
+    },
+    {
+      "cim": "Feljelentést tett Kátai-Németh Vilmos az Erzsébet-táborok reklámozása miatt",
+      "lead": "A választás előtti egy hónapban több mint 1 milliárd ment a program népszerűsítésére.",
+      "forrasok": [
+        {
+          "nev": "Index",
+          "cim": "Feljelentést tett Kátai-Németh Vilmos az Erzsébet-táborok reklámozása miatt",
+          "url": "https://index.hu/belfold/2026/11/07/erzsebet-tabor-katai-nemeth-vilmos-feljelentes-reklam-hutlen-kezeles/"
+        },
+        {
+          "nev": "Telex",
+          "cim": "Feljelentés tesz az Erzsébet-táborok egymillárdos reklámozása miatt a családügyi miniszter",
+          "url": "https://telex.hu/belfold/2026/11/07/feljelentes-katai-nemeth-vilmos-erzsebet-taborok-reklamozas-egymilliard-forint-koncz-zsofia"
+        }
+      ]
+    },
+    {
+      "cim": "Török Gábor: Az Orbán-korszak nem volt diktatúra, 2026-ban nem történt sem forradalom, sem rendszerváltás",
+      "lead": "A politikai elemző szerint kormány- és rezsimváltás történt, amivel az 1990-ben létrehozott politikai rendszerben egy új fejezet kezdődött.",
+      "forrasok": [
+        {
+          "nev": "Telex",
+          "cim": "Török Gábor: Az Orbán-korszak nem volt diktatúra, 2026-ban nem történt sem forradalom, sem rendszerváltás",
+          "url": "https://telex.hu/belfold/2026/11/07/torok-gabor-az-orban-korszak-nem-volt-diktatura-2026-ban-nem-tortent-sem-forradalom-sem-rendszervaltas"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Török Gábor: Az Orbán-korszak nem volt diktatúra",
+          "url": "https://hvg.hu/itthon/20261107_torok-gabor-orban-korszak-demokracia-diktatura-rendszervaltas-forradalom"
+        }
+      ]
+    },
+    {
+      "cim": "Szombaton is megdőlt a hidegrekord, Zabaron mínusz 9,3 fokot mértek",
+      "lead": "Az ország nagy részén fagyott hajnalban.",
+      "forrasok": [
+        {
+          "nev": "Telex",
+          "cim": "Szombaton is megdőlt a hidegrekord, Zabaron mínusz 9,3 fokot mértek",
+          "url": "https://telex.hu/belfold/2026/11/07/szombat-reggel-is-megdolt-a-hidegrekord"
+        },
+        {
+          "nev": "Index",
+          "cim": "Szombaton is megdőlt a hidegrekord, de a vasárnap még erre is rátehet egy lapáttal",
+          "url": "https://index.hu/belfold/2026/11/07/idojaras-meteorologia-elorejelzes-hungaromet-hidegrekord-fagy-zabar/"
+        }
+      ]
+    },
+    {
+      "cim": "Ókovács helyettesét is kirúgták az Operaházból",
+      "lead": "Főző Virág elbocsátására a volt főizgazgató úgy reagált: „kinyírásával nagyot vágott maga alatt a fán a null kilométeres, egyszemélyes új vezetés”.",
+      "forrasok": [
+        {
+          "nev": "HVG",
+          "cim": "Ókovács helyettesét is kirúgták az Operaházból",
+          "url": "https://hvg.hu/kultura/20261107_ujabb-kirugas-az-operahaz-elerol-fozo-virag-okovacs-szilveszter"
+        },
+        {
+          "nev": "444",
+          "cim": "Ókovács Szilveszter helyettesét is kirúgták az Operából",
+          "url": "https://444.hu/2026/11/06/okovacs-szilveszter-helyetteset-is-kirugtak-az-operabol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        }
+      ]
+    },
+    {
+      "cim": "Hét-nyolc milliós fizetés mellé autó, sofőr, business class és akár szolgálati lakás is járt a HUN-REN vezetőinek",
+      "lead": "A Telex közadatigényléssel kikérte a kutatói hálózat októberben távozott vezérigazgatójának és elnökének szerződéseit. Kiderült, hogy Jakab Roland lényegesen jobban keresett, mint Gulyás Balázs, extra juttatások és minimum négycsillagos szálloda viszont mindkettőjüknek járt. Háromhavi végkielégítéssel távoztak a…",
+      "forrasok": [
+        {
+          "nev": "Telex",
+          "cim": "Hét-nyolc milliós fizetés mellé autó, sofőr, business class és akár szolgálati lakás is járt a HUN-REN vezetőinek",
+          "url": "https://telex.hu/techtud/2026/11/07/hun-ren-magyar-kutatasi-halozat-gulyas-balazs-jakab-roland-fizetes-juttatasok-munkaviszony-megszunese"
+        },
+        {
+          "nev": "Index",
+          "cim": "Sofőr, szolgálati autó és luxusszálloda is járt a HUN-REN korábbi, milliós fizetésű vezetőinek",
+          "url": "https://index.hu/belfold/2026/11/07/gulyas-balazs-hun-ren-fizetes/"
+        }
+      ]
+    },
+    {
+      "cim": "Őrizetbe vettek egy férfit a Fehér Ház környékén, aki Trummpal akart végezni",
+      "lead": "A venezuelai állampolgárt a fejében lévő hangok utasították a merényletre – közölte az amerikai belügy.",
+      "forrasok": [
+        {
+          "nev": "HVG",
+          "cim": "Őrizetbe vettek egy férfit a Fehér Ház környékén, aki Trummpal akart végezni",
+          "url": "https://hvg.hu/vilag/20261107_feher-haz-venezuelai-ferfi-trump"
+        },
+        {
+          "nev": "444",
+          "cim": "Őrizetbe vettek egy férfit a Fehér Ház környékén, aki Trumpot akarta megölni",
+          "url": "https://444.hu/2026/11/07/orizetbe-vettek-egy-ferfit-a-feher-haz-kornyeken-aki-trumpot-akarta-megolni?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        }
+      ]
+    },
+    {
+      "cim": "Három helyettes államtitkár is távozik a Szociális és Családügyi Minisztériumból",
+      "lead": "A Vidék- és Településfejlesztési Minisztériumnál is történtek személyi változások.",
+      "forrasok": [
+        {
+          "nev": "Telex",
+          "cim": "Három helyettes államtitkár is távozik a Szociális és Családügyi Minisztériumból",
+          "url": "https://telex.hu/belfold/2026/11/06/szocialis-es-csaladugyi-miniszterium-videk-es-telepulesfejlesztesi-miniszterium-allamtitkar"
+        },
+        {
+          "nev": "444",
+          "cim": "Három helyettes-államtitkár is távozik a szociális minisztériumból, a településfejlesztésiből pedig ketten lépnek le",
+          "url": "https://444.hu/2026/11/07/harom-helyettes-allamtitkar-is-tavozik-a-szocialis-miniszteriumbol-a-telepulesfejlesztesibol-pedig-ketten-lepnek-le?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        }
+      ]
+    },
+    {
+      "cim": "Az éves sztrádamatrica 62 560 forintra, a tíznapos 6990 forintra drágul, az éves megyei matrica 7280 forint lesz",
+      "lead": "Az M1-es autópályára 2027-ben is lehet venni kedvezményes, négy megyére érvényes matricát, a Borsod megyei kedvezmény viszont megszűnik.",
+      "forrasok": [
+        {
+          "nev": "444",
+          "cim": "Az éves sztrádamatrica 62 560 forintra, a tíznapos 6990 forintra drágul, az éves megyei matrica 7280 forint lesz",
+          "url": "https://444.hu/2026/11/06/az-eves-sztradamatrica-62-560-forintra-a-tiznapos-6990-forintra-dragul-az-eves-megyei-matrica-7280-forint-lesz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "Telex",
+          "cim": "Drágulnak az autópálya-matricák és a pótdíjak is",
+          "url": "https://telex.hu/gazdasag/2026/11/06/magyar-kozut-autopalya-matrica-dij"
+        }
+      ]
+    },
+    {
+      "cim": "A bajor Ilse Aigner személyében női államfője lehet Németországnak, először a történelem során",
+      "lead": "A 61 éves CSU-politikus most a bajorországi parlament elnöke, a legkomolyabb politikai erényének azt tartják, ahogy a szélsőjobbos AfD-vel bánik a tartományi törvényhozásban.",
+      "forrasok": [
+        {
+          "nev": "444",
+          "cim": "A bajor Ilse Aigner személyében női államfője lehet Németországnak, először a történelem során",
+          "url": "https://444.hu/2026/11/06/a-bajor-ilse-aigner-szemelyeben-noi-allamfoje-lehet-nemetorszagnak-eloszor-a-tortenelem-soran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "Telex",
+          "cim": "Először lehet női államfője Németországnak",
+          "url": "https://telex.hu/kulfold/2026/11/06/ilse-aigner-nemetorszag-elnok-allamfo-cdu-csu-megallapodas-merz"
+        }
+      ]
+    },
+    {
+      "cim": "Hamarosan okos drónokkal őrzi a MÁV az üzemi területeket",
+      "lead": "Az elmúlt években több halálos áramütés lett abból, hogy felmásztak a vagonok tetejére, a magyar fejlesztésű AI eszközzel ezt akadályoznák meg.",
+      "forrasok": [
+        {
+          "nev": "HVG",
+          "cim": "Hamarosan okos drónokkal őrzi a MÁV az üzemi területeket",
+          "url": "https://hvg.hu/gazdasag/20261107_mav-vasuti-uzemi-teruletek-okos-dron-orzes"
         }
       ]
     }
   ],
   "nemzetkozi": [
     {
-      "cim": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – as it happened",
-      "lead": "EU transport commissioner says ‘too early’ to say if bomb threats to 20 flights are linked Tell us: have you been affected by the bomb threats? And the Italian news agency Ansa reported that two more planes with links to Italy were affected by bomb threats this morning: that’s a WizzAir service from Milan Malpensa to…",
+      "cim": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+      "lead": "Santiago Peña was detained minutes after he was impeached by Congress, as protesters took to the streets demanding answers after the suspension of the Ueno bank Paraguay’s rightwing president has been placed under house arrest minutes after he was impeached by Congress, amid a severe crisis that left more than half…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – as it happened",
-          "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates"
+          "cim": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+          "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts"
         },
         {
           "nev": "New York Times",
-          "cim": "Bomb Threats Disrupt European Flights and Rattle Passengers",
-          "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html"
+          "cim": "Paraguay’s President Removed and Arrested Over Financial Crisis",
+          "url": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html"
         },
         {
           "nev": "BBC",
-          "cim": "Hoax bomb threats target European airlines and airports for second time in a week",
-          "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss"
+          "cim": "Paraguay's president impeached and under house arrest after bank collapse",
+          "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "Paraguay’s Pena under military protection in bank collapse chaos",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_paraguays-pena-under-house-arrest-061126?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
-      "lead": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse Paraguay’s rightwing president, Santiago Peña, resigned on Thursday after a political and financial crisis collapsed the South American country’s banking system in recent days. At the centre of the crisis…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
-          "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns"
-        },
-        {
-          "nev": "New York Times",
-          "cim": "Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal",
-          "url": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html"
-        },
-        {
-          "nev": "BBC",
-          "cim": "Paraguay President Santiago Peña resigns after bank collapse",
-          "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Kenya cult leader Paul Mackenzie sentenced to 200 years",
-      "lead": "A court in Kenya has sentenced Paul Mackenzie to 200 years in prison for the murders of 190 children and an adult. He told them to starve themselves to death as part of his apocalyptic religious cult.",
+      "cim": "Tanzania: Opposition leader Tundu Lissu jailed for four years",
+      "lead": "Tanzanian opposition leader Tundu Lissu has been sentenced to four years in prison after being cleared of treason. Lissu condemned his conviction for incitement, which had not been among the charges he faced.",
       "forrasok": [
         {
           "nev": "Deutsche Welle",
-          "cim": "Kenya cult leader Paul Mackenzie sentenced to 200 years",
-          "url": "https://www.dw.com/en/kenya-cult-leader-paul-mackenzie-sentenced-to-200-years/a-79875112?maca=en-rss-en-world-4025-rdf"
+          "cim": "Tanzania: Opposition leader Tundu Lissu jailed for four years",
+          "url": "https://www.dw.com/en/tanzania-opposition-leader-tundu-lissu-jailed-for-four-years/a-79875248?maca=en-rss-en-world-4025-rdf"
+        },
+        {
+          "nev": "New York Times",
+          "cim": "Kenya Cult Leader Handed 200 Year Prison Sentence for Mass Murder",
+          "url": "https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html"
         },
         {
           "nev": "BBC",
@@ -275,45 +249,45 @@
       ]
     },
     {
-      "cim": "Global stocks plunge amid AI slowdown fears after Democrats’ midterm triumph",
-      "lead": "Asian and European markets follow Wall Street with sharp fall as FTSE down 1.9% Business live – latest updates European stock markets have fallen sharply as a rout in US tech stocks spread across the Atlantic, after the Democrats’ midterms victory sparked fears of a slowdown in the AI industry. A sell-off on Wall…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Global stocks plunge amid AI slowdown fears after Democrats’ midterm triumph",
-          "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "Global tech stocks plunge over fears of AI curbs in US",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/global-tech-stocks-plunge-over-fears-of-ai-curbs-in-us?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-      "lead": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
-      "forrasok": [
-        {
-          "nev": "BBC",
-          "cim": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-          "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "Tanzania court jails opposition leader for incitement, lifts treason charge",
-          "url": "https://www.aljazeera.com/news/2026/11/6/tanzania-court-jails-opposition-leader-for-incitement-lifts-treason-charge?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Canadian Officials Search for Bears After Mother and Daughter Are Killed on Hike",
-      "lead": "Wildlife officers were working to trap grizzly bears along a trail after the remains of the two hikers were found near a remote community in British Columbia this week.",
+      "cim": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
+      "lead": "A cyberattack on supermarket fridges, bomb threats to planes and software vulnerabilities have Europe on edge as government officials encourage resilience and stockpiling.",
       "forrasok": [
         {
           "nev": "New York Times",
-          "cim": "Canadian Officials Search for Bears After Mother and Daughter Are Killed on Hike",
-          "url": "https://www.nytimes.com/2026/11/05/world/canada/canada-grizzly-bear-attack-mother-daughter-killed.html"
+          "cim": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
+          "url": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html"
+        },
+        {
+          "nev": "BBC",
+          "cim": "New wave of bomb threats hit European airlines",
+          "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Amid protests, France's rising debt costs threaten stability",
+      "lead": "France plans to spend an extra €4 billion on education amid nationwide protests. But with public debt mounting and interest costs climbing, how much fiscal room does the government have?",
+      "forrasok": [
+        {
+          "nev": "Deutsche Welle",
+          "cim": "Amid protests, France's rising debt costs threaten stability",
+          "url": "https://www.dw.com/en/amid-protests-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-world-4025-rdf"
+        },
+        {
+          "nev": "New York Times",
+          "cim": "Why Are There Protests in France?",
+          "url": "https://www.nytimes.com/article/france-student-protests-why.html"
+        }
+      ]
+    },
+    {
+      "cim": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
+      "lead": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’ The Home Office is being sued for alleged breach of the Brexit withdrawal agreement after stripping almost 1,500 EU citizens of their full rights to live in the UK. Campaign group the3million lodged papers at the…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
+          "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled"
         },
         {
           "nev": "BBC",
@@ -323,88 +297,99 @@
       ]
     },
     {
-      "cim": "How Melania Trump Became a Dark-Horse Diplomat on Ukraine",
-      "lead": "Both Moscow and Kyiv say Mrs. Trump’s team was the driving force behind an evacuation of a besieged city. It was also in their interest to deliver her a humanitarian win.",
+      "cim": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
+      "lead": "Pope Leo XIV’s tour of Uruguay, Argentina and Peru is his first major trip since an operation on his lung last month.",
       "forrasok": [
         {
           "nev": "New York Times",
-          "cim": "How Melania Trump Became a Dark-Horse Diplomat on Ukraine",
-          "url": "https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html"
+          "cim": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
+          "url": "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html"
         },
         {
           "nev": "BBC",
-          "cim": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-          "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss"
+          "cim": "Pope in 'pretty good health' as he starts Latin America tour",
+          "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "cim": "Americans voted against Trump's Iran war. Gulf countries hope that means an end to the conflict",
-      "lead": "The US midterm results showed how unpopular Donald Trump's Iran war is. Now, Gulf countries, trapped for months in the middle of the war between the US and Iran, see reason for optimism.",
-      "forrasok": [
-        {
-          "nev": "Deutsche Welle",
-          "cim": "Americans voted against Trump's Iran war. Gulf countries hope that means an end to the conflict",
-          "url": "https://www.dw.com/en/americans-voted-against-trump-s-iran-war-gulf-countries-hope-that-means-an-end-to-the-conflict/a-79868398?maca=en-rss-en-world-4025-rdf"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "Can America ever return to pre-Trump politics?",
-          "url": "https://www.aljazeera.com/opinions/2026/11/6/can-america-ever-return-to-pre-trump-politics?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Israel’s Herzog yet to decide on who should form government as Eisenkot secures significant backing",
-      "lead": "President says he will make a decision on Sunday about who should try to build a government as Netanyahu rival is endorsed by 67 lawmakers Gadi Eisenkot, the main rival to Benjamin Netanyahu, secured endorsements on Thursday from a majority of lawmakers to try to form a government but Israel’s president, Isaac Herzog…",
+      "cim": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
+      "lead": "Asian and European markets follow US tech rout with many analysts predicting more waves of selling to come European and Asian stock markets fell sharply on Friday after the Democrats’ decisive victory in the midterms triggered a rout in US tech stocks a day earlier. A sell-off on Wall Street on Thursday was followed…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "Israel’s Herzog yet to decide on who should form government as Eisenkot secures significant backing",
-          "url": "https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision"
+          "cim": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
+          "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph"
         },
         {
           "nev": "Al Jazeera",
-          "cim": "Israel’s President Herzog to name candidate to form government on Sunday",
-          "url": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday?traffic_source=rss"
+          "cim": "How the Iran war helped Democrats win the midterms",
+          "url": "https://www.aljazeera.com/opinions/2026/11/7/how-the-iran-war-helped-democrats-win-the-midterms?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "Pope Leo’s Trip to Latin America: What to Know",
-      "lead": "Less than a month after lung surgery, Pope Leo XIV is landing in Uruguay on Friday, the first stop of a 12-day voyage across South America.",
+      "cim": "Bomb threats against European flights ‘likely a coordinated campaign of disruption’, Ireland says – as it happened",
+      "lead": "This blog is now closed, you can read more on this story here A Romanian airline Tarom flight from Prague to Bucharest is the latest believed to be affected by today’s bomb threats. The aircraft, operating flight number ROT226M, sent a squawk code of 7700 – general emergency – before landing safely in Bucharest. The…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Bomb threats against European flights ‘likely a coordinated campaign of disruption’, Ireland says – as it happened",
+          "url": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live"
+        },
+        {
+          "nev": "New York Times",
+          "cim": "Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says",
+          "url": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html"
+        }
+      ]
+    },
+    {
+      "cim": "Further bomb threats disrupt at least another 18 flights across Europe",
+      "lead": "Media organisations in Ireland and UK also affected as apparently coordinated effort to cause chaos continues A fresh wave of bomb threats disrupted air traffic across Europe on Friday but the affected aircraft landed safely and searches revealed no explosive devices. The latest alerts affected at least 18 flights to…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Further bomb threats disrupt at least another 18 flights across Europe",
+          "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe"
+        },
+        {
+          "nev": "New York Times",
+          "cim": "What to Know About the Bomb Threats Disrupting Flights in Europe",
+          "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html"
+        }
+      ]
+    },
+    {
+      "cim": "America’s Rebuke of Trump Won’t Swiftly Restore Canada-U.S. Harmony",
+      "lead": "While U.S. voters largely oppose the trade war with Canada, many Democrats and their supporters have protectionist leanings.",
       "forrasok": [
         {
           "nev": "New York Times",
-          "cim": "Pope Leo’s Trip to Latin America: What to Know",
-          "url": "https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html"
-        },
-        {
-          "nev": "BBC",
-          "cim": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-          "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss"
+          "cim": "America’s Rebuke of Trump Won’t Swiftly Restore Canada-U.S. Harmony",
+          "url": "https://www.nytimes.com/2026/11/07/world/canada/carney-trump-canada-us-relations-midterm-elections.html"
         }
       ]
     },
     {
-      "cim": "UK government to extend controversial Palantir NHS contract as it draws up plan for British alternative – UK politics live",
-      "lead": "Health secretary Yvette Cooper has faced calls to axe US tech firm’s contract to deliver the flagship government AI system, report says The EU is seeking a firmer pledge from the British government to guarantee European students discounted rates on university tuition fees before a much-anticipated summit this month…",
+      "cim": "New Zealand election 2026 live results: National and Labour neck-and-neck as minor party eyes kingmaker role",
+      "lead": "Polls show no coalition is expected to secure a majority of seats, in one of the closest elections in recent history New Zealand heads for election cliffhanger with minor party cast as kingmaker In New Zealand’s bellwether seat, what are locals thinking as a knife-edge poll looms? Another update here with 8% of the…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "UK government to extend controversial Palantir NHS contract as it draws up plan for British alternative – UK politics live",
-          "url": "https://www.theguardian.com/politics/live/2026/nov/06/burnham-force-employers-publish-salaries-job-ads-labour-chagos-islands-shabana-mahmood-eu-universities-brexit-kemi-badenoch-tories-uk-politics-latest-news"
+          "cim": "New Zealand election 2026 live results: National and Labour neck-and-neck as minor party eyes kingmaker role",
+          "url": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls"
         }
       ]
     },
     {
-      "cim": "Weeks before rape conviction, Russell Brand was featured speaker for Maha group allied with RFK Jr",
-      "lead": "Brand has been supported by Tony Lyons, who runs Maha Action, and has appeared on stage with Mehmet Oz Weeks before Russell Brand ’s conviction for rape and sexual assault by a court in the UK, he appeared as a featured speaker on a video call for Maha Action, an American group closely allied with the US health…",
+      "cim": "Sudan war and climate change see parents struggle to feed their children",
+      "lead": "War, poverty and climate change are all affecting Sudanese, with increasing cases of child malnutrition.",
       "forrasok": [
         {
-          "nev": "The Guardian",
-          "cim": "Weeks before rape conviction, Russell Brand was featured speaker for Maha group allied with RFK Jr",
-          "url": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-russell-brand-maha-rfk-jr-mehmet-oz"
+          "nev": "Al Jazeera",
+          "cim": "Sudan war and climate change see parents struggle to feed their children",
+          "url": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss"
         }
       ]
     }
