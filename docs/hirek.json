@@ -1,410 +1,435 @@
 {
-  "datum": "2026-11-08",
-  "generalva": "2026-11-08T12:24+01:00",
+  "datum": "2026-11-09",
+  "generalva": "2026-11-09T14:05+01:00",
   "hazai": [
     {
-      "cim": "Magyar Péter bejelentette: 57 milliárd forintos programot indít a kormány országfásításra és települészöldítésre",
-      "lead": "Több mint 57 milliárd forintos keretösszeggel indít négyéves, átfogó országfásítási és települészöldítési programot a kormány a klímaváltozás hatásainak mérséklése érdekében – jelentette be Magyar Péter miniszterelnök egy Facebook-videóban .",
+      "cim": "Halálos baleset miatt leállt a kazincbarcikai gázüzem működése",
+      "lead": "A cég szerint a helyzet nem jelent további kockázatot sem a dolgozókra, sem a közelben élőkre, sem a környezetre.",
+      "forrasok": [
+        {
+          "nev": "Magyar Nemzet",
+          "cim": "Halálos baleset miatt leállt a kazincbarcikai gázüzem működése",
+          "url": "https://magyarnemzet.hu/gazdasag/2026/11/baleset-linde-gaz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        },
+        {
+          "nev": "444",
+          "cim": "Halálos tragédia történt egy gázüzemben Kazincbarcikán",
+          "url": "https://444.hu/2026/11/09/halalos-tragedia-tortent-egy-gazuzemben-kazincbarcikan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "Telex",
+          "cim": "Halálos baleset történt egy kazincbarcikai gázüzemben",
+          "url": "https://telex.hu/belfold/2026/11/09/halalos-baleset-tortent-kazincbarcikai-gazuzemben"
+        },
+        {
+          "nev": "Index",
+          "cim": "Halálos munkahelyi baleset történt a Linde kazincbarcikai telephelyén",
+          "url": "https://index.hu/belfold/2026/11/09/kazincbarcika-linde-gaz-rtl-hirado-baleset/"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Tragédia a gázüzemben: meghalt egy dolgozó Kazincbarcikán",
+          "url": "https://hvg.hu/kkv/20261109_tragedia-a-gazuzemben-egy-dolgozo-meghalt-kazincbarcikan"
+        }
+      ]
+    },
+    {
+      "cim": "Tisza-kormány: őrizetben Orbán Viktor öccse, Berlinbe utazik Magyar Péter",
+      "lead": "Hétfőn ismét plenáris ülést tart az Országgyűlés, az ülést napirend előtti felszólalásával szokás szerint a miniszterelnök nyitja meg. Napirenden lesz többek között a jövő évi adótörvények általános vitája. Magyar Péter ezt követően kedden Berlinbe utazik hivatalos látogatásra, szerdán pedig kormányülés lesz.",
       "forrasok": [
         {
           "nev": "Portfolio",
-          "cim": "Magyar Péter bejelentette: 57 milliárd forintos programot indít a kormány országfásításra és települészöldítésre",
-          "url": "https://www.portfolio.hu/gazdasag/20261108/magyar-peter-bejelentette-57-milliard-forintos-programot-indit-a-kormany-orszagfasitasra-es-telepuleszolditesre-874962"
-        },
-        {
-          "nev": "Telex",
-          "cim": "Magyar Péter 57 milliárd forintos országfásítási és települészöldítési programot jelentett be",
-          "url": "https://telex.hu/techtud/2026/11/08/orszagos-fasitasi-es-telepules-zolditesi-programot-hirdet-a-kormany"
+          "cim": "Tisza-kormány: őrizetben Orbán Viktor öccse, Berlinbe utazik Magyar Péter",
+          "url": "https://www.portfolio.hu/gazdasag/20261109/tisza-kormany-orizetben-orban-viktor-occse-berlinbe-utazik-magyar-peter-875036"
         },
         {
           "nev": "444",
-          "cim": "Magyar Péter: 57 milliárd forintos országfásítási és települészöldítései program indul",
-          "url": "https://444.hu/2026/11/08/magyar-peter-57-milliard-forintos-orszagfasitasi-es-telepuleszolditesei-program-indul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "cim": "Kontroll: Orbán Viktor öccsét is utolérhette a Tisztítótűz művelet",
+          "url": "https://444.hu/2026/11/09/kontroll-orban-viktor-occset-is-utolerhette-a-tisztitotuz-muvelet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         },
         {
           "nev": "Index",
-          "cim": "Magyar Péter csaknem 60 milliárd forintos beruházást jelentett be",
-          "url": "https://index.hu/belfold/2026/11/08/zoldpolitika-magyar-peter-fasitas-zoldterulet/"
+          "cim": "Tarjányi Péter: Orbán Viktor elveszítette a politikai kezdeményezést",
+          "url": "https://index.hu/belfold/2026/11/09/tarjanyi-peter-biztonsagpolitika-szakerto-orban-viktor-fidesz-tisza-part-median-kozvelemeny-kutatas/"
         }
       ]
     },
     {
-      "cim": "A rendőrség megerősítette, hogy a krakkói lövöldöző szüleit és testvérét találták holtan az otthonában",
-      "lead": "Az elsődleges vizsgálatok szerint a krakkói merénylet feltételezett elkövetője, Michał Oksiński agyonlőhette a saját családtagjait. A 24 éves férfi sportlövészettel foglalkozhatott, két saját lőfegyvere is lehetett, apja pedig 11 legálisan tartott fegyverrel rendelkezett. Közben egyre több részlet derül ki a férfi…",
+      "cim": "Magyar Péternek címzett nyílt levélben sürgetik a zöld civilek, lépjen végre a kormány klímatörvény-ügyben",
+      "lead": "A levél aláírói attól tartanak, hogy az év végéig nem marad elég idő a tervezet érdemi megvitatására és parlamenti elfogadására, „pedig az éghajlatváltozás nem vár a törvényalkotásra.”",
       "forrasok": [
         {
           "nev": "Telex",
-          "cim": "A rendőrség megerősítette, hogy a krakkói lövöldöző szüleit és testvérét találták holtan az otthonában",
-          "url": "https://telex.hu/kulfold/2026/11/08/azonosit-krakko-merenylo-sportlovesz-lofegyver"
-        },
-        {
-          "nev": "Index",
-          "cim": "Megrázó részletek a krakkói lövöldözés elkövetőjéről, akinek a lakásában megtalálták a szülei és testvére holttestét",
-          "url": "https://index.hu/kulfold/2026/11/08/lengyelorszag-lovoldozes-merenylet-merenylo-tamado/"
+          "cim": "Magyar Péternek címzett nyílt levélben sürgetik a zöld civilek, lépjen végre a kormány klímatörvény-ügyben",
+          "url": "https://telex.hu/techtud/2026/11/09/klimatorveny-nyilt-level-zold-civil-szervezetek-magyar-peter"
         },
         {
           "nev": "HVG",
-          "cim": "Három holttestet találtak a krakkói merénylő otthonában",
-          "url": "https://hvg.hu/vilag/20261107_harom-holttest-krakko-lengyelorszag-lovoldozes-tamadas-merenylo-otthon-ebx"
+          "cim": "Nyílt levelet írtak Magyar Péternek környezetvédelmi civil szervezetek a klímatörvény miatt",
+          "url": "https://hvg.hu/zhvg/20261109_kornyezetvedelmi-civil-szervezetek-klimatorveny-nyilt-level-magyar-peter"
         },
         {
-          "nev": "444",
-          "cim": "Három holttestet találtak a krakkói merénylő otthonában",
-          "url": "https://444.hu/2026/11/08/harom-holttestet-talaltak-a-krakkoi-merenylo-otthonaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "nev": "Index",
+          "cim": "Több mint kétszáz szervezet figyelmeztette Magyar Pétert nyílt levélben a klímatörvény miatt",
+          "url": "https://index.hu/belfold/2026/11/09/nyilt-level-figyelmeztetes-klimatorveny-magyar-peter/"
         }
       ]
     },
     {
-      "cim": "A kormány ellen tüntettek, kivégezték őket Iránban",
-      "lead": "Iránban kivégeztek három férfit, akiket bűnösnek találtak abban, hogy Izrael és az Egyesült Államok érdekében cselekedtek a januári széles körű kormányellenes tüntetések során – jelentette be az iráni igazságszolgáltatás vasárnap.",
+      "cim": "Orbán Viktor: A célpont én vagyok, az öcsém csak eszköz",
+      "lead": "A volt miniszterelnök így reagált arra a sajtóértesülésre, mely szerint Orbán Áronhoz köthető ingatlanhoz vonult ki hétfő reggel a TEK.",
       "forrasok": [
         {
-          "nev": "HVG",
-          "cim": "A kormány ellen tüntettek, kivégezték őket Iránban",
-          "url": "https://hvg.hu/vilag/20261108_a-kormany-ellen-tuntettek-kivegeztek-oket-iranban"
+          "nev": "Telex",
+          "cim": "Orbán Viktor: A célpont én vagyok, az öcsém csak eszköz",
+          "url": "https://telex.hu/belfold/2026/11/09/orban-viktor-a-celpont-en-vagyok-ocsem-csak-eszkoz-orban-aron"
         },
         {
           "nev": "444",
-          "cim": "Az ellenzék vezetője alakíthat kormányt Izraelben",
-          "url": "https://444.hu/2026/11/08/az-ellenzek-vezetoje-alakithat-kormanyt-izraelben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "cim": "Orbán Viktor: A célpont én vagyok, az öcsém csak eszköz",
+          "url": "https://444.hu/2026/11/09/orban-viktor-a-celpont-en-vagyok-az-ocsem-csak-eszkoz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         },
         {
           "nev": "Magyar Nemzet",
-          "cim": "Kormányalakítási sakkjátszma Izraelben – megkezdődött a visszaszámlálás",
-          "url": "https://magyarnemzet.hu/kulfold/2026/11/izraeli-illuzio-eisenkot-probalhat-kormanyt-alakitani-rengeteg-a-kerdojel?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+          "cim": "Orbán Viktor: A célpont én vagyok, az öcsém csak eszköz",
+          "url": "https://magyarnemzet.hu/belfold/2026/11/orban-viktor-leszamolas-avh-orban-aron?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
         }
       ]
     },
     {
-      "cim": "Nagy Ervin a Közlekedési Múzeumnak ajánlja fel Ricsi nevű furgonját, amivel Magyar Péter járta az országot a kampányban",
-      "lead": "A miniszterelnök szerint a furgon az újkori magyar történelem egyik szimbólumává vált, és megérdemli, hogy a többi ikonikus közlekedési jármű között töltse a nyugdíjas éveit.",
+      "cim": "Újabb vizsgálatot indítanak a gyömrői iskola mellett talált azbeszt miatt",
+      "lead": "A Közlekedési és Beruházási Minisztérium azt is megvizsgálná, kell-e szigorítani az útépítési anyagok ellenőrzését.",
       "forrasok": [
         {
-          "nev": "444",
-          "cim": "Nagy Ervin a Közlekedési Múzeumnak ajánlja fel Ricsi nevű furgonját, amivel Magyar Péter járta az országot a kampányban",
-          "url": "https://444.hu/2026/11/08/nagy-ervin-a-kozlekedesi-muzeumnak-ajanlja-fel-ricsi-nevu-furgonjat-amivel-magyar-peter-jarta-az-orszagot-a-kampanyban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "nev": "Telex",
+          "cim": "Újabb vizsgálatot indítanak a gyömrői iskola mellett talált azbeszt miatt",
+          "url": "https://telex.hu/belfold/2026/11/09/ujabb-vizsgalat-gyomroi-iskola-azbeszt"
         },
         {
+          "nev": "HVG",
+          "cim": "Vitézy minisztériuma azonnali vizsgálatot vár a gyömrői azbesztügyben",
+          "url": "https://hvg.hu/zhvg/20261109_vitezy-miniszterium-azonnal-vizsgalat-gyomro-azbesztugy"
+        }
+      ]
+    },
+    {
+      "cim": "A főváros kulturális közalapítványa 142 millió forintot osztott szét a függetlenek között",
+      "lead": "Több mint 8 millió forint jutott egyenként például a Freeszfének, a Stúdió K-nak és a Szkénének.",
+      "forrasok": [
+        {
           "nev": "Telex",
-          "cim": "A Közlekedési Múzeumba kerülhet a Tisza kampányából ismert Ricsi",
-          "url": "https://telex.hu/zacc/2026/11/08/a-kozlekedesi-muzeumba-kerulhet-a-tisza-kampanyabol-ismertte-valt-piros-feher-zold-platos-auto"
+          "cim": "A főváros kulturális közalapítványa 142 millió forintot osztott szét a függetlenek között",
+          "url": "https://telex.hu/karakter/kultura/2026/11/09/pro-cultura-urbis-kozalapitvany-142-milliot-osztott-szet-fuggetlenek-kozott"
+        },
+        {
+          "nev": "444",
+          "cim": "Harminchat előadó-művészeti projekt kapott a fővárosi kulturális közalapítvány 140 milliós támogatásából",
+          "url": "https://444.hu/jo/2026/11/09/harminchat-eloado-muveszeti-projekt-kapott-a-fovarosi-kulturalis-kozalapitvany-140-millios-tamogatasabol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        }
+      ]
+    },
+    {
+      "cim": "Hajkefébe rejtett kábítószergyanús port küldtek egy rabnak a váci börtönbe, az lett gyanús, hogy a címzettnek alig van haja",
+      "lead": "A postán érkezett csomagot az ellenőrzéskor felbontották, a hajkefe nyelében csaknem három gramm fehér port találtak.",
+      "forrasok": [
+        {
+          "nev": "Telex",
+          "cim": "Hajkefébe rejtett kábítószergyanús port küldtek egy rabnak a váci börtönbe, az lett gyanús, hogy a címzettnek alig van haja",
+          "url": "https://telex.hu/belfold/2026/11/09/hajkefe-kabitoszergyanus-por-rab-rovid-haj-vac-borton"
         },
         {
           "nev": "Index",
-          "cim": "Nyugdíjazzák a Tisza Párt kampánybuszát, a Közlekedési Múzeumban állítják ki",
-          "url": "https://index.hu/belfold/2026/11/08/ricsi-kisbusz-magyar-peter-kampany-tisza-kozlekedesi-muzeum/"
+          "cim": "Hajkefébe rejtve próbáltak drogot becsempészni egy kopasz rabnak a váci börtönbe",
+          "url": "https://index.hu/belfold/2026/11/09/rab-borton-hajkefe-drog/"
         }
       ]
     },
     {
-      "cim": "Félmillió liter kőolaj ömlött ki a megsérült horvátországi Janaf-vezetékből",
-      "lead": "Ebből szombat estig körülbelül 200 ezer litert sikerült összegyűjteni. 6600 négyzetméternyi terület szennyeződött be, miután egy munkagép megrongálta a kőolajvezetéket.",
+      "cim": "Nemcsak az oroszokkal nem bír Zelenszkij – ma ez a legnagyobb problémája",
+      "lead": "Elfogynak az ukrán tartalékok – Zelenszkij egyre nehezebb háborúval néz szembe.",
       "forrasok": [
-        {
-          "nev": "HVG",
-          "cim": "Félmillió liter kőolaj ömlött ki a megsérült horvátországi Janaf-vezetékből",
-          "url": "https://hvg.hu/gazdasag/20261108_felmillio-liter-koolaj-omlott-ki-a-megserult-horvatorszagi-janaf-vezetekbol"
-        },
-        {
-          "nev": "444",
-          "cim": "Félmillió liter kőolaj ömlött ki a megsérült horvátországi Janaf-vezetékből",
-          "url": "https://444.hu/2026/11/08/felmillio-liter-koolaj-omlott-ki-a-megserult-horvatorszagi-janaf-vezetekbol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "Telex",
-          "cim": "Félmillió liter kőolaj ömlött ki a Janaf vezetékének megsérülésekor",
-          "url": "https://telex.hu/gazdasag/2026/11/08/janaf-olaj-baleset-olajszennyezodes"
-        }
-      ]
-    },
-    {
-      "cim": "Első munkanapja előtt visszalépett az egyik tankerületi vezető",
-      "lead": "Balogh Tamás László gyorsan kicsekkolt, egyelőre nem tudni, miért.",
-      "forrasok": [
-        {
-          "nev": "HVG",
-          "cim": "Első munkanapja előtt visszalépett az egyik tankerületi vezető",
-          "url": "https://hvg.hu/itthon/20261107_tankerulet-vezeto-balogh-tamas-laszlo-visszalepes"
-        },
-        {
-          "nev": "444",
-          "cim": "Aznap lépett vissza az új tankerületi vezető, amikor elkezdte volna a munkát",
-          "url": "https://444.hu/2026/11/07/aznap-lepett-vissza-az-uj-tankeruleti-vezeto-amikor-elkezdte-volna-a-munkat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "Telex",
-          "cim": "A kezdése napján visszalépett az észak-budai tankerület új vezetője",
-          "url": "https://telex.hu/belfold/2026/11/07/eszak-budapesti-tankerulet-visszalepes"
-        }
-      ]
-    },
-    {
-      "cim": "Tisza-kormány: megszólalt a Külügyminisztérium a lövöldözésről",
-      "lead": "Szombati videójában Orbán Anita külügyminiszter bejelentette, hogy hazánk újra részt vesz a balti államok légtérvédelmében. Több mint egymilliárd forint közpénzt költöttek az Erzsébet-táborok reklámozására az áprilisi választások előtt - ez már Kátai-Németh Vilmos szociális és családügyi miniszter bejegyzéséből derült…",
-      "forrasok": [
-        {
-          "nev": "Portfolio",
-          "cim": "Tisza-kormány: megszólalt a Külügyminisztérium a lövöldözésről",
-          "url": "https://www.portfolio.hu/gazdasag/20261107/tisza-kormany-megszolalt-a-kulugyminiszterium-a-lovoldozesrol-874850"
-        },
         {
           "nev": "Magyar Nemzet",
-          "cim": "„Ne csak Lezsáktól kérjenek elnézést!” – Horn Gábor is nekiment a Tisza-kormánynak",
-          "url": "https://magyarnemzet.hu/belfold/2026/11/ne-csak-lezsaktol-kerjenek-elnezest-horn-gabor-is-nekiment-a-tisza-kormanynak?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+          "cim": "Nemcsak az oroszokkal nem bír Zelenszkij – ma ez a legnagyobb problémája",
+          "url": "https://magyarnemzet.hu/kulfold/2026/11/orosz-ukran-haboru-zelenszkij-hadero?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Zelenszkij: Az orosz támadások után súlyos a helyzet több ukrán városban",
+          "url": "https://hvg.hu/vilag/20261109_ukrajna-haboru-aramellatas-sulyos-helyzet-volodimir-zelenszkij"
         }
       ]
     },
     {
-      "cim": "Mínusz húsz foknál is hidegebbet mértek hajnalban a Bükkben",
-      "lead": "Megdőlt az őszi szezon hidegrekordja is.",
+      "cim": "Felmérés: Le Pen simán vezet Franciaországban",
+      "lead": "A szélsőjobboldali francia elnökjelölt azonban egy második fordulóban vélhetően könnyűszerrel legyőzné radikális baloldali kihívóját.",
       "forrasok": [
         {
           "nev": "HVG",
-          "cim": "Mínusz húsz foknál is hidegebbet mértek hajnalban a Bükkben",
-          "url": "https://hvg.hu/elet/20261108_minusz-husz-foknal-is-hidegebbet-mertek-hajnalban-a-bukkben"
+          "cim": "Felmérés: Le Pen simán vezet Franciaországban",
+          "url": "https://hvg.hu/vilag/20261109_marine-le-pen-jean-luc-melenchon-nepszeruseg-franciaorszag"
         },
         {
-          "nev": "Index",
-          "cim": "Letarolta az országot a fagy, mínusz 20 fok alá esett hajnalban a hőmérséklet a Bükkben",
-          "url": "https://index.hu/belfold/2026/11/08/idojaras-fagy-homerseklet-szezonrekord-zabar-hidegrekord/"
+          "nev": "Telex",
+          "cim": "A szélsőjobboldali Marine Le Pen a legesélyesebb elnökjelölt egy friss francia felmérés szerint",
+          "url": "https://telex.hu/kulfold/2026/11/09/marine-le-pen-francia-elnokvalasztas-kozvelemeny-kutatas-eredmeny"
         }
       ]
     },
     {
-      "cim": "Az Egyesült Államok húszmillió dollár jutalmat ajánl annak, aki információval rendelkezik az iráni atomprogramról",
-      "lead": "Trump többször is azt állította, hogy megsemmisítették Irán nukleáris képességeit, az amerikai külügyminisztérium most mégis jelentős jutalmat kínál az atomprogramról szóló információkért.",
+      "cim": "Kilenc órán át sodródott a Csendes-óceánban egy óceánjáró zongoristája, miután a vízbe zuhant",
+      "lead": "A férfira halászok találtak rá több mint 30 kilométerre Kalifornia partjaitól.",
       "forrasok": [
         {
           "nev": "Telex",
-          "cim": "Az Egyesült Államok húszmillió dollár jutalmat ajánl annak, aki információval rendelkezik az iráni atomprogramról",
-          "url": "https://telex.hu/kulfold/2026/11/08/huszmillio-dollar-ajanlat-egyesult-allamok-irani-atomprogram-informacio"
+          "cim": "Kilenc órán át sodródott a Csendes-óceánban egy óceánjáró zongoristája, miután a vízbe zuhant",
+          "url": "https://telex.hu/kulfold/2026/11/09/oceanjaro-zongorista-kalifornia-csendes-ocenan-sodrodas"
         },
         {
           "nev": "444",
-          "cim": "Az Egyesült Államok 20 millió dolláros nyomravezetői díjat ajánlott fel Irán atomprogramjával kapcsolatos információkért",
-          "url": "https://444.hu/2026/11/08/az-egyesult-allamok-20-millio-dollaros-nyomravezetoi-dijat-ajanlott-fel-iran-atomprogramjaval-kapcsolatos-informaciokert?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "cim": "Élve megúszta az óceánjáró zongorista, kilenc órát töltött a vízben, mire megtalálták és kimentették",
+          "url": "https://444.hu/2026/11/09/elve-meguszta-az-oceanjaro-zongorista-kilenc-orat-toltott-a-vizben-mire-megtalaltak-es-kimentettek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ]
     },
     {
-      "cim": "5,7-es erősségű földrengés volt Japánban",
-      "lead": "Könnyebb sérülésekről és kisebb károkról tudni egyelőre.",
+      "cim": "„A politikai felelősöket felelősségre kell vonni” – vizsgálóbizottságot hozna létre a Fidesz „a Tisza ügynökbotránya” miatt",
+      "lead": "A fideszes Hegedűs Barbara pontosan tudja, hogy kik a ludasak.",
       "forrasok": [
         {
           "nev": "444",
-          "cim": "5,7-es erősségű földrengés volt Japánban",
-          "url": "https://444.hu/2026/11/08/57-es-erossegu-foldrenges-volt-japanban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "cim": "„A politikai felelősöket felelősségre kell vonni” – vizsgálóbizottságot hozna létre a Fidesz „a Tisza ügynökbotránya” miatt",
+          "url": "https://444.hu/2026/11/09/a-politikai-felelosoket-felelossegre-kell-vonni-vizsgalobizottsagot-hozna-letre-a-fidesz-a-tisza-ugynokbotranya-miatt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         },
         {
           "nev": "Index",
-          "cim": "Nagy erejű földrengés rázta meg Japánt, több térségből érkeztek jelentések sérültekről",
-          "url": "https://index.hu/kulfold/2026/11/08/foldrenges-japan-sizuoka-anyagi-kar-serultek/"
+          "cim": "Újabb vizsgálóbizottságot hozna létre a „tiszás ügynökbotrány” kivizsgálására a Fidesz–KDNP",
+          "url": "https://index.hu/belfold/2026/11/09/hegedus-barbara-fidesz-kdnp-vizsgalobizottsag-letrehozas-ugynokaktak-abtl-leveltar/"
         }
       ]
     },
     {
-      "cim": "Az UFC-vezér Dana White-ot kérte fel Trump a Fehér Ház szóvivőjének",
-      "lead": "Az elnök arra kérte White-ot, hogy hozzon magával „néhány harcost” is asszisztensnek, „még akkor is, ha néhányan nem a mi országunkból származnak”.",
+      "cim": "Megerőszakolt, majd láncfűrésszel üldözött az utcán egy 15 éves lányt egy borsodi férfi",
+      "lead": "Az ügyészség vádat emelt és fegyházbüntetést kért a büntetett előéletű férfira.",
       "forrasok": [
         {
           "nev": "Telex",
-          "cim": "Az UFC-vezér Dana White-ot kérte fel Trump a Fehér Ház szóvivőjének",
-          "url": "https://telex.hu/kulfold/2026/11/07/dana-white-donald-trump-ufc-szovivo"
+          "cim": "Megerőszakolt, majd láncfűrésszel üldözött az utcán egy 15 éves lányt egy borsodi férfi",
+          "url": "https://telex.hu/belfold/2026/11/09/vademeles-ugyeszseg-eroszak-fenyegetes-lancfuresz"
         },
         {
           "nev": "444",
-          "cim": "Trump a UFC elnökét kérte fel szóvivőnek",
-          "url": "https://444.hu/2026/11/07/trump-a-ufc-elnoket-kerte-fel-szovivonek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        }
-      ]
-    },
-    {
-      "cim": "Ritkán látni olyan hatalmas tömegbunyót, mint ami kitört a szorítóban és a nézőtéren is",
-      "lead": "Elszabadultak az indulatok az isztambuli és manchesteri gálán.",
-      "forrasok": [
-        {
-          "nev": "Index",
-          "cim": "Ritkán látni olyan hatalmas tömegbunyót, mint ami kitört a szorítóban és a nézőtéren is",
-          "url": "https://index.hu/sport/boksz/2026/11/08/tomegverekedes-isztambul-manchester-nezok/"
+          "cim": "Beindított láncfűrésszel üldözte a borsodi férfi a 15 éves lányt, akit előzőleg megerőszakolt",
+          "url": "https://444.hu/2026/11/09/beinditott-lancfuresszel-uldozte-a-borsodi-ferfi-a-15-eves-lanyt-akit-elozoleg-megeroszakolt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ]
     }
   ],
   "nemzetkozi": [
     {
-      "cim": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
-      "lead": "Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost its majority Israel’s president has ⁠chosen Gadi Eisenkot, prime minister Benjamin Netanyahu’s ⁠strongest rival, to ⁠try to ​form a new government, after a deadlocked election that left neither man ⁠with a clear path to…",
+      "cim": "Kraków shooting suspect who killed six has died, Polish police say",
+      "lead": "Terrorism investigation continues after 24-year-old opened fire in market square, leaving 16 injured Europe live – latest updates A gunman suspected of killing six people, including a British man, and injuring 16 in a rare mass shooting in a busy market square in Kraków has died in hospital, Polish police said. The…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
-          "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government"
+          "cim": "Kraków shooting suspect who killed six has died, Polish police say",
+          "url": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead"
         },
         {
           "nev": "Deutsche Welle",
-          "cim": "Israeli president tasks Gadi Eisenkot with forming government",
-          "url": "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-world-4025-rdf"
+          "cim": "Krakow mass shooting suspect has died in hospital, police in Poland say",
+          "url": "https://www.dw.com/en/krakow-mass-shooting-suspect-has-died-in-hospital-police-in-poland-say/a-79895626?maca=en-rss-en-world-4025-rdf"
         },
         {
           "nev": "New York Times",
-          "cim": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
-          "url": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html"
+          "cim": "Suspect in Mass Shooting in Krakow, Poland, Dies in Hospital. Here’s What to Know.",
+          "url": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html"
         },
         {
           "nev": "BBC",
-          "cim": "Israel's president tasks opposition leader Eisenkot with forming government",
-          "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
+          "cim": "Krakow shooting suspect has died in hospital, police say",
+          "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "Poland mass shooting assailant dies in hospital, police say",
+          "url": "https://www.aljazeera.com/news/2026/11/9/poland-mass-shooting-assailant-dies-in-hospital-police-say?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "Briton among six dead after gunman opens fire in Kraków market square",
-      "lead": "Three more people found dead at home of suspect, who minister says held ‘ultra-nationalistic’ views Six people were killed and 16 wounded after a gunman opened fire in a busy market square in Kraków, authorities said, in what Poland’s defence minister called an “act of terror” on the people of the city. The suspect, a…",
+      "cim": "Trump says he was ‘only kidding’ about making UFC’s Dana White next press secretary",
+      "lead": "President says it was ‘just a little fun’ to picture White, UFC boss and Trump’s friend, in briefing room with fighters Donald Trump said on Sunday that he “was only kidding” when he announced a day earlier that he had offered the job of White House press secretary to Dana White, the chief executive of the Ultimate…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "Briton among six dead after gunman opens fire in Kraków market square",
-          "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
+          "cim": "Trump says he was ‘only kidding’ about making UFC’s Dana White next press secretary",
+          "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-dana-white-press-secretary"
         },
         {
           "nev": "BBC",
-          "cim": "What we know so far after Krakow gun attack",
-          "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
+          "cim": "Trump says he was 'kidding' about Dana White press secretary offer",
+          "url": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "nev": "New York Times",
-          "cim": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
-          "url": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html"
+          "nev": "Al Jazeera",
+          "cim": "Trump ‘only kidding’ about Dana White press secretary role",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-only-kidding-about-dana-white-press-secretary-role?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "Who’s who at Cop31: key players at the climate talks",
-      "lead": "What are the relationships and dominant interests in play, as the summit kicks off after a bitter row over its hosting? Hosting Cop was a key pledge from Australia’s prime minister, Anthony Albanese in 2021 , while in opposition, before his successful election campaign. But arcane rules meant the country had to wait…",
+      "cim": "Collision of two trains in Egypt kills at least seven",
+      "lead": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo Seven people were killed and at least 125 injured when two trains collided on Sunday south of the Egyptian capital, Cairo, officials said. The crash occurred in al-Ayyat district in Giza province, about 50km…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "Who’s who at Cop31: key players at the climate talks",
-          "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks"
+          "cim": "Collision of two trains in Egypt kills at least seven",
+          "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision"
         },
         {
           "nev": "New York Times",
-          "cim": "A Guide to COP31 Climate Talks in Antalya, Turkey",
-          "url": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html"
-        }
-      ]
-    },
-    {
-      "cim": "Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei",
-      "lead": "President has opposing views on many issues, and once called Leo’s predecessor the ‘representative of the Evil One’ Trees are being planted in the garden. The brightly coloured buildings are getting another coat of paint. The choir rehearses. Hundreds of other residents, several of them using wheelchairs, practise…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei",
-          "url": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei"
-        },
-        {
-          "nev": "New York Times",
-          "cim": "In Argentina, Pope Leo to Meet Church at Odds With President Milei",
-          "url": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html"
-        }
-      ]
-    },
-    {
-      "cim": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’",
-      "lead": "National party will be largest in parliament but ultimate shape of next government won’t be settled for some time New Zealand could be facing a weeks-long wait to know the shape of its next government, after its nail-biting election failed to hand a decisive victory to either the incumbent rightwing coalition or…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’",
-          "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
-        },
-        {
-          "nev": "New York Times",
-          "cim": "New Zealand’s Election ‘Too Close to Call’ as Voters Turn to Minor Parties",
-          "url": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html"
-        }
-      ]
-    },
-    {
-      "cim": "Prosecutors Charge Paraguay’s Former President With Corruption",
-      "lead": "Santiago Peña was impeached, removed from office, placed under house arrest and charged with using his office to enrich himself after a bank with close ties to his administration went under.",
-      "forrasok": [
-        {
-          "nev": "New York Times",
-          "cim": "Prosecutors Charge Paraguay’s Former President With Corruption",
-          "url": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html"
+          "cim": "Trains Collide Near Cairo, Killing 4",
+          "url": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html"
         },
         {
           "nev": "BBC",
-          "cim": "Paraguay's former president charged after bank collapse",
-          "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
+          "cim": "Seven dead and more than 100 injured after trains collide in Egypt",
+          "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "cim": "How the story of ‘the girl of 100 portraits’ inspired two books",
-      "lead": "Luc Corlouër made ‘deal’ with Prix Goncourt winner Philippe Jaenada over his research into model Louise Cansot, murdered in Paris in 1949 For almost eight decades the artists’ model Louise Cansot, the subject of the novel winning France’s most prestigious literary prize this year, was one of Paris’s forgotten murder…",
+      "cim": "Trump admits deportation policy was ‘too tough’ despite promotion of Stephen Miller",
+      "lead": "President makes unusual acknowledgment that one of defining policies of his second administration had become a political liability Donald Trump has admitted that his deportation policy was “too tough” and has offered to strike an immigration deal with Democrats in a concession after the Republicans’ disastrous defeat…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "How the story of ‘the girl of 100 portraits’ inspired two books",
-          "url": "https://www.theguardian.com/books/2026/nov/08/louise-cansot-paris-model-prix-goncourt-phillipe-jaenada-luc-corlouer"
+          "cim": "Trump admits deportation policy was ‘too tough’ despite promotion of Stephen Miller",
+          "url": "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "Trump says his immigration policy ‘too tough’ for voters",
+          "url": "https://www.aljazeera.com/news/2026/11/9/trump-says-his-immigration-policy-too-tough-for-voters?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "Mother of Royal Navy sailor missing for 40 years calls for suspected killer to confess",
-      "lead": "Margaret Parkes and her husband, in their 80s, want Allan Grimson to reveal location of their son Simon’s remains The mother of a teenage Royal Navy sailor who vanished 40 years ago has called for a “serial killer” suspected of murdering him to finally reveal where her son’s body is hidden. Speaking as Simon Parkes’…",
+      "cim": "How a Bank Implosion in Paraguay Ensnared a President",
+      "lead": "Prosecutors accused President Santiago Peña of funneling nearly a billion dollars of government funds to the Ueno bank as its executives made reckless insider loans.",
       "forrasok": [
         {
-          "nev": "The Guardian",
-          "cim": "Mother of Royal Navy sailor missing for 40 years calls for suspected killer to confess",
-          "url": "https://www.theguardian.com/uk-news/2026/nov/08/simon-parkes-navy-sailor-mother-allan-grimson-suspected-killer"
+          "nev": "New York Times",
+          "cim": "How a Bank Implosion in Paraguay Ensnared a President",
+          "url": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "Paraguay former president’s mansion raided in ongoing investigation",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/paraguay-former-presidents-mansion-raided-in-ongoing-investigation?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "Messi becomes first player to win back-to-back MLS Golden Boot awards",
-      "lead": "The Argentinian scored 26 goals in regular season, topping the charts and leading Inter Miami to the MLS Cup playoffs.",
+      "cim": "Why is Nvidia’s Jensen Huang at the centre of a US-China spy scandal?",
+      "lead": "Allegations linking CEO to Chinese intelligence shake markets with chipmaker's shares falling more than 4 percent.",
       "forrasok": [
         {
           "nev": "Al Jazeera",
-          "cim": "Messi becomes first player to win back-to-back MLS Golden Boot awards",
-          "url": "https://www.aljazeera.com/sports/2026/11/8/messi-becomes-first-player-to-win-back-to-back-mls-golden-boot-awards?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "cim": "After rebel offensive, efforts to push them back appear to have stalled",
-      "lead": "Saudi air power so far hasn't been enough for Yemen's government, and civilians are increasingly stuck in the middle",
-      "forrasok": [
-        {
-          "nev": "Al Jazeera",
-          "cim": "After rebel offensive, efforts to push them back appear to have stalled",
-          "url": "https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Tennis world number one Rybakina withdraws from WTA Finals due to virus",
-      "lead": "Rybakina pulled out on the eve of the Indian Wells tournament, with Ukraine's Marta Kostyuk replacing the top seed.",
-      "forrasok": [
-        {
-          "nev": "Al Jazeera",
-          "cim": "Tennis world number one Rybakina withdraws from WTA Finals due to virus",
-          "url": "https://www.aljazeera.com/sports/2026/11/8/tennis-world-number-one-rybakina-withdraws-from-wta-finals-due-to-virus?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "cim": "How the deadly shooting in Krakow unfolded",
-      "lead": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.",
-      "forrasok": [
+          "cim": "Why is Nvidia’s Jensen Huang at the centre of a US-China spy scandal?",
+          "url": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal?traffic_source=rss"
+        },
         {
           "nev": "BBC",
-          "cim": "How the deadly shooting in Krakow unfolded",
-          "url": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss"
+          "cim": "Jensen Huang: Why a personal scandal for the face of the AI boom has provoked a national security scare",
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+      "lead": "Pontiff tells Argentina’s president the economy must benefit all on second stop of 12-day Latin America tour Pope Leo XIV has delivered a stinging critique of Argentine president Javier Milei’s harsh austerity measures, insisting growth must benefit all in a speech met with rapturous applause in Buenos Aires. “The…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+          "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity"
+        },
+        {
+          "nev": "BBC",
+          "cim": "Pope delivers veiled rebuke of Milei's austerity measures",
+          "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
+      "lead": "Former military chief says prime minister brought Israel to historic crisis and it is approaching ‘point of no return’ Israel’s former military chief Gadi Eisenkot started the tough task of forming a government on Sunday, reaching out to Benjamin Netanyahu’s allies as he said the veteran prime minister had brought the…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
+          "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government"
+        },
+        {
+          "nev": "New York Times",
+          "cim": "How Israel’s Opposition Could Unseat Netanyahu (or Not)",
+          "url": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html"
+        }
+      ]
+    },
+    {
+      "cim": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh",
+      "lead": "The Saudi authorities said no one was hurt after “falling shrapnel” hit the building in Riyadh’s financial district — one of the highest-profile areas targeted by the Houthis.",
+      "forrasok": [
+        {
+          "nev": "New York Times",
+          "cim": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh",
+          "url": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html"
+        },
+        {
+          "nev": "BBC",
+          "cim": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+          "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cim": "South Africa elections: ANC marks its worst-ever performance",
+      "lead": "The African National Congress, the party of late liberation icon Nelson Mandela, slumped to its worst-ever result in South Africa's municipal election. Voters blame the ANC for water and electricity shortages.",
+      "forrasok": [
+        {
+          "nev": "Deutsche Welle",
+          "cim": "South Africa elections: ANC marks its worst-ever performance",
+          "url": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-world-4025-rdf"
+        },
+        {
+          "nev": "BBC",
+          "cim": "'Devastating message' as ANC records worst-ever result in South Africa election",
+          "url": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Prosecution calls for long jail term as Russell Brand is sentenced for rape and sexual assault – latest updates",
+      "lead": "Prosecuting barrister asks for a ‘category one’ sentencing length which ranges from 10 to 15 years Proceedings are beginning now. Chief prosecutor Riel Karmy-Jones KC is up on her feet. She’ll be the first to deliver remarks. The sentencing has been pushed back as court staff attempt to rearrange the courtroom so one…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Prosecution calls for long jail term as Russell Brand is sentenced for rape and sexual assault – latest updates",
+          "url": "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates"
+        }
+      ]
+    },
+    {
+      "cim": "Polanski says Labour has ‘shocking record’ on climate issues as ministers expected to cut EV targets for car industry – UK politics live",
+      "lead": "Louise Haigh is expected to agree to cut a target for EV sales by about a quarter Downing Street has insisted that the government remains committed to the principle of the zero emission vehicle (ZEV) mandate – while not denying today’s Guardian report saying interim targets to achieve it are set to be watered down…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Polanski says Labour has ‘shocking record’ on climate issues as ministers expected to cut EV targets for car industry – UK politics live",
+          "url": "https://www.theguardian.com/politics/live/2026/nov/09/polanski-greens-labour-andy-burnham-climate-crisis-ev-targets-uk-politics-latest-news"
         }
       ]
     }
