@@ -1,450 +1,380 @@
 {
-  "datum": "2026-11-12",
-  "generalva": "2026-11-12T13:58+01:00",
+  "datum": "2026-11-13",
+  "generalva": "2026-11-13T13:24+01:00",
   "hazai": [
     {
-      "cim": "Bóka János: Kivonultak a hatóságok Lezsák Sándor alapítványához",
-      "lead": "A NAV mellett Bács-Kiskun megyei ügyészek is kiszálltak fideszes politikusok szerint.",
+      "cim": "Microsoft-leállás: azonnal reagálnak a befektetők",
+      "lead": "Kiterjedt leállás bénította meg a Microsoft szolgáltatásait csütörtökön és pénteken, ami világszerte felhasználók millióinak okozott fennakadást. A szerverproblémák miatt akadozott többek között az Outlook, a Teams és számos egyéb Microsoft 365-alkalmazás működése, miközben a vállalat mérnökei folyamatosan dolgoztak a…",
       "forrasok": [
         {
-          "nev": "444",
-          "cim": "Bóka János: Kivonultak a hatóságok Lezsák Sándor alapítványához",
-          "url": "https://444.hu/2026/11/12/boka-janos-kivonultak-a-hatosagok-lezsak-sandor-alapitvanyahoz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "nev": "Portfolio",
+          "cim": "Microsoft-leállás: azonnal reagálnak a befektetők",
+          "url": "https://www.portfolio.hu/befektetes/20261113/microsoft-leallas-azonnal-reagalnak-a-befektetok-876268"
         },
         {
-          "nev": "Index",
-          "cim": "„Politikai leszámolásról” beszél Lezsák Sándor lánya, miután hatóságok jelentek meg a család alapítványánál Lakiteleken",
-          "url": "https://index.hu/belfold/2026/11/12/lezsak-sandor-molnarne-dr.-lezsak-anna-politikai-leszamolas/"
+          "nev": "HVG",
+          "cim": "Leállás a Microsoftnál: cégek, segélyhívó központok és iskolák működése is megakadt, órák óta nem megy egy sor szolgáltatás",
+          "url": "https://hvg.hu/tudomany/20261113_microsoft-leallas-tudnivalok-outlook-teams-hiba"
+        },
+        {
+          "nev": "444",
+          "cim": "Már Európában is akadoznak a Microsoft szolgáltatásai",
+          "url": "https://444.hu/2026/11/13/mar-europaban-is-akadoznak-a-microsoft-szolgaltatasai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         },
         {
           "nev": "Magyar Nemzet",
-          "cim": "Itt van Magyar Péter újabb bosszúja: kivonultak a hatóságok Lezsák Sándor alapítványához",
-          "url": "https://magyarnemzet.hu/belfold/2026/11/itt-van-magyar-peter-ujabb-bosszuja-kivonultak-a-hatosagok-lezsak-sandor-alapitvanyahoz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-        },
-        {
-          "nev": "Telex",
-          "cim": "Lezsák Sándor lánya arról posztolt, hogy kivonultak a hatóságok apja alapítványához",
-          "url": "https://telex.hu/belfold/2026/11/12/lezsak-sandor-lakitelek-hatosag"
+          "cim": "Világszerte akadoznak a Microsoft szolgáltatásai",
+          "url": "https://magyarnemzet.hu/belfold/2026/11/microsoft-szolgaltatas-leallt-outlook-teams?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
         }
       ]
     },
     {
-      "cim": "Kirúgták Michael Carricket a Manchester Unitedtől",
-      "lead": "Az általában biztos információkkal rendelkező átigazolási guru, Fabrizio Romano szerint az angol edzővel már közölték is a döntést. Információit a BBC és a The Athletic is megerősítette.",
+      "cim": "Visszadobta a parlamentnek a politikusok vagyonosodásáról szóló törvényt Baka András államfő",
+      "lead": "Baka András köztársasági elnök pénteken megfontolásra visszaküldte az Országgyűlésnek a politikusok és hozzátartozóik vagyongyarapodását vizsgáló, november 3-án elfogadott törvényt. Bár az államfő a jogszabály alapvető céljaival egyetért, súlyos adatvédelmi aggályokat fogalmazott meg, és kifogásolta, hogy a…",
       "forrasok": [
         {
+          "nev": "Portfolio",
+          "cim": "Visszadobta a parlamentnek a politikusok vagyonosodásáról szóló törvényt Baka András államfő",
+          "url": "https://www.portfolio.hu/gazdasag/20261113/visszadobta-a-parlamentnek-a-politikusok-vagyonosodasarol-szolo-torvenyt-baka-andras-allamfo-876276"
+        },
+        {
           "nev": "HVG",
-          "cim": "Kirúgták Michael Carricket a Manchester Unitedtől",
-          "url": "https://hvg.hu/sport/20261112_fabrizio-romano-kirugtak-michael-carricket-a-manchester-unitedtol"
-        },
-        {
-          "nev": "Index",
-          "cim": "A kieső helyen álló Manchester United menesztette Michael Carrick vezetőedzőt",
-          "url": "https://index.hu/sport/futball/2026/11/12/premier-league-2026-2027-manchester-united-michael-carrick-menesztes-fabrizio-romano/"
-        },
-        {
-          "nev": "Telex",
-          "cim": "Kirúgta edzőjét a kieső helyre csúszott Manchester United",
-          "url": "https://telex.hu/sport/2026/11/12/manchester-united-edzovaltas-michael-carrick-kirugas-premier-league-18-hely-kieses"
+          "cim": "Baka András visszaküldte az Országgyűlésnek a politikusok vagyonosodását vizsgáló törvényt",
+          "url": "https://hvg.hu/itthon/20261113_baka-andras-politikusok-vagyonosodasi-vizsgalat-torveny-visszakuldes-orszaggyules"
         },
         {
           "nev": "Magyar Nemzet",
-          "cim": "Kirúgta edzőjét a Manchester United",
-          "url": "https://magyarnemzet.hu/sport/2026/11/michael-carrick-manchester-united-kirugas-2?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-        }
-      ]
-    },
-    {
-      "cim": "Nagy megállapodásra készül Vitézy Dávid és Karácsony Gergely",
-      "lead": "Délután közös sajtótájékoztatót tart Vitézy Dávid közlekedési és beruházási miniszter és Karácsony Gergely főpolgármester, ahol aláírják a regionális BKK létrehozásáról szóló együttműködési megállapodást. Előtte egyeztet is a két fél, aminek kapcsán ellentmondásos kommunikációba ütköztünk: a minisztérium szerint nem…",
-      "forrasok": [
-        {
-          "nev": "Portfolio",
-          "cim": "Nagy megállapodásra készül Vitézy Dávid és Karácsony Gergely",
-          "url": "https://www.portfolio.hu/gazdasag/20261112/nagy-megallapodasra-keszul-vitezy-david-es-karacsony-gergely-875974"
-        },
-        {
-          "nev": "HVG",
-          "cim": "Vitézy és Karácsony aláírták a regionális BKK létrehozásáról szóló megállapodást",
-          "url": "https://hvg.hu/itthon/20261112_budapest-budapesti-kozlekedesi-kozpont-bkk-allam-kozos-tulajdon-megegyezes-alairas-sajtotajekoztato-karacsony-gergely-vitezy-david"
-        },
-        {
-          "nev": "444",
-          "cim": "Karácsony és Vitézy leütötte a regionális BKK létrehozásáról szóló együttműködést",
-          "url": "https://444.hu/2026/11/12/karacsony-es-vitezy-leutotte-a-regionalis-bkk-letrehozasarol-szolo-egyuttmukodest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        }
-      ]
-    },
-    {
-      "cim": "Török Gábor reagált Magyar Péter bejelentésére: a hatalomgyár után műsorgyár körvonalazódik",
-      "lead": "Török Gábor politológus ügyes politikai válasznak tartja Magyar Péter nőjogi intézkedéscsomagjának bejelentését, amely egy nappal Varga Judit parlamenti meghallgatása után érkezett. A korábbi igazságügyi miniszter a meghallgatáson ismét felhozta a bántalmazás témáját, az elemző pedig arra utal, hogy a kormányfő…",
-      "forrasok": [
-        {
-          "nev": "Portfolio",
-          "cim": "Török Gábor reagált Magyar Péter bejelentésére: a hatalomgyár után műsorgyár körvonalazódik",
-          "url": "https://www.portfolio.hu/gazdasag/20261112/torok-gabor-reagalt-magyar-peter-bejelentesere-a-hatalomgyar-utan-musorgyar-korvonalazodik-876028"
-        },
-        {
-          "nev": "HVG",
-          "cim": "Török Gábor reagált Magyar bejelentésére: Ügyes",
-          "url": "https://hvg.hu/itthon/20261112_torok-gabor-reagalt-magyar-bejelentesere-isztambuli-egyezmeny-ratifikacio"
+          "cim": "Ez nem jött össze: Baka András visszadobta a politikusok vagyonosodásának vizsgálatáról szóló törvényt",
+          "url": "https://magyarnemzet.hu/belfold/2026/11/baka-andras-politikusok-vagyongyarapodasi-vizsgalata-torveny?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
         },
         {
           "nev": "Index",
-          "cim": "Török Gábor reagált Magyar Péter bejelentésére: A hatalomgyárat felváltja a műsorgyár",
-          "url": "https://index.hu/belfold/2026/11/12/torok-gabor-reakcio-magyar-peter-bejelentes-nojogi-intezkedesek-isztambuli-egyezmeny/"
+          "cim": "Baka András visszaküldte a parlamentnek a politikusok vagyonosodását vizsgáló törvényt",
+          "url": "https://index.hu/belfold/2026/11/13/baka-andras-kozvagyon-vedelme-kozbizalom-alaptorveny/"
         }
       ]
     },
     {
-      "cim": "Kiadta Kulja András mentelmi jogát az Európai Parlament",
-      "lead": "Egy polgári perben már döntöttek, de Takács Péter egy magánvádas büntetőeljárást is indított Kulja ellen egy lélegeztetőgép-beszerzésről írt Facebook-bejegyzés miatt.",
+      "cim": "Magyar Péter szerint az ÁBTL vezetője nem maradhat a levéltár élén a hiba után",
+      "lead": "Még novemberben összejöhet a találkozó Kárpátalján Zelenszkijjel – mondta a miniszterelnök a rádióban.",
       "forrasok": [
-        {
-          "nev": "Telex",
-          "cim": "Kiadta Kulja András mentelmi jogát az Európai Parlament",
-          "url": "https://telex.hu/kulfold/2026/11/12/eu-europai-parlament-kulja-andras-mentelmi-jog"
-        },
         {
           "nev": "444",
-          "cim": "Európai parlamenti mentelmi jogának felfüggesztését kérte a tiszás Kulja András",
-          "url": "https://444.hu/2026/11/12/europai-parlamenti-mentelmi-joganak-felfuggeszteset-kerte-a-tiszas-kulja-andras?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "Index",
-          "cim": "Felfüggesztették Kulja András mentelmi jogát",
-          "url": "https://index.hu/kulfold/2026/11/12/europai-parlament-kulja-andras-mentelmi-jog-felfuggesztes-takacs-peter/"
-        }
-      ]
-    },
-    {
-      "cim": "Magyar Péter bejelentései: kezdeményezik az Isztambuli Egyezmény ratifikációját, módosítják a szívhangrendeletet, eltörlik az esemény utáni tabletta vénykötelességét",
-      "lead": "A miniszterelnök egy Facebook-videóban közölt egy sor, a nők elleni erőszak visszaszorítását szolgáló intézkedést. Szigorítják a távoltartást, a kapcsolati erőszak áldozatainak pedig különleges bánásmódot biztosítanak a büntetőeljárásban.",
-      "forrasok": [
-        {
-          "nev": "Telex",
-          "cim": "Magyar Péter bejelentései: kezdeményezik az Isztambuli Egyezmény ratifikációját, módosítják a szívhangrendeletet, eltörlik az esemény utáni tabletta vénykötelességét",
-          "url": "https://telex.hu/belfold/2026/11/12/magyar-peter-bejelentette-hogy-kezdemenyezik-az-isztambuli-egyezmeny-ratifikaciojat"
+          "cim": "Magyar Péter szerint az ÁBTL vezetője nem maradhat a levéltár élén a hiba után",
+          "url": "https://444.hu/2026/11/13/magyar-peter-szerint-az-abtl-vezetoje-nem-maradhat-a-leveltar-elen-a-hiba-utan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         },
         {
           "nev": "HVG",
-          "cim": "Magyar Péter: Ratifikáljuk az isztambuli egyezményt, megváltoztatjuk a szívhangrendeletet, és megszüntetjük az esemény utáni tabletta vénykötelességét",
-          "url": "https://hvg.hu/itthon/20261112_megvaltoztatjak-a-szivhangrendeletet-es-kezdemenyezik-az-isztambuli-egyezmeny-ratifikalasat"
+          "cim": "Új vezetőt neveztek ki a magyar Ericssonnál",
+          "url": "https://hvg.hu/kkv/20261113_ericsson-uj-vezeto"
         },
         {
-          "nev": "Index",
-          "cim": "Bejelentést tett Magyar Péter, ratifikálják az isztambuli egyezményt, módosítják a szívhangrendeletet",
-          "url": "https://index.hu/kulfold/2026/11/12/magyar-peter-dublin-isztambuli-egyezmeny-nojog/"
+          "nev": "Magyar Nemzet",
+          "cim": "„Nem maradhat” – bár nem az ő hatásköre, Magyar Péter elküldené a levéltár vezetőjét az ügynökbotrány miatt",
+          "url": "https://magyarnemzet.hu/belfold/2026/11/tiszas-ugynokbotrany-magyar-peter-cseh-gergo-bendeguz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
         }
       ]
     },
     {
-      "cim": "Túl nehéz kamion hajtott a százéves csongrádi pontonhídra, nem bírta a terhelést",
-      "lead": "Recsegett-ropogott az öreg hídszerkezet a beszámolók szerint.",
+      "cim": "Magyar Péter: Osztozom a magyar nők örömében",
+      "lead": "A miniszterelnök szerint a választás óta nem kapott annyi pozitív üzenetet, mint tegnap.",
+      "forrasok": [
+        {
+          "nev": "Index",
+          "cim": "Magyar Péter: Osztozom a magyar nők örömében",
+          "url": "https://index.hu/belfold/2026/11/13/magyar-peter-isztambuli-egyezmeny-ratifikacio/"
+        },
+        {
+          "nev": "Magyar Nemzet",
+          "cim": "Lélektani határt törtek át Orbán Viktor osztrák szövetségesei, Magyar Péteréi a kanyarban sincsenek",
+          "url": "https://magyarnemzet.hu/kulfold/2026/11/osztrak-szabadsagpart-fpo-patriotak-europaert-fidesz-orban-viktor?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        }
+      ]
+    },
+    {
+      "cim": "Nem bírta ki, Magyar Péter visszaszólt Varga Juditnak a rádióinterjújában: Ez csak egy performansz volt",
+      "lead": "A kormányfő szerint nem érdekes, hogy a gender szó szerepel-e az Isztambuli Egyezményben.",
+      "forrasok": [
+        {
+          "nev": "Magyar Nemzet",
+          "cim": "Nem bírta ki, Magyar Péter visszaszólt Varga Juditnak a rádióinterjújában: Ez csak egy performansz volt",
+          "url": "https://magyarnemzet.hu/belfold/2026/11/magyar-peter-isztambuli-egyezmeny-varga-judit-performansz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        },
+        {
+          "nev": "Index",
+          "cim": "Boros Tamás: Varga Judit és Magyar Péter épp egyszerre bukik meg szülőként",
+          "url": "https://index.hu/velemeny/2026/11/13/boros-tamas-varga-judit-magyar-peter/"
+        }
+      ]
+    },
+    {
+      "cim": "Vitézy: Új buszsávok épülnek Budakeszin és a budapesti Budakeszi úton",
+      "lead": "A miniszter bejelentette, hogy elindítják a beruházáshoz szükséges területszerzéseket.",
       "forrasok": [
         {
           "nev": "HVG",
-          "cim": "Túl nehéz kamion hajtott a százéves csongrádi pontonhídra, nem bírta a terhelést",
-          "url": "https://hvg.hu/cegauto/20261112_csongradi-fahid-pontonhid-kamion-baleset"
-        },
-        {
-          "nev": "Telex",
-          "cim": "Kőporral megrakott kamion hajtott a 130 éves csongrádi fahídra",
-          "url": "https://telex.hu/belfold/2026/11/12/megrongalodas-forgalom-csongradi-fahid-lezaras"
-        },
-        {
-          "nev": "444",
-          "cim": "Kamion hajtott a csongrádi fahídra",
-          "url": "https://444.hu/2026/11/12/kamion-hajtott-a-csongradi-fahidra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        }
-      ]
-    },
-    {
-      "cim": "Egymás után esett össze két őr Párizsban, miközben Macron a szlovák elnököt fogadta",
-      "lead": "Enyhén szólva nem a protokollnak megfelelően zajlott az államfői látogatás.",
-      "forrasok": [
-        {
-          "nev": "Index",
-          "cim": "Egymás után esett össze két őr Párizsban, miközben Macron a szlovák elnököt fogadta",
-          "url": "https://index.hu/kulfold/2026/11/12/franciaorszag-emmanuel-macron-peter-pellegrini-or-rosszullet/"
-        },
-        {
-          "nev": "444",
-          "cim": "Összecsuklott a francia díszőrség egyik tagja, miközben Macron Pellegrinit fogadta",
-          "url": "https://444.hu/2026/11/12/osszesett-a-francia-diszorseg-egyik-tagja-mikozben-macron-pellegrinit-fogadta?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "Telex",
-          "cim": "Ketten is összeestek a francia díszőrségből, miközben Macron épp a szlovák államfőt fogadta",
-          "url": "https://telex.hu/kulfold/2026/11/12/diszorseg-peter-pellegrini-macron-elajult"
-        }
-      ]
-    },
-    {
-      "cim": "Tisza-kormány: új intézkedésekkel védenék a nőket, gyanús részletek láttak napvilágot Merkely Béla lemondása körül",
-      "lead": "Magyar Péter bejelentette, hogy a kormány kezdeményezi az Isztambuli Egyezmény ratifikálását, és átfogó intézkedéscsomagot indít a nők védelmére. Vitézy Dávid több mint 200 milliárd forintos társasház-felújítási programról és ezermilliárdos vasúti közbeszerzésekről beszélt. Közben a NAV iratokat foglalt le a Sóstói…",
-      "forrasok": [
-        {
-          "nev": "Portfolio",
-          "cim": "Tisza-kormány: új intézkedésekkel védenék a nőket, gyanús részletek láttak napvilágot Merkely Béla lemondása körül",
-          "url": "https://www.portfolio.hu/gazdasag/20261112/tisza-kormany-uj-intezkedesekkel-vedenek-a-noket-gyanus-reszletek-lattak-napvilagot-merkely-bela-lemondasa-korul-875908"
+          "cim": "Vitézy: Új buszsávok épülnek Budakeszin és a budapesti Budakeszi úton",
+          "url": "https://hvg.hu/itthon/20261113_vitezy-david-buszsav-budakeszi-ut-ingatlan-teruletszerzes"
         },
         {
           "nev": "Index",
-          "cim": "Megállapodást írt alá a kormány és a főváros, jönnek a részletek",
-          "url": "https://index.hu/belfold/2026/11/12/vitezy-david-karacsony-gergely-megallapodas-budapest-fovaros-bkk-fovarosi-kozfejlesztesek-tanacsa/"
+          "cim": "Hetvenhárom ingatlant érint az óriásberuházás, új buszsávok épülnek Budakeszin",
+          "url": "https://index.hu/belfold/2026/11/13/vitezy-david-budakeszi-buszsavok-teruletszerzesek-beruhazas/"
         }
       ]
     },
     {
-      "cim": "Megjelent a NAV Székesfehérváron, a Sóstói-stadionnál, iratokat, adathordozókat foglaltak le",
-      "lead": "Cser-Palkovics András, a város fideszes polgármestere szerint az eredeti feljelentés „a jogi nonszensz kategóriába esett”.",
-      "forrasok": [
-        {
-          "nev": "444",
-          "cim": "Megjelent a NAV Székesfehérváron, a Sóstói-stadionnál, iratokat, adathordozókat foglaltak le",
-          "url": "https://444.hu/2026/11/12/megjelen-a-nav-a-szekesfehervari-sostoi-stadionnal-iratokat-adathordozokat-foglaltak-le?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "HVG",
-          "cim": "Kiszálltak a NAV nyomozói a székesfehérvári Sóstói Stadionhoz, és iratokat, adathordozókat foglaltak le",
-          "url": "https://hvg.hu/gazdasag/20261112_kiszalltak-a-nav-nyomozoi-a-szekesfehervari-sostoi-stadionhoz-es-iratokat-adathordozokat-foglaltak-le"
-        }
-      ]
-    },
-    {
-      "cim": "Terrorszervezetté nyilvánított egy magyarországi muszlim közösséget Egyiptom kormánya",
-      "lead": "Összesen 35 európai szervezetet és 36 magánszemélyt vettek fel a listára.",
-      "forrasok": [
-        {
-          "nev": "Index",
-          "cim": "Terrorszervezetté nyilvánított egy magyarországi muszlim közösséget Egyiptom kormánya",
-          "url": "https://index.hu/kulfold/2026/11/12/terrorszervezet-egyiptom-kormany-muszlim-kozosseg/"
-        },
-        {
-          "nev": "Portfolio",
-          "cim": "Terrorszervezetté nyilvánított egy magyarországi szervezetet Egyiptom",
-          "url": "https://www.portfolio.hu/global/20261112/terrorszervezette-nyilvanitott-egy-magyarorszagi-szervezetet-egyiptom-876042"
-        }
-      ]
-    },
-    {
-      "cim": "„Botránypolitizálás”, „súlyos veszély a társadalomra”: Szentkirályi Alexandra és a KDNP is kiakadt az isztambuli egyezmény ratifikálásán",
-      "lead": "A Fidesz országgyűlési képviselője szerint Magyar Péter álszent és képmutató azzal, hogy bejelentett egy sor régen várt, nők védelmét célzó intézkedést. A KDNP szerint az isztambuli egyezmény a genderideológia és a korlátok nélküli migráció előtt nyit teret.",
+      "cim": "Dárdai Pál nagypapa lesz",
+      "lead": "Dárdai Márton és párja gyermeket várnak.",
       "forrasok": [
         {
           "nev": "HVG",
-          "cim": "„Botránypolitizálás”, „súlyos veszély a társadalomra”: Szentkirályi Alexandra és a KDNP is kiakadt az isztambuli egyezmény ratifikálásán",
-          "url": "https://hvg.hu/itthon/20261112_szentkiralyi-alexandra-az-iszambuli-egyezmeny-ratifikalasarol-botranypolitizalas"
+          "cim": "Dárdai Pál nagypapa lesz",
+          "url": "https://hvg.hu/elet/20261113_dardai-pal-nagypapa-dardai-marton"
         },
         {
+          "nev": "Index",
+          "cim": "Nagyapa lesz Dárdai Pál",
+          "url": "https://index.hu/sport/futball/2026/11/13/dardai-pal-dardai-marton-csalad-bejelentes-instagram/"
+        }
+      ]
+    },
+    {
+      "cim": "Ókovács: „Mennyire leszek megverve?” – az UEFA-tiltás ellenére kétszáz magyar Georgiában",
+      "lead": "Hiába a büntetés, a szurkolók elkísérik a válogatottat Tibiliszibe, az Operaház menesztett főigazgatója is a lelátóra készül.",
+      "forrasok": [
+        {
+          "nev": "Magyar Nemzet",
+          "cim": "Ókovács: „Mennyire leszek megverve?” – az UEFA-tiltás ellenére kétszáz magyar Georgiában",
+          "url": "https://magyarnemzet.hu/sport/2026/11/magyar-szurkolok-tibiliszi-uefa-tiltas-georgia-okovacs?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        },
+        {
+          "nev": "HVG",
+          "cim": "„Mennyire leszek megverve szombaton?” – Ókovács a tiltás ellenére kimenne a magyar válogatott meccsére",
+          "url": "https://hvg.hu/elet/20261113_tbiliszi-okovacs-szilveszter-opera-uefa-tiltas-magyar-valogatott-meccs"
+        }
+      ]
+    },
+    {
+      "cim": "Belső vizsgálatot rendelt el az új legfőbb ügyész az aranykonvoj-ügy miatt",
+      "lead": "Annyi feljelentés jön az előző kormány ügyei miatt, hogy arra az ügyészség nincs felkészülve Fejes Péter szerint.",
+      "forrasok": [
+        {
           "nev": "444",
-          "cim": "Magyar Péter: Kezdeményezzük az Isztambuli Egyezmény ratifikálását",
-          "url": "https://444.hu/2026/11/12/magyar-peter-kezdemenyezzuk-az-isztambuli-egyezmeny-ratifikalasat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "cim": "Belső vizsgálatot rendelt el az új legfőbb ügyész az aranykonvoj-ügy miatt",
+          "url": "https://444.hu/2026/11/13/belso-vizsgalatot-rendelt-el-az-uj-legfobb-ugyesz-az-aranykonvoj-ugy-miatt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "Magyar Nemzet",
+          "cim": "Belső vizsgálatot rendelt el az aranykonvoj ügyében az új legfőbb ügyész",
+          "url": "https://magyarnemzet.hu/belfold/2026/11/belso-vizsgalatot-rendelt-el-az-aranykonvoj-ugyeben-az-uj-legfobb-ugyesz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        }
+      ]
+    },
+    {
+      "cim": "Orbán Viktor: Tragikus lenne, ha elvennének a magyar sport támogatásából",
+      "lead": "A pártelnök szerint a magyar sportnak nem kevesebb, hanem több támogatásra van szüksége. A miniszterelnök a TAO-rendszer kapcsán fejtette ki álláspontját.",
+      "forrasok": [
+        {
+          "nev": "Magyar Nemzet",
+          "cim": "Orbán Viktor: Tragikus lenne, ha elvennének a magyar sport támogatásából",
+          "url": "https://magyarnemzet.hu/belfold/2026/11/orban-viktor-tragikus-lenne-ha-elvennenek-a-magyar-sport-tamogatasabol?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        }
+      ]
+    },
+    {
+      "cim": "Megvan Michael Carrick utódja a Manchester United kispadján",
+      "lead": "Az Anfielden debütál a rutinos szakember.",
+      "forrasok": [
+        {
+          "nev": "Index",
+          "cim": "Megvan Michael Carrick utódja a Manchester United kispadján",
+          "url": "https://index.hu/sport/futball/2026/11/13/manchester-united-mauricio-pochettino-michael-carrick-premier-league-anglia/"
+        }
+      ]
+    },
+    {
+      "cim": "Kitűzőből társadalmi üzenet – az influenszerek szívükön viselik a beteg gyerekek sorsát",
+      "lead": "Adományozó kitűzőjéről adott hírt a Bátor Tábor.",
+      "forrasok": [
+        {
+          "nev": "Index",
+          "cim": "Kitűzőből társadalmi üzenet – az influenszerek szívükön viselik a beteg gyerekek sorsát",
+          "url": "https://index.hu/fomo/2026/11/13/bator-tabor-charity-pin-influenszer-adomanygyujtes/"
         }
       ]
     }
   ],
   "nemzetkozi": [
     {
-      "cim": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
-      "lead": "Hospital director says 28 wounded in attack on one of few remaining medical facilities in the strip An Israeli airstrike on Nasser hospital in southern Gaza killed six people, including a surgeon and a disabled man, and wounded 28 others, according to the hospital director. The Israeli military carried out the attack…",
+      "cim": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
+      "lead": "Ukraine and Russia have agreed to expand next round of negotiations to include European countries Hungary’s Péter Magyar is also here, looking very elegant as always… … but it looks like he took a slight detour on the way back to hotel last night to try and pour a perfect pint of Guinness. Continue reading...",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
-          "url": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon"
+          "cim": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates"
         },
         {
           "nev": "Deutsche Welle",
-          "cim": "Israel targets senior Hamas member in Gaza hospital strike",
-          "url": "https://www.dw.com/en/israel-targets-senior-hamas-member-in-gaza-hospital-strike/a-79927645?maca=en-rss-en-world-4025-rdf"
+          "cim": "What have the talks with Russia and the US in Abu Dhabi achieved for Ukraine?",
+          "url": "https://www.dw.com/en/what-have-the-talks-with-russia-and-the-us-in-abu-dhabi-achieved-for-ukraine/a-79930613?maca=en-rss-en-world-4025-rdf"
         },
         {
           "nev": "New York Times",
-          "cim": "Strike on Gaza Hospital Kills at Least 6 and Injures 20, Rescuers Say",
-          "url": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html"
+          "cim": "Europe Haggles Over Who Will Represent It in Talks With Russia",
+          "url": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html"
         },
         {
           "nev": "BBC",
-          "cim": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-          "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "cim": "‘I had the courage to believe in Mississippi’ says Scott Colom after historic Senate win – US politics live",
-      "lead": "Colom adds to blue wave of Democrat victories across the US and becomes Mississippi’s first black senator since 1875 after defeating Cindy Hyde-Smith Sign up for the Breaking News US email Hello, and welcome to the US politics live blog. Mississippi has elected Scott Colom, a Democrat, as its senator, adding to a wave…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "‘I had the courage to believe in Mississippi’ says Scott Colom after historic Senate win – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump"
+          "cim": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+          "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss"
         },
         {
           "nev": "Al Jazeera",
-          "cim": "Who is Scott Colom, Mississippi’s first Black senator in 150 years?",
-          "url": "https://www.aljazeera.com/news/2026/11/12/who-is-scott-colom-mississippis-first-black-senator-in-150-years?traffic_source=rss"
-        },
-        {
-          "nev": "BBC",
-          "cim": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-          "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss"
+          "cim": "Why is Ukraine attacking Russian warships in the Baltic Sea amid talks?",
+          "url": "https://www.aljazeera.com/news/2026/11/13/why-is-ukraine-attacking-russian-warships-in-the-baltic-sea-amid-talks?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "Nvidia board reportedly meets to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
-      "lead": "Nvidia shares fall in pre-market trading after report of Huang’s second affair Nvidia board reportedly deciding whether to oust CEO Jensen Huang Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla…",
+      "cim": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+      "lead": "Tech firm sees ‘early signs of stabilisation’ with efforts and says no indication problem was caused by cyber-attack Microsoft outage hits UK hospitals, GPs, schools and police Microsoft outage – live updates Tell us: have you been affected by the outage? Microsoft is scrambling to fix an outage of some of its systems…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "Nvidia board reportedly meets to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
-          "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest"
+          "cim": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+          "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports"
+        },
+        {
+          "nev": "BBC",
+          "cim": "What we know about the global Microsoft outage",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
         },
         {
           "nev": "Al Jazeera",
-          "cim": "Nvidia board weighs Jensen Huang’s future: Can it remove its founder?",
-          "url": "https://www.aljazeera.com/news/2026/11/12/nvidia-board-weighs-jensen-huangs-future-can-it-remove-its-founder?traffic_source=rss"
-        },
-        {
-          "nev": "BBC",
-          "cim": "Who could replace Jensen Huang as Nvidia's chief executive?",
-          "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss"
+          "cim": "Microsoft hit by global outages: What happened and why?",
+          "url": "https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "Zelenskyy urges Europe to ‘pay attention’ to security relations with Russia as US envoys meet Putin - Europe live",
-      "lead": "The Ukrainian president said Europe should ‘become a regular part’ of negotiations with Russia Luxembourg’s PM Luc Frieden looks to be absolutely chuffed to be representing all three Benelux countries at today’s summit, as his Belgian and Dutch colleagues are too busy to attend as they face domestic crises. “I have…",
+      "cim": "Jensen Huang: Spy row, affairs leave Nvidia without its rockstar CEO",
+      "lead": "Jensen Huang, who built Nvidia into the world’s dominant AI chipmaker, is stepping down as CEO over extramarital affairs. DW examines how losing its figurehead will affect the firm and the US-China AI race.",
+      "forrasok": [
+        {
+          "nev": "Deutsche Welle",
+          "cim": "Jensen Huang: Spy row, affairs leave Nvidia without its rockstar CEO",
+          "url": "https://www.dw.com/en/jensen-huang-spy-row-affairs-leave-nvidia-without-its-rockstar-ceo/a-79926972?maca=en-rss-en-world-4025-rdf"
+        },
+        {
+          "nev": "BBC",
+          "cim": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+          "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "US Senate summons Nvidia’s Huang, Lutnick to testify",
+          "url": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Iran says it destroyed US military radar in Bahrain in retaliatory strike",
+      "lead": "First direct attack on US military installations for months was in response to US airstrike on communications tower Iran’s Islamic Revolutionary Guard Corps says it has targeted and destroyed a US early-warning radar in Bahrain – its first direct attack on US military installations for months – in response to a US…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "Zelenskyy urges Europe to ‘pay attention’ to security relations with Russia as US envoys meet Putin - Europe live",
-          "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates"
-        },
+          "cim": "Iran says it destroyed US military radar in Bahrain in retaliatory strike",
+          "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz"
+        }
+      ]
+    },
+    {
+      "cim": "Pakistan military reports it killed 74 ‘terrorists’ during raids",
+      "lead": "Increased attacks on the border with Afghanistan have caused tensions between the neighbours.",
+      "forrasok": [
+        {
+          "nev": "Al Jazeera",
+          "cim": "Pakistan military reports it killed 74 ‘terrorists’ during raids",
+          "url": "https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "India cancels visa of Norwegian journalist who questioned Modi",
+      "lead": "The Norwegian journalist who questioned PM Narendra Modi over press freedom has had her visa to India cancelled.",
+      "forrasok": [
+        {
+          "nev": "Al Jazeera",
+          "cim": "India cancels visa of Norwegian journalist who questioned Modi",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/india-cancels-visa-of-norwegian-journalist-who-questioned-modi?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "UN watchdog calls on Iran to reopen nuclear facilities to inspection",
+      "lead": "IAEA says it cannot verify whether an underground Iranian enrichment plant contains nuclear material.",
+      "forrasok": [
+        {
+          "nev": "Al Jazeera",
+          "cim": "UN watchdog calls on Iran to reopen nuclear facilities to inspection",
+          "url": "https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "UK-EU deal will lead to ‘growing pressure’ for parliament to scrutinise legislation, warns committee – UK politics live",
+      "lead": "The report on food and emissions comes ahead of a joint UK-EU summit next week The Home Office underspent its Prevent counter-terror scheme budget by nearly a third last year, despite the number of referrals reaching record levels, the public spending watchdog has said. The National Audit Office (NAO) said the Home…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "UK-EU deal will lead to ‘growing pressure’ for parliament to scrutinise legislation, warns committee – UK politics live",
+          "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates"
+        }
+      ]
+    },
+    {
+      "cim": "What’s behind Australia’s surge in teen extremism?",
+      "lead": "Young people are being found with ‘hard drives full of what can only be described as gore’, one expert says Get our breaking news email , free app or daily news podcast In March, Guardian Australia revealed that most people who have been charged with the new federal crime of possession of violent extremist material…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "What’s behind Australia’s surge in teen extremism?",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/13/australia-surge-in-teen-extremism-ntwnfb"
+        }
+      ]
+    },
+    {
+      "cim": "Why Aid Isn’t Reaching Ebola’s Epicenter",
+      "lead": "The Ebola outbreak in the eastern Democratic Republic of the Congo has a new epicenter, one largely isolated from aid by an armed group that has killed and kidnapped aid workers. Declan Walsh, our chief Africa correspondent, reports from a town where health workers are struggling to contain the outbreak.",
+      "forrasok": [
         {
           "nev": "New York Times",
-          "cim": "Seeking to Broaden Ukraine Talks, U.S. Urges Russia to Include Europe",
-          "url": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
-          "url": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss"
+          "cim": "Why Aid Isn’t Reaching Ebola’s Epicenter",
+          "url": "https://www.nytimes.com/video/world/africa/100000011257751/why-aid-isnt-reaching-ebolas-epicenter.html"
         }
       ]
     },
     {
-      "cim": "Indonesia’s Vice President, Gibran, Resigns",
-      "lead": "Gibran Rakabuming Raka, who is stepping down amid a scandal over his academic credentials, was a symbol of the partnership that elevated President Prabowo Subianto into office.",
+      "cim": "After Xi Purges China’s Generals, a Military Inquisitor Rises",
+      "lead": "The rise of Zhang Shengmin suggests that China’s top brass remains embroiled in investigations, potentially complicating preparations for war over Taiwan.",
       "forrasok": [
         {
           "nev": "New York Times",
-          "cim": "Indonesia’s Vice President, Gibran, Resigns",
-          "url": "https://www.nytimes.com/2026/11/12/world/asia/indonesia-gibran-vice-president-resign.html"
-        },
-        {
-          "nev": "BBC",
-          "cim": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-          "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "Indonesia vice president resigns amid dispute over eligibility",
-          "url": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss"
+          "cim": "After Xi Purges China’s Generals, a Military Inquisitor Rises",
+          "url": "https://www.nytimes.com/2026/11/13/world/asia/china-military-purge-zhang-shengmin-taiwan.html"
         }
       ]
     },
     {
-      "cim": "Millions join Spain’s first general strike in 14 years in protest at housing costs",
-      "lead": "Twenty-four-hour stoppage draws high participation weeks before election in which far right could gain power Millions of people across Spain have joined the country’s first general strike in 14 years, setting up picket lines to protest against soaring housing prices before an election in which the far right could be…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Millions join Spain’s first general strike in 14 years in protest at housing costs",
-          "url": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs"
-        },
-        {
-          "nev": "New York Times",
-          "cim": "Workers in Spain Stage a General Strike for the First Time in 14 Years",
-          "url": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html"
-        }
-      ]
-    },
-    {
-      "cim": "Shipwreck Off Senegal Kills Dozens as Canary Islands Declare Migrant Emergency",
-      "lead": "Migrant arrivals to Europe are down overall but still claiming scores of victims, overwhelming local officials and dominating political debate.",
+      "cim": "Caught Between Killers: Ebola on One Side, Islamic State on the Other",
+      "lead": "The new epicenter of Congo’s fast-spreading outbreak is a region scarred by rebel violence. Responders are struggling to help it.",
       "forrasok": [
         {
           "nev": "New York Times",
-          "cim": "Shipwreck Off Senegal Kills Dozens as Canary Islands Declare Migrant Emergency",
-          "url": "https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "More than 300 migrants rescued off Spain’s Canary Islands",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/more-than-300-migrants-rescued-off-spains-canary-islands?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
-      "lead": "Leonardo Bertulazzi, 74, awaiting extradition to Italy, reportedly used harness to flee custody A 74-year-old former member of Italy ’s radical Marxist group the Red Brigades has escaped from house arrest in Argentina , the country’s security ministry confirmed on Wednesday, after he reportedly hid his ankle monitor…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
-          "url": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina"
-        },
-        {
-          "nev": "BBC",
-          "cim": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-          "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Young people should get fewer welfare benefits, according to Milburn review on the workforce – UK politics live",
-      "lead": "Milburn’s review is considering how to address the growing number of young people classified as not in education, employment or training Here are more quotes from what Alan Milburn told the Times about the proposals in his youth unemployment report, which is being published next week. Milburn said he concluded…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Young people should get fewer welfare benefits, according to Milburn review on the workforce – UK politics live",
-          "url": "https://www.theguardian.com/politics/live/2026/nov/12/milburn-review-neets-young-people-welfare-work-latest-news-updates"
-        }
-      ]
-    },
-    {
-      "cim": "Metro Bank up for sale, with billionaire investor in line for £420m windfall",
-      "lead": "Shares up 7% after announcement as Jaime Gilinski Bacal seeks exit three years after helping to rescue bank Metro Bank is putting itself up for sale three years after its near-collapse, in a move that could hand a £420m windfall to its Colombian billionaire investor, Jaime Gilinski Bacal. Metro Bank made the rare…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Metro Bank up for sale, with billionaire investor in line for £420m windfall",
-          "url": "https://www.theguardian.com/business/2026/nov/12/metro-bank-up-for-sale-billionaire-investor-in-line-420m-windfall"
-        }
-      ]
-    },
-    {
-      "cim": "AI helped the UK defy expectations – but will Britain’s resilience fizzle out?",
-      "lead": "Despite John Healey’s defiance, the economy faces threats from a tech slowdown and energy bills this winter AI helps UK economy grow at fastest pace for more than two years The forecasters were clear when John Healey became chancellor in July: Britain’s resilience to the war in the Middle East would not last. The…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "AI helped the UK defy expectations – but will Britain’s resilience fizzle out?",
-          "url": "https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey"
-        }
-      ]
-    },
-    {
-      "cim": "Missing teenager found in bushland during aerial search in Australia",
-      "lead": "A 17-year-old teenager has been found in dense bushland during an aerial search after being missing for six days.",
-      "forrasok": [
-        {
-          "nev": "Al Jazeera",
-          "cim": "Missing teenager found in bushland during aerial search in Australia",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/missing-teenager-found-in-bushland-during-aerial-search-in-australia?traffic_source=rss"
+          "cim": "Caught Between Killers: Ebola on One Side, Islamic State on the Other",
+          "url": "https://www.nytimes.com/2026/11/13/world/africa/ebola-congo-isis.html"
         }
       ]
     }
