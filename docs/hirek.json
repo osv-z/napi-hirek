@@ -1,435 +1,360 @@
 {
-  "datum": "2026-11-14",
-  "generalva": "2026-11-14T12:38+01:00",
+  "datum": "2026-11-15",
+  "generalva": "2026-11-15T13:04+01:00",
   "hazai": [
     {
-      "cim": "Fidesz: Kezdeményezzük Magyar Péter meghallgatását a végrehajtási bizottságban. Magyar: A Fidesz tegnap megszűnt létezni",
-      "lead": "A Seszták-ügyben előásott milliárdok másnapján ahhoz egyáltalán nem kapcsolódó közlemények sorozatával lendült ellentámadásba az ellenzék. Menetrendszerűen érkezett is a miniszterelnök kommentje.",
-      "forrasok": [
-        {
-          "nev": "Telex",
-          "cim": "Fidesz: Kezdeményezzük Magyar Péter meghallgatását a végrehajtási bizottságban. Magyar: A Fidesz tegnap megszűnt létezni",
-          "url": "https://telex.hu/belfold/2026/11/14/fidesz-kezdemenyezzuk-magyar-peter-meghallgatasat-a-vegrehajtasi-bizottsagban-magyar-a-fidesz-tegnap-megszunt-letezni"
-        },
-        {
-          "nev": "HVG",
-          "cim": "Magyar Péter Orbán-videóval üzente meg: A Fidesz, mint politikai párt megszűnt létezni",
-          "url": "https://hvg.hu/itthon/20261114_magyar-peter-orban-videoval-uzente-meg-a-fidesz-mint-politikai-part-megszunt-letezni"
-        },
-        {
-          "nev": "Magyar Nemzet",
-          "cim": "Kínos ügyek szorításában Magyar Péter",
-          "url": "https://magyarnemzet.hu/belfold/2026/11/kinos-ugyek-szoritasaban-magyar-peter?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-        },
-        {
-          "nev": "Index",
-          "cim": "Magyar Péter: A Fidesz, mint politikai párt, megszűnt létezni",
-          "url": "https://index.hu/belfold/2026/11/14/magyar-peter-sesztak-miklos-keszpenz-fidesz-orban-viktor-maffia-nvvh/"
-        },
-        {
-          "nev": "444",
-          "cim": "A Fidesz-frakció visszacsap: Magyar Péter meghallgatását kezdeményezik",
-          "url": "https://444.hu/2026/11/14/a-fidesz-frakcio-visszacsap-magyar-peter-meghallgatasat-kezdemenyezik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        }
-      ]
-    },
-    {
-      "cim": "Így reagált a Fidesz a Seszták Miklós elásott milliárdjaira",
-      "lead": "A volt kormánypropaganda utolsó aktív arcai is reagáltak a hírre, Szakács István AI kincses térképet készített, Dopeman szerint pedig kellékpénzt ástak elő az NVVH munkatársai.",
+      "cim": "Vitézy: Szigorítják a balatoni építkezések szabályait",
+      "lead": "A miniszter azt ígéri, hogy megállítják a tópart további túlzott beépítését, az erről szóló törvényjavaslat november 21-ig véleményezhető.",
       "forrasok": [
         {
           "nev": "444",
-          "cim": "Így reagált a Fidesz a Seszták Miklós elásott milliárdjaira",
-          "url": "https://444.hu/2026/11/14/igy-reagalt-a-fidesz-a-sesztak-miklos-elasott-milliardjaira?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "Magyar Nemzet",
-          "cim": "Seszták Miklós ügyvédje szerint a megtalált milliárdoknak nincs közük védencéhez",
-          "url": "https://magyarnemzet.hu/belfold/2026/11/sesztak-miklos-ugyvedje-szerint-a-megtalalt-milliardoknak-nincs-kozuk-vedencehez?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-        },
-        {
-          "nev": "Telex",
-          "cim": "Seszták Miklós védője: Senki nem állította, hogy ez Seszták pénze",
-          "url": "https://telex.hu/belfold/2026/11/14/sesztak-miklos-vedo-reakcio-6-5-milliard"
+          "cim": "Vitézy: Szigorítják a balatoni építkezések szabályait",
+          "url": "https://444.hu/2026/11/15/vitezy-szigoritjak-a-balatoni-epitkezesek-szabalyait?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         },
         {
           "nev": "HVG",
-          "cim": "Seszták ügyvédje szerint „ez nem a védence pénze”",
-          "url": "https://hvg.hu/itthon/20261114_sesztak-miklos-elasott-milliardok-nvvh-papp-gabor-ugyved"
-        }
-      ]
-    },
-    {
-      "cim": "Válik Sebestyén Balázs és felesége",
-      "lead": "A Rádió 1 reggeli műsorában továbbra is együtt dolgoznak, és közösen nevelik a gyerekeiket.",
-      "forrasok": [
-        {
-          "nev": "HVG",
-          "cim": "Válik Sebestyén Balázs és felesége",
-          "url": "https://hvg.hu/elet/20261114_valik-sebestyen-balazs-es-felesege"
-        },
-        {
-          "nev": "Telex",
-          "cim": "Sebestyén Balázs és felesége válnak",
-          "url": "https://telex.hu/after/2026/11/14/sebestyen-balazs-es-felesege-valnak"
+          "cim": "Vitézy Dávid: Szigorítjuk a balatoni építkezések szabályait",
+          "url": "https://hvg.hu/gazdasag/20261115_vitezy-balatoni-epitkezesek-szabalyok-szigoritas"
         },
         {
           "nev": "Index",
-          "cim": "Válik Sebestyén Balázs és felesége, Viktória",
-          "url": "https://index.hu/fomo/2026/11/14/sebestyen-balazs-valas/"
+          "cim": "Szigorítja a balatoni építkezések szabályait a kormány, akár hároméves tilalom is jöhet",
+          "url": "https://index.hu/belfold/2026/11/15/vitezy-david-balaton-kornyezetvedelem-tervtanacs/"
         }
       ]
     },
     {
-      "cim": "Rühfertőzés miatt vezettek be járványügyi intézkedéseket a Szent János Kórházban",
-      "lead": "A pszichiátriai osztály földszinti rehabilitációs részlegén fertőződtek meg többen.",
-      "forrasok": [
-        {
-          "nev": "HVG",
-          "cim": "Rühfertőzés miatt vezettek be járványügyi intézkedéseket a Szent János Kórházban",
-          "url": "https://hvg.hu/elet/20261114_ruhfertozes-szent-janos-korhaz-pszichiatriai-osztaly-jarvanyugyi-intezkedesek"
-        },
-        {
-          "nev": "444",
-          "cim": "Rühfertőzés terjed a Szent János kórház pszichiátriai osztályán",
-          "url": "https://444.hu/2026/11/14/ruhfertozes-terjed-a-szent-janos-korhaz-pszichiatriai-osztalyan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "Magyar Nemzet",
-          "cim": "Rühfertőzés jelent meg a Szent János Kórház pszichiátriai osztályán",
-          "url": "https://magyarnemzet.hu/belfold/2026/11/ruhfertozes-jelent-meg-a-szent-janos-korhaz-pszichiatriai-osztalyan?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-        }
-      ]
-    },
-    {
-      "cim": "Lázár János házi építészstúdiójával és az MMA-elnök cégével épül meg a Tisza-kormány első iskolaépülete Gyömrőn",
-      "lead": "A szándék jó, a megvalósítás már kevésbé. Legalábbis így látják azok az építészek, akik abban bíztak, hogy a kormányváltással új korszak kezdődik. A Közlekedési és Beruházási Minisztérium szerint ugyanakkor a kevésbé előrehaladott beruházásoknál még mérlegelik, hogy a korábbi tervek folytatása helyett új…",
+      "cim": "Toroczkai László a siófoki Tescóban szpottolta Schadl Györgyöt, küldte is neki az idézést",
+      "lead": "Toroczkai felrótta Schadlnek azt is, hogy a kép tanúsága szerint kijárogat a házi őrizetből.",
       "forrasok": [
         {
           "nev": "444",
-          "cim": "Lázár János házi építészstúdiójával és az MMA-elnök cégével épül meg a Tisza-kormány első iskolaépülete Gyömrőn",
-          "url": "https://444.hu/2026/11/14/lazar-janos-hazi-epiteszstudiojaval-es-az-mma-elnok-cegevel-epul-meg-a-tisza-kormany-elso-iskolaepulete-gyomron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "cim": "Toroczkai László a siófoki Tescóban szpottolta Schadl Györgyöt, küldte is neki az idézést",
+          "url": "https://444.hu/2026/11/15/toroczkai-laszlo-a-siofoki-tescoban-szpottolta-schadl-gyorgyot-kuldte-is-neki-az-idezest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Toroczkai László szerint, ha Schadl György Siófokon tud vásárolgatni, akkor a vizsgálóbizottság előtt is megjelenhet",
+          "url": "https://hvg.hu/itthon/20261115_toroczkai-laszlo-schadl-gyorgy-siofok-vasarlas-vizsgalobizottsag"
         },
         {
           "nev": "Index",
-          "cim": "Áll a bál a gyömrői iskola körül, az előző kormányhoz köthető építészekkel építik újjá az intézményt",
-          "url": "https://index.hu/belfold/2026/11/14/gyomro-iskola-epitkezes-szemerey-samu-allamtitkar-tervpalyazat-turi-attila-lazar-janos/"
+          "cim": "Arany Rolex órával a kezén fotózták le a siófoki Tescóban Schadl Györgyöt, a vizsgálóbizottság elé idézte Toroczkai",
+          "url": "https://index.hu/belfold/2026/11/15/toroczkai-laszlo-schadl-gyorgy-parlamenti-vizsgalobizottsag-idezes/"
         }
       ]
     },
     {
-      "cim": "A Seszták-ügy 6,5 milliárdja után hirtelen előkerült majdnem ugyanennyi mém is",
-      "lead": "Seszták Miklós volt fejlesztési miniszter és társainak legújabb fejlesztése: még letartóztatás alatt is képesek elintézni, hogy beinduljon a nemzeti mémgyár.",
+      "cim": "Villanyvezeték, Michael Douglas, kempingfőző: Gyurcsány Ferencet annyira megihlette a Seszták-ügy, hogy leírta az összes szót, amit ismer",
+      "lead": "„Az elvesztett becsületre nincs kempingfőző, és nincs szerelőbrigád sem.” Nem érdemeltük meg ezt az embert.",
       "forrasok": [
         {
-          "nev": "HVG",
-          "cim": "A Seszták-ügy 6,5 milliárdja után hirtelen előkerült majdnem ugyanennyi mém is",
-          "url": "https://hvg.hu/tudomany/20261114_sesztak-miklos-nvvh-nyomozas-elasott-penzt"
+          "nev": "444",
+          "cim": "Villanyvezeték, Michael Douglas, kempingfőző: Gyurcsány Ferencet annyira megihlette a Seszták-ügy, hogy leírta az összes szót, amit ismer",
+          "url": "https://444.hu/2026/11/15/villanyvezetek-michael-douglas-kempingfozo-gyurcsany-ferencet-annyira-megihlette-a-sesztak-ugy-hogy-leirta-az-osszes-szot-amit-ismer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         },
         {
           "nev": "Index",
-          "cim": "„Pablo Escobar is elvörösödne” – politikusok reagáltak a Seszták-ügyben előkerült milliárdokra",
-          "url": "https://index.hu/belfold/2026/11/14/sesztak-miklos-karacsony-geregely-hadhazy-akos-fekete-gyor-andras-toroczkai-laszlo-keszpenz-nvvh/"
+          "cim": "Gyurcsány Ferencnél fél napig nem volt áram, és a végén rájött, hogy összeomlik a Fidesz",
+          "url": "https://index.hu/belfold/2026/11/15/gyurcsany-ferenc-armaszunet-fidesz-part-politika-osszeomlas-korrupcio/"
         }
       ]
     },
     {
-      "cim": "Navracsics a kiásott milliárdokról: Ez már hazárdjáték a legfelső fokon",
-      "lead": "A volt igazságügyi miniszter két lehetséges forgatókönyvet vázolt fel: vagy Magyar Péternek kell mennie, vagy a Fideszt kell alapvetően újragondolni.",
+      "cim": "Autóval tört be három rabló egy bajor ékszerüzletbe, hajtóvadászat indult",
+      "lead": "Egy autóval betörték a kirakatot, egy másikkal elmenekültek, majd gyalog mentek tovább. Kettejüket már elkapták.",
+      "forrasok": [
+        {
+          "nev": "444",
+          "cim": "Autóval tört be három rabló egy bajor ékszerüzletbe, hajtóvadászat indult",
+          "url": "https://444.hu/2026/11/15/autoval-tort-be-harom-rablo-egy-bajor-ekszeruzletbe-hajtovadaszat-indult?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "Index",
+          "cim": "Autóval hajtottak be egy ékszerüzletbe és kifosztották, hajtóvadászat indult a tettesek után",
+          "url": "https://index.hu/kulfold/2026/11/15/nemetorszag-betores-lopas-menekules-ekszer-rendorseg/"
+        }
+      ]
+    },
+    {
+      "cim": "Ez történt: Berobbantak a Seszták-mémek",
+      "lead": "Összegyűjtöttük egy cikkbe a hét legérdekesebb, legolvasottabb technológiai és tudományos témáit.",
       "forrasok": [
         {
           "nev": "HVG",
-          "cim": "Navracsics a kiásott milliárdokról: Ez már hazárdjáték a legfelső fokon",
-          "url": "https://hvg.hu/itthon/20261114_navracsics-tibor-sesztak-miklos-kiasott-milliardok-nvvh-reakcio"
+          "cim": "Ez történt: Berobbantak a Seszták-mémek",
+          "url": "https://hvg.hu/tudomany/20261115_el-nino-who-sesztak-memek-radiojel-chrome-frissites-microsoft-leallas"
+        },
+        {
+          "nev": "Index",
+          "cim": "Navracsics Tibor szerint szégyenteljes, ami a Seszták-ügyben történik, a Fidesz megtisztulását sürgeti",
+          "url": "https://index.hu/belfold/2026/11/15/sesztak-ugy-navracsics-tibor-jobboldal-fidesz-nemzeti-oldal/"
+        }
+      ]
+    },
+    {
+      "cim": "Bódis Kriszta elismerte: leállt a közbiztonsági mobil csapat, és a szociális dolgozók béremelését sem tartja sikernek",
+      "lead": "A kormánybiztos szerint a Felzárkózó Települések program vizsgálata során is komoly hiányosságok merültek fel.",
+      "forrasok": [
+        {
+          "nev": "Index",
+          "cim": "Bódis Kriszta elismerte: leállt a közbiztonsági mobil csapat, és a szociális dolgozók béremelését sem tartja sikernek",
+          "url": "https://index.hu/belfold/2026/11/15/bodis-kriszta-fete-program-palyazatok-felzarkozo-telepulesek-program/"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Az ELTE-től kapják meg elmaradt béremelésüket a HUN-REN dolgozói",
+          "url": "https://hvg.hu/tudomany/20261115_hun-ren-beremeles-elte"
+        }
+      ]
+    },
+    {
+      "cim": "Abszolút hittanóra: Magyar Péter szerint még a Bibliából is Seszták ömlik",
+      "lead": "„Azért az élet nagy rendező” – kommentálta a vasárnap esedékes, pénz elásásáról szóló evangéliumi részletet.",
+      "forrasok": [
+        {
+          "nev": "444",
+          "cim": "Abszolút hittanóra: Magyar Péter szerint még a Bibliából is Seszták ömlik",
+          "url": "https://444.hu/2026/11/15/abszolut-hittanora-magyar-peter-szerint-meg-a-bibliabol-is-sesztak-omlik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "Index",
+          "cim": "Tuzson Bence szerint meseszerű történet az elásott milliárdok ügye, Magyar Péter pedig csak terel",
+          "url": "https://index.hu/belfold/2026/11/15/tuzson-bence-magyar-peter-elasott-milliardok-nvvh/"
+        }
+      ]
+    },
+    {
+      "cim": "Soproni Tamás kipaterolja az AI-slopot az önkormányzati kommunikációból",
+      "lead": "Terézváros polgármestere megtiltotta az önkormányzatnak, valamint a cégeinek és az intézményeinek, hogy az AI által generált képek és videók használatát.",
+      "forrasok": [
+        {
+          "nev": "444",
+          "cim": "Soproni Tamás kipaterolja az AI-slopot az önkormányzati kommunikációból",
+          "url": "https://444.hu/2026/11/15/soproni-tamas-kipaterolja-az-ai-slopot-az-onkormanyzati-kommunikaciobol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Soproni Tamás megtiltotta az önkormányzati cégeknek és intézményeknek az AI-képek használatát",
+          "url": "https://hvg.hu/elet/20261115_soproni-tamas-tiltas-ai-kepek-onkormanyzati-cegek"
+        }
+      ]
+    },
+    {
+      "cim": "Nem kínai, büszkén japán: teszten a picit hibrid, nagy motoros új Mazda CX-5",
+      "lead": "Itt a megoldás azok számára, akik picit már megcsömörlöttek a kínai szabadidő-autóktól, és azok helyett inkább egy egyedi dizájnú, remek vezethetőségű japán divatterepjáróra vágynak. Hazai utakon vezettük a teljesen új Mazda CX-5-öt.",
+      "forrasok": [
+        {
+          "nev": "HVG",
+          "cim": "Nem kínai, büszkén japán: teszten a picit hibrid, nagy motoros új Mazda CX-5",
+          "url": "https://hvg.hu/cegauto/20261115_nem-kinai-buszken-japan-picit-hibrid-nagy-motor-uj-mazda-cx-5-teszt-velemeny"
+        },
+        {
+          "nev": "Index",
+          "cim": "Megcsinálták, megnéztük: itt a nagy budapesti WC-teszt",
+          "url": "https://index.hu/belfold/2026/11/15/budapest-koz-wc-illemhely-mosdo-teszt/"
+        }
+      ]
+    },
+    {
+      "cim": "Ki lesz az utolsó sikeres magyar marxista utódja? Négy településen is előrehozott választásokat tartanak",
+      "lead": "Választási izgalmak Borsodbótán, Gyöngyösmelléken, Álmosdon és Bagaméren.",
+      "forrasok": [
+        {
+          "nev": "444",
+          "cim": "Ki lesz az utolsó sikeres magyar marxista utódja? Négy településen is előrehozott választásokat tartanak",
+          "url": "https://444.hu/2026/11/15/ki-lesz-az-utolso-sikeres-magyar-marxista-utodja-negy-telepulesen-is-elorehozott-valasztasokat-tartanak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         },
         {
           "nev": "Magyar Nemzet",
-          "cim": "Szappanopera és hazárdjáték a legfelső fokon: újabb exminiszter szólalt meg a Seszták-ügyről",
-          "url": "https://magyarnemzet.hu/belfold/2026/11/szappanopera-es-hazardjatek-a-legfelso-fokon-ujabb-ex-miniszter-szolalt-meg-a-sesztak-ugyrol?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+          "cim": "Pártok nélkül dől el, ki vezeti tovább a négy magyar települést",
+          "url": "https://magyarnemzet.hu/belfold/2026/11/partok-nelkul-dol-el-ki-vezeti-tovabb-a-negy-magyar-telepulest?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
         }
       ]
     },
     {
-      "cim": "Hatalmas vagyont ástak el az erdőben: itt van Seszták Miklós ügyvédjének magyarázata",
-      "lead": "Közel 6,5 milliárd forintnyi, erdőkben és különböző épületekben elrejtett készpénzt foglaltak le a hatóságok az ezen a héten tartott házkutatások során a szeptemberben letartóztatott Seszták Miklós volt miniszter büntetőügyében. A politikus védője ugyanakkor leszögezte, hogy a lefoglalt vagyon nem az ügyfeléé, a több…",
+      "cim": "Seszták-ügy: Magyar Péternek mennie kell, ha nem bizonyítják a vádakat, állítja a Fidesz",
+      "lead": "Deutsch Tamás szerint Magyar Péter célja az egypártrendszer bevezetése és a Fidesz felszámolása",
+      "forrasok": [
+        {
+          "nev": "Magyar Nemzet",
+          "cim": "Seszták-ügy: Magyar Péternek mennie kell, ha nem bizonyítják a vádakat, állítja a Fidesz",
+          "url": "https://magyarnemzet.hu/belfold/2026/11/sesztak-ugy-magyar-peter-fidesz-deutsch?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        }
+      ]
+    },
+    {
+      "cim": "Fellendülés előtt még egy kis lejtmenet: itt vannak az építőipari piaci szereplők baljós várakozásai",
+      "lead": "A hazai építőipar szereplői nem gyors fellendülésre, hanem elhúzódó kivárásra és mélyebb átrendeződésre számítanak, derül ki a Future of Construction 2026 konferencia közönségszavazásából. A válaszadók majdnem fele átrendeződést vár, közel háromnegyedük pedig a következő évek bizonytalan megrendelésállományát tartja a…",
       "forrasok": [
         {
           "nev": "Portfolio",
-          "cim": "Hatalmas vagyont ástak el az erdőben: itt van Seszták Miklós ügyvédjének magyarázata",
-          "url": "https://www.portfolio.hu/gazdasag/20261114/hatalmas-vagyont-astak-el-az-erdoben-itt-van-sesztak-miklos-ugyvedjenek-magyarazata-876466"
-        },
-        {
-          "nev": "444",
-          "cim": "Seszták Miklós minden magyarnak jön minimum 2 doboz sörrel",
-          "url": "https://444.hu/2026/11/14/sesztak-miklos-minden-magyarnak-jon-minimum-2-doboz-sorrel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        }
-      ]
-    },
-    {
-      "cim": "Kiderült, miről tárgyal Trump, Putyin és Hszi: komoly pofon érheti Oroszországot a csúcstalálkozón",
-      "lead": "A Fehér Ház szóvivője, Olivia Wales elmondta, hogy milyen témával készül Donald Trump amerikai elnök a sencseni hármas csúcstalálkozóra – közölte az Iran International.",
-      "forrasok": [
-        {
-          "nev": "Portfolio",
-          "cim": "Kiderült, miről tárgyal Trump, Putyin és Hszi: komoly pofon érheti Oroszországot a csúcstalálkozón",
-          "url": "https://www.portfolio.hu/global/20261114/kiderult-mirol-targyal-trump-putyin-es-hszi-komoly-pofon-erheti-oroszorszagot-a-csucstalalkozon-876444"
-        },
-        {
-          "nev": "HVG",
-          "cim": "Kuba komolyan veszi Trump fenyegetését",
-          "url": "https://hvg.hu/vilag/20261114_kuba-amerikai-tamadas-donald-trump-felkeszules"
-        }
-      ]
-    },
-    {
-      "cim": "Teljes mértékben helyreállította szolgáltatásait a Microsoft",
-      "lead": "Állításuk szerint a zavarokat műszaki hiba, nem pedig kibertámadás vagy a mesterséges intelligencia esetleges meghibásodása okozta.",
-      "forrasok": [
-        {
-          "nev": "444",
-          "cim": "Teljes mértékben helyreállította szolgáltatásait a Microsoft",
-          "url": "https://444.hu/2026/11/14/teljes-mertekben-helyreallitotta-szolgaltatasait-a-microsoft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "Telex",
-          "cim": "Helyreállította a Microsoft a megbénult céges szolgáltatásait, több mint 430 millió felhasználót érinthetett a leállás",
-          "url": "https://telex.hu/techtud/2026/11/14/microsoft-leallas-helyreallitas-szolgaltatas-office-teams-outlook"
-        }
-      ]
-    },
-    {
-      "cim": "Az NVVH szó szerint előásta Seszták Miklós készpénzben tartott milliárdjait, a KDNP-s politikus erdőkben, raktárakban, félreeső széfekben rejtette el a pénzt",
-      "lead": "A három megyére kiterjedő, kétnapos kutatás során 5 071 632 000 forintot, 2 658 350 eurót és 1 257 100 amerikai dollárt találtak.",
-      "forrasok": [
-        {
-          "nev": "444",
-          "cim": "Az NVVH szó szerint előásta Seszták Miklós készpénzben tartott milliárdjait, a KDNP-s politikus erdőkben, raktárakban, félreeső széfekben rejtette el a pénzt",
-          "url": "https://444.hu/2026/11/13/az-nvvh-szo-szerint-eloasta-sesztak-miklos-keszpenzben-tartott-milliardjait-a-kdnp-s-politikus-erdokben-raktarakban-felreeso-szefekben-rejtette-el-a-penzt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "Telex",
-          "cim": "Navracsics Tibor is reagált a Seszták-ügyben erdőkben, raktárakban talált milliárdokra",
-          "url": "https://telex.hu/belfold/2026/11/14/navracsics-tibor-reakcio-sesztak-miklos-nvvh"
-        }
-      ]
-    },
-    {
-      "cim": "Áder János levélben kéri Forsthoffer Ágnest, hogy támogassa tovább azokat a hátrányos helyzetű gyerekeket, akiket eddig ő támogatott",
-      "lead": "Megszűnik a volt államfőket megillető jótékonysági keret, Áder arra kéri a házelnököt, hogy folytassa az általa megkezdett ösztöndíjprogramot.",
-      "forrasok": [
-        {
-          "nev": "Telex",
-          "cim": "Áder János levélben kéri Forsthoffer Ágnest, hogy támogassa tovább azokat a hátrányos helyzetű gyerekeket, akiket eddig ő támogatott",
-          "url": "https://telex.hu/belfold/2026/11/14/ader-janos-level-forsthoffer-agnes-osztondijprogram-jotekonysagi-keret"
-        },
-        {
-          "nev": "444",
-          "cim": "Áder János arra kérte Forsthoffer Ágnest, hogy a megemelt keretéből fiatalokat támogasson",
-          "url": "https://444.hu/2026/11/14/ader-janos-arra-kerte-forsthoffer-agnest-hogy-a-megemelt-keretebol-fiatalokat-tamogasson?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "cim": "Fellendülés előtt még egy kis lejtmenet: itt vannak az építőipari piaci szereplők baljós várakozásai",
+          "url": "https://www.portfolio.hu/ingatlan/20261115/fellendules-elott-meg-egy-kis-lejtmenet-itt-vannak-az-epitoipari-piaci-szereplok-baljos-varakozasai-876284"
         }
       ]
     }
   ],
   "nemzetkozi": [
     {
-      "cim": "Microsoft says services fully restored after global outage",
-      "lead": "Tech company says services now restored to all customers and regions hit by one of worst IT failures in years Microsoft has said its service is fully restored after a massive outage that caused widespread disruption to governments, businesses and public services around the world . The tech company said on Saturday…",
+      "cim": "Philippines’ Carmelle wins first Eurovision contest in Asia",
+      "lead": "Filipino entry, pop and rap song Sobra-Sobra, takes 19-year-old to victory at grand final in Bangkok Carmelle Collado has won the first Eurovision song contest Asia, taking the Philippines’ entry, Sobra-Sobra , to victory in Bangkok on Saturday night, at the first regional edition of the contest to be staged outside…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "Microsoft says services fully restored after global outage",
-          "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage"
-        },
-        {
-          "nev": "Deutsche Welle",
-          "cim": "Microsoft says all services working again",
-          "url": "https://www.dw.com/en/microsoft-says-all-services-working-again/a-79946887?maca=en-rss-en-world-4025-rdf"
+          "cim": "Philippines’ Carmelle wins first Eurovision contest in Asia",
+          "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia"
         },
         {
           "nev": "New York Times",
-          "cim": "Microsoft’s Global Outage and Fixes: What We Know",
-          "url": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html"
+          "cim": "Asia’s Eurovision Contest Is Missing China, India, Pakistan, Indonesia and Japan",
+          "url": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-china-japan.html"
         },
         {
           "nev": "BBC",
-          "cim": "Microsoft says services fully restored after day-long global outage",
-          "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+          "cim": "Philippines wins first Eurovision Song Contest Asia",
+          "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "cim": "Airport chaos continues after US ground stop lifted – as it happened",
-      "lead": "This blog is now closed. See our full reports: US aviation agency lifts nationwide ground stop affecting all air travel Chaos at US airports as flight stoppage grinds travel plans to a halt Sign up for the Breaking News US email We’re wrapping up this live coverage of the US ground stop and travel chaos that followed…",
+      "cim": "Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live",
+      "lead": "Bahrain lies directly across Persian Gulf from Iran and is home to US Navy Fifth Fleet The US thinks Iran still has between 1,500-2,500 missiles in its arsenal despite the US-Israeli damage done this year to its production facilities, reports the Wall St Journal. That’s the “low confidence” assessment from…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "Airport chaos continues after US ground stop lifted – as it happened",
-          "url": "https://www.theguardian.com/world/live/2026/nov/13/us-flight-outage-live-updates-faa-lifts-nationwide-ground-stop-as-airport-chaos-continues"
-        },
-        {
-          "nev": "BBC",
-          "cim": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
-          "url": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss"
+          "cim": "Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live",
+          "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis"
         },
         {
           "nev": "Al Jazeera",
-          "cim": "US air travel thrown into chaos after nationwide ground stop halts flights",
-          "url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-disrupts-nba-nhl-and-college-football-weekend-travel?traffic_source=rss"
+          "cim": "Iran says it targets US radar in Bahrain. What do we know?",
+          "url": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
-      "lead": "First direct attack on US military installations for months was in response to US airstrike on communications tower Iran’s Islamic Revolutionary Guard Corps says it has targeted and destroyed a US early-warning radar in Bahrain in response to a US airstrike on a communications tower in Sirik overlooking the strait of…",
+      "cim": "Jordan sentences three men to death by hanging after deadly church attack",
+      "lead": "Three men have been convicted of carrying out an attack on a church in the Karak governorate that killed nine people.",
       "forrasok": [
         {
-          "nev": "The Guardian",
-          "cim": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
-          "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz"
-        },
-        {
-          "nev": "Deutsche Welle",
-          "cim": "Iran targeted US radar system in Bahrain",
-          "url": "https://www.dw.com/en/iran-targeted-us-radar-system-in-bahrain/a-79942640?maca=en-rss-en-world-4025-rdf"
-        },
-        {
-          "nev": "New York Times",
-          "cim": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
-          "url": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html"
-        }
-      ]
-    },
-    {
-      "cim": "Tanker collides with cruise ship on Mississippi in New Orleans",
-      "lead": "A freighter collided with a cruise ship carrying around 130 people in New Orleans, causing the paddlewheel vessel to capsize. More than 30 people were hospitalized, but all passengers survived and were accounted for.",
-      "forrasok": [
-        {
-          "nev": "Deutsche Welle",
-          "cim": "Tanker collides with cruise ship on Mississippi in New Orleans",
-          "url": "https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-in-new-orleans/a-79945080?maca=en-rss-en-world-4025-rdf"
+          "nev": "Al Jazeera",
+          "cim": "Jordan sentences three men to death by hanging after deadly church attack",
+          "url": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss"
         },
         {
           "nev": "BBC",
-          "cim": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
-          "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss"
+          "cim": "Three men sentenced to death in Jordan over fatal church mass shooting",
+          "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "cim": "Eisenkot condemns Netanyahu’s ‘racist’ campaign against Israel’s Arab citizens",
-      "lead": "Prime ministerial hopeful calls Arab minority ‘an integral part of the Israeli story’ as he seeks to form government Israeli prime ministerial hopeful Gadi Eisenkot condemned a “racist and aggressive campaign of delegitimisation” against the country’s Arab citizens, after the caretaker prime minister, Benjamin…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Eisenkot condemns Netanyahu’s ‘racist’ campaign against Israel’s Arab citizens",
-          "url": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority"
-        },
-        {
-          "nev": "New York Times",
-          "cim": "Eisenkot Accuses Netanyahu of Fueling ‘Racist’ Hostility Against Arabs",
-          "url": "https://www.nytimes.com/2026/11/13/world/middleeast/eisenkot-netanyahu-racism-arabs.html"
-        }
-      ]
-    },
-    {
-      "cim": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-      "lead": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
-      "forrasok": [
-        {
-          "nev": "BBC",
-          "cim": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-          "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "Hungary seizes $18m cash tied to ex-Orban-era minister in probe",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/hungary-seizes-18m-cash-tied-to-ex-orban-era-minister-in-probe?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Hungary seizes $19.5m in cash found buried in forests amid graft inquiry",
-      "lead": "Anti-corruption agency carried out searches as part of investigation into Orbán-era minister accused of taking bribes Hungary’s anti-corruption agency said on Friday it had seized cash worth $19.5m (£14.8m) buried in forests and hidden elsewhere while investigating an ex-minister of nationalist former leader Viktor…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Hungary seizes $19.5m in cash found buried in forests amid graft inquiry",
-          "url": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "Nearly $20m found in Hungary’s forests, buildings amid corruption probe",
-          "url": "https://www.aljazeera.com/news/2026/11/14/hungarian-investigators-uncover-19-5m-hidden-in-forests-and-buildings?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Two Celebrity Cases Put a Spotlight on British Courts’ Gag Orders",
-      "lead": "Russell Brand and the TV personality David Walliams both persuaded courts to suppress misconduct allegations against them. Some say the libel laws need to change.",
+      "cim": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
+      "lead": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those in France.",
       "forrasok": [
         {
           "nev": "New York Times",
-          "cim": "Two Celebrity Cases Put a Spotlight on British Courts’ Gag Orders",
-          "url": "https://www.nytimes.com/2026/11/14/world/europe/russell-brand-david-walliams-gag-order.html"
+          "cim": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
+          "url": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html"
         },
         {
           "nev": "Al Jazeera",
-          "cim": "Philippine court orders arrest of jailed, US-wanted celebrity preacher",
-          "url": "https://www.aljazeera.com/news/2026/11/14/philippine-court-orders-arrest-of-jailed-us-wanted-celebrity-preacher?traffic_source=rss"
+          "cim": "Police confront protesters in clashes across France and Germany",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/police-confront-protesters-in-clashes-across-france-and-germany?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "SpaceX launches Starship rocket, fails to recover booster",
-      "lead": "SpaceX had planned to catch and later reuse both stages of its biggest rocket for the first time. But the booster exploded over the Gulf of Mexico, while the spacecraft continued into orbit.",
+      "cim": "Judo champion shakes up French presidential race with surprise candidacy",
+      "lead": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
       "forrasok": [
         {
-          "nev": "Deutsche Welle",
-          "cim": "SpaceX launches Starship rocket, fails to recover booster",
-          "url": "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-world-4025-rdf"
+          "nev": "BBC",
+          "cim": "Judo champion shakes up French presidential race with surprise candidacy",
+          "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "nev": "BBC",
-          "cim": "Setback for SpaceX Starship rocket's double-catch test",
-          "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+          "nev": "Al Jazeera",
+          "cim": "Polls open in Cape Verde in race with first female presidential candidate",
+          "url": "https://www.aljazeera.com/news/2026/11/15/polls-open-in-cape-verde-in-race-with-first-female-presidential-candidate?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "Nvidia scandal: US treasury chief blames Lutnick’s commerce department over alleged lack of action",
-      "lead": "US commerce secretary faces sack as questions emerge over senior Trump officials’ knowledge of alleged Chinese spy’s ties to Jensen Huang US politics – live updates The US commerce secretary, Howard Lutnick, is facing growing pressure over his apparent lack of action over the Nvidia spying scandal as other Trump…",
+      "cim": "Athletes rewrite the rules as Dakar 2026 Youth Olympics come to an end",
+      "lead": "Hosts Senegal thrive, and exuberant athletes defy the shadows cast over the Games by politics and history.",
+      "forrasok": [
+        {
+          "nev": "Al Jazeera",
+          "cim": "Athletes rewrite the rules as Dakar 2026 Youth Olympics come to an end",
+          "url": "https://www.aljazeera.com/sports/2026/11/15/dakar-youth-olympics-2026-senegal-games-come-to-an-end?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "MMA fighters jailed after Abu Dhabi hotel lobby brawl",
+      "lead": "Ten people have been convicted by the Abu Dhabi Criminal Court over a brawl in a hotel lobby.",
+      "forrasok": [
+        {
+          "nev": "Al Jazeera",
+          "cim": "MMA fighters jailed after Abu Dhabi hotel lobby brawl",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/mma-fighters-jailed-after-abu-dhabi-hotel-lobby-brawl?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Protest in Prague over media freedom expected to be one of biggest in Czechia’s history",
+      "lead": "Hundreds of thousands expected to rally against plan to scrap licence fees and fund broadcasters from state budget Hundreds of thousands of Czechs are expected to rally in Prague on Sunday to protest against what they say is a government attempt to stifle media freedom. The gathering to save the mandatory licence fees…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "Nvidia scandal: US treasury chief blames Lutnick’s commerce department over alleged lack of action",
-          "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
-        },
-        {
-          "nev": "BBC",
-          "cim": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-          "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
+          "cim": "Protest in Prague over media freedom expected to be one of biggest in Czechia’s history",
+          "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom"
         }
       ]
     },
     {
-      "cim": "New facilities in Laos and Cambodia: Is China expanding its military presence in Southeast Asia?",
-      "lead": "China has been growing its economic relationships in Southeast Asia. Now new military facilities in Laos and Cambodia are causing smaller countries to worry China's military networks are also expanding.",
+      "cim": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?",
+      "lead": "Ukraine's NATO ambition has always been a red line for the Kremlin. Giving up territory has been a no-no for Ukraine.",
       "forrasok": [
         {
-          "nev": "Deutsche Welle",
-          "cim": "New facilities in Laos and Cambodia: Is China expanding its military presence in Southeast Asia?",
-          "url": "https://www.dw.com/en/new-facilities-in-laos-and-cambodia-is-china-expanding-its-military-presence-in-southeast-asia/a-79944798?maca=en-rss-en-world-4025-rdf"
+          "nev": "Al Jazeera",
+          "cim": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?",
+          "url": "https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "SpaceX not being honest about ‘political’ reasons for slowing Starshield, says Zelenskyy",
-      "lead": "Throttling of Elon Musk’s military-grade satellite system affecting whole frontline, says Ukraine’s president Volodymyr Zelenskyy has accused SpaceX of not telling the truth over restrictions to Ukraine’s Starshield satellite system , saying that the decision to impose speed limits appears to be “political” rather…",
+      "cim": "Lucy Beaumont thought she’d never work in TV again after speaking up on David Walliams. Something different happened",
+      "lead": "Book sells out and tour tickets in demand after comedian reveals she contributed to Walliams investigation When the comedian Lucy Beaumont revealed she had intervened to support a junior TV worker concerned about David Walliams’ behaviour, she feared it would brand her as a troublemaker and ensure she would never work…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "SpaceX not being honest about ‘political’ reasons for slowing Starshield, says Zelenskyy",
-          "url": "https://www.theguardian.com/world/2026/nov/14/spacex-not-honest-slowing-starshield-elon-musk-volodymyr-zelenskyy"
+          "cim": "Lucy Beaumont thought she’d never work in TV again after speaking up on David Walliams. Something different happened",
+          "url": "https://www.theguardian.com/tv-and-radio/2026/nov/15/lucy-beaumont-work-tv-david-walliams"
+        }
+      ]
+    },
+    {
+      "cim": "Troubled Scottish steel supplier raises questions over Royal Navy contracts",
+      "lead": "Liberty Steel Dalzell plant in Motherwell with order for 34,000 tonnes of metal plate to build three warships has struggled to pay bills The Royal Navy is facing questions over whether three new warships will be built with British steel as its Scottish supplier faces deepening financial difficulties. Liberty Steel…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Troubled Scottish steel supplier raises questions over Royal Navy contracts",
+          "url": "https://www.theguardian.com/business/2026/nov/15/liberty-steel-dalzell-scotland-royal-navy-contracts-warships"
+        }
+      ]
+    },
+    {
+      "cim": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "lead": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.",
+      "forrasok": [
+        {
+          "nev": "BBC",
+          "cim": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+          "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
