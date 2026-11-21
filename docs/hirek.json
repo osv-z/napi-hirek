@@ -1,435 +1,405 @@
 {
-  "datum": "2026-11-20",
-  "generalva": "2026-11-20T14:14+01:00",
+  "datum": "2026-11-21",
+  "generalva": "2026-11-21T13:50+01:00",
   "hazai": [
     {
-      "cim": "Katasztrofális sorsolás – így kommentálták a szerbek, hogy a magyarokkal kell játszaniuk",
-      "lead": "Nem gyúltak örömtüzek Belgrádban azok után, hogy pénteken délben a labdarúgó Nemzetek Ligája osztályozóján Szoboszlaiékat sorsolták nekik.",
-      "forrasok": [
-        {
-          "nev": "Magyar Nemzet",
-          "cim": "Katasztrofális sorsolás – így kommentálták a szerbek, hogy a magyarokkal kell játszaniuk",
-          "url": "https://magyarnemzet.hu/sport/2026/11/nemzetek-ligaja-szerbia-magyarorszag-szerb-velemenyek?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-        },
-        {
-          "nev": "HVG",
-          "cim": "A fociválogatott útja a szerbeken át vezet a Nemzetek Ligája elitjébe",
-          "url": "https://hvg.hu/sport/20261120_nemzetek-ligaja-oszalyozo-sorsolas-uefa-szerbia-magyar-valogatott"
-        },
-        {
-          "nev": "444",
-          "cim": "A szerbekkel játszik a magyar válogatott, a tét, hogy bejutunk-e a Nemzetek Ligája élvonalába",
-          "url": "https://444.hu/2026/11/20/a-szerbekkel-jatszik-a-magyar-valogatott-a-tet-hogy-bejutunk-e-a-nemzetek-ligaja-elvonalaba?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "Telex",
-          "cim": "Nemzetek Ligája: Szerbiával játszik a magyar válogatott a feljutásért",
-          "url": "https://telex.hu/sport/2026/11/20/nemzetek-ligaja-sorsolas-osztalyozo"
-        },
-        {
-          "nev": "Index",
-          "cim": "Eldőlt, a magyar válogatott a legkönnyebb ellenfelet kapta a Nemzetek Ligája-osztályozón",
-          "url": "https://index.hu/sport/futball/2026/11/20/nemzetek-ligaja-sorsolas-magyarorszag-magyar-valogatott-osztalyozo-ellenfel/"
-        }
-      ]
-    },
-    {
-      "cim": "Beismerő vallomást tett az ír férfi, akit azzal vádolnak, hogy megölte volt feleségét, egy japán nőt",
-      "lead": "Rávetette magát, a földre szorította, és befogta a száját. Mire ráeszmélt, hogy mit művel, a nő már nem lélegzett – megrázó részletekre derült fény a gyilkossági ügy pénteki tárgyalásán a Budai Központi Kerületi Bíróságon. A férfi a gyilkosságot beismerte, de szerinte azt nem tervelte ki előre, hirtelen felindulásból…",
-      "forrasok": [
-        {
-          "nev": "HVG",
-          "cim": "Beismerő vallomást tett az ír férfi, akit azzal vádolnak, hogy megölte volt feleségét, egy japán nőt",
-          "url": "https://hvg.hu/itthon/20261120_buncselekmeny-gyilkossag-nok-elleni-eroszak-ir-ferfi-japan-no"
-        },
-        {
-          "nev": "444",
-          "cim": "Beismerő vallomást tett a japán exfeleségét Budapesten meggyilkoló ír férfi",
-          "url": "https://444.hu/2026/11/20/beismero-vallomast-tett-a-japan-exfeleseget-budapesten-meggyilkolo-ir-ferfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "Telex",
-          "cim": "Lövést adott le egy férfi egy székesfehérvári buszmegállóban még szerdán, azóta beismerő vallomást tett",
-          "url": "https://telex.hu/belfold/2026/11/20/buszmegalloban-adott-le-lovest-egy-ferfi-szekesfehervaron"
-        },
-        {
-          "nev": "Index",
-          "cim": "Beismerő vallomást tett a japán nőt meggyilkoló ír férfi",
-          "url": "https://index.hu/belfold/2026/11/20/budapest-gyilkossag-volt-feleseg-japan-no-ir-ferfi/"
-        }
-      ]
-    },
-    {
-      "cim": "Négymillió Tisza-szavazót mért a Fidesz-közeli Nézőpont Intézet",
-      "lead": "A Facebook megelőzte az internetet címmel publikálta új elemzését Mráz Ágoston Sámuel intézete, amely az önvizsgálat után azt ígérte: a jövőben elsősorban nem pártpreferenciákat fog mérni.",
-      "forrasok": [
-        {
-          "nev": "Telex",
-          "cim": "Négymillió Tisza-szavazót mért a Fidesz-közeli Nézőpont Intézet",
-          "url": "https://telex.hu/belfold/2026/11/20/nezopont-intezet-partpreferencia-mraz-agoston-samuel"
-        },
-        {
-          "nev": "HVG",
-          "cim": "Az „önvizsgálaton átesett” Nézőpont Intézet szerint 4 millió szavazója van a Tiszának",
-          "url": "https://hvg.hu/itthon/20261120_nezopont-intezet-felmeres-partpreferencia-november-fidesz-kdnp-tisza-part-mi-hazank"
-        },
-        {
-          "nev": "Magyar Nemzet",
-          "cim": "Négymillió Tisza-szimpatizánssal számol a Nézőpont",
-          "url": "https://magyarnemzet.hu/belfold/2026/11/negymillio-tisza-szimpatizanssal-szamol-a-nezopont?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-        },
-        {
-          "nev": "Index",
-          "cim": "Nézőpont Intézet: több, mint kétszer annyi szavazója lehet a Tiszának, mint a Fidesz–KDNP-nek",
-          "url": "https://index.hu/belfold/2026/11/20/nezopont-intezet-part-tisza-fidesz-kdnp-mi-hazank-felmeres/"
-        }
-      ]
-    },
-    {
-      "cim": "Havasi Bertalan reagált Orbán több tízmillió forintba kerülő utazásaira: A volt miniszterelnök sosem vett fel napidíjat",
-      "lead": "A Külgazdasági és Külügyminisztérium 2015 és 2025 között 4,8 milliárd forintott fizetett ki Orbán Viktor utazásaira, amelyek során a volt miniszterelnök nem egyszer luxusszállodákban szállt meg. Havasi Bertalan szerint más miniszterelnökök is így csinálják.",
-      "forrasok": [
-        {
-          "nev": "HVG",
-          "cim": "Havasi Bertalan reagált Orbán több tízmillió forintba kerülő utazásaira: A volt miniszterelnök sosem vett fel napidíjat",
-          "url": "https://hvg.hu/itthon/20261120_havasi-bertalan-reakcio-orban-viktor-utazas-kulgazdasagi-es-kulugyminiszterium-repulo-focimeccs-luxusszalloda"
-        },
-        {
-          "nev": "Telex",
-          "cim": "Havasi Bertalan Orbán több tízmilliós luxusútjairól: A volt miniszterelnök ilyenkor napidíjat sosem vett fel",
-          "url": "https://telex.hu/belfold/2026/11/20/havasi-bertalan-orban-luxusutjai-kulfoldi-utazasai-soran-napidijat-nem-vett-fel"
-        }
-      ]
-    },
-    {
-      "cim": "Szakmai szervezetek fogtak össze az új kata ellen, alapvető változtatásokat követelnek",
-      "lead": "Kezdeményezés indult a kreatív és kulturális ágazatban.",
-      "forrasok": [
-        {
-          "nev": "Index",
-          "cim": "Szakmai szervezetek fogtak össze az új kata ellen, alapvető változtatásokat követelnek",
-          "url": "https://index.hu/gazdasag/2026/11/20/kata-kreativ-kultura-szabalyozas-kezdemenyezes/"
-        },
-        {
-          "nev": "Magyar Nemzet",
-          "cim": "Szakmai szervezetek tiltakoznak az új kata szabályai ellen, módosításokat követelnek",
-          "url": "https://magyarnemzet.hu/belfold/2026/11/szakmai-szervezetek-tiltakoznak-az-uj-kata-szabalyai-ellen-modositasokat-kovetelnek?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-        }
-      ]
-    },
-    {
-      "cim": "Alekosz: A GTA VI fideszes játék",
-      "lead": "A sokadvirágzását élő celeb szerint minden idők legsikeresebb számítógépes játékának nincs semmi értelme, mert nem lehet benne pénzért prostituálttal szexelni, ezért azt kéri a fiataloktól, hogy ignorálják az új GTA-ot.",
-      "forrasok": [
-        {
-          "nev": "444",
-          "cim": "Alekosz: A GTA VI fideszes játék",
-          "url": "https://444.hu/2026/11/20/alekosz-a-gta-vi-fideszes-jatek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "HVG",
-          "cim": "„Pénzt lehet kiásni benne?” – Alekosz szerint a GTA VI fideszes játék",
-          "url": "https://hvg.hu/tudomany/20261120_alekosz-gta-6-videojatek-fidesz"
-        }
-      ]
-    },
-    {
-      "cim": "Dér Heni „nem önként és dalolászva” vállalta, hogy kiáll a Fidesz mellett",
-      "lead": "A Fidesz-kongresszuson a Himnuszt éneklő énekesnő azt mondta, nem önszántából akart „az utolsók között” beugrani a Fidesz mögé.",
-      "forrasok": [
-        {
-          "nev": "HVG",
-          "cim": "Dér Heni „nem önként és dalolászva” vállalta, hogy kiáll a Fidesz mellett",
-          "url": "https://hvg.hu/elet/20261120_der-heni-fidesz-kampany"
-        },
-        {
-          "nev": "Telex",
-          "cim": "Dér Heni szerint nem önként, dalolászva vállalta a Fidesz melletti kiállást a kampányban",
-          "url": "https://telex.hu/after/2026/11/20/der-heni-fidesz-kampany-nem-onkemnt-dalolaszva-vallalta"
-        }
-      ]
-    },
-    {
-      "cim": "Megszületett Gulácsi Péterék harmadik gyermeke, mutatjuk az első fotót",
-      "lead": "A közösségi médiában számolt be róla.",
-      "forrasok": [
-        {
-          "nev": "Index",
-          "cim": "Megszületett Gulácsi Péterék harmadik gyermeke, mutatjuk az első fotót",
-          "url": "https://index.hu/sport/futball/2026/11/20/gulacsi-peter-megszuletett-a-harmadik-gyermeke/"
-        },
-        {
-          "nev": "HVG",
-          "cim": "Megszületett Gulácsi Péterék harmadik gyereke",
-          "url": "https://hvg.hu/elet/20261120_gulacsi-peter-vigh-diana-harmadik-gyerek-kislany"
-        }
-      ]
-    },
-    {
-      "cim": "Dánia legidősebb lakosaként köszöntötték fel, majd kiderült, hogy náci pártvezető volt",
-      "lead": "Kirsten Schwalbe nemrég 112 éves és 218 napos lett, így ő a valaha nyilvántartásba vett legidősebb dán állampolgár. Most az is kiderült, mit csinált nyolcvan éve – bár azt állítja, őt nem is érdekelte a politika.",
-      "forrasok": [
-        {
-          "nev": "HVG",
-          "cim": "Dánia legidősebb lakosaként köszöntötték fel, majd kiderült, hogy náci pártvezető volt",
-          "url": "https://hvg.hu/elet/20261120_dania-legidosebb-lakosakent-koszontottek-fel-majd-kiderult-hogy-naci-parvezeto-volt"
-        },
-        {
-          "nev": "Telex",
-          "cim": "Dánia legidősebb embereként köszöntötték, aztán egyszer csak kiderült, hogy náci volt",
-          "url": "https://telex.hu/kulfold/2026/11/20/dania-unnepelte-a-legidosebb-polgarat-majd-kiderult-rola-hogy-naci-volt"
-        }
-      ]
-    },
-    {
-      "cim": "Magyar technológia védené a lengyel közigazgatást",
-      "lead": "Magyar technológia erősítheti a lengyel közigazgatás kibervédelmét: a Balasys és lengyel partnere, a Safe Project közös kutatás-fejlesztések előkészítéséről írt alá szándéknyilatkozatot. A cél a hazai cég hálózat- és API-biztonsági megoldásainak bevezetése a lengyel állami intézményeknél, önkormányzatoknál és…",
+      "cim": "Seszták Miklós házát és autószalonját is zár alá vették",
+      "lead": "Több mint kilencmilliárd forintos vagyonzárat rendelt el a Nemzeti Nyomozó Iroda a korrupcióval gyanúsított és letartóztatásban lévő volt nemzeti fejlesztési miniszterrel, Seszták Miklóssal szemben - közölte a 24.hu .",
       "forrasok": [
         {
           "nev": "Portfolio",
-          "cim": "Magyar technológia védené a lengyel közigazgatást",
-          "url": "https://www.portfolio.hu/uzlet/20261120/magyar-technologia-vedene-a-lengyel-kozigazgatast-878004"
+          "cim": "Seszták Miklós házát és autószalonját is zár alá vették",
+          "url": "https://www.portfolio.hu/gazdasag/20261121/sesztak-miklos-hazat-es-autoszalonjat-is-zar-ala-vettek-878190"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Zár alá vették Seszták Miklós házát és autószalonját",
+          "url": "https://hvg.hu/itthon/20261121_zar-ala-vettek-sesztak-miklos-hazat-es-autoszalonjat"
         },
         {
           "nev": "Magyar Nemzet",
-          "cim": "Átrajzolják Bukarestben Erdély közigazgatási térképét — az RMDSZ megmentené a magyar megyéket",
-          "url": "https://magyarnemzet.hu/kulfold/2026/11/romania-erdely-kozigazgatas-magyar-megyek-hargita-kovaszna-rmdsz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+          "cim": "Újabb hat kormánymegbízottat nevezett ki Magyar Péter",
+          "url": "https://magyarnemzet.hu/belfold/2026/11/ujabb-hat-kormanymegbizottat-nevezett-ki-magyar-peter?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        },
+        {
+          "nev": "Index",
+          "cim": "Milliárdos vagyonzár alá került Seszták Miklós kisvárdai ingatlana és autószalonja",
+          "url": "https://index.hu/belfold/2026/11/21/sesztak-miklos-korrupcio-milliardok-vagyonzar-ingatlan-autoszalon/"
+        },
+        {
+          "nev": "444",
+          "cim": "Zárolta a hatóság Seszták Miklós vagyonát, így a háza és autószalonja is zár alá került",
+          "url": "https://444.hu/2026/11/21/vagyonzar-ala-kerult-sesztak-miklos-haza-es-autoszalonja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ]
     },
     {
-      "cim": "Orbán Győzőtől Tiborcz Istvánig nagyot kaszált az Orbán család az Orbán–Vučić-féle magyar-szerb összeboruláson",
-      "lead": "Az energetikától a vasútépítésen át az ingatlanpiacig számos területen összefonódtak a magyar és a szerb oligarchák érdekeltségei, derül ki egy szerb hírportál elemzéséből.",
+      "cim": "Enged a bíróság, napokon belül megszünteti Bús Balázs letartóztatását",
+      "lead": "Napokon belül bűnügyi felügyelet alá kerülhet és hazatérhet Bús Balázs, a Nemzeti Kulturális Alap (NKA) volt alelnöke, miután az ügyészség kezdeményezte letartóztatásának megszüntetését. A politikust egy 17 milliárd forintos támogatási botrányban hűtlen kezeléssel, az óbudai korrupciós ügyben pedig 150 millió forintos…",
+      "forrasok": [
+        {
+          "nev": "Portfolio",
+          "cim": "Enged a bíróság, napokon belül megszünteti Bús Balázs letartóztatását",
+          "url": "https://www.portfolio.hu/gazdasag/20261121/enged-a-birosag-napokon-belul-megszunteti-bus-balazs-letartoztatasat-878166"
+        },
+        {
+          "nev": "444",
+          "cim": "Megszüntetik a letartóztatását, bűnügyi felügyelet alá kerül Bús Balázs",
+          "url": "https://444.hu/2026/11/21/megszuntetik-a-letartoztatasat-bunugyi-felugyelet-ala-kerul-bus-balazs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "Magyar Nemzet",
+          "cim": "Hazaengedik a börtönből Bús Balázst",
+          "url": "https://magyarnemzet.hu/belfold/2026/11/hazaengedik-a-bortonbol-bus-balazst?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        },
+        {
+          "nev": "Index",
+          "cim": "Megszüntették Bús Balázs letartóztatását, még szombaton távozhat a börtönből",
+          "url": "https://index.hu/belfold/2026/11/21/bus-balazs-letartoztatas-megszuntetes-birosag-bunugyi-felugyelet/"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Megszüntette Bús Balázs letartóztatását a bíróság",
+          "url": "https://hvg.hu/kultura/20261121_megszuntette-bus-balazs-letartoztatasat-a-birosag"
+        }
+      ]
+    },
+    {
+      "cim": "Tovább nő a számla, már 9 milliárd forint mehetett el az előző kormány csádi missziójára",
+      "lead": "A korábbi kormány által indított csádi misszióra eddig mintegy kilencmilliárd forint közpénzt költöttek el, amelyből közel ötmilliárdot a Hungary Helps Ügynökség, további négymilliárdot pedig a honvédség használt fel. Bár a programot a kormányváltás után a jelenlegi külügyminisztérium felülvizsgálja, bizonyos elemei…",
+      "forrasok": [
+        {
+          "nev": "Portfolio",
+          "cim": "Tovább nő a számla, már 9 milliárd forint mehetett el az előző kormány csádi missziójára",
+          "url": "https://www.portfolio.hu/gazdasag/20261121/tovabb-no-a-szamla-mar-9-milliard-forint-mehetett-el-az-elozo-kormany-csadi-missziojara-878186"
+        },
+        {
+          "nev": "Magyar Nemzet",
+          "cim": "A Fuzik-féle számlagyárból származhat a rejtélyes 6,5 milliárd forint",
+          "url": "https://magyarnemzet.hu/belfold/2026/11/fuzik-fele-szamlagyar-rejtelyes-milliardok-fabo-gyorgy-nvvh-sesztak-miklos?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Csaknem 7 milliárd forintot költött a kormány a csádi misszióra",
+          "url": "https://hvg.hu/itthon/20261121_csaknem-7-milliard-forintot-koltott-a-kormany-a-csadi-missziora"
+        },
+        {
+          "nev": "444",
+          "cim": "Több mint 25 millió forintot találtunk meg a BKV járatain",
+          "url": "https://444.hu/2026/11/21/tobb-mint-25-millio-forintot-talaltunk-meg-a-bkv-jaratain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "Index",
+          "cim": "Csaknem 53 ezer elhagyott csomagot regisztrált a BKV, több mint 25 millió forint is előkerült",
+          "url": "https://index.hu/belfold/2026/11/21/bkv-talalt-targyak-penz-tizmillio-forint-magyar-allamkincstar/"
+        }
+      ]
+    },
+    {
+      "cim": "Százhatvan új elővárosi autóbusszal frissül a Volán járműparkja",
+      "lead": "A járművek Pest megye agglomerációjában állhatnak forgalomba.",
+      "forrasok": [
+        {
+          "nev": "Index",
+          "cim": "Százhatvan új elővárosi autóbusszal frissül a Volán járműparkja",
+          "url": "https://index.hu/belfold/2026/11/21/vitezy-david-volan-tisza-kormany-kozlekedes/"
+        },
+        {
+          "nev": "HVG",
+          "cim": "160 új elővárosi buszt kap a Volán",
+          "url": "https://hvg.hu/cegauto/20261121_160-uj-elovarosi-buszt-kap-a-volan"
+        }
+      ]
+    },
+    {
+      "cim": "Megkezdődött a Mészáros–Szíjj-féle autópálya-koncessziós szerződés felbontása, Vitézy Dávid aláírta az első lépést jelentő megállapodást",
+      "lead": "A tervek szerint 2027 áprilisától az állami tulajdonú Magyar Közút felel majd a magyar gyorsforgalmi úthálózat fenntartásáért és üzemeltetéséért.",
+      "forrasok": [
+        {
+          "nev": "HVG",
+          "cim": "Megkezdődött a Mészáros–Szíjj-féle autópálya-koncessziós szerződés felbontása, Vitézy Dávid aláírta az első lépést jelentő megállapodást",
+          "url": "https://hvg.hu/gazdasag/20261121_vitezy-david-alairta-a-meszaros-szijj-fele-autopalya-koncesszios-szerzodes-megszuntetesenek-elso-lepeset-jelento-megallapodast"
+        },
+        {
+          "nev": "Index",
+          "cim": "Vitézy Dávid aláírta a megállapodást, megszűnik az autópálya-koncesszió",
+          "url": "https://index.hu/belfold/2026/11/21/vitezy-david-autopalya-koncesszio-szerzodes-megszuntetes-megallapodas-alairas/"
+        }
+      ]
+    },
+    {
+      "cim": "Bolsonaro volt brazil elnök kórházba került bélelzáródás miatt",
+      "lead": "A 71 éves politikus korábban több kórházi kezelésen és műtéten is átesett, miután 2018-ban egy kampányrendezvényen hason szúrták.",
       "forrasok": [
         {
           "nev": "444",
-          "cim": "Orbán Győzőtől Tiborcz Istvánig nagyot kaszált az Orbán család az Orbán–Vučić-féle magyar-szerb összeboruláson",
-          "url": "https://444.hu/2026/11/20/orban-gyozotol-tiborcz-istvanig-nagyot-kaszalt-az-orban-csalad-az-orbanvucic-fele-magyar-szerb-osszeborulason?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "cim": "Bolsonaro volt brazil elnök kórházba került bélelzáródás miatt",
+          "url": "https://444.hu/2026/11/21/bolsonaro-volt-brazil-elnok-korhazba-kerult-belelzarodas-miatt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         },
         {
-          "nev": "Telex",
-          "cim": "Feltérképezte Orbán és Vučić bizniszeit egy szerb lap",
-          "url": "https://telex.hu/gazdasag/2026/11/20/orban-viktor-aleksandar-vucic-szerbia-kapcsolatok"
+          "nev": "HVG",
+          "cim": "Jair Bolsonaro bélelzáródás miatt került kórházba",
+          "url": "https://hvg.hu/elet/20261121_jair-bolsonaro-belelzarodas-miatt-kerult-korhazba"
         }
       ]
     },
     {
-      "cim": "Nyíregyházán nyílik kiállítás a Telex fotósainak díjnyertes képeiből",
-      "lead": "November 25-én a Váci Mihály Kulturális Központban indul fotókiállításunk országos körútja. A megnyitón Huszti Istvánnal, a Telex fotósával Klág Dávid beszélget.",
+      "cim": "Elzárhatják a demokraták a SpaceX pénzcsapját, ha Musk nem magyarázza meg az ukrajnai Starshield-lassítást",
+      "lead": "A képviselőház hírszerzési bizottságának leendő elnöke szerint nem engedélyezhetnek forrásokat olyan kormányzati rendszerek fejlesztésére, amelyeket a kormány nem ellenőriz teljes mértékben.",
       "forrasok": [
         {
-          "nev": "Telex",
-          "cim": "Nyíregyházán nyílik kiállítás a Telex fotósainak díjnyertes képeiből",
-          "url": "https://telex.hu/kozlemeny/2026/11/20/telex-fotokiallitas"
+          "nev": "444",
+          "cim": "Elzárhatják a demokraták a SpaceX pénzcsapját, ha Musk nem magyarázza meg az ukrajnai Starshield-lassítást",
+          "url": "https://444.hu/2026/11/21/elzarhatjak-a-demokratak-a-spacex-penzcsapjat-ha-musk-nem-magyarazza-meg-az-ukrajnai-starshield-lassitast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Ha Musk nem beszél világosan az ukrajnai Starlink-lelassulásról, a demokraták megvonják a SpaceX állami pénzeit",
+          "url": "https://hvg.hu/gazdasag/20261121_ha-musk-nem-beszel-vilagosan-az-ukrajnai-starlink-lelassulasrol-a-demokratak-megvonjak-a-spacex-allami-penzeit"
+        }
+      ]
+    },
+    {
+      "cim": "A fradista Lipcsei Péternek 16 év Fidesz után eszébe jutott megkérni a politikát, hogy tessék szépen békén hagyni a magyar sportot",
+      "lead": "Azt kérte a „felelős törvényhozóktól”, hogy „ne avatkozzanak bele se az FTC, se egyébként más magyar sportklub életébe”.",
+      "forrasok": [
+        {
+          "nev": "444",
+          "cim": "A fradista Lipcsei Péternek 16 év Fidesz után eszébe jutott megkérni a politikát, hogy tessék szépen békén hagyni a magyar sportot",
+          "url": "https://444.hu/2026/11/21/a-fradista-lipcsei-peternek-16-ev-fidesz-utan-eszebe-jutott-megkerni-a-politikat-hogy-tessek-szepen-beken-hagyni-a-magyar-sportot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "Magyar Nemzet",
+          "cim": "Magyar Péter politikai lincseléséhez az NVVH is asszisztált",
+          "url": "https://magyarnemzet.hu/belfold/2026/11/magyar-peter-politikai-lincselez-nvvh?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        }
+      ]
+    },
+    {
+      "cim": "Lipcsei Péter kiállt Kubatov Gábor mellett, szerinte a politikának nem szabad beavatkoznia a klub életébe",
+      "lead": "Több mint kétszázan írták már alá azt a nyílt levelet, amelyben Kubatov Gábor eltávolítása ellen tiltakoznak.",
+      "forrasok": [
+        {
+          "nev": "HVG",
+          "cim": "Lipcsei Péter kiállt Kubatov Gábor mellett, szerinte a politikának nem szabad beavatkoznia a klub életébe",
+          "url": "https://hvg.hu/sport/20261121_lipcsei-peter-kiallt-kubatov-gabor-mellett-szerinte-a-politikanak-nem-szabad-beavatkoznia-a-klub-eletebe"
+        },
+        {
+          "nev": "Index",
+          "cim": "A Ferencváros klublegendája kiáll Kubatov Gábor mellett, már 217-en tiltakoznak a tervezett törvény ellen",
+          "url": "https://index.hu/sport/2026/11/21/kubatov-gabor-lipcsei-peter-lex-kubatov-ftc-fradi-ferencvaros/"
+        }
+      ]
+    },
+    {
+      "cim": "Mi az, ami még nem túl sok infó Orbán Viktorról?",
+      "lead": "Erővágó Brüsszelben, gáztűzhely Romániában, hűtőtáska Vietnámban – avagy a közérdekű adatigényléssel megszerzett Excel-táblázat legbizarrabb oszlopa, amely Orbán külföldi útjainak „egyéb beszerzéseit\" tartalmazza. A fura tárgyak és szolgáltatások kalandos színezetet adnak a volt miniszterelnök eddig unalmasnak hitt…",
+      "forrasok": [
+        {
+          "nev": "444",
+          "cim": "Mi az, ami még nem túl sok infó Orbán Viktorról?",
+          "url": "https://444.hu/2026/11/21/mi-az-ami-meg-nem-tul-sok-info-orban-viktorrol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "Index",
+          "cim": "Erővágó, gáztűzhely és Miles Davis-lemezek is szerepelnek Orbán Viktor külföldi útjainak elszámolásaiban",
+          "url": "https://index.hu/belfold/2026/11/21/orban-viktor-kulfoldi-utazasok-koltsegelszamolas-erovago/"
+        }
+      ]
+    },
+    {
+      "cim": "Távozik a Fraditól a Győr egykori segítője, vezetőedzőnek áll",
+      "lead": "Egy olimpiai bajnok ellenben marad az FTC-nél: „Sokkal többet kaptam tőle, mint amit vártam”.",
+      "forrasok": [
+        {
+          "nev": "Magyar Nemzet",
+          "cim": "Távozik a Fraditól a Győr egykori segítője, vezetőedzőnek áll",
+          "url": "https://magyarnemzet.hu/sport/2026/11/danielsen-edzo-tavozas-ftc-kezilabda-ingstad-szerzodes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        }
+      ]
+    },
+    {
+      "cim": "A hűtlenség ellenére eljegyezte egymást A Kísértés párja, már megvan az esküvő dátuma is",
+      "lead": "",
+      "forrasok": [
+        {
+          "nev": "Index",
+          "cim": "A hűtlenség ellenére eljegyezte egymást A Kísértés párja, már megvan az esküvő dátuma is",
+          "url": "https://index.hu/mindekozben/poszt/2026/11/21/a-hutlenseg-ellenere-eljegyezte-egymast-a-kisertes-parja/"
         }
       ]
     }
   ],
   "nemzetkozi": [
     {
-      "cim": "Inside a Rohingya Camp After a Genocide Ruling",
-      "lead": "On Thursday, the International Court of Justice ruled that the atrocities against the Rohingya ethnic minority constituted a genocide waged by the Myanmar state. Before the decision, Hannah Beech, a New York Times correspondent, spent a week in the refugee camps in Cox’s Bazar, Bangladesh, home to at least 1.2 million…",
+      "cim": "French police officers found guilty of racist assault on black music producer",
+      "lead": "Beating of Michel Zecler in 2020 sparked outrage over police brutality after it was caught on security cameras Three French police officers who beat a black music producer they said was not wearing a face mask during the Covid pandemic have been found guilty of intentional, racist violence. The brutal assault on…",
       "forrasok": [
         {
-          "nev": "New York Times",
-          "cim": "Inside a Rohingya Camp After a Genocide Ruling",
-          "url": "https://www.nytimes.com/video/world/asia/100000011287890/inside-a-rohingya-camp-after-a-genocide-ruling.html"
-        },
-        {
           "nev": "The Guardian",
-          "cim": "‘Everyone struggled for this justice’: tears in court as Rohingya vindicated in Myanmar genocide ruling",
-          "url": "https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling"
-        },
-        {
-          "nev": "BBC",
-          "cim": "Rohingya genocide: What was said in court and what happens now?",
-          "url": "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o?at_medium=RSS&at_campaign=rss"
+          "cim": "French police officers found guilty of racist assault on black music producer",
+          "url": "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer"
         },
         {
           "nev": "Al Jazeera",
-          "cim": "What does the ICJ’s Rohingya genocide ruling mean for Gaza?",
-          "url": "https://www.aljazeera.com/news/2026/11/20/what-does-the-icjs-rohingya-genocide-ruling-mean-for-gaza?traffic_source=rss"
+          "cim": "French police officers guilty of Michel Zecler assault: What happens now?",
+          "url": "https://www.aljazeera.com/news/2026/11/21/french-police-officers-guilty-of-michel-zecler-assault-what-happens-now?traffic_source=rss"
+        },
+        {
+          "nev": "BBC",
+          "cim": "French police officers sentenced for beating of music producer Michel Zecler",
+          "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "cim": "White House replaces cyber security chief after tech outages",
-      "lead": "Sean Cairncross is leaving his role as national cyber director after a chaotic week of tech outages. Kirsten Davies, the Pentagon's chief information officer, will assume the position in an acting capacity.",
+      "cim": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
+      "lead": "There were no injuries or damage from three incidents that the Polish authorities called a likely “provocation” from Russia during military exercises by Ukraine’s allies.",
+      "forrasok": [
+        {
+          "nev": "New York Times",
+          "cim": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
+          "url": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "Russian missiles hit Poland: What happened, and could NATO respond?",
+          "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Denmark Expels Russian Diplomat After Accusing Moscow of Planning a Hit",
+      "lead": "Danish officials say Russian intelligence services recruited members of a violent gang to try to assassinate a Ukrainian rapper at a concert outside Copenhagen.",
+      "forrasok": [
+        {
+          "nev": "New York Times",
+          "cim": "Denmark Expels Russian Diplomat After Accusing Moscow of Planning a Hit",
+          "url": "https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html"
+        },
+        {
+          "nev": "BBC",
+          "cim": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Man convicted of arson over deadly 2025 Palisades fire in Los Angeles",
+      "lead": "A 30-year-old man has been convicted of causing one of the most destructive wildfires in the history of Los Angeles. The verdict came after the case was retried.",
       "forrasok": [
         {
           "nev": "Deutsche Welle",
-          "cim": "White House replaces cyber security chief after tech outages",
-          "url": "https://www.dw.com/en/white-house-replaces-cyber-security-chief-after-tech-outages/a-79998531?maca=en-rss-en-world-4025-rdf"
+          "cim": "Man convicted of arson over deadly 2025 Palisades fire in Los Angeles",
+          "url": "https://www.dw.com/en/man-convicted-of-arson-over-deadly-2025-palisades-fire-in-los-angeles/a-80007933?maca=en-rss-en-world-4025-rdf"
         },
         {
           "nev": "BBC",
-          "cim": "White House removes cyber-security chief after series of tech outages",
-          "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "US appoints new cybersecurity chief after series of tech failures",
-          "url": "https://www.aljazeera.com/news/2026/11/20/us-appoints-new-cybersecurity-chief-after-series-of-tech-failures?traffic_source=rss"
+          "cim": "Man convicted of starting Palisades fire in Los Angeles",
+          "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "cim": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-      "lead": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
-      "forrasok": [
-        {
-          "nev": "BBC",
-          "cim": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-          "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "Russia unleashes retaliatory barrage on Kyiv bridges",
-          "url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Russian missiles and drone reportedly hit Poland during attacks on Ukraine",
-      "lead": "Polish PM calls strikes, which took place amid western military exercises, ‘an intentional provocation’ by Moscow Two Russian cruise missiles and a jet-powered drone are reported to have crashed in Poland during Russian air attacks on Ukraine that took place amid major western military exercises by allied countries…",
+      "cim": "When you see smoke, run: Rohingya who escaped Myanmar’s genocide tell their stories",
+      "lead": "Survivors recount rivers red with blood and burning nearby villages serving as an urgent warning to flee their homes Smoke was often the signal to run – seen from a distance, it was the indication for Rohingya that a neighbouring village was under attack and that theirs would be next. In other places, they saw the…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "Russian missiles and drone reportedly hit Poland during attacks on Ukraine",
-          "url": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine"
+          "cim": "When you see smoke, run: Rohingya who escaped Myanmar’s genocide tell their stories",
+          "url": "https://www.theguardian.com/world/2026/nov/21/rohingya-who-escaped-myanmars-genocide-tell-their-stories"
         },
-        {
-          "nev": "BBC",
-          "cim": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-          "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Race to be next UN secretary general exposes divisions among world powers",
-      "lead": "Debate about dominance of permanent five members could reignite if major powers block Costa Rican frontrunner The race to become the next UN secretary general could reach a decisive moment on Friday when a UN security council vote is likely to reveal whether the Costa Rican frontrunner for the post would be blocked by…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Race to be next UN secretary general exposes divisions among world powers",
-          "url": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "Searching for the next Messi at the Under-17 World Cup",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/searching-for-the-next-messi-at-the-under-17-world-cup-2?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Myanmar ruling gives new relevance to genocide convention and is ‘full of messages’ for Israel",
-      "lead": "Hailed as ‘a rare moment of justice’, judges’ decision sets out a roadmap for assessing the question of intent The international court of justice (ICJ) verdict making Myanmar the first country in history to be found guilty of committing genocide does not just deliver justice for Rohingya victims. It also gives the…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Myanmar ruling gives new relevance to genocide convention and is ‘full of messages’ for Israel",
-          "url": "https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel"
-        },
-        {
-          "nev": "New York Times",
-          "cim": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
-          "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html"
-        }
-      ]
-    },
-    {
-      "cim": "EU and UK strike 'landmark deal' to rebuild ties after Brexit",
-      "lead": "The European Union and the United Kingdom have agreed on \"landmark\" deals on youth mobility and trade. Leaders on both sides praised the agreement as they seek to rebuild ties.",
-      "forrasok": [
         {
           "nev": "Deutsche Welle",
-          "cim": "EU and UK strike 'landmark deal' to rebuild ties after Brexit",
-          "url": "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-rebuild-ties-after-brexit/a-80001076?maca=en-rss-en-world-4025-rdf"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "‘The deal is done’: EU, UK agree to reset relations 10 years after Brexit",
-          "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal?traffic_source=rss"
+          "cim": "Myanmar genocide ruling: Rohingya say struggle for justice not over",
+          "url": "https://www.dw.com/en/myanmar-genocide-ruling-rohingya-say-struggle-for-justice-not-over/a-80003365?maca=en-rss-en-world-4025-rdf"
         }
       ]
     },
     {
-      "cim": "Global stock markets slump as Anthropic IPO fails to stem AI sell-off",
-      "lead": "Asian markets on track for their worst week since 2020, with European and US stocks also way down Business live – latest updates Global stock markets have slumped as Anthropic’s record-breaking IPO failed to stem a sell-off in AI-linked companies. Asian stock markets recorded their worst week since 2020, as shares in…",
+      "cim": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
+      "lead": "President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and Xi Donald Trump threatened on Friday to impose “tremendous penalties” on American tech companies that build datacenters outside the US, though he gave no details and told reporters he had not yet informed…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "Global stock markets slump as Anthropic IPO fails to stem AI sell-off",
-          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+          "cim": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
         },
         {
           "nev": "BBC",
-          "cim": "How did Anthropic's stock market debut unfold?",
-          "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss"
+          "cim": "Trump threatens ban on US firms building AI data centres overseas",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "cim": "California investigates Nvidia over whether chip exports ended up in China",
-      "lead": "State attorney says scandal ‘raises bright red flags’ and aims to find out if company misled investors California has served an investigative subpoena on Nvidia after a scandal that prompted the departure of co-founder and longtime chief executive Jensen Huang. Rob Bonta, the US state’s attorney general, issued the…",
+      "cim": "Indian man sentenced to 19 years in prison for conspiring to kill Sikh separatist in New York",
+      "lead": "Nikhil Gupta admitted to plotting with Indian government official to hire hitman to murder dual US-Canadian citizen An Indian ⁠man was sentenced to more ⁠than 19 ​years in US prison on Friday after admitting to orchestrating a failed Indian government-backed plot to kill a Sikh separatist in New York ⁠City , in…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "California investigates Nvidia over whether chip exports ended up in China",
-          "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china"
+          "cim": "Indian man sentenced to 19 years in prison for conspiring to kill Sikh separatist in New York",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist"
         },
         {
           "nev": "BBC",
-          "cim": "California targets Nvidia in China AI chip probe",
-          "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss"
+          "cim": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+          "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "cim": "Pakistan minister to visit India, but no breakthrough expected",
-      "lead": "A Pakistani minister's visit to India for a Shanghai Cooperation Organization forum marks a rare high-level contact between the two archrivals, but analysts say it does not signal a resumption of bilateral engagement.",
-      "forrasok": [
-        {
-          "nev": "Deutsche Welle",
-          "cim": "Pakistan minister to visit India, but no breakthrough expected",
-          "url": "https://www.dw.com/en/pakistan-minister-to-visit-india-but-no-breakthrough-expected/a-79991717?maca=en-rss-en-world-4025-rdf"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "Pakistan minister visits India for first time since 2025 war",
-          "url": "https://www.aljazeera.com/news-analysis/2026/11/20/pakistan-minister-visits-india-for-first-time-since-2025-war?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv",
-      "lead": "Foreign ministers for Austria and the Netherlands said no one was harmed at their embassy compounds, and the European Union’s ambassador said a drone “exploded right above my head\" by her hotel.",
+      "cim": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
+      "lead": "The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government.",
       "forrasok": [
         {
           "nev": "New York Times",
-          "cim": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv",
-          "url": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "Russia’s day-long attack on Kyiv damages embassies",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/russias-day-long-attack-on-kyiv-damages-embassies?traffic_source=rss"
+          "cim": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
+          "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html"
         }
       ]
     },
     {
-      "cim": "New page in history? Xi, Trump and Putin summit was more of a footnote",
-      "lead": "Far from the grand ambitions declared in Yalta in 1945, Shenzhen felt like a meeting in search of an agenda It is arguably true, given it was the first such meeting of the leaders of China, Russia and the US, that Thursday’s gathering in Shenzhen deserved the description of “historic”. But in terms of tangible…",
+      "cim": "Turkey’s Van Cats Contend With Rising Temperatures",
+      "lead": "A feline research center in Turkey uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim.",
+      "forrasok": [
+        {
+          "nev": "New York Times",
+          "cim": "Turkey’s Van Cats Contend With Rising Temperatures",
+          "url": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html"
+        }
+      ]
+    },
+    {
+      "cim": "Sudan’s elderly face hardship and heartbreak in a life of displacement",
+      "lead": "Sudan's displaced elderly often have to support grandchildren or fend for themselves.",
+      "forrasok": [
+        {
+          "nev": "Al Jazeera",
+          "cim": "Sudan’s elderly face hardship and heartbreak in a life of displacement",
+          "url": "https://www.aljazeera.com/news/2026/11/21/sudans-elderly-face-hardship-and-heartbreak-in-a-life-of-displacement?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Israeli attacks on Gaza kill at least four Palestinians",
+      "lead": "Israeli drone attack kills three people in Gaza City, another shot dead by Israeli forces in Jabalia.",
+      "forrasok": [
+        {
+          "nev": "Al Jazeera",
+          "cim": "Israeli attacks on Gaza kill at least four Palestinians",
+          "url": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Reform UK considers pact with Restore Britain to overcome stalling performance in polls",
+      "lead": "Thursday’s byelection in Castle Bromwich will be latest test for Nigel Farage’s party as rival eats into support Voters go to the polls in the village of Castle Bromwich in the West Midlands on Thursday in a little-noticed election that is the latest test for Reform at a time when it is particularly vulnerable. Yet…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "New page in history? Xi, Trump and Putin summit was more of a footnote",
-          "url": "https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote"
-        },
-        {
-          "nev": "New York Times",
-          "cim": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
-          "url": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html"
+          "cim": "Reform UK considers pact with Restore Britain to overcome stalling performance in polls",
+          "url": "https://www.theguardian.com/politics/2026/nov/21/reform-uk-considers-pact-restore-britain-stalling-performance-polls"
         }
       ]
     }
