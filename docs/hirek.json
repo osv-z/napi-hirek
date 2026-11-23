@@ -1,385 +1,405 @@
 {
-  "datum": "2026-11-22",
-  "generalva": "2026-11-22T13:43+01:00",
+  "datum": "2026-11-23",
+  "generalva": "2026-11-23T15:59+01:00",
   "hazai": [
     {
-      "cim": "Megszűnnek a megszokott fizetőkapuk a horvát autópályákon – Íme a részletek az új rendszerről",
-      "lead": "Mintegy 8,8 millió eurót fordítanának a horvát autópályák fizetőállomásainak átalakítására a jövő márciusra tervezett elektronikus útdíjrendszer bevezetése előtt. Az új forgalmi rendben zöld sávokat jelölnek ki a már regisztrált járműveknek, sárgákat pedig azoknak, amelyeknek még el kell végezniük a regisztrációt…",
+      "cim": "Fordulat az Nvidiánál: visszatér Jensen Huang, széttépik a részvényt",
+      "lead": "Ismét Jensen Huang vezeti az Nvidiát, miután az igazgatóság egyhangúlag megszavazta a társalapító visszahelyezését. A döntést az amerikai kormányzat felső szintjeiről kapott tájékoztatás is megalapozta. A Huang körül kirobbant botrány ügyében indított független vizsgálat folytatódik.",
       "forrasok": [
         {
           "nev": "Portfolio",
-          "cim": "Megszűnnek a megszokott fizetőkapuk a horvát autópályákon – Íme a részletek az új rendszerről",
-          "url": "https://www.portfolio.hu/gazdasag/20261122/megszunnek-a-megszokott-fizetokapuk-a-horvat-autopalyakon-ime-a-reszletek-az-uj-rendszerrol-878282"
-        },
-        {
-          "nev": "444",
-          "cim": "Március 1-jétől nem kell megállni a horvát autópályákon a fizetőkapuknál",
-          "url": "https://444.hu/2026/11/22/marcius-1-jetol-nem-kell-megallni-a-horvat-autopalyakon-a-fizetokapuknal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "Index",
-          "cim": "Vége lehet a nyári sorban állásnak a horvát autópályákon, megszűnnek a megszokott fizetőkapuk",
-          "url": "https://index.hu/kulfold/2026/11/22/autopalya-horvatorszag-kapuk-autosok/"
-        }
-      ]
-    },
-    {
-      "cim": "Toroczkai szerint a Kert Attila által irányított szerkesztőség miatt tört ki a tévéostrom, Kert szerint a tüntetők nem adtak át petíciót",
-      "lead": "A köztévé vezetőjévé megválasztott Kert Attila már korábban elmondta: 2006-ban a tüntetők petíciót akartak beolvastatni, amit a portán lévő ember nagyon helyesen elutasított, később kézzel írtak valamit, de addigra szétverték a technikát.",
-      "forrasok": [
-        {
-          "nev": "Telex",
-          "cim": "Toroczkai szerint a Kert Attila által irányított szerkesztőség miatt tört ki a tévéostrom, Kert szerint a tüntetők nem adtak át petíciót",
-          "url": "https://telex.hu/belfold/2026/11/22/toroczkai-szerint-a-kert-attila-altal-iranyitott-szerkesztoseg-miatt-tort-ki-a-teveostrom"
-        },
-        {
-          "nev": "444",
-          "cim": "Kert Attila lett a közmédia új vezérigazgatója",
-          "url": "https://444.hu/2026/11/21/kert-attila-lett-a-kozmedia-uj-vezerigazgatoja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "cim": "Fordulat az Nvidiánál: visszatér Jensen Huang, széttépik a részvényt",
+          "url": "https://www.portfolio.hu/uzlet/20261123/fordulat-az-nvidianal-visszater-jensen-huang-szettepik-a-reszvenyt-878516"
         },
         {
           "nev": "HVG",
-          "cim": "Toroczkai a közmédia új vezérigazgatójáról: a Kert-féle szerkesztőség miatt tört ki a tévéostrom",
-          "url": "https://hvg.hu/itthon/20261122_toroczkai-laszlo-kozmedia-uj-vezerigazgato-kert-attila-teveostrom-2006"
-        }
-      ]
-    },
-    {
-      "cim": "Felfüggesztett börtönt kapott az a hatvanpusztai vagyonőr, aki nekihajtott Hadházy Ákosnak",
-      "lead": "Az ítélet nem jogerős, a volt független országgyűlési képviselő súlyosbításért fellebbez.",
-      "forrasok": [
-        {
-          "nev": "Index",
-          "cim": "Felfüggesztett börtönt kapott az a hatvanpusztai vagyonőr, aki nekihajtott Hadházy Ákosnak",
-          "url": "https://index.hu/belfold/2026/11/22/hadhazy-akos-borton-felfuggesztett-hatvanpuszta-vagyonor-ugyeszseg-rendorseg-nyomozas-birosag/"
-        },
-        {
-          "nev": "Telex",
-          "cim": "Első fokon felfüggesztettet kapott az a vagyonőr, aki Hatvanpuszta környékén üldözte Hadházy Ákost, majd felborult az autójával",
-          "url": "https://telex.hu/belfold/2026/11/22/hadhazy-akos-hatvanpusztai-uldozes-bicske-itelet"
-        }
-      ]
-    },
-    {
-      "cim": "Kilyukadt gumiról posztolt Magyar Péter, de nem úgy",
-      "lead": "A miniszterelnök egy 120 milliárd forintos kátyúmentesítési programot indít, ezt egy olyan régi képpel jelentette be, amin egy defektes kereket cserél.",
-      "forrasok": [
-        {
-          "nev": "Telex",
-          "cim": "Kilyukadt gumiról posztolt Magyar Péter, de nem úgy",
-          "url": "https://telex.hu/belfold/2026/11/22/magyar-peter-gumicsere-de-nem-ugy-katyumentesitesi-program"
-        },
-        {
-          "nev": "HVG",
-          "cim": "Magyar Péter: A gumi már csak ilyen, néha kilyukad vagy kiszakad",
-          "url": "https://hvg.hu/elet/20261122_magyar-peter-a-gumi-mar-csak-ilyen-neha-kilyukad-vagy-kiszakad"
-        }
-      ]
-    },
-    {
-      "cim": "Magyar Péter nem bírja elengedni a kotongate-et, a 120 milliárdos kátyúmentesítő programot is gumis „poénnal” jelentette be",
-      "lead": "Ne felejtsetek el mostanában gumit cserélni! – üzeni a miniszterelnök a magyar embereknek.",
-      "forrasok": [
-        {
-          "nev": "444",
-          "cim": "Magyar Péter nem bírja elengedni a kotongate-et, a 120 milliárdos kátyúmentesítő programot is gumis „poénnal” jelentette be",
-          "url": "https://444.hu/2026/11/22/magyar-peter-nem-birja-elengedni-a-kotongate-et-a-120-milliardos-katyumentesito-programot-is-gumis-poennal-jelentette-be?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "Index",
-          "cim": "Megint kilyukadt Magyar Péter gumija, ezért 120 milliárdos „gumimentő” programot ígér",
-          "url": "https://index.hu/belfold/2026/11/22/magyar-peter-defekt-gumi-kilyukad-bejelentes-katyu-auto/"
-        }
-      ]
-    },
-    {
-      "cim": "Izraeli telepesek gyújtogattak Ciszjordániában, a leendő kormányfő leterroristázta őket",
-      "lead": "Vasárnapra virradó éjjel legalább négy, izraeli telepesek által elkövetett, nacionalista indíttatású erőszakos cselekményt jelentettek.",
-      "forrasok": [
-        {
-          "nev": "Telex",
-          "cim": "Izraeli telepesek gyújtogattak Ciszjordániában, a leendő kormányfő leterroristázta őket",
-          "url": "https://telex.hu/kulfold/2026/11/22/felgyujtott-jarmuvekrol-bosszura-szolito-graffitikrol-szamolnak-be-ciszjordania-szerte"
+          "cim": "Az Nvidia visszahelyezte Jensen Huangot a vezérigazgatói posztra",
+          "url": "https://hvg.hu/kkv/20261123_nvidia-jensen-huang-vezerigazgato-visszateres"
         },
         {
           "nev": "444",
-          "cim": "Zsidó terrorizmusról beszélt a kormányalakításra felkért Gadi Eisenkot azután, hogy szombat éjszaka több ciszjordániai helyszínen is gyújtogattak izraeli telepesek",
-          "url": "https://444.hu/2026/11/22/zsido-terrorizmusrol-beszelt-a-kormanyalakitasra-felkert-gadi-eisenkot-azutan-hogy-szombat-ejszaka-tobb-ciszjordaniai-helyszinen-is-gyujtogathattak-izraeli-telepesek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        }
-      ]
-    },
-    {
-      "cim": "Remegő, alultáplált kutyákat mentettek ki egy házból Péteriben",
-      "lead": "A rendőrség állatkínzás gyanújával nyomoz az idős tulajdonos ellen.",
-      "forrasok": [
-        {
-          "nev": "HVG",
-          "cim": "Remegő, alultáplált kutyákat mentettek ki egy házból Péteriben",
-          "url": "https://hvg.hu/itthon/20261121_remego-alultaplalt-kutyak-mentetettek-ki-egy-hazbol-peteriben"
+          "cim": "Újra Jensen Huang az Nvidia vezérigazgatója",
+          "url": "https://444.hu/2026/11/23/ujra-jensen-huang-az-nvidia-vezerigazgatoja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         },
         {
           "nev": "Index",
-          "cim": "Állatvédők mentettek ki 19 alultáplált kutyát egy péteri házból",
-          "url": "https://index.hu/belfold/2026/11/22/peteri-kutyak-alultaplalt-allatmentok-urulek-buz/"
+          "cim": "Visszatért az Nvidia élére Jensen Huang a kémbotrány után",
+          "url": "https://index.hu/techtud/2026/11/23/jensen-huang-nvidia-igazgato-visszateres/"
         }
       ]
     },
     {
-      "cim": "Schiffer András Rákosi Mátyáshoz hasonlította Magyar Pétert",
-      "lead": "Az LMP egykori társelnöke szerint 1956 után már kiment a divatból a politikai vezetők személyi kultuszának ünneplése.",
+      "cim": "Februárig meghosszabbították Matolcsy György letartóztatását",
+      "lead": "Matolcsy újra óvadékot ajánlott, de a bíróság ismét elutasította a 30 millió forintot.",
+      "forrasok": [
+        {
+          "nev": "444",
+          "cim": "Februárig meghosszabbították Matolcsy György letartóztatását",
+          "url": "https://444.hu/2026/11/23/februarig-meghosszabbitottak-matolcsy-gyorgy-letartoztatasat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "Magyar Nemzet",
+          "cim": "Az ünnepeket is börtönben tölti Matolcsy György",
+          "url": "https://magyarnemzet.hu/belfold/2026/11/az-unnepeket-is-bortonben-tolti-matolcsy-gyorgy?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Meghosszabbították Matolcsy György letartóztatását",
+          "url": "https://hvg.hu/itthon/20261123_matolcsy-gyorgy-meghosszabbitott-letartozatas"
+        },
+        {
+          "nev": "Index",
+          "cim": "Három hónappal meghosszabbították Matolcsy György letartóztatását",
+          "url": "https://index.hu/belfold/2026/11/23/matolcsy-gyorgy-matolcsy-adam-stofa-gyorgy-letartoztatas/"
+        }
+      ]
+    },
+    {
+      "cim": "Míg az ukránok egy olajfinomítóra mértek csapást, az oroszok lebombáztak egy magánklinikát",
+      "lead": "A novosahtyinszki olajfinomítóban akkora tűz ütött ki, hogy még a műholdfelvételeken is látható volt. Zaporizzsjában egy magánklinikát ért orosz támadás, hárman meghaltak.",
+      "forrasok": [
+        {
+          "nev": "HVG",
+          "cim": "Míg az ukránok egy olajfinomítóra mértek csapást, az oroszok lebombáztak egy magánklinikát",
+          "url": "https://hvg.hu/vilag/20261123_ukrajna-olajfinomito-maganklinika-tamadas"
+        },
+        {
+          "nev": "Index",
+          "cim": "Újabb orosz olajfinomítóra csaptak le az ukránok",
+          "url": "https://index.hu/kulfold/2026/11/23/ukrajna-oroszorszag-haboru-tamadas/"
+        }
+      ]
+    },
+    {
+      "cim": "Hiába tolták Magyar Péter szekerét, most bajban van a Magyar Hang",
+      "lead": "Milliárdos állami sajtóalapban bízhatnak, de a Tisza befolyásától is tartanak.",
       "forrasok": [
         {
           "nev": "Magyar Nemzet",
-          "cim": "Schiffer András Rákosi Mátyáshoz hasonlította Magyar Pétert",
-          "url": "https://magyarnemzet.hu/belfold/2026/11/schiffer-andras-rakosi-matyashoz-hasonlitotta-magyar-petert?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+          "cim": "Hiába tolták Magyar Péter szekerét, most bajban van a Magyar Hang",
+          "url": "https://magyarnemzet.hu/belfold/2026/11/magyar-peter-magyar-hang-bajban-van?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        },
+        {
+          "nev": "444",
+          "cim": "Magyar Péter rövidesen Kárpátaljára utazik",
+          "url": "https://444.hu/2026/11/23/magyar-peter-rovidesen-karpataljara-utazik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        }
+      ]
+    },
+    {
+      "cim": "Tisza-kormány: Magyar Péter Kárpátaljára látogat",
+      "lead": "Kert Attila lesz az MRTV új vezérigazgatója, mert a Független Közmédia Testület szerint nagyobb tapasztalata van médiaszervezetek vezetésében. A Magyar Egészségügyi Szakdolgozói Kamara jelenlegi formájában nem támogatja a 2027-es bérrendezés tervezetét, mivel az nem garantál mindenkinek legalább 7,5 százalékos…",
+      "forrasok": [
+        {
+          "nev": "Portfolio",
+          "cim": "Tisza-kormány: Magyar Péter Kárpátaljára látogat",
+          "url": "https://www.portfolio.hu/gazdasag/20261123/tisza-kormany-magyar-peter-karpataljara-latogat-878368"
+        },
+        {
+          "nev": "Magyar Nemzet",
+          "cim": "Így magyarázkodik a kormány a kétszámjegyű beruházási visszaesésről",
+          "url": "https://magyarnemzet.hu/gazdasag/2026/11/ksh-beruhazasok-2026-harmadik-negyedev-penzugyminiszterium?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        }
+      ]
+    },
+    {
+      "cim": "A NATO szerint Oroszország nukleáris fegyverrel felszerelt műholdat lőhet fel",
+      "lead": "A Szputnyik-Sz nevű műholdat még az idén felküldhetik az űrbe.",
+      "forrasok": [
+        {
+          "nev": "HVG",
+          "cim": "A NATO szerint Oroszország nukleáris fegyverrel felszerelt műholdat lőhet fel",
+          "url": "https://hvg.hu/vilag/20261123_nato-oroszorszag-nuklearis-fegyver-muhold-szputnyik-sz-urfegyverkezes"
+        },
+        {
+          "nev": "444",
+          "cim": "A NATO szerint Oroszország készen áll egy nukleáris fegyverrel felszerelt műhold felbocsátására",
+          "url": "https://444.hu/2026/11/23/a-nato-szerint-oroszorszag-keszen-all-egy-nuklearis-fegyverrel-felszerelt-muhold-felbocsatasara?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        }
+      ]
+    },
+    {
+      "cim": "Éhségsztrájkkal válaszolna a letartóztatására Alekszandar Vucsics",
+      "lead": "A volt államfő szerint halála esetén akár egymillió ember is az utcára vonulhat.",
+      "forrasok": [
+        {
+          "nev": "Index",
+          "cim": "Éhségsztrájkkal válaszolna a letartóztatására Alekszandar Vucsics",
+          "url": "https://index.hu/kulfold/2026/11/23/alekszandar-vucsics-szerbia-letartoztatas-ehsegsztrajk-halal-tamogatok-utcai-vonulas/"
+        },
+        {
+          "nev": "444",
+          "cim": "Vučić letartóztatása esetére éhségsztrájkkal fenyegetőzik, amit nem élne túl",
+          "url": "https://444.hu/2026/11/23/vucic-letartoztatasa-esetere-ehsegsztrajkkal-fenyegetozik-amit-nem-elne-tul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        }
+      ]
+    },
+    {
+      "cim": "Bombafenyegetést kapott több száz német és dán iskola",
+      "lead": "Az elmúlt hetekben magyar, olasz és spanyol intézmények is kaptak ilyen üzeneteket.",
+      "forrasok": [
+        {
+          "nev": "Index",
+          "cim": "Bombafenyegetést kapott több száz német és dán iskola",
+          "url": "https://index.hu/kulfold/2026/11/23/bombafenyegetes-iskolak-nemetorszag-dania/"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Bombafenyegetést kapott több száz német és dán iskola",
+          "url": "https://hvg.hu/vilag/20261123_nemetorszag-dania-bombafenyegetes-iskola"
+        }
+      ]
+    },
+    {
+      "cim": "Magyar Péter, Forsthoffer Ágnes és Pócs János ügye is terítéken volt a mentelmi bizottság előtt",
+      "lead": "Három ügy, három állásfoglalás.",
+      "forrasok": [
+        {
+          "nev": "HVG",
+          "cim": "Magyar Péter, Forsthoffer Ágnes és Pócs János ügye is terítéken volt a mentelmi bizottság előtt",
+          "url": "https://hvg.hu/itthon/20261123_magyar-peter-forsthoffer-agnes-es-pocs-janos-mentelmi-jogarol-is-dontottek"
         },
         {
           "nev": "Index",
-          "cim": "Schiffer Andrásnak Rákosi jutott eszébe a Magyar Péterről készült festményről",
-          "url": "https://index.hu/belfold/2026/11/22/schiffer-andras-magyar-peter-rakosi-matyas-festmeny-portre-tisza-miniszterelnok/"
+          "cim": "„Bátorság, elvtársak!” – kiabálta Magyar Péter, Forsthoffer Ágnes csendet kért",
+          "url": "https://index.hu/belfold/2026/11/23/orszaggyules-parlament-magyar-peter-kormany-tisza-part-fidesz-kdnp-mi-hazank-mozgalom/-batorsag-elvtarsak---kiabalta-magyar-peter-forsthoffer-agnes-csendet-kert_10/"
         }
       ]
     },
     {
-      "cim": "Tisza-kormány: kilencmilliárdos vagyonzár Seszták ellen, Bús Balázst kiengedték a börtönből",
-      "lead": "Megválasztották a közmédia új vezérigazgatóját, több mint kilencmilliárd forintos vagyonzárat rendeltek el Seszták Miklóssal szemben, és több közlekedési fejlesztésről is bejelentés érkezett november 21-én. A szombati hírfolyamban az egészségügyi bejelentővédelem, a tanév rendjének módosítása és a következő évi bérek…",
+      "cim": "Kamionnal ütközött és kisiklott egy vonat Szentlőrinc és Sellye között",
+      "lead": "A mozdonyvezető súlyosan megsérült, az utasok közül többen könnyebben sérültek meg.",
       "forrasok": [
         {
-          "nev": "Portfolio",
-          "cim": "Tisza-kormány: kilencmilliárdos vagyonzár Seszták ellen, Bús Balázst kiengedték a börtönből",
-          "url": "https://www.portfolio.hu/gazdasag/20261122/tisza-kormany-kilencmilliardos-vagyonzar-sesztak-ellen-bus-balazst-kiengedtek-a-bortonbol-878266"
+          "nev": "444",
+          "cim": "Kamionnal ütközött és kisiklott egy vonat Szentlőrinc és Sellye között",
+          "url": "https://444.hu/2026/11/23/kamionnal-utkozott-es-siklott-egy-vonat-szentlorinc-es-sellye-kozott?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         },
         {
           "nev": "HVG",
-          "cim": "Megszólalt Bús Balázs, miután kiengedték a börtönből: „gonosz idő ez”",
-          "url": "https://hvg.hu/itthon/20261122_bus-balazs-hazatert-nka-letartoztatas-megszuntetese"
+          "cim": "Kamionnal ütközött és kisiklott egy motorvonat Baranyában, többen megsérültek",
+          "url": "https://hvg.hu/itthon/20261123_vonatbaleset-kamion-sumony-serultek"
         }
       ]
     },
     {
-      "cim": "Előzésáradat Las Vegasban, Verstappen a legvégéig izgalmas futamot nyert meg",
-      "lead": "Három körrel a cél előtt még mindkét Mercedes dobogós helyen haladt, végül egyikük sem pezsgőzhetett. A két Ferrari összeütközött.",
+      "cim": "Megkezdődhet a Fidesz újabb jelöltjének parlamenti meghallgatása a Médiatanács ügyében",
+      "lead": "Három igen szavazattal és két tartózkodással támogatta Perlaky-Papp József meghallgatását a Médiatanács tagjait jelölő eseti bizottság.",
       "forrasok": [
         {
           "nev": "Magyar Nemzet",
-          "cim": "Előzésáradat Las Vegasban, Verstappen a legvégéig izgalmas futamot nyert meg",
-          "url": "https://magyarnemzet.hu/sport/2026/11/verstappen-las-vegas-nagydij-f1-futam-eredmeny-elozesek?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+          "cim": "Megkezdődhet a Fidesz újabb jelöltjének parlamenti meghallgatása a Médiatanács ügyében",
+          "url": "https://magyarnemzet.hu/belfold/2026/11/megkezdodhet-a-fidesz-ujabb-jeloltjenek-parlamenti-meghallgatasa-a-mediatanacs-ugyeben?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
         },
         {
-          "nev": "Telex",
-          "cim": "352 előzés – Las Vegas megduplázta az F1-rekordot",
-          "url": "https://telex.hu/sport/2026/11/22/f1-las-vegas-i-nagydij-elozes-forma-1-max-verstappen"
+          "nev": "444",
+          "cim": "Médiatanács: a Fidesz harmadik jelöltjét is leszavazta a művelődési bizottság",
+          "url": "https://444.hu/2026/11/23/mediatanacs-a-fidesz-harmadik-jeloltjet-is-leszavazta-a-muvelodesi-bizottsag?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         }
       ]
     },
     {
-      "cim": "Egyre nagyobb az aggodalom, hogy a háború átterjedhet a NATO területére: lángol a stratégiai orosz teherhajó a Balti-tengeren",
-      "lead": "Továbbra is lángol a Balti-tengeren az a teherhajó, amelyet szombaton ért dróntámadás. A valószínűleg ukrán csapást követően a Sparta II nevű orosz hajó finn felségvizekre sodródott. A legénységet sikeresen kimenekítették, ám a tüzet az egész éjszakán át tartó oltás ellenére sem tudták megfékezni.",
+      "cim": "Tutanhamon kincsei és a fáraók titkai elevenednek meg Budapesten",
+      "lead": "tárlat látványos rekonstrukciók, tematikus terek és történetek segítségével vezeti be az érdeklődőket a fáraók birodalmába.",
       "forrasok": [
         {
-          "nev": "Portfolio",
-          "cim": "Egyre nagyobb az aggodalom, hogy a háború átterjedhet a NATO területére: lángol a stratégiai orosz teherhajó a Balti-tengeren",
-          "url": "https://www.portfolio.hu/global/20261122/egyre-nagyobb-az-aggodalom-hogy-a-haboru-atterjedhet-a-nato-teruletere-langol-a-strategiai-orosz-teherhajo-a-balti-tengeren-878272"
-        },
-        {
-          "nev": "444",
-          "cim": "„A háború átterjed a közvetlen környezetünkbe” – írta a finn miniszterelnök, miután dróncsapás ért egy orosz teherhajót a Balti-tenger nemzetközi vizein",
-          "url": "https://444.hu/2026/11/22/a-haboru-atterjed-a-kozvetlen-kornyezetunkbe-irta-a-finn-miniszterelnok-miutan-droncsapas-ert-egy-orosz-teherhajot-a-balti-tenger-nemzetkozi-vizein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        }
-      ]
-    },
-    {
-      "cim": "Elhunyt Paolo Bulgari olasz ékszertervező, a Bulgari-ház feje",
-      "lead": "89 évesen családja körében halt meg.",
-      "forrasok": [
-        {
-          "nev": "HVG",
-          "cim": "Elhunyt Paolo Bulgari olasz ékszertervező, a Bulgari-ház feje",
-          "url": "https://hvg.hu/elet/20261121_elhunyt-paolo-bulgari-olasz-ekszertervezo-a-bulgari-haz-feje"
-        },
-        {
-          "nev": "444",
-          "cim": "Meghalt Paolo Bulgari",
-          "url": "https://444.hu/2026/11/21/meghalt-paolo-bulgari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "nev": "Magyar Nemzet",
+          "cim": "Tutanhamon kincsei és a fáraók titkai elevenednek meg Budapesten",
+          "url": "https://magyarnemzet.hu/kultura/2026/11/tutanhamon-kincsei-es-a-faraok-titkai-elevenednek-meg-budapesten?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
         }
       ]
     }
   ],
   "nemzetkozi": [
     {
-      "cim": "Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing",
-      "lead": "Relatives of the missing victims flocked to the factory’s entrance, seeking updates about their loved ones A fire at a confectionery factory west of Jakarta has killed three people with 36 remaining missing, an Indonesian rescue official says. Drone footage showed large parts of the factory destroyed, with the roof…",
+      "cim": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+      "lead": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warship Europe live – latest updates Ukraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on Sunday, including one that sank the corvette Merkury, one of Russia’s newest…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing",
+          "cim": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+          "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya"
+        },
+        {
+          "nev": "New York Times",
+          "cim": "Ukrainian Attack Off Coast of Libya Shows Reach of Kyiv’s Naval Drones",
+          "url": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html"
+        },
+        {
+          "nev": "BBC",
+          "cim": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "Zelenskyy says Ukraine behind attacks on Russian ships near Libya",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/zelenskyy-says-ukraine-behind-attacks-on-russian-ships-near-libya?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "cim": "What's next after no deal at COP31 climate talks?",
+      "lead": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+      "forrasok": [
+        {
+          "nev": "BBC",
+          "cim": "What's next after no deal at COP31 climate talks?",
+          "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "nev": "Al Jazeera",
+          "cim": "COP31: What next after UN climate talks collapse",
+          "url": "https://www.aljazeera.com/news/2026/11/23/cop31-what-next-after-un-climate-talks-collapse?traffic_source=rss"
+        },
+        {
+          "nev": "New York Times",
+          "cim": "COP31 Climate Talks Broke Down. Now What?",
+          "url": "https://www.nytimes.com/2026/11/23/climate/cop31-collapse-what-next.html"
+        }
+      ]
+    },
+    {
+      "cim": "At least 24 killed and dozens missing in confectionery factory fire in Indonesia",
+      "lead": "Rescuers brave unstable structures in search for missing as DNA needed to identify victims Indonesia has confirmed the deaths of 24 people in a fire that tore ⁠through a factory, as rescuers braved unstable structures in the burned wreckage to search for ⁠about 30 people ⁠still missing. Authorities ​were still…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "At least 24 killed and dozens missing in confectionery factory fire in Indonesia",
           "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta"
         },
         {
-          "nev": "Deutsche Welle",
-          "cim": "Dozens missing as deadly fire hits Indonesian candy factory",
-          "url": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-world-4025-rdf"
-        },
-        {
           "nev": "Al Jazeera",
-          "cim": "Indonesia factory fire kills three, 36 missing",
-          "url": "https://www.aljazeera.com/news/2026/11/22/indonesia-factory-fire-kills-three-36-missing?traffic_source=rss"
+          "cim": "Search continues for dozens missing after Indonesia candy factory fire",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/search-continues-for-dozens-missing-after-indonesia-candy-factory-fire?traffic_source=rss"
         },
         {
-          "nev": "BBC",
-          "cim": "Three killed and dozens missing after fire at Indonesian factory",
-          "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss"
+          "nev": "New York Times",
+          "cim": "Deadly Fire Rips Through Candy Factory in Indonesia",
+          "url": "https://www.nytimes.com/2026/11/23/world/asia/indonesia-factory-fire.html"
         }
       ]
     },
     {
-      "cim": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
-      "lead": "Choi Kyo-jin says he ‘failed to prepare adequately’ for entrance exams, which this year had phones banned and checks for cameras hidden in clothing South Korea’s education minister has resigned after an AI-assisted cheating scandal that erupted in the lead-up to key university entrance exams last week. The country has…",
+      "cim": "Israel’s destruction of Gaza has created a ‘toxic wasteland’, experts find",
+      "lead": "Scientific and satellite findings warn of widespread contamination in Gaza, posing grave threats to public health ‘for generations to come’ Israel’s destruction of Gaza has left a devastating environmental legacy with poisoned water, contaminated soil and toxic air threatening the life-support systems that the…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
-          "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams"
-        },
-        {
-          "nev": "New York Times",
-          "cim": "South Korea’s Education Minister Resigns Over Anti-A.I. Cheating Rules",
-          "url": "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html"
+          "cim": "Israel’s destruction of Gaza has created a ‘toxic wasteland’, experts find",
+          "url": "https://www.theguardian.com/world/2026/nov/23/israel-gaza-destruction-created-toxic-wasteland-oxfam-report"
         },
         {
           "nev": "BBC",
-          "cim": "South Korea education minister resigns over exam cheating scandal",
-          "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Russian cargo ship still on fire off Finland after drone attack",
-      "lead": "The ship, bound for Russia's Kaliningrad, was damaged in international waters before drifting into Finnish territory.",
-      "forrasok": [
+          "cim": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+          "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss"
+        },
         {
           "nev": "Al Jazeera",
-          "cim": "Russian cargo ship still on fire off Finland after drone attack",
-          "url": "https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack?traffic_source=rss"
-        },
-        {
-          "nev": "BBC",
-          "cim": "Russia-bound ship still on fire after attack in Gulf of Finland",
-          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+          "cim": "‘Environmental crimes’: Israel blamed for toxic pollution in 99% of Gaza",
+          "url": "https://www.aljazeera.com/news/2026/11/23/environmental-crimes-israel-blamed-for-toxic-pollution-in-99-of-gaza?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
-      "lead": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decade The Mexican military captured one of the FBI’s 10 most wanted fugitives during a special forces raid in the Mexican state of Sinaloa on Friday night. Fausto Isidro Meza Flores, known as “El Chapo Isidro”, was…",
+      "cim": "Netanyahu rival condemns ‘Jewish terrorism’ after settler attacks on Palestinian villages",
+      "lead": "Dozens of militant Israeli settlers raided communities on Saturday night, setting fire to vehicles and several homes Arson attacks by militant Israeli settlers on Palestinian villages in the occupied West Bank have caused a political row in Israel, drawing condemnation from Gadi Eisenkot, the opposition leader, who…",
       "forrasok": [
         {
           "nev": "The Guardian",
-          "cim": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
-          "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested"
+          "cim": "Netanyahu rival condemns ‘Jewish terrorism’ after settler attacks on Palestinian villages",
+          "url": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank"
         },
         {
           "nev": "New York Times",
-          "cim": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
-          "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html"
-        }
-      ]
-    },
-    {
-      "cim": "Russia strikes Zelenskyy's hometown, killing 2",
-      "lead": "The attacks follow Russian President Vladimir Putin's vow of a \"painful\" response to Ukraine's attacks this week on the Kerch Bridge, linking Russian-occupied Crimea.",
-      "forrasok": [
-        {
-          "nev": "Deutsche Welle",
-          "cim": "Russia strikes Zelenskyy's hometown, killing 2",
-          "url": "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-world-4025-rdf"
+          "cim": "Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks",
+          "url": "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html"
         },
         {
           "nev": "Al Jazeera",
-          "cim": "Dashcam captures Russian missile strike on Lviv, Ukraine",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss"
+          "cim": "Why is Bangladesh’s Grameen Bank under attack?",
+          "url": "https://www.aljazeera.com/news/2026/11/23/why-is-bangladeshs-grameen-bank-under-attack?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
-      "lead": "U.S. and Mexican authorities shared intelligence for weeks to track Fausto Isidro Meza Flores, a drug cartel leader that a U.S. official called the most dangerous man in Mexico.",
+      "cim": "Paolo Bulgari, Heir of Italian Jewelry Dynasty, Dies at 89",
+      "lead": "As the chairman of his family’s company, Mr. Bulgari embraced maximalist aesthetics that recalled ancient Rome. After the 2008 financial crisis, he steered the sale of the business to LVMH.",
       "forrasok": [
         {
           "nev": "New York Times",
-          "cim": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
-          "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html"
+          "cim": "Paolo Bulgari, Heir of Italian Jewelry Dynasty, Dies at 89",
+          "url": "https://www.nytimes.com/2026/11/23/style/paolo-bulgari-dead.html"
         },
         {
           "nev": "BBC",
-          "cim": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-          "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss"
+          "cim": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+          "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "cim": "American vs. Chinese Mahjong: Why the Rivalry Is Stirring Controversy",
-      "lead": "American mahjong, with its own tiles and rules, has overshadowed the traditional Chinese game. The rivalry has fueled anger and cultural misunderstanding.",
+      "cim": "Don Toliver Concert in Manchester Is Evacuated Over ‘Unknown Substance’",
+      "lead": "The American rapper was performing in Manchester on Sunday when people in the crowd began experiencing effects from the substance, prompting an emergency response.",
       "forrasok": [
         {
           "nev": "New York Times",
-          "cim": "American vs. Chinese Mahjong: Why the Rivalry Is Stirring Controversy",
-          "url": "https://www.nytimes.com/2026/11/22/world/asia/mahjong-american-chinese-controversy.html"
+          "cim": "Don Toliver Concert in Manchester Is Evacuated Over ‘Unknown Substance’",
+          "url": "https://www.nytimes.com/2026/11/23/world/europe/manchester-don-toliver-concert-evacuation-uk.html"
         }
       ]
     },
     {
-      "cim": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
-      "lead": "Congress forbade funding for the Vietnam War, contributing to the fall of the South Vietnamese government in Saigon.",
+      "cim": "Mexican soldiers attacked in wake of drug lord's arrest",
+      "lead": "Eight suspects are arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
       "forrasok": [
         {
-          "nev": "Al Jazeera",
-          "cim": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
-          "url": "https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss"
+          "nev": "BBC",
+          "cim": "Mexican soldiers attacked in wake of drug lord's arrest",
+          "url": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "cim": "Canada’s Boreal Forest Is Reshaped by Logging and Climate Change",
-      "lead": "Canada has framed the preservation of its boreal forest as a model for the world, but commercial logging combined with climate change is inflicting severe damage.",
+      "cim": "Democrats reveal details for 2028 presidential primary after midterm victories – US politics live",
+      "lead": "Party says there will be 12 debates to select a candidate from what is expected to be a large number of hopefuls Sign up to the Breaking News US email Here’s Trump ’s full social media post, in which he also called Jensen Huang “a Great Patriot and National Treasure”. The NVIDIA Board of Directors has made the correct…",
       "forrasok": [
         {
-          "nev": "New York Times",
-          "cim": "Canada’s Boreal Forest Is Reshaped by Logging and Climate Change",
-          "url": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html"
+          "nev": "The Guardian",
+          "cim": "Democrats reveal details for 2028 presidential primary after midterm victories – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates"
         }
       ]
     },
     {
-      "cim": "Bitter Clash Over Fossil Fuels Derails U.N. Climate Talks",
-      "lead": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
+      "cim": "Moscow accuses Estonia of acting ‘on verge of unleashing open war with Russia’ – Europe live",
+      "lead": "Estonia has continued to deny it has allowed Ukrainian drones to operate from its territory despite repeated unsubstantiated claims from the Kremlin Turning to Ukraine, Nato’s Rutte stresses the need to secure the flow of “crucial supplies” or air defence weapons and ammunition to Ukraine. “ It helps Ukraine to defend…",
       "forrasok": [
         {
-          "nev": "New York Times",
-          "cim": "Bitter Clash Over Fossil Fuels Derails U.N. Climate Talks",
-          "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html"
+          "nev": "The Guardian",
+          "cim": "Moscow accuses Estonia of acting ‘on verge of unleashing open war with Russia’ – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates"
         }
       ]
     },
     {
-      "cim": "Bruno Fernandes says contract talks on hold as Man United battle poor start",
-      "lead": "The Manchester United captain's current deal expires at the end of the season, though the club has an option to extend.",
+      "cim": "Nine people shot at central California concert with one in critical condition",
+      "lead": "Authorities say they believe the Saturday night shooting at a concert in Strathmore ‘may be gang-related’ Nine people were shot at a concert in central California , leaving one person critically injured with a chest injury, the local sheriff said Sunday. The shooting broke out at about 7.30pm Saturday at a concert…",
       "forrasok": [
         {
-          "nev": "Al Jazeera",
-          "cim": "Bruno Fernandes says contract talks on hold as Man United battle poor start",
-          "url": "https://www.aljazeera.com/sports/2026/11/22/bruno-fernandes-manchester-united-contract-talks-premier-league-football?traffic_source=rss"
+          "nev": "The Guardian",
+          "cim": "Nine people shot at central California concert with one in critical condition",
+          "url": "https://www.theguardian.com/us-news/2026/nov/23/concert-shooting-california-strathmore"
         }
       ]
     },
     {
-      "cim": "Israeli settlers attack several Palestinian villages in occupied West Bank",
-      "lead": "Attacks in Ramallah, el-Bireh provinces included the burning of 12 vehicles and spray-painting racist slogans on homes.",
+      "cim": "Presidential villa suffers water and power cuts, Nigerian leader says",
+      "lead": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
       "forrasok": [
         {
-          "nev": "Al Jazeera",
-          "cim": "Israeli settlers attack several Palestinian villages in occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2026/11/22/israeli-settlers-attack-several-palestinian-villages-in-occupied-west-bank?traffic_source=rss"
+          "nev": "BBC",
+          "cim": "Presidential villa suffers water and power cuts, Nigerian leader says",
+          "url": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
