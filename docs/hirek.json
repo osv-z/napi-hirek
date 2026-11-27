@@ -1,385 +1,405 @@
 {
-  "datum": "2026-11-26",
-  "generalva": "2026-11-26T15:04+01:00",
+  "datum": "2026-11-27",
+  "generalva": "2026-11-27T15:02+01:00",
   "hazai": [
     {
-      "cim": "100 millió forinttal támogatja a győri önkormányzat a bajba jutott női kéziseket",
-      "lead": "Az élsportolók kiemelt ekhohatárának eltörlése és a szponzorok lehetséges elszivárgása okoz súlyos gondokat a sztárcsapatnál.",
+      "cim": "Meghalt Melocco Miklós",
+      "lead": "A Magyar Corvin-lánccal és a Nemzet Művésze címmel kitüntetett Kossuth-díjas szobrászművész 91 éves volt.",
       "forrasok": [
         {
-          "nev": "HVG",
-          "cim": "100 millió forinttal támogatja a győri önkormányzat a bajba jutott női kéziseket",
-          "url": "https://hvg.hu/itthon/20261126_gyori-audi-eto-kc-penz-valsag-gyori-onkormanyzat-segitseg-jatekosok-fizetes-kezilabda"
+          "nev": "Magyar Nemzet",
+          "cim": "Meghalt Melocco Miklós",
+          "url": "https://magyarnemzet.hu/kultura/2026/11/melocco-miklos?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
         },
         {
-          "nev": "444",
-          "cim": "100 milliós mentőövet kapott a győri kézicsapat az önkormányzattól",
-          "url": "https://444.hu/2026/11/26/100-millios-mentoovet-kapott-a-gyori-kezicsapat-az-onkormanyzattol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "nev": "HVG",
+          "cim": "Elhunyt Melocco Miklós szobrászművész",
+          "url": "https://hvg.hu/kultura/20261127_melocco-miklos-szobrasz-muvesz-megahlt"
         },
         {
           "nev": "Index",
-          "cim": "Kisegíti a város a győri kéziseket, 100 millió forintos támogatásról döntöttek",
-          "url": "https://index.hu/sport/kezilabda/2026/11/26/gyori-audi-eto-kc-onkormanyzat-segitseg-tamogatas/"
+          "cim": "Meghalt Melocco Miklós, a nemzet művésze",
+          "url": "https://index.hu/kultur/2026/11/27/melocco-miklos-szobraszmuvesz-meghalt-gyaszhir/"
+        },
+        {
+          "nev": "444",
+          "cim": "Meghalt Melocco Miklós szobrászművész",
+          "url": "https://444.hu/2026/11/27/meghalt-melocco-miklos-szobraszmuvesz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "Telex",
+          "cim": "Meghalt Melocco Miklós Kossuth-díjas szobrászművész",
+          "url": "https://telex.hu/karakter/kultura/2026/11/27/melocco-miklos-halalhir"
         }
       ]
     },
     {
-      "cim": "Kezdeményezték Vitézy Dávid és a MÁV-vezérigazgató rendkívüli meghallgatását a mezőkövesdi vonatbaleset miatt",
-      "lead": "Válaszokat várnak a történtekre és az utasbiztonság hiányosságaira.",
+      "cim": "Fegyvert találtak a Mosoni-Dunában két nappal a győri gyilkosság után",
+      "lead": "A rendőrök továbbra is keresik az 53 éves férfit, aki a gyanú szerint kedden megölte volt élettársát.",
       "forrasok": [
         {
+          "nev": "Telex",
+          "cim": "Fegyvert találtak a Mosoni-Dunában két nappal a győri gyilkosság után",
+          "url": "https://telex.hu/belfold/2026/11/27/fegyvert-talaltak-a-mosoni-dunaban-ket-nappal-a-gyori-gyilkossag-utan"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Megtalálták a fegyvert a Mosoni-Dunában, amellyel a Győrben talált nőt megölhette volt élettársa",
+          "url": "https://hvg.hu/itthon/20261127_gyori-gyilkossag-fegyver-mosoni-duna"
+        },
+        {
+          "nev": "444",
+          "cim": "Megtalálhatták a Mosoni-Dunában a győri gyilkossághoz használt fegyvert",
+          "url": "https://444.hu/2026/11/27/a-mosoni-dunaban-talaltak-meg-a-fegyvert-amit-a-gyori-gyilkossaghoz-hasznalhattak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
           "nev": "Index",
-          "cim": "Kezdeményezték Vitézy Dávid és a MÁV-vezérigazgató rendkívüli meghallgatását a mezőkövesdi vonatbaleset miatt",
-          "url": "https://index.hu/belfold/2026/11/26/mezokovesd-vonatbaleset-vitezy-david-meghallgatas-fidesz-frakcio/"
+          "cim": "Emberölés Győrben: megtalálhatták a gyilkos fegyvert",
+          "url": "https://index.hu/belfold/2026/11/27/gyor-mosoni-duna-fegyver-emberoles/"
+        }
+      ]
+    },
+    {
+      "cim": "Feljelentést tett a Magyar Fejlesztési Bank a Lukavac-cementgyár ügyében, Mészáros-szál is van az ügyben",
+      "lead": "A boszniai cementgyárat a Mészáros Csoport érdekeltségébe tartozó Talentis vásárolta fel 2023 végén. Az MFB a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnál is bejelentést tett.",
+      "forrasok": [
+        {
+          "nev": "HVG",
+          "cim": "Feljelentést tett a Magyar Fejlesztési Bank a Lukavac-cementgyár ügyében, Mészáros-szál is van az ügyben",
+          "url": "https://hvg.hu/gazdasag/20261127_magyar-fejlesztesi-bank-feljelentes-hutlen-kezeles-gyanuja-lukavac-cementgyar-meszaros-lorinc"
+        },
+        {
+          "nev": "444",
+          "cim": "Hűtlen kezelés gyanúja miatt feljelentést tett az MFB a Mészáros Lőrinchez kötődő Lukavac cementgyár ügyében",
+          "url": "https://444.hu/2026/11/27/hutlen-kezeles-gyanuja-miatt-feljelentest-tett-az-mfb-a-meszaros-lorinchez-kotodo-lukavac-cementgyar-ugyeben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        },
+        {
+          "nev": "Index",
+          "cim": "Hűtlen kezelés gyanúja miatt feljelentést tett a Lukavac cementgyár eladása miatt az MFB",
+          "url": "https://index.hu/gazdasag/2026/11/27/magyar-fejlesztesi-bank-feljelentes-hutlen-kezeles-gazdasagi-es-energetikai-miniszterium/"
+        },
+        {
+          "nev": "Telex",
+          "cim": "Hűtlen kezelés gyanúja miatt feljelentést tettek Mészáros Lőrinc cementgyárának ügyében",
+          "url": "https://telex.hu/gazdasag/2026/11/27/hutlen-kezeles-gyanuja-miatt-feljelentest-tettek-meszaros-lorinc-cementgyaranak-ugyeben-lukavac-bosznia-hercegovina-magyar-fejlesztesi-bank"
+        }
+      ]
+    },
+    {
+      "cim": "Szentkirályi Alexandra kezdeményezi Nagy Ervin bizottsági meghallgatását a kulturális tárca problémás pénzosztása miatt",
+      "lead": "Az Országgyűlés művelődési bizottságának fideszes elnöke azt mondta, várják a választ arra, hogy kik döntöttek pontosan a pénzek odaítéléséről, milyen alapon osztották szét, mely szervezetek kaptak, és milyen összegeket.",
+      "forrasok": [
+        {
+          "nev": "HVG",
+          "cim": "Szentkirályi Alexandra kezdeményezi Nagy Ervin bizottsági meghallgatását a kulturális tárca problémás pénzosztása miatt",
+          "url": "https://hvg.hu/itthon/20261127_szentkiralyi-alexandra-nagy-ervin-bizottsagi-meghallgatas-kultura-tamogatas-penzosztas"
+        },
+        {
+          "nev": "444",
+          "cim": "Szentkirályi Alexandra beidézné Nagy Ervint a parlamenti bizottság elé, hogy magyarázza meg, hova ment a 3 milliárdnyi kulturális támogatás",
+          "url": "https://444.hu/2026/11/27/szentkiralyi-alexandra-beidezne-nagy-ervint-a-parlamenti-bizottsag-ele-hogy-magyarazza-meg-hova-ment-a-3-milliardnyi-kulturalis-tamogatas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
         },
         {
           "nev": "Magyar Nemzet",
-          "cim": "Soron kívüli meghallgatást kezdeményeznek Vitézy Dávid ügyében a mezőkövesdi vonatbaleset miatt + videó",
-          "url": "https://magyarnemzet.hu/belfold/2026/11/soron-kivuli-meghallgatas-vitezy-david-mezokovesdi-vonatbaleset?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+          "cim": "Szentkirályi Alexandra kezdeményezi Nagy Ervin bizottsági meghallgatását a milliárdos támogatási botrány miatt",
+          "url": "https://magyarnemzet.hu/belfold/2026/11/nagy-ervin-meghallgatas-milliardos-tamogatasi-botrany?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        },
+        {
+          "nev": "Telex",
+          "cim": "Szentkirályi Alexandra parlamenti bizottság előtt hallgatná meg Nagy Ervint a 3 milliárdos pénzosztásról",
+          "url": "https://telex.hu/belfold/2026/11/27/szentkiralyi-alexandra-meghallgatas-nagy-ervin"
+        }
+      ]
+    },
+    {
+      "cim": "Vádat emeltek a tiszafüredi férfi ellen, aki engedély nélkül tartott szibériai tigrissel és selyemmajommal is lebukott",
+      "lead": "A tigrisre egy kábítószeres nyomozás részeként tartott rendőrségi akció közben bukkantak rá a rendőrök. Egy évvel később selyemmajmot találtak a férfinél egy ellenőrzésen.",
+      "forrasok": [
+        {
+          "nev": "Telex",
+          "cim": "Vádat emeltek a tiszafüredi férfi ellen, aki engedély nélkül tartott szibériai tigrissel és selyemmajommal is lebukott",
+          "url": "https://telex.hu/belfold/2026/11/27/alig-hozta-be-a-selyemmajmot-szlovakiabol-meg-aznap-lebukott-vele-a-tiszafuredi-ferfi-aki-elotte-sziberiai-tigrist-tartott-az-otthonaban"
         },
         {
           "nev": "HVG",
-          "cim": "Vitézy Dávid és Hegyi Zsolt meghallgatását kezdeményezi a Fidesz a mezőkövesdi vonatbaleset miatt",
-          "url": "https://hvg.hu/itthon/20261126_vitezy-david-hegyi-zsolt-bizottsag-meghallgatas-fidesz-mezokovesdi-vonatbaleset"
-        }
-      ]
-    },
-    {
-      "cim": "Kritikus állapotban van a mezőkövesdi vonatbaleset sérültje",
-      "lead": "A lány anyja azt mondta, gyerekének súlyosan megsérültek a bordái, a csípője és a koponyája, lábait amputálni kellett, és irányított véradásra van szüksége.",
-      "forrasok": [
-        {
-          "nev": "444",
-          "cim": "Kritikus állapotban van a mezőkövesdi vonatbaleset sérültje",
-          "url": "https://444.hu/2026/11/26/kritikus-allapotban-van-a-mezokovesdi-vonatbaleset-serultje?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+          "cim": "Vádat emeltek az odahaza szibériai tigrist tartó tiszafüredi férfi ellen",
+          "url": "https://hvg.hu/itthon/20261127_tigirskolyok-tiszafured-illegalis-allatkereskedelem-vademeles"
         },
         {
           "nev": "Index",
-          "cim": "Karácsony Gergely megszüntetné az Airbnb-t, Életveszélyes sérüléseket szenvedett egy nő vonatbalesetben. Ki a felelős?",
-          "url": "https://index.hu/belfold/2026/11/26/egyreszt-masreszt-koczian-peter-dorner-lajos-balogh-laszlo-czunyine-bertalan-judit/"
+          "cim": "Szibériai tigrist és selyemmajmot rejtegetett otthon egy tiszafüredi férfi",
+          "url": "https://index.hu/belfold/2026/11/27/ugyeszseg-sziberiai-tigris-selyemmajom-termeszetkarositas-veszelyes-allat/"
         }
       ]
     },
     {
-      "cim": "Fabó György is gyanúsított lett a Seszták-ügyben",
-      "lead": "Az ő földjén találták meg az elásott milliárdok egy részét. Seszták és Fabó régi üzlettársak, utóbbi a győri számlagyáros ügyben is gyanúsított.",
+      "cim": "Továbbra is válságos állapotban van a mezőkövesdi vonatbaleset sérültje",
+      "lead": "A lányt súlyos, életveszélyes sérülésekkel szállították kórházba, azóta is kritikus állapotban van.",
       "forrasok": [
         {
-          "nev": "444",
-          "cim": "Fabó György is gyanúsított lett a Seszták-ügyben",
-          "url": "https://444.hu/2026/11/26/fabo-gyorgy-is-gyanusitott-lett-a-sesztak-ugyben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "Index",
-          "cim": "Újabb gyanúsítottja van a Seszták-ügynek",
-          "url": "https://index.hu/belfold/2026/11/26/fabo-gyorgy-sesztak-miklos-sesztak-ugy-nemzeti-vagyonvisszaszerzesi-es-vagyonvedelmi-hivatal/"
-        }
-      ]
-    },
-    {
-      "cim": "Zelenszkij: Oroszország hatalmas támadásra készül",
-      "lead": "Az ukrán városok és a kritikus infrastruktúra lehet a hírszerzés szerint Moszkva célpontja.",
-      "forrasok": [
-        {
-          "nev": "HVG",
-          "cim": "Zelenszkij: Oroszország hatalmas támadásra készül",
-          "url": "https://hvg.hu/vilag/20261126_zelenszkij-oroszorszag-tamadas-raketa"
-        },
-        {
-          "nev": "Index",
-          "cim": "Nagyszabású támadásra készülhet Oroszország, szankciókat sürget Zelenszkij",
-          "url": "https://index.hu/kulfold/2026/11/26/volodimir-zelenszkij-oroszorszag-tamadas-ukrajna-csapasok/"
-        }
-      ]
-    },
-    {
-      "cim": "Tisza-kormány: bővül a nyomozás a Seszták-ügyben, Brüsszelben tárgyal Magyar Péter",
-      "lead": "Magyar Péter miniszterelnök ma Brüsszelben, az Európai Unió Tanácsának csúcsán tárgyal az EU 2028–2034-es többéves pénzügyi keretéről. Itthon eközben ma is ülésezik a parlament, miközben a Külügyminisztérium jogászok bevonásával vizsgálja át Orbán Viktor utazásainak iratait, indokolt esetben pedig feljelentést is…",
-      "forrasok": [
-        {
-          "nev": "Portfolio",
-          "cim": "Tisza-kormány: bővül a nyomozás a Seszták-ügyben, Brüsszelben tárgyal Magyar Péter",
-          "url": "https://www.portfolio.hu/gazdasag/20261126/tisza-kormany-bovul-a-nyomozas-a-sesztak-ugyben-brusszelben-targyal-magyar-peter-879240"
-        },
-        {
-          "nev": "Index",
-          "cim": "Brüsszelben jelezték, Magyar Péterék nem maradhatnak ki az ukrán hitelből",
-          "url": "https://index.hu/kulfold/2026/11/26/europai-unio-europai-tanacs-eu-csucs-mff-ukrajna-doorstep/"
-        }
-      ]
-    },
-    {
-      "cim": "Januártól életbe lép Józsefváros Airbnb-szabályozása",
-      "lead": "Három szintű szabályozást fogadott el az önkormányzat, az új szálláshely létesítéséhez a társasházi tulajdonosközösség hozzájárulása is kell majd.",
-      "forrasok": [
-        {
-          "nev": "444",
-          "cim": "Januártól életbe lép Józsefváros Airbnb-szabályozása",
-          "url": "https://444.hu/2026/11/26/januartol-eletbe-lep-jozsefvaros-airbnb-szabalyozasa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "Index",
-          "cim": "Vége a korlátlan airbnb-zésnek Józsefvárosban, 2027-től szigorú szabályok lépnek életbe",
-          "url": "https://index.hu/belfold/2026/11/26/jozsefvaros-viii-kerulet-piko-andras-airbnb-szabalyozas/"
-        }
-      ]
-    },
-    {
-      "cim": "Havazás: súlyos a helyzet Budapesten - Egy teljes városrészben bénult meg a tömegközlekedés",
-      "lead": "A fővárost érintő intenzív havazás miatt nem tud közlekedni több buszjárat a budai oldalon - közölte Karácsony Gergely csütörtökön Budapesten, más témában tartott sajtótájékoztatón.",
-      "forrasok": [
-        {
-          "nev": "Portfolio",
-          "cim": "Havazás: súlyos a helyzet Budapesten - Egy teljes városrészben bénult meg a tömegközlekedés",
-          "url": "https://www.portfolio.hu/global/20261126/havazas-sulyos-a-helyzet-budapesten-egy-teljes-varosreszben-benult-meg-a-tomegkozlekedes-879416"
-        },
-        {
-          "nev": "444",
-          "cim": "A budapestieknek elfelejtettek szólni az intenzív havazásról",
-          "url": "https://444.hu/2026/11/26/a-budapestieknek-elfelejtettek-szolni-az-intenziv-havazasrol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        }
-      ]
-    },
-    {
-      "cim": "Megszólalt Vitézy Dávid a súlyos vasúti baleset után, ötmillió forint gyorssegélyt ajánlott fel a MÁV a sebesült fiatal családjának",
-      "lead": "Kritikus, életveszélyes állapotban ápolják a kórházban azt a 20 éves egyetemista lányt, akit kedd este több száz méteren át vonszolt magával egy vonat Mezőkövesdnél, miután a szerelvény ajtaja becsípte a táskáját. A tragédia miatt a MÁV ötmillió forintos gyorssegélyt folyósít a családnak, a történtek tisztázása…",
-      "forrasok": [
-        {
-          "nev": "Portfolio",
-          "cim": "Megszólalt Vitézy Dávid a súlyos vasúti baleset után, ötmillió forint gyorssegélyt ajánlott fel a MÁV a sebesült fiatal családjának",
-          "url": "https://www.portfolio.hu/gazdasag/20261126/megszolalt-vitezy-david-a-sulyos-vasuti-baleset-utan-otmillio-forint-gyorssegelyt-ajanlott-fel-a-mav-a-sebesult-fiatal-csaladjanak-879396"
-        },
-        {
-          "nev": "444",
-          "cim": "5 millió forint gyorssegélyt biztosít a MÁV a mezőkövesdi vasúti baleset sértültjének és családjának",
-          "url": "https://444.hu/2026/11/26/5-millio-forint-gyorssegelyt-biztosit-a-mav-a-mezokovesdi-vasuti-baleset-sertultjenek-es-csaladjanak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        }
-      ]
-    },
-    {
-      "cim": "Mintegy 90 milliárd forintnyi kötelezettség robbanhat rá a szökésben lévő Matolcsy Ádám és társa cégére",
-      "lead": "Megbénulhatnak a több hete szökésben lévő Matolcsy Ádám és Stofa György milliárdos cégbirodalmai, mivel távollétükben senki sem járhat el hivatalosan a vállalatok ügyeiben. A két üzletember egyedüli tulajdonosként és ügyvezetőként irányítja érdekeltségeit, így elakadt a számlák, a közterhek és a bérek kifizetése…",
-      "forrasok": [
-        {
-          "nev": "Portfolio",
-          "cim": "Mintegy 90 milliárd forintnyi kötelezettség robbanhat rá a szökésben lévő Matolcsy Ádám és társa cégére",
-          "url": "https://www.portfolio.hu/gazdasag/20261126/mintegy-90-milliard-forintnyi-kotelezettseg-robbanhat-ra-a-szokesben-levo-matolcsy-adam-es-tarsa-cegere-879398"
-        },
-        {
-          "nev": "444",
-          "cim": "Megbénulhatnak Matolcsy Ádámék milliárdos cégei",
-          "url": "https://444.hu/2026/11/26/megbenulhatnak-matolcsy-adamek-milliardos-cegei?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        }
-      ]
-    },
-    {
-      "cim": "Július után újra van alpolgármestere a XII. kerületnek",
-      "lead": "Kovács Gergely két alpolgármestere is lemondott idén, a hónapok óta betöltetlen posztra most a kutyapártos Pásztor Tibort választotta meg a képviselő-testület.",
-      "forrasok": [
-        {
-          "nev": "444",
-          "cim": "Július után újra van alpolgármestere a XII. kerületnek",
-          "url": "https://444.hu/2026/11/26/julius-utan-ujra-van-alpolgarmestere-a-xii-keruletnek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        },
-        {
-          "nev": "Index",
-          "cim": "Újra van alpolgármestere a XII. kerületnek",
-          "url": "https://index.hu/belfold/2026/11/26/pasztor-tibor-kovacs-gergely-xii.-kerulet-alpolgarmester/"
-        }
-      ]
-    },
-    {
-      "cim": "Meghalt Simai Mihály József Attila-díjas költő",
-      "lead": "Legutóbbi kötete, a Végtelenkezdet tavaly jelent meg.",
-      "forrasok": [
-        {
-          "nev": "Index",
-          "cim": "Meghalt Simai Mihály József Attila-díjas költő",
-          "url": "https://index.hu/kultur/2026/11/26/meghalt-simai-mihaly-kolto-szeged-halalhir/"
+          "nev": "Telex",
+          "cim": "Továbbra is válságos állapotban van a mezőkövesdi vonatbaleset sérültje",
+          "url": "https://telex.hu/belfold/2026/11/27/tovabbra-is-valsagos-allapotban-van-a-mezokovesdi-vonatbaleset-serultje"
         },
         {
           "nev": "HVG",
-          "cim": "Elhunyt Simai Mihály József Attila-díjas költő",
-          "url": "https://hvg.hu/kultura/20261126_elhunyt-simai-mihaly-jozsef-attila-dijas-kolto"
+          "cim": "Válságos a mezőkövesdi vonatbalesetben megsérült lány állapota",
+          "url": "https://hvg.hu/itthon/20261127_valsagos-a-mezokovesdi-vonatbalesetben-megserult-lany-allapota"
+        },
+        {
+          "nev": "444",
+          "cim": "Válságos a mezőkövesdi vonatbalesetben megsérült lány állapota",
+          "url": "https://444.hu/2026/11/27/valsagos-a-mezokovesdi-vonatbalesetben-megserult-lany-allapota?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        }
+      ]
+    },
+    {
+      "cim": "Julija Navalnaja levelet írt Magyar Péternek, hogy segítsen be egy orosz miniszter szankcionálásába",
+      "lead": "Szijjártó Péter még ki is tüntette Gyenyisz Manturovot, az előző kormány nem támogatta a szankciókat ellene.",
+      "forrasok": [
+        {
+          "nev": "Telex",
+          "cim": "Julija Navalnaja levelet írt Magyar Péternek, hogy segítsen be egy orosz miniszter szankcionálásába",
+          "url": "https://telex.hu/kulfold/2026/11/27/julija-navalnaja-levele-magyar-peternek-orosz-gyenyisz-manturov-elleni-szankciok"
+        },
+        {
+          "nev": "Index",
+          "cim": "Levelet írt Magyar Péternek Julija Navalnaja, Alekszej Navalnij özvegye",
+          "url": "https://index.hu/kulfold/2026/11/27/julija-navalnaja-magyar-peter-level-orosz-ukren-konfliktus-szankcio-veto/"
+        }
+      ]
+    },
+    {
+      "cim": "Siófok polgármestere nekiállt leflexelni egy Balaton-partot lezáró kerítést",
+      "lead": "Egy tiszás képviselő is részt vett a nagy kerítésbontásban, egy 2025-ös kormányrendeletre és a helyi testület döntésére hivatkozva.",
+      "forrasok": [
+        {
+          "nev": "Telex",
+          "cim": "Siófok polgármestere nekiállt leflexelni egy Balaton-partot lezáró kerítést",
+          "url": "https://telex.hu/belfold/2026/11/27/lengyel-robert-siofoki-polgarmester-keritest-flexelt-a-balaton-parton"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Flexszel nyitotta meg a Balaton-partot Siófokon a polgármester és egy országgyűlési képviselő",
+          "url": "https://hvg.hu/itthon/20261127_balaton-part-siofok-setany-kerites-bontas"
+        }
+      ]
+    },
+    {
+      "cim": "Nyilvános a közmédia auditja: eltűnt milliárdok, cenzúra, politikai irányítás",
+      "lead": "Négy hónapon át vizsgálták, mi folyt a kormányváltás előtt a közmédiában. Sok-sok problémás ügyet találtak, milliárdos túlárazásokkal, fura szerződésekkel és manipulált hírgyárral. És persze a misztikus alakkal, aki a vezérigazgató felett szólt bele a működésbe.",
+      "forrasok": [
+        {
+          "nev": "Telex",
+          "cim": "Nyilvános a közmédia auditja: eltűnt milliárdok, cenzúra, politikai irányítás",
+          "url": "https://telex.hu/belfold/2026/11/27/kozmedia-mtva-mti-audit-tkkm-eredmeny"
+        },
+        {
+          "nev": "HVG",
+          "cim": "Elkészült a közmédia auditja: eltűnt milliárdok, manipulált hírek, hiányos leltár",
+          "url": "https://hvg.hu/itthon/20261127_elkeszult-a-kozmedia-auditja-eltunt-milliardok-manipulalt-hirek"
+        }
+      ]
+    },
+    {
+      "cim": "Amint lesz rá elég pénz, új trolivezetékek épülhetnek Józsefvárosban és Kőbányán",
+      "lead": "A Dunagép Szolgáltató Zrt. nyerte el a közbeszerzési eljárást, de csak akkor indulhat meg a munka, ha meglesz a pénz.",
+      "forrasok": [
+        {
+          "nev": "Telex",
+          "cim": "Amint lesz rá elég pénz, új trolivezetékek épülhetnek Józsefvárosban és Kőbányán",
+          "url": "https://telex.hu/belfold/2026/11/27/amint-lesz-ra-eleg-penz-uj-trolivezetekek-epulhetnek-jozsefvarosban-es-kobanyan"
+        },
+        {
+          "nev": "HVG",
+          "cim": "A kivitelező már megvan, ha pénz is lesz, épülhetnek az új trolivezetékek Budapesten",
+          "url": "https://hvg.hu/cegauto/20261127_trolik-valthatjak-fel-az-egyik-legfontosabb-budapesti-buszjaratot"
+        }
+      ]
+    },
+    {
+      "cim": "Republikon Intézet: Erősödött a Tisza, szakadék szélén a Fidesz",
+      "lead": "A novemberi pártpreferencia-mérés szerint a kormánypártnak egy teljesen arányos választási rendszerben is kétharmados többsége lehetne.",
+      "forrasok": [
+        {
+          "nev": "HVG",
+          "cim": "Republikon Intézet: Erősödött a Tisza, szakadék szélén a Fidesz",
+          "url": "https://hvg.hu/itthon/20261127_republikon-intezet-novemberi-partpreferencia-tisza-fidesz"
+        },
+        {
+          "nev": "Index",
+          "cim": "Republikon Intézet: tovább nőtt a Tisza előnye, a Fidesz már",
+          "url": "https://index.hu/belfold/2026/11/27/republikon-intezet-felmeres-tisza-part-fidesz-korrupcio-mi-hazank-mozgalom/"
+        }
+      ]
+    },
+    {
+      "cim": "Zelenszkij arról, hogy Trump a barátjának nevezte Putyint: Mintha valaki a II. világháború idején azt mondta volna, hogy Hitler a barátom",
+      "lead": "Az ukrán elnök úgy véli, természetesen az amerikai elnök döntése, hogy kit tart barátjának, de szerinte „furcsa barátság” ez az orosz államfővel.",
+      "forrasok": [
+        {
+          "nev": "HVG",
+          "cim": "Zelenszkij arról, hogy Trump a barátjának nevezte Putyint: Mintha valaki a II. világháború idején azt mondta volna, hogy Hitler a barátom",
+          "url": "https://hvg.hu/vilag/20261127_volodimir-zelenszkij-donald-trump-vlagyimir-putyin-baratsag-ukrajna-haboru"
+        },
+        {
+          "nev": "Telex",
+          "cim": "Trump veje méltatta Putyint, hogy nem használt atomfegyvert",
+          "url": "https://telex.hu/kulfold/2026/11/27/kushner-putyin-meltatas-visszafogottsag"
         }
       ]
     }
   ],
   "nemzetkozi": [
     {
-      "cim": "Palestinian journalist killed by Israel in Gaza wins Rory Peck prize",
-      "lead": "Mariam Dagga shares award with two of her colleagues from AP for ‘powerful coverage’ of human cost of war Mariam Dagga, the Palestinian war correspondent who was killed at the age of 33 in Gaza in an Israeli strike, has posthumously won the prestigious Rory Peck prize for freelance video journalists, the organisers…",
+      "cim": "Two Italians Killed in Iranian Drone Attack on Kuwait, Officials Say",
+      "lead": "The deaths follow a series of strikes on Gulf Arab states that host U.S. military facilities in recent weeks as talks to end the war continue to stall.",
       "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Palestinian journalist killed by Israel in Gaza wins Rory Peck prize",
-          "url": "https://www.theguardian.com/media/2026/nov/25/palestinian-journalist-killed-by-israel-in-gaza-wins-rory-peck-prize"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "Israeli attacks on Gaza kill senior education official, eight other people",
-          "url": "https://www.aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people?traffic_source=rss"
-        },
-        {
-          "nev": "BBC",
-          "cim": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
-          "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Crew member dies after diesel tanker sinks off Ibiza coast",
-      "lead": "Authorities rescued 17 crew members but one later died in hospital after a diesel tanker sank off the Spanish island of Ibiza. A contingency plan against possible pollution damage is now in place.",
-      "forrasok": [
-        {
-          "nev": "Deutsche Welle",
-          "cim": "Crew member dies after diesel tanker sinks off Ibiza coast",
-          "url": "https://www.dw.com/en/crew-member-dies-after-diesel-tanker-sinks-off-ibiza-coast/a-80059054?maca=en-rss-en-world-4025-rdf"
-        },
-        {
-          "nev": "BBC",
-          "cim": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
-          "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
-      "lead": "Latest figures show difference between number of people arriving and leaving UK was ⁠77,000 in ​year ‌to ‌June UK politics live – latest updates Net migration across the UK has fallen to its lowest level since 1997 with the exclusion of the years of the Covid pandemic. Figures released by the Office for National…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
-          "url": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic"
-        },
         {
           "nev": "New York Times",
-          "cim": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic",
-          "url": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html"
-        }
-      ]
-    },
-    {
-      "cim": "Seven injured, four critically, after Bangkok oil refinery explosion",
-      "lead": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
-      "forrasok": [
-        {
-          "nev": "BBC",
-          "cim": "Seven injured, four critically, after Bangkok oil refinery explosion",
-          "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss"
+          "cim": "Two Italians Killed in Iranian Drone Attack on Kuwait, Officials Say",
+          "url": "https://www.nytimes.com/2026/11/26/world/middleeast/italians-killed-iran-drone-attack-kuwait.html"
         },
         {
           "nev": "Al Jazeera",
-          "cim": "Explosion rocks Bangkok oil depot",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/explosion-rocks-bangkok-oil-depot?traffic_source=rss"
+          "cim": "Italians killed in Kuwait: Why is Iran denying responsibility?",
+          "url": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "Russia-Ukraine war extends to the Baltic and the Mediterranean",
-      "lead": "By attacking Russian vessels around the world, Kyiv is trying to up the pressure on Moscow and also sending out signals to its Western allies. What is the impact on global maritime trade?",
+      "cim": "Grace Tame calls out ex-Murdoch media executive who said she ‘must be looking to be raped again’",
+      "lead": "Matt Handbury, nephew of Rupert Murdoch, admits making offensive remark and says he was referencing assault survivor’s ‘strikingly attractive get-up’ Get our breaking news email , free app or daily news podcast A former Murdoch media executive has admitted he said Grace Tame “must be looking to be raped again” at an…",
       "forrasok": [
         {
-          "nev": "Deutsche Welle",
-          "cim": "Russia-Ukraine war extends to the Baltic and the Mediterranean",
-          "url": "https://www.dw.com/en/russia-ukraine-war-extends-to-the-baltic-and-the-mediterranean/a-80054604?maca=en-rss-en-world-4025-rdf"
+          "nev": "The Guardian",
+          "cim": "Grace Tame calls out ex-Murdoch media executive who said she ‘must be looking to be raped again’",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/27/grace-tame-responds-former-murdoch-executive-nephew-rape-comment-ntwnfb"
         },
         {
-          "nev": "Al Jazeera",
-          "cim": "Ukraine drone attack kills five in Russian-occupied Zaporizhia",
-          "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss"
+          "nev": "BBC",
+          "cim": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
+          "url": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "cim": "Deadly fire erupts near Cairo killing dozens of people",
-      "lead": "At least 31 people have died in a large fire on a busy highway in Cairo, after a fuel tanker overturned, says Egypt's health ministry.",
+      "cim": "What Spain’s election means for Morocco",
+      "lead": "The vote could reshape diplomatic relations, but shared strategic interests will continue to bind the two countries.",
+      "forrasok": [
+        {
+          "nev": "Al Jazeera",
+          "cim": "What Spain’s election means for Morocco",
+          "url": "https://www.aljazeera.com/opinions/2026/11/27/what-spains-election-means-for-morocco?traffic_source=rss"
+        },
+        {
+          "nev": "BBC",
+          "cim": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
+          "url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Erin Patterson launches high court appeal bid over mushroom murder convictions",
+      "lead": "Patterson, 52, seeks leave to appeal to Australia’s highest court over deaths of estranged family members after fatal beef wellington lunch Get our breaking news email , free app or daily news podcast Erin Patterson has applied to the high court seeking leave to appeal after a failed bid last month to overturn her…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Erin Patterson launches high court appeal bid over mushroom murder convictions",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/27/erin-patterson-launches-high-court-appeal-over-mushroom-convictions-ntwnfb"
+        },
+        {
+          "nev": "BBC",
+          "cim": "Mushroom murderer Erin Patterson launches last-ditch High Court appeal",
+          "url": "https://www.bbc.co.uk/news/articles/ck053e1d3ly1o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Department for Work and Pensions takes services offline after ‘cyber incident’ – UK politics live",
+      "lead": "The department is working with cyber security experts to restore services and limit disruption Tell us: have you been affected by the DWP ‘cyber incident’ According to Downdetector , which tracks online service outages, reports of problems with the government website appeared to begin last night and peaked at about…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Department for Work and Pensions takes services offline after ‘cyber incident’ – UK politics live",
+          "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates"
+        }
+      ]
+    },
+    {
+      "cim": "Thanksgiving meal in Florida leads to ‘mass casualty’ food poisoning incident",
+      "lead": "Local media reported that 18 people fell ill after attending a Thanksgiving lunch at a medical center headquarters A Thanksgiving meal in Florida triggered a bout of food poisoning so bad that local emergency officials said it was a “mass casualty” event as numerous stricken diners were sent to hospital. Local media…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Thanksgiving meal in Florida leads to ‘mass casualty’ food poisoning incident",
+          "url": "https://www.theguardian.com/us-news/2026/nov/27/thanksgiving-meal-florida-mass-casualty-food-poisoning"
+        }
+      ]
+    },
+    {
+      "cim": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – Europe live",
+      "lead": "‘I can’t conceive of us losing,’ the leader said Freelance journalist based in Madrid and host of the Sobremesa podcast Vox has often been portrayed in international coverage as a party of Franco nostalgists whose ultraconservative Catholicism and civil-war rhetoric towards the separatist Catalan “enemy within”…",
+      "forrasok": [
+        {
+          "nev": "The Guardian",
+          "cim": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates"
+        }
+      ]
+    },
+    {
+      "cim": "Rare turtles found inside baggage at Amsterdam airport",
+      "lead": "The endangered reptiles were bound with duct tape to prevent them moving, officials say.",
       "forrasok": [
         {
           "nev": "BBC",
-          "cim": "Deadly fire erupts near Cairo killing dozens of people",
-          "url": "https://www.bbc.co.uk/news/videos/c52e8ndplvemo?at_medium=RSS&at_campaign=rss"
-        },
+          "cim": "Rare turtles found inside baggage at Amsterdam airport",
+          "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cim": "Puma Shen, Critic of China, Could be the Next Mayor of Taipei",
+      "lead": "Puma Shen, who has been sanctioned by China for his efforts to prepare civilians for an invasion, could become Taiwan’s next political star if he wins.",
+      "forrasok": [
         {
           "nev": "New York Times",
-          "cim": "Road Fire Near Cairo Kills Dozens After Petroleum-Laden Truck Crashes",
-          "url": "https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html"
+          "cim": "Puma Shen, Critic of China, Could be the Next Mayor of Taipei",
+          "url": "https://www.nytimes.com/2026/11/27/world/asia/puma-shen-taiwan-election-china.html"
         }
       ]
     },
     {
-      "cim": "North Korea expels Swiss diplomat in sanctions row",
-      "lead": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
-      "forrasok": [
-        {
-          "nev": "BBC",
-          "cim": "North Korea expels Swiss diplomat in sanctions row",
-          "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "nev": "Al Jazeera",
-          "cim": "Why has North Korea expelled a Swiss diplomat from Pyongyang?",
-          "url": "https://www.aljazeera.com/news/2026/11/26/why-has-north-korea-expelled-a-swiss-diplomat-from-pyongyang?traffic_source=rss"
-        }
-      ]
-    },
-    {
-      "cim": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
-      "lead": "Blaze on ring road surrounding Egyptian capital injures at least 21 people and leaves cars and motorcycles charred A crash involving a fuel tanker ignited a huge fire on a highway surrounding Cairo on Wednesday, killing at least 31 people, Egyptian authorities said. The blaze on the ring road, a key artery that…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
-          "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway"
-        },
-        {
-          "nev": "BBC",
-          "cim": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-          "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "cim": "Inside Liberland, the crypto ‘country’ few have heard of",
-      "lead": "Al Jazeera's Antoine Allen reports on a group of people trying to build a tax-free nation.",
+      "cim": "Why did Georgian police clash with Turkish football fans over Palestine?",
+      "lead": "Georgia's Interior Ministry says 16 people were detained and three employees injured during clashes.",
       "forrasok": [
         {
           "nev": "Al Jazeera",
-          "cim": "Inside Liberland, the crypto ‘country’ few have heard of",
-          "url": "https://www.aljazeera.com/news/2026/11/26/inside-liberland-the-crypto-country-few-have-heard-of?traffic_source=rss"
+          "cim": "Why did Georgian police clash with Turkish football fans over Palestine?",
+          "url": "https://www.aljazeera.com/sports/2026/11/27/why-did-georgian-police-clash-with-turkish-football-fans-over-palestine?traffic_source=rss"
         }
       ]
     },
     {
-      "cim": "Number of Neets in UK falls below a million as Burnham pushes to tackle crisis",
-      "lead": "Latest figure of young people not in education, employment or training remains close to highest level in a decade Business live – latest updates UK politics live – latest updates The number of young people across the UK not in education, employment or training (Neet) has decreased but remains close to a million as…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Number of Neets in UK falls below a million as Burnham pushes to tackle crisis",
-          "url": "https://www.theguardian.com/society/2026/nov/26/neets-uk-young-people-education-employment-training-andy-burnham"
-        }
-      ]
-    },
-    {
-      "cim": "Ministers have ‘failed to make the case’ for Heathrow third runway, MPs says",
-      "lead": "Transport committee says policy papers show expanding airport would fall short of pledges on economy and climate Ministers have “failed to make the case” for a third runway at Heathrow , according to a damning report by MPs. The Commons transport committee said on Thursday that the detailed policy papers laid out by…",
-      "forrasok": [
-        {
-          "nev": "The Guardian",
-          "cim": "Ministers have ‘failed to make the case’ for Heathrow third runway, MPs says",
-          "url": "https://www.theguardian.com/environment/2026/nov/26/ministers-fail-to-make-case-for-heathrow-third-runway-mps-report-says"
-        }
-      ]
-    },
-    {
-      "cim": "EU-Indonesia trade deal opens new markets, but challenges remain",
-      "lead": "The agreement eyes new export and investment opportunities for Jakarta and Brussels. But can Indonesia turn Europe's growing interest in its markets and critical minerals into sustainable gains at home?",
+      "cim": "The Gambia election: Can Barrow secure a third term?",
+      "lead": "President Adama Barrow is seeking a third term as Gambians vote on December 5. The election will test the opposition's appeal and the country's progress on democratic reform.",
       "forrasok": [
         {
           "nev": "Deutsche Welle",
-          "cim": "EU-Indonesia trade deal opens new markets, but challenges remain",
-          "url": "https://www.dw.com/en/eu-indonesia-trade-deal-opens-new-markets-but-challenges-remain/a-80059568?maca=en-rss-en-world-4025-rdf"
+          "cim": "The Gambia election: Can Barrow secure a third term?",
+          "url": "https://www.dw.com/en/the-gambia-election-can-barrow-secure-a-third-term/a-80076340?maca=en-rss-en-world-4025-rdf"
+        }
+      ]
+    },
+    {
+      "cim": "Eisenkot navigates tricky waters as he tests power-sharing with Netanyahu",
+      "lead": "Some of his allies are calling for such an arrangement, but it would represent a betrayal of his pre-election promise.",
+      "forrasok": [
+        {
+          "nev": "Al Jazeera",
+          "cim": "Eisenkot navigates tricky waters as he tests power-sharing with Netanyahu",
+          "url": "https://www.aljazeera.com/news/2026/11/27/eisenkot-navigates-tricky-waters-as-he-tests-power-sharing-with-netanyahu?traffic_source=rss"
         }
       ]
     }
